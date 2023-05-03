@@ -4396,3 +4396,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.03-11.36.23:811][554]LogEditorTransaction: Undo Scale Elements
 [2023.05.03-11.36.58:748][604]Cmd: TRANSACTION UNDO
 [2023.05.03-11.36.58:748][604]LogEditorTransaction: Undo Move Elements
+[2023.05.03-11.43.53:525][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.05.03-11.43.53:534][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/attic_migration" FILE="D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/attic_migration_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.05.03-11.43.54:948][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/attic_migration_Auto7
+[2023.05.03-11.43.54:948][220]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/attic_migration_Auto7253CFFF7407A4C540C0879A84E579145.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/attic_migration_Auto7.umap'
+[2023.05.03-11.43.54:963][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/attic_migration' took 1.457
+[2023.05.03-11.43.54:963][220]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.457
+[2023.05.03-11.43.54:963][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Amy/Textures/Brick_and_Concrete/M_Wood_01_Inst] ([1] browsable assets)...
+[2023.05.03-11.43.54:963][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Textures/Brick_and_Concrete/M_Wood_01_Inst]
+[2023.05.03-11.43.54:971][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Textures/Brick_and_Concrete/M_Wood_01_Inst_Auto7
+[2023.05.03-11.43.54:971][220]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/M_Wood_01_Inst_Auto7CB2E702344EE31FDB11331A9D350F534.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Textures/Brick_and_Concrete/M_Wood_01_Inst_Auto7.uasset'
+[2023.05.03-11.43.54:973][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/M4/Tashan/Assets/mat_blend_Inst2] ([1] browsable assets)...
+[2023.05.03-11.43.54:973][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/M4/Tashan/Assets/mat_blend_Inst2]
+[2023.05.03-11.43.54:979][220]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/M4/Tashan/Assets/mat_blend_Inst2_Auto7
+[2023.05.03-11.43.54:979][220]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/mat_blend_Inst2_Auto7C84E1D864B1DA3D43F15658AC42BF737.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/M4/Tashan/Assets/mat_blend_Inst2_Auto7.uasset'
+[2023.05.03-11.43.54:982][220]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.05.03-12.03.40:105][776]LogDerivedDataCache: C:/Users/charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.037 and deleted 0 files with total size 0 MiB. Scanned 14835 files in 14434 folders with total size 3806 MiB.
