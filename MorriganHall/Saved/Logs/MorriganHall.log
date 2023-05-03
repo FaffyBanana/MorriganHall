@@ -1100,3 +1100,423 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.03-10.02.40:660][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2023.05.03-10.02.40:670][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2023.05.03-10.02.40:681][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.05.03-10.03.37:877][731]LogDerivedDataCache: C:/Users/charl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.811 and deleted 0 files with total size 0 MiB. Scanned 13856 files in 13520 folders with total size 3628 MiB.
+[2023.05.03-10.05.44:812][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.03-10.05.47:142][183]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.03-10.05.47:196][183]LogUObjectGlobals: Force Deleting 11 Package(s):
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor.notexture_doublebass_low_lambert1_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal.notexture_doublebass_low_lambert1_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert2_BaseColor.notexture_doublebass_low_lambert2_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert2_Normal.notexture_doublebass_low_lambert2_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert2_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert2_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert3_BaseColor.notexture_doublebass_low_lambert3_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert3_Normal.notexture_doublebass_low_lambert3_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert3_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert3_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert4_Normal.notexture_doublebass_low_lambert4_Normal
+	Asset Type: Texture2D
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: Total job queries 203, among them cache hits 14 (6.90%)
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: Tracking 189 distinct input hashes that result in 125 distinct outputs (66.14%)
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: RAM used: 1.56 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.19%
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.03-10.05.47:523][183]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.05.48:411][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.03-10.05.48:421][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.03-10.05.48:429][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.05.03-10.07.54:783][640]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.07.54:852][641]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.07.55:158][642]LogTexture: Display: Building textures: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 2048x2048 x1x1x4) (Required Memory Estimate: 234.729165 MB), EncodeSpeed: Fast
+[2023.05.03-10.07.55:498][643]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.07.55:513][643]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.07.58:497][653]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+[2023.05.03-10.07.58:768][653]LogViewport: Scene viewport resized to 1330x361, mode Windowed.
+[2023.05.03-10.08.10:027][755]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.08.10:201][756]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.08.10:436][757]LogTexture: Display: Building textures: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor.notexture_doublebass_low_lambert1_BaseColor (TFO_AutoDXT VT, 2048x2048 x1x1x4) (Required Memory Estimate: 234.729165 MB), EncodeSpeed: Fast
+[2023.05.03-10.08.10:774][758]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.08.10:795][758]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.08.15:904][780]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.08.16:061][781]LogInterchangeEngine: [Pending] Importing
+[2023.05.03-10.08.16:324][782]LogTexture: Display: Building textures: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal.notexture_doublebass_low_lambert1_Normal (TFO_AutoDXT VT, 2048x2048 x1x1x4) (Required Memory Estimate: 234.729165 MB), EncodeSpeed: Fast
+[2023.05.03-10.08.16:652][783]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.08.16:664][783]LogInterchangeEngine: [Success] Import Done
+[2023.05.03-10.08.16:955][783]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.040 s
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: 
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: Ensure condition failed: bSRGB == TextureOwner->SRGB  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Texture2D.cpp] [Line: 1476] 
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: 
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: Stack: 
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffbe4934401 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffbe4932562 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4b127c UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2b4f58a6 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2b5031ba UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2899257d UnrealEditor-Core.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc28992ace UnrealEditor-Core.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2b51f0f4 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc2b523444 UnrealEditor-RenderCore.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc290b3a52 UnrealEditor-Core.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc290ab860 UnrealEditor-Core.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc8d81269d KERNEL32.DLL!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: [Callstack] 0x00007ffc8ecca9f8 ntdll.dll!UnknownFunction []
+[2023.05.03-10.08.16:955][783]LogOutputDevice: Error: 
+[2023.05.03-10.08.17:244][783]LogStats:                SubmitErrorReport -  0.000 s
+[2023.05.03-10.08.20:018][783]LogStats:                    SendNewReport -  2.774 s
+[2023.05.03-10.08.20:019][783]LogStats:             FDebug::EnsureFailed -  3.104 s
+[2023.05.03-10.08.20:027][783]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.05.03-10.08.20:042][783]LogTexture: Display: Building textures: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal.notexture_doublebass_low_lambert1_Normal (TFO_BC5 VT, 2048x2048 x1x1x4) (Required Memory Estimate: 234.729165 MB), EncodeSpeed: Fast
+[2023.05.03-10.08.25:017][842]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Amy/Textures/M_Doublebase.M_Doublebase
+[2023.05.03-10.08.25:023][842]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.25:044][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.08.25:430][842]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.25:439][842]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.25:499][842]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.05.03-10.08.25:514][842]LogSlate: Took 0.001006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.03-10.08.25:519][842]LogViewport: Scene viewport resized to 350x180, mode Windowed.
+[2023.05.03-10.08.31:071][912]LogViewport: Scene viewport resized to 500x657, mode Windowed.
+[2023.05.03-10.08.35:430][966]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.35:444][966]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.35:460][966]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.08.45:993][121]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.09.04:204][391]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.09.04:308][393]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Total job queries 231, among them cache hits 26 (11.26%)
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Tracking 205 distinct input hashes that result in 134 distinct outputs (65.37%)
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: RAM used: 1.66 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Shaders Compiled: 6
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100.00%)
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 1.88 s
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Job life time (pending + execution): average 1.95 s, max 1.96
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.96 s
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Average processing rate: 3.06 jobs/sec
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Total thread time: 6.05 s
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Total thread preprocess time: 0.37 s
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Percentage time preprocessing: 6.16%
+[2023.05.03-10.09.04:309][393]LogShaderCompilers: Display: Effective parallelization: 3.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.02 sec, max 1.04 sec, min 1.01 sec)
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.00 sec, max 1.01 sec, min 0.98 sec)
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 50.58% of total time (compiled    3 times, average 1.02 sec, max 1.04 sec, min 1.01 sec)
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 49.42% of total time (compiled    3 times, average 1.00 sec, max 1.01 sec, min 0.98 sec)
+[2023.05.03-10.09.04:310][393]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.09.07:218][428]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.03-10.09.09:050][443]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.09.09:050][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.09:050][443]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.09:050][443]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.09:051][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.09:051][443]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.09.10:886][461]MaterialEditorStats: Base pass shader: 310 instructions
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.10:887][461]MaterialEditorStats: Shader Count: 4
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.13:426][486]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.14:329][502]MaterialEditorStats: Shader Count: 1
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.14:597][506]MaterialEditorStats: Shader Count: 3
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Base pass shader: 313 instructions
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.14:664][507]MaterialEditorStats: Shader Count: 4
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.30:201][736]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.09.31:141][746]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.03-10.09.31:142][746]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.31:142][746]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.31:142][746]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.31:142][746]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.31:142][746]MaterialEditorStats: Shader Count: 1
+[2023.05.03-10.09.31:333][748]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.31:334][748]MaterialEditorStats: Shader Count: 3
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.31:431][749]MaterialEditorStats: Shader Count: 4
+[2023.05.03-10.09.31:566][750]LogMaterialEditor: Saving and Compiling material M_Doublebase
+[2023.05.03-10.09.32:600][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.03-10.09.33:706][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.03-10.09.33:837][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-10.09.35:980][750]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.05.03-10.09.38:653][750]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049490s
+[2023.05.03-10.09.38:658][750]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.050000s (0.053105s overbudget)
+[2023.05.03-10.09.38:707][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Amy/Textures/M_Doublebase" FILE="D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset" SILENT=true
+[2023.05.03-10.09.38:717][750]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.007977 seconds
+[2023.05.03-10.09.38:720][750]LogSerialization: UsePackageTrailer: 'true'
+[2023.05.03-10.09.38:790][750]LogSavePackage: Moving output files for package: /Game/Assets/Amy/Textures/M_Doublebase
+[2023.05.03-10.09.38:792][750]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/M_Doublebase2CE61DF34BD967374C749EB316810148.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset'
+[2023.05.03-10.09.38:853][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.01 sec
+[2023.05.03-10.09.38:857][750]AssetCheck: New page: Asset Save: M_Doublebase
+[2023.05.03-10.09.38:857][750]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Amy/Textures/M_Doublebase.M_Doublebase
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.38:860][750]MaterialEditorStats: Shader Count: 20
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.40:512][756]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.40:614][758]MaterialEditorStats: Shader Count: 5
+[2023.05.03-10.09.47:260][857]LogViewport: Scene viewport resized to 1895x1315, mode Windowed.
+[2023.05.03-10.09.52:863][946]LogMaterial: Warning: [AssetLog] D:\GroupMorriganHall\MorriganHall\MorriganHall\Content\Assets\Amy\Textures\M_Doublebase.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+
+[2023.05.03-10.09.52:866][946]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+
+[2023.05.03-10.09.52:889][946]LogTexture: Display: Building textures: /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 2048x2048 x1x1x4) (Required Memory Estimate: 234.729165 MB), EncodeSpeed: Fast
+[2023.05.03-10.09.52:955][946]MaterialEditorStats: Error: [SM6] (Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+[2023.05.03-10.09.54:868][979]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+
+[2023.05.03-10.09.55:790][991]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Doublebase (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic
+
+[2023.05.03-10.09.56:957][  7]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.09.56:958][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.56:958][  7]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.56:958][  7]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.56:958][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.56:958][  7]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.58:151][ 28]MaterialEditorStats: Shader Count: 1
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.09.58:499][ 34]MaterialEditorStats: Shader Count: 3
+[2023.05.03-10.09.58:689][ 37]LogMaterialEditor: Saving and Compiling material M_Doublebase
+[2023.05.03-10.09.59:490][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.05.03-10.10.00:764][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.05.03-10.10.00:841][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-10.10.02:993][ 37]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.03-10.10.04:057][ 37]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004182s (1.065457s overbudget)
+[2023.05.03-10.10.04:095][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Amy/Textures/M_Doublebase" FILE="D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset" SILENT=true
+[2023.05.03-10.10.04:161][ 37]LogSavePackage: Moving output files for package: /Game/Assets/Amy/Textures/M_Doublebase
+[2023.05.03-10.10.04:164][ 37]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/M_DoublebaseDD0F195B498A5B958DB42DA631683637.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset'
+[2023.05.03-10.10.04:247][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.40 sec (total: 8.42 sec)
+[2023.05.03-10.10.04:252][ 37]AssetCheck: New page: Asset Save: M_Doublebase
+[2023.05.03-10.10.04:252][ 37]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Amy/Textures/M_Doublebase.M_Doublebase
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.10.04:254][ 37]MaterialEditorStats: Shader Count: 20
+[2023.05.03-10.10.15:927][293]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Amy/Textures/M_Doublebase_Inst.M_Doublebase_Inst
+[2023.05.03-10.10.15:931][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.03-10.10.16:248][293]LogViewport: Scene viewport resized to 1778x1321, mode Windowed.
+[2023.05.03-10.10.16:339][293]LogSlate: Took 0.002913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.10.31:146][599]MaterialEditorStats: Shader Count: 0
+[2023.05.03-10.10.32:401][617]LogMaterialEditor: Saving and Compiling material M_Doublebase
+[2023.05.03-10.10.33:286][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.03-10.10.34:342][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.05.03-10.10.34:370][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.03-10.10.36:465][617]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.03-10.10.37:102][617]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000084s (0.639448s overbudget)
+[2023.05.03-10.10.37:163][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Amy/Textures/M_Doublebase" FILE="D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset" SILENT=true
+[2023.05.03-10.10.37:203][617]LogSavePackage: Moving output files for package: /Game/Assets/Amy/Textures/M_Doublebase
+[2023.05.03-10.10.37:206][617]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/M_Doublebase25E53818479895D14A24939E09B13B81.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/M_Doublebase.uasset'
+[2023.05.03-10.10.37:235][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.86 sec (total: 11.2 sec)
+[2023.05.03-10.10.37:242][617]AssetCheck: New page: Asset Save: M_Doublebase
+[2023.05.03-10.10.37:242][617]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Amy/Textures/M_Doublebase.M_Doublebase
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Base pass shader: 341 instructions
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: MaxSampler: 407 instructions
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.03-10.10.37:244][617]MaterialEditorStats: Shader Count: 20
+[2023.05.03-10.11.59:200][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.03-10.11.59:202][498]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/attic_migration' took 0.015
+[2023.05.03-10.11.59:203][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.05.03-10.11.59:221][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic.notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic]
+[2023.05.03-10.11.59:221][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic]
+[2023.05.03-10.12.00:239][498]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic_Auto1
+[2023.05.03-10.12.00:239][498]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/notexture_doublebass_low_lambertDFD7A9CF40A7976FAF4BC5831A3D4D5A.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.05.03-10.12.00:242][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor] ([1] browsable assets)...
+[2023.05.03-10.12.00:246][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor.notexture_doublebass_low_lambert1_BaseColor]
+[2023.05.03-10.12.00:246][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor]
+[2023.05.03-10.12.01:194][498]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor_Auto1
+[2023.05.03-10.12.01:195][498]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/notexture_doublebass_low_lambert9A22B96849597C332B902B82ADA203D7.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_BaseColor_Auto1.uasset'
+[2023.05.03-10.12.01:200][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal] ([1] browsable assets)...
+[2023.05.03-10.12.01:237][498]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal.notexture_doublebass_low_lambert1_Normal]
+[2023.05.03-10.12.01:237][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal]
+[2023.05.03-10.12.02:455][498]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal_Auto1
+[2023.05.03-10.12.02:456][498]LogSavePackage: Moving 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/notexture_doublebass_low_lambert9A6EE55E4AD39A39271D88B96F7334B8.tmp' to 'D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Textures/notexture_doublebass_low_lambert1_Normal_Auto1.uasset'
+[2023.05.03-10.12.02:469][498]LogFileHelpers: Auto-saving content packages took 3.256
+[2023.05.03-10.15.34:098][326]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\charl\Downloads\CG_Gramophone_combine_low_UE.fbx)
+[2023.05.03-10.15.34:146][326]LogFbx: Loading FBX Scene from C:\Users\charl\Downloads\CG_Gramophone_combine_low_UE.fbx
+[2023.05.03-10.15.34:304][326]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.03-10.15.36:620][326]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.03-10.15.36:887][326]LogFbx: Display: Triangulating static mesh Gramophone_low_combine_UE
+[2023.05.03-10.15.42:996][326]LogStaticMesh: Display: Building static mesh CG_Gramophone_combine_low_UE...
+[2023.05.03-10.15.45:251][326]LogStaticMesh: Built static mesh [2.26s] /Game/Assets/Amy/Textures/CG_Gramophone_combine_low_UE.CG_Gramophone_combine_low_UE
+[2023.05.03-10.15.45:597][326]LogStaticMesh: Warning: CG_Gramophone_combine_low_UE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.03-10.15.45:597][326]LogStaticMesh: Warning: CG_Gramophone_combine_low_UE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.03-10.15.46:008][326]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.03-10.15.46:009][326]FBXImport: Warning: CG_Gramophone_combine_low_UE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.03-10.15.46:009][326]FBXImport: Warning: CG_Gramophone_combine_low_UE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Total job queries 374, among them cache hits 90 (24.06%)
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Tracking 282 distinct input hashes that result in 169 distinct outputs (59.93%)
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: RAM used: 2.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.29%
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Shaders Compiled: 78
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Average time worker was idle: 10.69 s
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.31 s
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Job execution time: average 1.29 s, max 2.43 s
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 3.06
+[2023.05.03-10.15.49:436][411]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.03 s
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Average processing rate: 3.25 jobs/sec
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Total thread time: 81.13 s
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Total thread preprocess time: 4.01 s
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Percentage time preprocessing: 4.94%
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Effective parallelization: 3.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 2.03 sec, max 2.23 sec, min 1.92 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.89 sec, max 2.18 sec, min 1.69 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 1.41 sec, max 1.59 sec, min 1.31 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 1.09 sec, max 1.17 sec, min 1.00 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 1.06 sec, max 1.15 sec, min 0.96 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.67% of total time (compiled    5 times, average 1.89 sec, max 2.18 sec, min 1.69 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.57% of total time (compiled    9 times, average 1.04 sec, max 1.45 sec, min 0.82 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.71% of total time (compiled    9 times, average 0.97 sec, max 1.31 sec, min 0.72 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 7.52% of total time (compiled    3 times, average 2.03 sec, max 2.23 sec, min 1.92 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.29% of total time (compiled    5 times, average 0.86 sec, max 1.18 sec, min 0.66 sec)
+[2023.05.03-10.15.49:437][411]LogShaderCompilers: Display: ================================================
+[2023.05.03-10.16.00:060][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.03-10.16.01:029][682]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.03-10.16.01:080][682]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Amy/Textures/lambert1.lambert1
+	Asset Type: Material
+[2023.05.03-10.16.01:297][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.05.03-10.16.01:307][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.05.03-10.16.01:317][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.05.03-10.16.12:237][777]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\charl\Downloads\JewelleryBox_low.fbx)
+[2023.05.03-10.16.12:250][777]LogFbx: Loading FBX Scene from C:\Users\charl\Downloads\JewelleryBox_low.fbx
+[2023.05.03-10.16.12:282][777]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.03-10.16.15:648][777]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.03-10.16.15:792][777]LogFbx: Display: Triangulating static mesh JewelleryBox:Bottom
+[2023.05.03-10.16.16:966][777]LogStaticMesh: Display: Building static mesh JewelleryBox_low_Bottom...
+[2023.05.03-10.16.17:466][777]LogStaticMesh: Built static mesh [0.50s] /Game/Assets/Amy/Textures/JewelleryBox_low_Bottom.JewelleryBox_low_Bottom
+[2023.05.03-10.16.17:623][777]LogFbx: Display: Triangulating static mesh JewelleryBox:Top
+[2023.05.03-10.16.18:641][777]LogStaticMesh: Display: Building static mesh JewelleryBox_low_Top...
+[2023.05.03-10.16.19:002][777]LogStaticMesh: Built static mesh [0.36s] /Game/Assets/Amy/Textures/JewelleryBox_low_Top.JewelleryBox_low_Top
+[2023.05.03-10.16.19:179][777]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.03-10.16.20:589][805]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-10.16.20:647][805]LogSlate: Window 'Message Log' being destroyed
+[2023.05.03-10.16.23:270][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.05.03-10.16.24:555][866]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.03-10.16.24:601][866]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Amy/Textures/lambert1.lambert1
+	Asset Type: Material
+[2023.05.03-10.16.24:796][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.03-10.16.24:808][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.03-10.16.24:819][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
