@@ -1343,3 +1343,1320 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.05-14.08.28:283][903]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_BaseColor.Fireplace_low_1007_BaseColor
 [2023.05.05-14.08.28:283][903]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_Normal.Fireplace_low_1007_Normal
 [2023.05.05-14.08.28:283][903]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic.Fireplace_low_1007_OcclusionRoughnessMetallic
+[2023.05.05-14.10.03:132][266]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.147 and deleted 0 files with total size 0 MiB. Scanned 8949 files in 8825 folders with total size 2664 MiB.
+[2023.05.05-14.14.20:188][798]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.05-14.14.20:196][798]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.05-14.14.20:205][799]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.05-14.14.29:439][906]LogContentBrowser: Attempting asset rename: NewMaterial -> MM_FireplaceTexture1
+[2023.05.05-14.14.29:440][906]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: Total job queries 88, among them cache hits 2 (2.27%)
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: Tracking 86 distinct input hashes that result in 76 distinct outputs (88.37%)
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: RAM used: 0.81 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.05-14.14.29:456][907]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.14.31:178][ 85]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.14.31:182][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.14.31:356][ 85]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.31:356][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.31:356][ 85]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.31:365][ 85]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.05-14.14.31:368][ 85]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.14.33:516][211]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.33:516][211]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.33:517][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.33:517][211]MaterialEditorStats: Shader Count: 3
+[2023.05.05-14.14.33:612][218]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.05-14.14.33:612][218]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.33:612][218]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.14.33:612][218]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.33:612][218]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.14.34:650][304]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.34:650][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.34:650][304]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.34:698][306]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.05-14.14.34:698][306]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.34:698][306]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.14.34:698][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.34:698][306]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.14.35:381][366]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.35:381][366]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.35:381][366]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.35:428][368]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.05-14.14.35:428][368]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.35:428][368]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.14.35:428][368]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.35:428][368]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.14.36:572][467]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.36:573][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.36:573][467]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.36:620][469]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.05-14.14.36:620][469]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.36:620][469]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.14.36:620][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.36:620][469]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.14.39:262][727]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.39:262][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.39:262][727]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.39:325][729]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.05.05-14.14.39:325][729]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.14.39:325][729]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.14.39:325][729]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.14.39:325][729]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.14.43:884][113]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2023.05.05-14.14.43:888][113]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2023.05.05-14.14.47:116][377]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.14.57:241][534]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.14.58:441][616]MaterialEditorStats: Shader Count: 3
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Base pass shader: 291 instructions
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.14.58:513][619]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.15.00:240][762]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.05-14.15.00:244][762]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.15.06:365][422]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Base pass shader: 317 instructions
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.15.07:733][520]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.15.09:151][644]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.05-14.15.09:155][644]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2023.05.05-14.15.10:427][755]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.05-14.15.12:226][909]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.15.17:538][453]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.15.18:325][498]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.15.18:326][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.15.18:326][498]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.15.18:326][498]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.15.18:326][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.15.18:326][498]MaterialEditorStats: Shader Count: 1
+[2023.05.05-14.15.18:575][513]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.15.19:029][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.05-14.15.19:873][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.15.19:883][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.21:957][513]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.05.05-14.15.22:700][513]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049936s
+[2023.05.05-14.15.22:712][513]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000073s (0.056640s overbudget)
+[2023.05.05-14.15.22:773][513]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.15.22:773][513]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture163504563453EC58E26565FA81849361F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.15.22:778][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.89 sec (total: 16.6 sec)
+[2023.05.05-14.15.22:780][513]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.15.22:780][513]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.15.22:782][513]MaterialEditorStats: Shader Count: 20
+[2023.05.05-14.15.29:628][705]LogSlate: Window 'MM_FireplaceTexture1' being destroyed
+[2023.05.05-14.15.29:642][705]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.15.29:642][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.15.31:311][890]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+[2023.05.05-14.15.31:410][890]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.15.33:706][153]LogMaterial: Warning: [AssetLog] E:\Game Projects\Morrigan Hall Github\MorriganHall\MorriganHall\Content\Assets\Aziz\Assets\Fireplace\MM_FireplaceTexture1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+
+[2023.05.05-14.15.33:707][153]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+
+[2023.05.05-14.15.33:882][166]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.15.35:062][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.35:270][288]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic
+[2023.05.05-14.15.35:271][288]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1001_OcclusionRoug1F404336495889338E7CC281ADB06AD7.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.15.35:280][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 16.9 sec)
+[2023.05.05-14.15.35:284][288]AssetCheck: New page: Asset Save: Fireplace_low_1001_OcclusionRoughnessMetallic
+[2023.05.05-14.15.35:284][288]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+[2023.05.05-14.15.35:791][344]LogSlate: Window 'Fireplace_low_1001_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.15.37:553][533]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1002_OcclusionRoughnessMetallic.Fireplace_low_1002_OcclusionRoughnessMetallic
+[2023.05.05-14.15.37:633][533]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.15.39:804][777]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1002_OcclusionRoughnessMetallic.Fireplace_low_1002_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.15.40:886][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.41:146][887]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1002_OcclusionRoughnessMetallic
+[2023.05.05-14.15.41:146][887]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1002_OcclusionRoug1D12FF3745BA034A3E15FBB3AC33876A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1002_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.15.41:157][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 17.1 sec)
+[2023.05.05-14.15.41:164][887]AssetCheck: New page: Asset Save: Fireplace_low_1002_OcclusionRoughnessMetallic
+[2023.05.05-14.15.41:164][887]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1002_OcclusionRoughnessMetallic.Fireplace_low_1002_OcclusionRoughnessMetallic
+[2023.05.05-14.15.41:648][941]LogSlate: Window 'Fireplace_low_1002_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.15.43:288][118]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic.Fireplace_low_1003_OcclusionRoughnessMetallic
+[2023.05.05-14.15.43:374][118]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.15.45:046][301]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic.Fireplace_low_1003_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.15.45:927][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.46:125][386]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic
+[2023.05.05-14.15.46:125][386]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1003_OcclusionRoug27FA69F34C71ACCD094C23A3C3E7CCE5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.15.46:135][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 17.3 sec)
+[2023.05.05-14.15.46:138][386]AssetCheck: New page: Asset Save: Fireplace_low_1003_OcclusionRoughnessMetallic
+[2023.05.05-14.15.46:138][386]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic.Fireplace_low_1003_OcclusionRoughnessMetallic
+[2023.05.05-14.15.46:745][453]LogSlate: Window 'Fireplace_low_1003_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.15.48:556][647]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_OcclusionRoughnessMetallic.Fireplace_low_1004_OcclusionRoughnessMetallic
+[2023.05.05-14.15.48:640][647]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.15.50:482][849]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_OcclusionRoughnessMetallic.Fireplace_low_1004_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.15.51:488][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.51:690][950]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_OcclusionRoughnessMetallic
+[2023.05.05-14.15.51:691][950]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1004_OcclusionRougB6EF2651431BDD7FE44BC9A43B7FDB11.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.15.51:701][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 17.6 sec)
+[2023.05.05-14.15.51:705][950]AssetCheck: New page: Asset Save: Fireplace_low_1004_OcclusionRoughnessMetallic
+[2023.05.05-14.15.51:705][950]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_OcclusionRoughnessMetallic.Fireplace_low_1004_OcclusionRoughnessMetallic
+[2023.05.05-14.15.52:263][ 12]LogSlate: Window 'Fireplace_low_1004_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.15.54:253][230]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.15.54:336][230]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.15.56:389][459]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.Fireplace_low_1005_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.15.57:277][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.15.57:457][548]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.15.57:457][548]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1005_OcclusionRoug8A7B8E7B4A6870A273490D83C1FF2781.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.15.57:467][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 17.7 sec)
+[2023.05.05-14.15.57:474][548]AssetCheck: New page: Asset Save: Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.15.57:474][548]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.19.18:045][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.19.18:231][593]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.19.18:231][593]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1005_OcclusionRoug304120B04181E56E78D8B39042906A41.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.19.18:240][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 17.9 sec)
+[2023.05.05-14.19.18:244][593]AssetCheck: New page: Asset Save: Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.19.18:244][593]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1005_OcclusionRoughnessMetallic.Fireplace_low_1005_OcclusionRoughnessMetallic
+[2023.05.05-14.19.19:153][695]LogSlate: Window 'Fireplace_low_1005_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.19.22:264][ 39]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1006_OcclusionRoughnessMetallic.Fireplace_low_1006_OcclusionRoughnessMetallic
+[2023.05.05-14.19.22:349][ 39]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.19.24:642][295]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1006_OcclusionRoughnessMetallic.Fireplace_low_1006_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.19.28:998][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.19.29:245][365]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1006_OcclusionRoughnessMetallic
+[2023.05.05-14.19.29:246][365]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1006_OcclusionRoug8B9C00924E0C7623CCEE19A056B1BEBE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1006_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.19.29:256][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 18.2 sec)
+[2023.05.05-14.19.29:259][365]AssetCheck: New page: Asset Save: Fireplace_low_1006_OcclusionRoughnessMetallic
+[2023.05.05-14.19.29:259][365]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1006_OcclusionRoughnessMetallic.Fireplace_low_1006_OcclusionRoughnessMetallic
+[2023.05.05-14.19.30:180][467]LogSlate: Window 'Fireplace_low_1006_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.19.32:062][679]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic.Fireplace_low_1007_OcclusionRoughnessMetallic
+[2023.05.05-14.19.32:152][679]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.19.34:257][915]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic.Fireplace_low_1007_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.19.35:281][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.19.35:473][ 15]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic
+[2023.05.05-14.19.35:474][ 15]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1007_OcclusionRougDE6B244F40685CD0BF371ABD6EE6D2C4.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.19.35:484][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 18.4 sec)
+[2023.05.05-14.19.35:487][ 15]AssetCheck: New page: Asset Save: Fireplace_low_1007_OcclusionRoughnessMetallic
+[2023.05.05-14.19.35:487][ 15]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1007_OcclusionRoughnessMetallic.Fireplace_low_1007_OcclusionRoughnessMetallic
+[2023.05.05-14.19.36:763][160]LogSlate: Window 'Fireplace_low_1007_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.19.38:629][372]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1008_OcclusionRoughnessMetallic.Fireplace_low_1008_OcclusionRoughnessMetallic
+[2023.05.05-14.19.38:713][372]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.19.40:875][614]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1008_OcclusionRoughnessMetallic.Fireplace_low_1008_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.19.41:776][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.19.41:924][700]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1008_OcclusionRoughnessMetallic
+[2023.05.05-14.19.41:925][700]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1008_OcclusionRougDCD17BB541BA1C81D936809E5D14B462.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1008_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.19.41:935][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 18.6 sec)
+[2023.05.05-14.19.41:938][700]AssetCheck: New page: Asset Save: Fireplace_low_1008_OcclusionRoughnessMetallic
+[2023.05.05-14.19.41:938][700]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1008_OcclusionRoughnessMetallic.Fireplace_low_1008_OcclusionRoughnessMetallic
+[2023.05.05-14.19.42:431][753]LogSlate: Window 'Fireplace_low_1008_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.19.44:162][940]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1009_OcclusionRoughnessMetallic.Fireplace_low_1009_OcclusionRoughnessMetallic
+[2023.05.05-14.19.44:244][940]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.19.46:078][146]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1009_OcclusionRoughnessMetallic.Fireplace_low_1009_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.19.46:904][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.19.47:032][225]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1009_OcclusionRoughnessMetallic
+[2023.05.05-14.19.47:032][225]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_1009_OcclusionRoug659BBFAB4BE09A6053A86FA6C1A64784.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_1009_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.19.47:041][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 18.7 sec)
+[2023.05.05-14.19.47:044][225]AssetCheck: New page: Asset Save: Fireplace_low_1009_OcclusionRoughnessMetallic
+[2023.05.05-14.19.47:044][225]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1009_OcclusionRoughnessMetallic.Fireplace_low_1009_OcclusionRoughnessMetallic
+[2023.05.05-14.19.48:280][366]LogSlate: Window 'Fireplace_low_1009_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.19.50:439][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.19.51:352][701]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.19.51:353][701]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+
+[2023.05.05-14.19.51:354][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.19.51:454][701]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+
+[2023.05.05-14.19.51:455][701]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_FireplaceTexture1 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+
+[2023.05.05-14.19.51:478][701]MaterialEditorStats: Error: [SM6] (Node TextureSample) Sampler type is Virtual Color, should be Virtual Mask for /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1001_OcclusionRoughnessMetallic.Fireplace_low_1001_OcclusionRoughnessMetallic
+[2023.05.05-14.19.51:485][701]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Total job queries 213, among them cache hits 67 (31.46%)
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 111 distinct outputs (77.62%)
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: RAM used: 1.26 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Shaders Compiled: 51
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Jobs assigned 51, completed 51 (100.00%)
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Average time worker was idle: 8.11 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Time job spent in pending queue: average 0.30 s, longest 1.25 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.95 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Job life time (pending + execution): average 1.38 s, max 2.98
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.67 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Jobs were issued in 51 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Average processing rate: 4.37 jobs/sec
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Total thread time: 47.72 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Total thread preprocess time: 2.39 s
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Percentage time preprocessing: 5.01%
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Effective parallelization: 4.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-14.19.51:599][708]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.66 sec, max 1.87 sec, min 1.46 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 1.22 sec, max 1.22 sec, min 1.22 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.90% of total time (compiled    6 times, average 1.66 sec, max 1.87 sec, min 1.46 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.55% of total time (compiled    9 times, average 0.93 sec, max 1.11 sec, min 0.80 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.28% of total time (compiled    9 times, average 0.86 sec, max 0.99 sec, min 0.78 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.23% of total time (compiled    6 times, average 0.81 sec, max 0.93 sec, min 0.75 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.91% of total time (compiled    6 times, average 0.55 sec, max 0.59 sec, min 0.51 sec)
+[2023.05.05-14.19.51:600][708]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.19.55:742][ 91]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.19.58:104][237]MaterialEditorStats: Shader Count: 1
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.19.58:411][256]MaterialEditorStats: Shader Count: 3
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.19.58:516][263]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.19.59:761][363]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.20.00:186][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.05-14.20.01:001][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.05.05-14.20.01:011][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.20.03:091][363]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.20.03:307][363]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004553s (0.221313s overbudget)
+[2023.05.05-14.20.03:336][363]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.20.03:336][363]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture17DB2E87B4D82E7B4CD2956A4CE19E61B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.20.03:346][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.33 sec (total: 21.0 sec)
+[2023.05.05-14.20.03:349][363]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.20.03:349][363]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.20.03:349][363]MaterialEditorStats: Shader Count: 20
+[2023.05.05-14.20.06:020][582]LogSlate: Window 'MM_FireplaceTexture1' being destroyed
+[2023.05.05-14.20.06:037][582]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.20.06:037][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.20.23:847][ 52]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game Projects\Fireplace\Fireplace.fbx)
+[2023.05.05-14.20.24:160][ 52]LogFbx: Loading FBX Scene from E:\Game Projects\Fireplace\Fireplace.fbx
+[2023.05.05-14.20.24:221][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.20.33:029][ 52]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-14.20.33:129][ 52]LogFbx: Display: Triangulating static mesh TopPattern_low.001
+[2023.05.05-14.20.33:287][ 52]LogStaticMesh: Display: Building static mesh Fireplace_TopPattern_low_001...
+[2023.05.05-14.20.33:336][ 52]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_TopPattern_low_001.Fireplace_TopPattern_low_001
+[2023.05.05-14.20.33:401][ 52]LogFbx: Display: Triangulating static mesh Step_low.001
+[2023.05.05-14.20.33:402][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Step_low_001...
+[2023.05.05-14.20.33:404][ 52]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Step_low_001.Fireplace_Step_low_001
+[2023.05.05-14.20.33:411][ 52]LogFbx: Display: Triangulating static mesh SkirtingBoard_low.001
+[2023.05.05-14.20.33:423][ 52]LogStaticMesh: Display: Building static mesh Fireplace_SkirtingBoard_low_001...
+[2023.05.05-14.20.33:430][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_SkirtingBoard_low_001.Fireplace_SkirtingBoard_low_001
+[2023.05.05-14.20.33:439][ 52]LogFbx: Display: Triangulating static mesh SidePatterns_low.001
+[2023.05.05-14.20.33:500][ 52]LogStaticMesh: Display: Building static mesh Fireplace_SidePatterns_low_001...
+[2023.05.05-14.20.33:530][ 52]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_SidePatterns_low_001.Fireplace_SidePatterns_low_001
+[2023.05.05-14.20.33:549][ 52]LogFbx: Display: Triangulating static mesh Shelf_low.001
+[2023.05.05-14.20.33:553][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Shelf_low_001...
+[2023.05.05-14.20.33:562][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Shelf_low_001.Fireplace_Shelf_low_001
+[2023.05.05-14.20.33:569][ 52]LogFbx: Display: Triangulating static mesh Roof_low.001
+[2023.05.05-14.20.33:574][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Roof_low_001...
+[2023.05.05-14.20.33:583][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Roof_low_001.Fireplace_Roof_low_001
+[2023.05.05-14.20.33:590][ 52]LogFbx: Display: Triangulating static mesh Rings_low.001
+[2023.05.05-14.20.33:663][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Rings_low_001...
+[2023.05.05-14.20.33:697][ 52]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Rings_low_001.Fireplace_Rings_low_001
+[2023.05.05-14.20.33:712][ 52]LogFbx: Display: Triangulating static mesh Pillar2_low.001
+[2023.05.05-14.20.34:266][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Pillar2_low_001...
+[2023.05.05-14.20.34:522][ 52]LogStaticMesh: Built static mesh [0.26s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Pillar2_low_001.Fireplace_Pillar2_low_001
+[2023.05.05-14.20.34:601][ 52]LogFbx: Display: Triangulating static mesh Pillar1_low.001
+[2023.05.05-14.20.35:167][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Pillar1_low_001...
+[2023.05.05-14.20.35:423][ 52]LogStaticMesh: Built static mesh [0.26s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Pillar1_low_001.Fireplace_Pillar1_low_001
+[2023.05.05-14.20.35:500][ 52]LogFbx: Display: Triangulating static mesh LowerHalf_low.001
+[2023.05.05-14.20.35:504][ 52]LogStaticMesh: Display: Building static mesh Fireplace_LowerHalf_low_001...
+[2023.05.05-14.20.35:508][ 52]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_LowerHalf_low_001.Fireplace_LowerHalf_low_001
+[2023.05.05-14.20.35:518][ 52]LogFbx: Display: Triangulating static mesh FireplacePillar1_low.001
+[2023.05.05-14.20.35:652][ 52]LogStaticMesh: Display: Building static mesh Fireplace_FireplacePillar1_low_001...
+[2023.05.05-14.20.35:704][ 52]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_FireplacePillar1_low_001.Fireplace_FireplacePillar1_low_001
+[2023.05.05-14.20.35:724][ 52]LogFbx: Display: Triangulating static mesh FireplaceHandle_low.001
+[2023.05.05-14.20.35:735][ 52]LogStaticMesh: Display: Building static mesh Fireplace_FireplaceHandle_low_001...
+[2023.05.05-14.20.35:742][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_FireplaceHandle_low_001.Fireplace_FireplaceHandle_low_001
+[2023.05.05-14.20.35:748][ 52]LogFbx: Display: Triangulating static mesh Fireplace_low.001
+[2023.05.05-14.20.35:765][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Fireplace_low_001...
+[2023.05.05-14.20.35:776][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Fireplace_low_001.Fireplace_Fireplace_low_001
+[2023.05.05-14.20.35:783][ 52]LogFbx: Display: Triangulating static mesh FireGuard_low.001
+[2023.05.05-14.20.35:833][ 52]LogStaticMesh: Display: Building static mesh Fireplace_FireGuard_low_001...
+[2023.05.05-14.20.35:860][ 52]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_FireGuard_low_001.Fireplace_FireGuard_low_001
+[2023.05.05-14.20.35:871][ 52]LogFbx: Display: Triangulating static mesh FancyBar_low.001
+[2023.05.05-14.20.35:930][ 52]LogStaticMesh: Display: Building static mesh Fireplace_FancyBar_low_001...
+[2023.05.05-14.20.35:962][ 52]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_FancyBar_low_001.Fireplace_FancyBar_low_001
+[2023.05.05-14.20.35:973][ 52]LogFbx: Display: Triangulating static mesh CuboidPattern_low.001
+[2023.05.05-14.20.35:996][ 52]LogStaticMesh: Display: Building static mesh Fireplace_CuboidPattern_low_001...
+[2023.05.05-14.20.36:015][ 52]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_CuboidPattern_low_001.Fireplace_CuboidPattern_low_001
+[2023.05.05-14.20.36:022][ 52]LogFbx: Display: Triangulating static mesh Clip_low.001
+[2023.05.05-14.20.36:176][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Clip_low_001...
+[2023.05.05-14.20.36:242][ 52]LogStaticMesh: Built static mesh [0.07s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Clip_low_001.Fireplace_Clip_low_001
+[2023.05.05-14.20.36:267][ 52]LogFbx: Display: Triangulating static mesh CentrePattern_low.001
+[2023.05.05-14.20.36:299][ 52]LogStaticMesh: Display: Building static mesh Fireplace_CentrePattern_low_001...
+[2023.05.05-14.20.36:315][ 52]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_CentrePattern_low_001.Fireplace_CentrePattern_low_001
+[2023.05.05-14.20.36:323][ 52]LogFbx: Display: Triangulating static mesh Backboard_low.001
+[2023.05.05-14.20.36:333][ 52]LogStaticMesh: Display: Building static mesh Fireplace_Backboard_low_001...
+[2023.05.05-14.20.36:338][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_Backboard_low_001.Fireplace_Backboard_low_001
+[2023.05.05-14.20.36:348][ 52]LogFbx: Display: Triangulating static mesh WidePiece_low.001
+[2023.05.05-14.20.36:371][ 52]LogStaticMesh: Display: Building static mesh Fireplace_WidePiece_low_001...
+[2023.05.05-14.20.36:383][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace_WidePiece_low_001.Fireplace_WidePiece_low_001
+[2023.05.05-14.20.36:407][ 52]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.20.39:583][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.05.05-14.20.41:095][264]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.05-14.20.41:201][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.05-14.20.41:212][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.05-14.20.41:220][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.05-14.20.52:257][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game Projects\Fireplace\Fireplace.fbx)
+[2023.05.05-14.20.52:268][582]LogFbx: Loading FBX Scene from E:\Game Projects\Fireplace\Fireplace.fbx
+[2023.05.05-14.20.52:313][582]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.20.58:087][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-14.20.58:133][582]LogFbx: Display: Triangulating static mesh TopPattern_low.001
+[2023.05.05-14.20.58:227][582]LogFbx: Display: Triangulating static mesh Step_low.001
+[2023.05.05-14.20.58:228][582]LogFbx: Display: Triangulating static mesh SkirtingBoard_low.001
+[2023.05.05-14.20.58:239][582]LogFbx: Display: Triangulating static mesh SidePatterns_low.001
+[2023.05.05-14.20.58:293][582]LogFbx: Display: Triangulating static mesh Shelf_low.001
+[2023.05.05-14.20.58:297][582]LogFbx: Display: Triangulating static mesh Roof_low.001
+[2023.05.05-14.20.58:300][582]LogFbx: Display: Triangulating static mesh Rings_low.001
+[2023.05.05-14.20.58:360][582]LogFbx: Display: Triangulating static mesh Pillar2_low.001
+[2023.05.05-14.20.58:889][582]LogFbx: Display: Triangulating static mesh Pillar1_low.001
+[2023.05.05-14.20.59:429][582]LogFbx: Display: Triangulating static mesh LowerHalf_low.001
+[2023.05.05-14.20.59:432][582]LogFbx: Display: Triangulating static mesh FireplacePillar1_low.001
+[2023.05.05-14.20.59:527][582]LogFbx: Display: Triangulating static mesh FireplaceHandle_low.001
+[2023.05.05-14.20.59:537][582]LogFbx: Display: Triangulating static mesh Fireplace_low.001
+[2023.05.05-14.20.59:550][582]LogFbx: Display: Triangulating static mesh FireGuard_low.001
+[2023.05.05-14.20.59:593][582]LogFbx: Display: Triangulating static mesh FancyBar_low.001
+[2023.05.05-14.20.59:645][582]LogFbx: Display: Triangulating static mesh CuboidPattern_low.001
+[2023.05.05-14.20.59:663][582]LogFbx: Display: Triangulating static mesh Clip_low.001
+[2023.05.05-14.20.59:782][582]LogFbx: Display: Triangulating static mesh CentrePattern_low.001
+[2023.05.05-14.20.59:811][582]LogFbx: Display: Triangulating static mesh Backboard_low.001
+[2023.05.05-14.20.59:819][582]LogFbx: Display: Triangulating static mesh WidePiece_low.001
+[2023.05.05-14.20.59:877][582]LogStaticMesh: Display: Building static mesh Fireplace...
+[2023.05.05-14.21.00:672][582]LogStaticMesh: Built static mesh [0.79s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.21.00:963][582]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.21.00:971][582]LogStaticMesh: Display: Building static mesh Fireplace...
+[2023.05.05-14.21.01:844][670]LogStaticMesh: Built static mesh [0.87s] /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.21.02:435][726]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.21.02:443][726]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.21.03:654][848]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.21.03:696][848]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.21.03:948][848]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.21.14:587][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.21.14:694][672]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.21.14:694][672]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace4E43846F440CB2586EA2BE91B126A5A2.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.21.14:703][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 21.2 sec)
+[2023.05.05-14.21.14:707][672]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.21.14:707][672]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.21.27:387][748]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.21.32:224][ 97]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.05.05-14.21.32:339][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.21.39:126][640]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.21.40:199][702]Cmd: TRANSACTION UNDO
+[2023.05.05-14.21.40:199][702]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.05.05-14.21.40:305][702]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.21.45:388][ 99]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.21.48:660][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.21.48:745][337]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.21.48:746][337]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/FireplaceD4BBD40C441F965BC6A48E91894AF7FE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.21.48:754][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 21.2 sec)
+[2023.05.05-14.21.48:757][337]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.21.48:757][337]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.21.49:589][399]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.21.49:623][399]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.21.49:623][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.21.55:936][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.21.57:013][ 74]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-14.21.57:022][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.21.59:070][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.21.59:293][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000067s (0.224587s overbudget)
+[2023.05.05-14.21.59:330][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_1
+[2023.05.05-14.21.59:330][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_15A23487C4FEB8550C84F03B4E51B585C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_1.uasset'
+[2023.05.05-14.22.01:348][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.22.01:366][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002044s (0.018685s overbudget)
+[2023.05.05-14.22.01:379][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_2
+[2023.05.05-14.22.01:379][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_288B6DB7C4A50AA6355DA76BBE2BC4EA1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_2.uasset'
+[2023.05.05-14.22.03:402][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.22.03:438][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003059s (0.042470s overbudget)
+[2023.05.05-14.22.03:450][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_3
+[2023.05.05-14.22.03:450][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_3EB94F0BB4BB7EA26313B448F30D00095.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_3.uasset'
+[2023.05.05-14.22.05:428][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_4
+[2023.05.05-14.22.05:428][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_4BE63B0974E310A6F22E2779D730E4BDB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_4.uasset'
+[2023.05.05-14.22.07:404][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_5
+[2023.05.05-14.22.07:404][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_501F5D2FD4C0AC3E5A464A3BFCCB316D3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_5.uasset'
+[2023.05.05-14.22.09:424][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.22.09:457][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004755s (0.036850s overbudget)
+[2023.05.05-14.22.09:480][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_6
+[2023.05.05-14.22.09:480][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_62C9AD0DB450A8BABD5251A9CEC0D3E95.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_6.uasset'
+[2023.05.05-14.22.11:445][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_7
+[2023.05.05-14.22.11:445][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_7BF61717A487C8AD0EA4F4B94AB8467AC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_7.uasset'
+[2023.05.05-14.22.13:465][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.22.13:497][ 74]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003884s (0.033909s overbudget)
+[2023.05.05-14.22.13:508][ 74]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_8
+[2023.05.05-14.22.13:508][ 74]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_8E9F151D04883658E5F4488BE8A630BEB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_8.uasset'
+[2023.05.05-14.22.13:516][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.4 sec (total: 37.7 sec)
+[2023.05.05-14.22.13:519][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_7.ID_7
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_2.ID_2
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_1.ID_1
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_6.ID_6
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_5.ID_5
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_4.ID_4
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_8.ID_8
+[2023.05.05-14.22.13:519][ 74]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_3.ID_3
+[2023.05.05-14.22.19:183][717]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.22.19:186][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.19:305][717]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.19:314][717]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.20:025][756]MaterialEditorStats: Shader Count: 1
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.20:326][776]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.22:209][926]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.22:267][928]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.27:167][316]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.27:212][318]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.22.32:222][812]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.32:222][812]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.32:222][812]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.32:222][812]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.32:223][812]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.32:223][812]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.32:287][814]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.45:027][833]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.45:110][836]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.58:227][906]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.22.58:269][907]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Total job queries 498, among them cache hits 154 (30.92%)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Tracking 343 distinct input hashes that result in 131 distinct outputs (38.19%)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: RAM used: 2.86 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Shaders Compiled: 251
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Jobs assigned 251, completed 251 (100.00%)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Average time worker was idle: 14.34 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Time job spent in pending queue: average 0.68 s, longest 5.03 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 2.73 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 6.55
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.37 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Jobs were issued in 251 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Average processing rate: 5.53 jobs/sec
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Total thread time: 213.83 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Total thread preprocess time: 11.06 s
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Percentage time preprocessing: 5.17%
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Effective parallelization: 4.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   18 times, average 1.75 sec, max 2.39 sec, min 1.46 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   10 times, average 1.04 sec, max 1.22 sec, min 0.97 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   23 times, average 0.93 sec, max 1.15 sec, min 0.64 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   23 times, average 0.87 sec, max 1.15 sec, min 0.64 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.75% of total time (compiled   18 times, average 1.75 sec, max 2.39 sec, min 1.46 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.04% of total time (compiled   23 times, average 0.93 sec, max 1.15 sec, min 0.64 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.31% of total time (compiled   23 times, average 0.87 sec, max 1.15 sec, min 0.64 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 7.12% of total time (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.57% of total time (compiled   18 times, average 0.78 sec, max 0.95 sec, min 0.64 sec)
+[2023.05.05-14.22.58:270][907]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.22.58:281][908]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.02:060][265]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.02:119][267]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.23.10:281][854]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.10:285][854]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing A input
+[2023.05.05-14.23.10:285][854]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing B input
+[2023.05.05-14.23.14:649][220]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.14:657][220]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing A input
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.20:956][709]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.20:960][709]MaterialEditorStats: Error: [SM6] (Node StaticSwitchParameter) Missing B input
+[2023.05.05-14.23.24:650][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.24:653][  8]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node StaticSwitchParameter) Missing B input
+
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.26:981][203]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.27:961][258]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.28:378][276]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.28:485][282]MaterialEditorStats: Shader Count: 6
+[2023.05.05-14.23.28:746][300]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.23.29:237][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.05.05-14.23.29:993][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.05.05-14.23.30:006][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.23.32:116][300]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.23.34:348][300]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000083s (2.235605s overbudget)
+[2023.05.05-14.23.34:381][300]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.23.34:381][300]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture1F34DF7584A115A8221C88EBCA0E56A84.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.23.34:390][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.38 sec (total: 42.1 sec)
+[2023.05.05-14.23.34:392][300]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.23.34:392][300]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.23.34:394][300]MaterialEditorStats: Shader Count: 37
+[2023.05.05-14.23.36:885][482]LogSlate: Window 'MM_FireplaceTexture1' being destroyed
+[2023.05.05-14.23.36:903][482]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.23.36:903][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.23.42:479][ 77]LogContentBrowser: Deferred new asset file creation: MM_FireplaceTexture1_Inst
+[2023.05.05-14.23.42:490][ 77]LogContentBrowser: Creating deferred item: MM_FireplaceTexture1_Inst
+[2023.05.05-14.23.42:504][ 78]LogContentBrowser: Renaming the item being created (Deferred Item: MM_FireplaceTexture1_Inst).
+[2023.05.05-14.23.53:705][422]LogContentBrowser: Attempting asset rename: MM_FireplaceTexture1_Inst -> MI_FireplaceTexture2
+[2023.05.05-14.23.53:706][422]LogContentBrowser: End creating deferred item MM_FireplaceTexture1_Inst
+[2023.05.05-14.23.55:381][587]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.23.55:395][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.23.55:536][587]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.24.04:614][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.24.04:673][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.05-14.24.04:683][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.05-14.24.04:712][467]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.24.04:712][467]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture23FE962344A7E176050831C9D501FF7E3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.24.04:721][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 42.2 sec)
+[2023.05.05-14.24.04:724][467]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.24.04:724][467]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.24.05:344][522]LogSlate: Window 'MI_FireplaceTexture2' being destroyed
+[2023.05.05-14.24.05:358][522]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.24.05:358][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.24.06:623][646]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.24.06:627][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.06:756][646]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.24.06:764][646]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.07:748][696]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.09:602][826]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.09:675][828]MaterialEditorStats: Shader Count: 13
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.14:794][203]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.15:588][246]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.15:893][263]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.16:106][275]MaterialEditorStats: Shader Count: 6
+[2023.05.05-14.24.19:502][518]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.24.19:964][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.05-14.24.20:773][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.24.20:783][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.24.22:893][518]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.24.25:017][518]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001057s (2.127018s overbudget)
+[2023.05.05-14.24.25:047][518]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.24.25:047][518]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture1D38B15314571738EDF1104A07C795CDA.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.24.25:055][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.27 sec (total: 46.5 sec)
+[2023.05.05-14.24.25:058][518]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.24.25:058][518]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: MaxSampler: 406 instructions
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.24.25:059][518]MaterialEditorStats: Shader Count: 37
+[2023.05.05-14.24.25:608][559]LogSlate: Window 'MM_FireplaceTexture1' being destroyed
+[2023.05.05-14.24.25:628][559]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.24.25:628][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.24.27:060][703]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.24.27:060][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.24.27:237][703]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.24.36:890][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.24.36:947][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.05-14.24.36:958][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.24.36:960][555]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.24.36:960][555]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture28C8FDB6E4599DCD6D0F880B3AFA640FC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.24.36:969][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 46.6 sec)
+[2023.05.05-14.24.36:971][555]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.24.36:971][555]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.24.38:305][680]LogSlate: Window 'MI_FireplaceTexture2' being destroyed
+[2023.05.05-14.24.38:322][680]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.24.38:322][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.24.39:303][771]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.24.39:343][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.24.39:599][771]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.24.52:029][784]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.24.54:325][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.24.54:430][940]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.24.54:430][940]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace26057E3648F6F2664DEF8E91D5C9F54B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.24.54:440][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 46.7 sec)
+[2023.05.05-14.24.54:443][940]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.24.54:443][940]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.24.55:091][988]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.24.55:122][988]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.24.55:122][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.24.56:703][139]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.24.56:704][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.24.56:858][139]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.25.02:529][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.25.02:586][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.25.02:596][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.25.02:598][671]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.25.02:598][671]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture2AECAED534D2C68AA6D54DF8D95369398.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.25.02:606][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 46.8 sec)
+[2023.05.05-14.25.02:610][671]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.25.02:610][671]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.25.34:568][ 57]LogInterchangeEngine: [Pending] Importing
+[2023.05.05-14.25.34:593][ 58]LogInterchangeEngine: [Pending] Importing
+[2023.05.05-14.25.34:726][ 58]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.05.05-14.25.34:902][ 58]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_Opacity.Fireplace_low_Opacity (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 442.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.25.34:905][ 58]LogInterchangeEngine: [Success] Import Done
+[2023.05.05-14.25.34:984][ 59]LogInterchangeEngine: [Success] Import Done
+[2023.05.05-14.25.39:360][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.25.40:234][270]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-14.25.40:246][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.25.40:338][270]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_Opacity
+[2023.05.05-14.25.40:338][270]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace_low_Opacity7955DBEC45B1A7577C8F0886D37E2888.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace_low_Opacity.uasset'
+[2023.05.05-14.25.40:348][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 46.9 sec)
+[2023.05.05-14.25.40:351][270]AssetCheck: New page: Asset Save: Fireplace_low_Opacity
+[2023.05.05-14.25.40:351][270]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_Opacity.Fireplace_low_Opacity
+[2023.05.05-14.26.36:900][ 80]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.26.36:904][ 80]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.36:990][ 80]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.26.36:999][ 80]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Total job queries 731, among them cache hits 258 (35.29%)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Tracking 458 distinct input hashes that result in 157 distinct outputs (34.28%)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: RAM used: 3.70 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.23%
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Shaders Compiled: 366
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Jobs assigned 374, completed 366 (97.86%)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Average time worker was idle: 14.91 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Time job spent in pending queue: average 0.72 s, longest 5.03 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.73 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Job life time (pending + execution): average 1.69 s, max 6.55
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.64 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Jobs were issued in 374 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Average processing rate: 5.58 jobs/sec
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Total thread time: 291.24 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Total thread preprocess time: 15.17 s
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Percentage time preprocessing: 5.21%
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Effective parallelization: 4.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.74 sec, max 2.39 sec, min 1.46 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    5 times, average 1.63 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.48 sec, max 1.48 sec, min 1.48 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    2 times, average 1.40 sec, max 1.42 sec, min 1.38 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.37% of total time (compiled   19 times, average 1.74 sec, max 2.39 sec, min 1.46 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.80% of total time (compiled   31 times, average 0.92 sec, max 1.15 sec, min 0.63 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.93% of total time (compiled   31 times, average 0.84 sec, max 1.15 sec, min 0.61 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.30% of total time (compiled   24 times, average 0.76 sec, max 0.95 sec, min 0.58 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 5.23% of total time (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.26.37:125][ 86]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.38:254][149]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.38:339][152]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.38:515][161]MaterialEditorStats: Shader Count: 6
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.42:961][502]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.26.44:461][601]LogEditorTransaction: Undo Edit OpacityMask
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Base pass shader: 340 instructions
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.47:114][804]MaterialEditorStats: Shader Count: 4
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.48:844][941]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.49:617][984]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.49:932][  2]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Base pass shader: 342 instructions
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.50:032][  6]MaterialEditorStats: Shader Count: 6
+[2023.05.05-14.26.54:176][309]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.26.54:677][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.05-14.26.56:213][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.05-14.26.56:224][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.26.58:324][309]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.26.59:687][309]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003048s (1.363527s overbudget)
+[2023.05.05-14.26.59:717][309]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.26.59:718][309]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture1CF6335A74B11DE1882558581616D064F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.26.59:726][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.50 sec (total: 50.4 sec)
+[2023.05.05-14.26.59:733][309]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.26.59:733][309]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Base pass shader: 342 instructions
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: MaxSampler: 408 instructions
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.26.59:734][309]MaterialEditorStats: Shader Count: 39
+[2023.05.05-14.27.00:630][375]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.27.00:630][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.27.12:850][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.27.12:910][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.27.12:922][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.05-14.27.12:936][427]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.27.12:936][427]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture27E99154C4E71616F60C17BAC2CE77ADC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.27.12:945][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 50.5 sec)
+[2023.05.05-14.27.12:952][427]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.27.12:952][427]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.27.13:431][471]LogSlate: Window 'MI_FireplaceTexture2' being destroyed
+[2023.05.05-14.27.13:448][471]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.27.13:448][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.27.15:091][651]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.27.15:095][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.15:221][651]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.27.15:229][651]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.27.16:253][706]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.27.16:253][706]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.16:253][706]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.16:253][706]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.16:254][706]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.16:254][706]MaterialEditorStats: Shader Count: 2
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.16:335][709]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Base pass shader: 342 instructions
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.16:407][713]MaterialEditorStats: Shader Count: 6
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.21:758][137]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Base pass shader: 342 instructions
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Texture samplers: 5/16
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.21:851][140]MaterialEditorStats: Shader Count: 13
+[2023.05.05-14.27.28:753][651]LogMaterialEditor: Saving and Compiling material MM_FireplaceTexture1
+[2023.05.05-14.27.29:222][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.27.29:371][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.27.29:380][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.27.29:513][651]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1
+[2023.05.05-14.27.29:513][651]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_FireplaceTexture1B5C91FB441176726558BB3863D21C9C5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.uasset'
+[2023.05.05-14.27.29:522][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 50.6 sec)
+[2023.05.05-14.27.29:524][651]AssetCheck: New page: Asset Save: MM_FireplaceTexture1
+[2023.05.05-14.27.29:524][651]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/MM_FireplaceTexture1.MM_FireplaceTexture1
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Base pass shader: 342 instructions
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: MaxSampler: 408 instructions
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Texture samplers: 6/16
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.05-14.27.29:525][651]MaterialEditorStats: Shader Count: 37
+[2023.05.05-14.27.30:139][693]LogSlate: Window 'MM_FireplaceTexture1' being destroyed
+[2023.05.05-14.27.30:157][693]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.27.30:158][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.27.31:235][793]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.27.31:236][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.27.31:387][793]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.27.41:006][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.27.41:070][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.27.41:080][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.05-14.27.41:082][457]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.27.41:082][457]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture2DE360727496BF4D81FA9B996F1212510.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.27.41:090][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 50.7 sec)
+[2023.05.05-14.27.41:094][457]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.27.41:095][457]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.28.01:929][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.28.01:986][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.28.02:878][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.28.02:883][239]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2
+[2023.05.05-14.28.02:883][239]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture20B9C79E04495D3C1C80FA7B7DF2F5E14.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.uasset'
+[2023.05.05-14.28.02:892][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 963 ms (total: 51.7 sec)
+[2023.05.05-14.28.02:894][239]AssetCheck: New page: Asset Save: MI_FireplaceTexture2
+[2023.05.05-14.28.02:894][239]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture2.MI_FireplaceTexture2
+[2023.05.05-14.28.03:814][326]LogSlate: Window 'MI_FireplaceTexture2' being destroyed
+[2023.05.05-14.28.03:830][326]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.28.03:830][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.28.05:574][504]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.28.05:614][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.28.05:868][504]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.28.21:163][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.28.21:228][651]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.28.21:229][651]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace046FF7944F13758197EDE8BBEFC9536A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.28.21:238][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 51.7 sec)
+[2023.05.05-14.28.21:241][651]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.28.21:241][651]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.28.33:631][590]LogContentBrowser: Deferred new asset file creation: MM_FireplaceTexture1_Inst
+[2023.05.05-14.28.33:647][590]LogContentBrowser: Creating deferred item: MM_FireplaceTexture1_Inst
+[2023.05.05-14.28.33:665][591]LogContentBrowser: Renaming the item being created (Deferred Item: MM_FireplaceTexture1_Inst).
+[2023.05.05-14.28.43:113][318]LogContentBrowser: Attempting asset rename: MM_FireplaceTexture1_Inst -> MI_FireplaceTexture3
+[2023.05.05-14.28.43:113][318]LogContentBrowser: End creating deferred item MM_FireplaceTexture1_Inst
+[2023.05.05-14.28.44:629][420]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture3.MI_FireplaceTexture3
+[2023.05.05-14.28.44:631][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.28.44:752][420]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.29.00:015][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.29.00:084][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.05.05-14.29.00:094][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.05-14.29.00:095][764]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture3
+[2023.05.05-14.29.00:095][764]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture3CE32001F4F55C155371A2EBE1A818CC2.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture3.uasset'
+[2023.05.05-14.29.00:104][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 51.8 sec)
+[2023.05.05-14.29.00:106][764]AssetCheck: New page: Asset Save: MI_FireplaceTexture3
+[2023.05.05-14.29.00:106][764]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture3.MI_FireplaceTexture3
+[2023.05.05-14.29.01:056][843]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.29.01:056][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.29.12:262][819]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.29.16:104][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.29.16:193][ 88]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.29.16:195][ 88]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/FireplaceAB9BBBE342CD5E8830ADB68735006C2A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.29.16:203][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 51.9 sec)
+[2023.05.05-14.29.16:207][ 88]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.29.16:207][ 88]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.29.31:849][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.29.31:918][305]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.29.31:918][305]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace1C43F5374DA4B7FBD2A99AA16A5DB060.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.29.31:927][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 52.0 sec)
+[2023.05.05-14.29.31:930][305]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.29.31:930][305]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.29.35:813][567]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture3_Inst
+[2023.05.05-14.29.35:827][567]LogContentBrowser: Creating deferred item: MI_FireplaceTexture3_Inst
+[2023.05.05-14.29.35:844][568]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture3_Inst).
+[2023.05.05-14.29.40:417][920]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture3_Inst -> MI_FireplaceTexture4
+[2023.05.05-14.29.40:418][920]LogContentBrowser: End creating deferred item MI_FireplaceTexture3_Inst
+[2023.05.05-14.29.41:796][ 11]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture4.MI_FireplaceTexture4
+[2023.05.05-14.29.41:798][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.29.41:915][ 11]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.29.51:587][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.29.51:645][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.29.51:655][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.29.51:657][824]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture4
+[2023.05.05-14.29.51:657][824]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture4FB507A3148765DA0B6309E80BC38F124.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture4.uasset'
+[2023.05.05-14.29.51:666][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 52.1 sec)
+[2023.05.05-14.29.51:668][824]AssetCheck: New page: Asset Save: MI_FireplaceTexture4
+[2023.05.05-14.29.51:668][824]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture4.MI_FireplaceTexture4
+[2023.05.05-14.29.52:544][894]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.29.52:544][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.30.08:733][119]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.30.34:316][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.30.34:434][100]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.30.34:434][100]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace3C7752744F9367C21E24A28320AE0614.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.30.34:444][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 52.2 sec)
+[2023.05.05-14.30.34:446][100]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.30.34:446][100]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.30.35:137][152]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.30.35:177][152]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.30.35:177][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.30.36:960][317]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.30.37:003][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.30.37:263][317]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.30.44:706][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.30.44:775][866]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.30.44:775][866]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace1B30E72A4D506665B6AE328EAC21C365.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.30.44:785][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 52.3 sec)
+[2023.05.05-14.30.44:787][866]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.30.44:788][866]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.30.45:624][928]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.30.45:654][928]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.30.45:654][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.30.49:582][331]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture4_Inst
+[2023.05.05-14.30.49:589][331]LogContentBrowser: Creating deferred item: MI_FireplaceTexture4_Inst
+[2023.05.05-14.30.49:600][332]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture4_Inst).
+[2023.05.05-14.30.53:000][675]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture4_Inst -> MI_FireplaceTexture5
+[2023.05.05-14.30.53:002][675]LogContentBrowser: End creating deferred item MI_FireplaceTexture4_Inst
+[2023.05.05-14.30.54:199][776]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture5.MI_FireplaceTexture5
+[2023.05.05-14.30.54:200][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.30.54:348][776]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.31.09:521][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.31.09:579][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.31.09:589][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.31.09:591][716]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture5
+[2023.05.05-14.31.09:591][716]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture513A92CFB450DAB59FA3DC394EEAFB1AA.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture5.uasset'
+[2023.05.05-14.31.09:599][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 52.4 sec)
+[2023.05.05-14.31.09:601][716]AssetCheck: New page: Asset Save: MI_FireplaceTexture5
+[2023.05.05-14.31.09:601][716]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture5.MI_FireplaceTexture5
+[2023.05.05-14.31.10:564][794]LogSlate: Window 'MI_FireplaceTexture5' being destroyed
+[2023.05.05-14.31.10:580][794]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.31.10:580][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.31.13:487][ 85]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.31.13:530][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.31.13:794][ 85]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.31.25:782][ 43]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.31.35:528][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.31.35:610][788]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.31.35:610][788]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/FireplaceE922E42B42900F65A67BFE97FEF9A7AD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.31.35:620][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 52.5 sec)
+[2023.05.05-14.31.35:623][788]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.31.35:623][788]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.31.36:435][849]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.31.36:465][849]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.31.36:465][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.31.39:503][162]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.39:510][162]LogContentBrowser: Creating deferred item: MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.39:521][163]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture5_Inst).
+[2023.05.05-14.31.42:855][560]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture5_Inst -> MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.42:855][560]LogContentBrowser: End creating deferred item MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.45:275][817]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.45:283][817]LogContentBrowser: Creating deferred item: MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.45:294][818]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture5_Inst).
+[2023.05.05-14.31.48:013][125]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture5_Inst -> MI_FireplaceTexture6
+[2023.05.05-14.31.48:013][125]LogContentBrowser: End creating deferred item MI_FireplaceTexture5_Inst
+[2023.05.05-14.31.49:447][264]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture6.MI_FireplaceTexture6
+[2023.05.05-14.31.49:448][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.31.49:590][264]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.32.01:039][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.32.01:102][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.32.01:113][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.05-14.32.01:115][193]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture6
+[2023.05.05-14.32.01:115][193]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture6B84BFEE64D070DB2220AAA996FE7333A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture6.uasset'
+[2023.05.05-14.32.01:123][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 52.5 sec)
+[2023.05.05-14.32.01:126][193]AssetCheck: New page: Asset Save: MI_FireplaceTexture6
+[2023.05.05-14.32.01:126][193]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture6.MI_FireplaceTexture6
+[2023.05.05-14.32.02:095][275]LogSlate: Window 'MI_FireplaceTexture6' being destroyed
+[2023.05.05-14.32.02:108][275]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.32.02:108][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.32.08:435][996]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.05-14.32.08:444][996]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.05-14.32.11:997][349]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.32.12:037][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.32.12:303][349]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.32.22:617][244]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.32.26:230][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.32.26:318][359]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.32.26:318][359]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace29FA6B4144AA6D907967218848157853.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.32.26:327][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 52.6 sec)
+[2023.05.05-14.32.26:329][359]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.32.26:330][359]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.32.42:090][581]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture6_Inst
+[2023.05.05-14.32.42:106][581]LogContentBrowser: Creating deferred item: MI_FireplaceTexture6_Inst
+[2023.05.05-14.32.42:119][582]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture6_Inst).
+[2023.05.05-14.32.45:189][845]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture6_Inst -> MI_FireplaceTexture7
+[2023.05.05-14.32.45:190][845]LogContentBrowser: End creating deferred item MI_FireplaceTexture6_Inst
+[2023.05.05-14.32.46:572][958]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture7.MI_FireplaceTexture7
+[2023.05.05-14.32.46:573][958]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.32.46:732][958]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.32.57:549][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.32.57:605][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.32.57:616][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.32.57:618][102]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture7
+[2023.05.05-14.32.57:618][102]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture72FB3857F4185C91C6C09F287ED04AC23.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture7.uasset'
+[2023.05.05-14.32.57:626][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 52.7 sec)
+[2023.05.05-14.32.57:628][102]AssetCheck: New page: Asset Save: MI_FireplaceTexture7
+[2023.05.05-14.32.57:628][102]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture7.MI_FireplaceTexture7
+[2023.05.05-14.32.58:830][229]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.32.58:830][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.33.06:227][925]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.33.11:868][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.33.11:954][364]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.33.11:955][364]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace6AA14C64415512F24FEB93B0C807CD2A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.33.11:963][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 52.8 sec)
+[2023.05.05-14.33.11:965][364]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.33.11:965][364]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.33.15:024][595]LogContentBrowser: Deferred new asset file creation: MI_FireplaceTexture7_Inst
+[2023.05.05-14.33.15:035][595]LogContentBrowser: Creating deferred item: MI_FireplaceTexture7_Inst
+[2023.05.05-14.33.15:049][596]LogContentBrowser: Renaming the item being created (Deferred Item: MI_FireplaceTexture7_Inst).
+[2023.05.05-14.33.18:897][916]LogContentBrowser: Attempting asset rename: MI_FireplaceTexture7_Inst -> MI_FireplaceTexture8
+[2023.05.05-14.33.18:898][916]LogContentBrowser: End creating deferred item MI_FireplaceTexture7_Inst
+[2023.05.05-14.33.20:010][  4]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture8.MI_FireplaceTexture8
+[2023.05.05-14.33.20:011][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.33.20:165][  4]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.33.29:926][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.33.29:983][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.33.29:995][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.33.29:997][ 25]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture8
+[2023.05.05-14.33.29:997][ 25]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_FireplaceTexture8833012E14FCAD567C2E1BBB120F87FEC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture8.uasset'
+[2023.05.05-14.33.30:005][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 52.9 sec)
+[2023.05.05-14.33.30:008][ 25]AssetCheck: New page: Asset Save: MI_FireplaceTexture8
+[2023.05.05-14.33.30:008][ 25]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/Fireplace/MI_FireplaceTexture8.MI_FireplaceTexture8
+[2023.05.05-14.33.30:790][108]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.33.30:790][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.33.36:103][611]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace) ...
+[2023.05.05-14.33.39:213][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.33.39:303][796]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.33.39:303][796]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fireplace47CA72E849E3F4DFA6F392A324CD67B8.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.33.39:313][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 53.0 sec)
+[2023.05.05-14.33.39:316][796]AssetCheck: New page: Asset Save: Fireplace
+[2023.05.05-14.33.39:316][796]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.33.40:035][846]LogSlate: Window 'Fireplace' being destroyed
+[2023.05.05-14.33.40:067][846]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.33.40:067][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.33.44:074][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.33.45:584][285]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.05-14.33.45:597][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.33.45:603][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.05.05-14.33.45:609][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.33.47:595][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.05-14.33.47:764][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.33.47:918][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.33.48:079][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.33.48:226][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.33.48:388][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
