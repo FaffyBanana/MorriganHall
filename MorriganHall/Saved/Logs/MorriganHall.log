@@ -2917,3 +2917,1165 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.05-14.47.47:407][288]AssetCheck: New page: Asset Save: Living_Room
 [2023.05.05-14.47.47:407][288]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.05.05-14.47.49:387][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.05.05-14.48.06:426][804]LogEditorViewport: Clicking Background
+[2023.05.05-14.48.17:571][ 38]Cmd: DELETE
+[2023.05.05-14.48.17:571][ 38]Cmd: ACTOR DELETE
+[2023.05.05-14.48.17:574][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.48.17:575][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.48.17:575][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.48.17:576][ 38]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.48.17:581][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.48.17:584][ 38]LogEditorActor: Deleted 4 Actors (0.012 secs)
+[2023.05.05-14.49.11:631][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.05-14.49.11:829][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.05-14.49.15:400][670]Cmd: TRANSACTION UNDO
+[2023.05.05-14.49.15:400][670]LogEditorTransaction: Undo Move Elements
+[2023.05.05-14.49.15:704][678]Cmd: TRANSACTION UNDO
+[2023.05.05-14.49.15:704][678]LogEditorTransaction: Undo Move Elements
+[2023.05.05-14.49.16:040][691]Cmd: TRANSACTION UNDO
+[2023.05.05-14.49.16:040][691]LogEditorTransaction: Undo Move Elements
+[2023.05.05-14.49.24:655][600]LogEditorViewport: Clicking Background
+[2023.05.05-14.49.25:450][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.49.25:477][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.49.25:482][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.49.25:496][692]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.49.25:496][692]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room80481C6B46B3D433C431C5B19EF1AD0C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.49.25:505][692]LogFileHelpers: Saving map 'Living_Room' took 0.029
+[2023.05.05-14.49.25:522][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 53.8 sec)
+[2023.05.05-14.49.25:525][692]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.49.25:525][692]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.49.34:158][638]Cmd: TRANSACTION UNDO
+[2023.05.05-14.49.34:158][638]LogEditorTransaction: Undo Create Actors
+[2023.05.05-14.49.37:355][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.49.39:627][881]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.05-14.49.39:641][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.05.05-14.49.39:647][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.49.39:653][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.05.05-14.49.40:781][978]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/ID_1.ID_1
+[2023.05.05-14.49.40:785][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.49.40:911][978]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.49.40:911][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.49.40:911][978]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.49.40:917][978]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Total job queries 1026, among them cache hits 461 (44.93%)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Tracking 563 distinct input hashes that result in 205 distinct outputs (36.41%)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: RAM used: 4.46 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.27%
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Shaders Compiled: 465
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Jobs assigned 465, completed 465 (100.00%)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Average time worker was idle: 19.67 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Time job spent in pending queue: average 0.67 s, longest 5.03 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.73 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Job life time (pending + execution): average 1.61 s, max 6.55
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.37 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Jobs were issued in 465 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Average processing rate: 5.32 jobs/sec
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Total thread time: 357.98 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Total thread preprocess time: 18.83 s
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Effective parallelization: 4.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 1.73 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 1.46 sec, max 1.48 sec, min 1.42 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 1.37 sec, max 1.42 sec, min 1.31 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.43% of total time (compiled   41 times, average 0.91 sec, max 1.15 sec, min 0.62 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.65% of total time (compiled   20 times, average 1.73 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.54% of total time (compiled   41 times, average 0.83 sec, max 1.15 sec, min 0.59 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.38% of total time (compiled   30 times, average 0.76 sec, max 0.95 sec, min 0.58 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.49% of total time (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-14.49.40:984][979]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.49.41:004][980]MaterialEditorStats: Base pass shader: 216 instructions
+[2023.05.05-14.49.41:004][980]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.49.41:004][980]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-14.49.41:004][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.49.41:004][980]MaterialEditorStats: Shader Count: 5
+[2023.05.05-14.49.42:374][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-14.49.42:375][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.49.42:375][ 66]MaterialEditorStats: Shader Count: 0
+[2023.05.05-14.49.43:735][136]LogMaterialEditor: Saving and Compiling material ID_1
+[2023.05.05-14.49.44:295][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.05-14.49.45:045][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-14.49.45:054][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.49.47:132][136]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.05.05-14.49.47:163][136]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003165s (0.032966s overbudget)
+[2023.05.05-14.49.47:208][136]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_1
+[2023.05.05-14.49.47:208][136]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_171E64A6847C2B24C2D3D0EBEB3642AE9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_1.uasset'
+[2023.05.05-14.49.47:216][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.16 sec (total: 55.9 sec)
+[2023.05.05-14.49.47:219][136]AssetCheck: New page: Asset Save: ID_1
+[2023.05.05-14.49.47:219][136]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_1.ID_1
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: MaxSampler: 269 instructions
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-14.49.47:221][136]MaterialEditorStats: Shader Count: 22
+[2023.05.05-14.49.47:715][170]LogSlate: Window 'ID_1' being destroyed
+[2023.05.05-14.49.47:732][170]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.49.47:732][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.49.50:745][480]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.49.50:790][480]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.49.51:049][480]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.49.55:622][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.49.55:672][874]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile
+[2023.05.05-14.49.55:672][874]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTileA549B3F14051ECD2A1BA679E6EEE131C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile.uasset'
+[2023.05.05-14.49.55:680][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 56.0 sec)
+[2023.05.05-14.49.55:683][874]AssetCheck: New page: Asset Save: SM_WallTile
+[2023.05.05-14.49.55:683][874]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.49.56:638][938]LogSlate: Window 'SM_WallTile' being destroyed
+[2023.05.05-14.49.56:672][938]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.49.56:672][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.50.16:976][286]Cmd: TRANSACTION UNDO
+[2023.05.05-14.50.16:976][286]LogEditorTransaction: Undo Edit Intensity
+[2023.05.05-14.50.21:324][673]Cmd: TRANSACTION UNDO
+[2023.05.05-14.50.21:324][673]LogEditorTransaction: Undo Edit Source Angle
+[2023.05.05-14.50.24:241][916]Cmd: TRANSACTION UNDO
+[2023.05.05-14.50.24:241][916]LogEditorTransaction: Undo Edit Source Soft Angle
+[2023.05.05-14.51.47:083][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.51.47:107][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.51.47:114][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.51.47:139][313]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.51.47:139][313]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomDD6B255746C43E33DE0853B4A24E6298.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.51.47:148][313]LogFileHelpers: Saving map 'Living_Room' took 0.041
+[2023.05.05-14.51.47:155][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 56.1 sec)
+[2023.05.05-14.51.47:158][313]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.51.47:158][313]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.51.49:273][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.52.23:388][269]Cmd: DELETE
+[2023.05.05-14.52.23:388][269]Cmd: ACTOR DELETE
+[2023.05.05-14.52.23:391][269]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.52.23:397][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.52.23:400][269]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.05.05-14.52.26:625][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.52.26:652][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.52.26:657][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.05-14.52.26:680][627]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.52.26:682][627]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room727E398A405A4877B1A5C9BFCE9CFE73.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.52.26:690][627]LogFileHelpers: Saving map 'Living_Room' took 0.038
+[2023.05.05-14.52.26:696][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 56.1 sec)
+[2023.05.05-14.52.26:700][627]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.52.26:700][627]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.52.28:070][789]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.28:525][842]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.41:890][ 79]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.42:723][165]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.45:148][453]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.45:847][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.52.45:875][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.52.45:881][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.05-14.52.45:903][531]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.52.45:904][531]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room6F972F6E4004134714A6AC899C0EE1D1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.52.45:911][531]LogFileHelpers: Saving map 'Living_Room' took 0.037
+[2023.05.05-14.52.45:917][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 56.2 sec)
+[2023.05.05-14.52.45:920][531]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.52.45:920][531]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.52.56:138][740]LogEditorViewport: Clicking Background
+[2023.05.05-14.52.57:865][935]LogEditorViewport: Clicking Background
+[2023.05.05-14.53.15:458][451]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.05-14.53.18:434][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.18:434][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.18:435][789]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_193
+[2023.05.05-14.53.18:435][789]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_193
+[2023.05.05-14.53.20:314][995]Cmd: DELETE
+[2023.05.05-14.53.20:314][995]Cmd: ACTOR DELETE
+[2023.05.05-14.53.20:317][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.53.20:324][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.53.20:326][995]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-14.53.23:484][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.23:484][344]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.23:484][344]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_194
+[2023.05.05-14.53.23:485][344]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_194
+[2023.05.05-14.53.25:184][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.25:184][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.05.05-14.53.25:185][534]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_195
+[2023.05.05-14.53.25:185][534]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_195
+[2023.05.05-14.53.35:217][702]LogEditorViewport: Clicking Background
+[2023.05.05-14.53.49:856][432]LogEditorViewport: Clicking Background
+[2023.05.05-14.53.51:298][595]Cmd: DELETE
+[2023.05.05-14.53.51:298][595]Cmd: ACTOR DELETE
+[2023.05.05-14.53.51:301][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.53.51:307][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.05-14.53.51:311][595]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.05.05-14.55.16:539][484]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx)
+[2023.05.05-14.55.16:544][484]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx
+[2023.05.05-14.55.16:547][484]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.55.19:510][484]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-14.55.19:555][484]LogFbx: Display: Triangulating static mesh WallPlane.001
+[2023.05.05-14.55.19:562][484]LogStaticMesh: Display: Building static mesh SM_WindowTile...
+[2023.05.05-14.55.19:593][484]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.05-14.55.19:606][484]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.55.20:700][575]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.55.20:706][575]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.55.35:089][149]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.05-14.55.35:129][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.55.35:392][149]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.55.41:003][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.55.41:061][667]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowTile
+[2023.05.05-14.55.41:062][667]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowTile9056CA7D41B6CAE7B1A995A146C921C0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowTile.uasset'
+[2023.05.05-14.55.41:068][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 56.3 sec)
+[2023.05.05-14.55.41:071][667]AssetCheck: New page: Asset Save: SM_WindowTile
+[2023.05.05-14.55.41:071][667]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.05-14.55.42:512][763]LogSlate: Window 'SM_WindowTile' being destroyed
+[2023.05.05-14.55.42:541][763]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.55.42:541][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.56.01:609][944]LogEditorViewport: Clicking Background
+[2023.05.05-14.56.02:296][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.56.02:324][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.56.02:330][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.05-14.56.02:356][ 23]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.56.02:357][ 23]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomD1DC500D4188E1421AFC82B84420B0CD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.56.02:365][ 23]LogFileHelpers: Saving map 'Living_Room' took 0.042
+[2023.05.05-14.56.02:371][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 56.4 sec)
+[2023.05.05-14.56.02:373][ 23]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.56.02:373][ 23]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.56.02:512][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.56.02:536][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.56.02:541][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.56.02:566][ 38]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.56.02:566][ 38]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room459F82154E3118A8010A48983DA4B76D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.56.02:574][ 38]LogFileHelpers: Saving map 'Living_Room' took 0.039
+[2023.05.05-14.56.02:581][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 56.4 sec)
+[2023.05.05-14.56.02:585][ 38]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.56.02:585][ 38]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.56.02:696][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.56.02:723][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.56.02:728][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.56.02:752][ 50]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.56.02:752][ 50]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomB9B6499146FB0EF1F8A2E5ABCAE6E667.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.56.02:760][ 50]LogFileHelpers: Saving map 'Living_Room' took 0.038
+[2023.05.05-14.56.02:766][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 56.5 sec)
+[2023.05.05-14.56.02:770][ 50]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.56.02:770][ 50]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.56.13:946][380]Cmd: DELETE
+[2023.05.05-14.56.13:946][380]Cmd: ACTOR DELETE
+[2023.05.05-14.56.13:949][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.56.13:954][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.56.13:956][380]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.56.14:373][417]Cmd: DELETE
+[2023.05.05-14.56.14:373][417]Cmd: ACTOR DELETE
+[2023.05.05-14.56.14:376][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.56.14:382][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.56.14:384][417]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.56.14:923][471]Cmd: DELETE
+[2023.05.05-14.56.14:923][471]Cmd: ACTOR DELETE
+[2023.05.05-14.56.14:925][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.56.14:932][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.05-14.56.14:934][471]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.05.05-14.56.22:277][ 44]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.05.05-14.57.20:164][ 57]LogSlate: Window 'Bridge' being destroyed
+[2023.05.05-14.57.20:170][ 57]LogSlate: Window 'Bridge' being destroyed
+[2023.05.05-14.57.20:170][ 57]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2023.05.05-14.57.20:170][ 57]LogWebBrowser: Deleting browser for Url=file:///E:/Program%20Files/Unreal%20Engine/UE_5.1/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/home?search=table.
+[2023.05.05-14.57.51:008][633]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.05-14.57.51:016][633]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.05-14.57.51:021][634]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.05-14.57.56:569][289]LogContentBrowser: Attempting asset rename: NewFolder -> RockingChair
+[2023.05.05-14.57.56:569][289]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.05-14.58.17:470][603]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Game Projects\RockingChair\RockingChair_low.fbx)
+[2023.05.05-14.58.17:487][603]LogFbx: Loading FBX Scene from E:\Game Projects\RockingChair\RockingChair_low.fbx
+[2023.05.05-14.58.17:570][603]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.58.19:294][603]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-14.58.19:337][603]LogFbx: Display: Triangulating static mesh 1_low
+[2023.05.05-14.58.19:341][603]LogFbx: Display: Triangulating static mesh ArmCushion_low
+[2023.05.05-14.58.19:368][603]LogFbx: Display: Triangulating static mesh ArmPillar_low
+[2023.05.05-14.58.19:550][603]LogFbx: Display: Triangulating static mesh ArmRest_low
+[2023.05.05-14.58.19:569][603]LogFbx: Display: Triangulating static mesh ArmSupport_low
+[2023.05.05-14.58.20:166][603]LogFbx: Display: Triangulating static mesh Base_low
+[2023.05.05-14.58.20:173][603]LogFbx: Display: Triangulating static mesh Clip_low
+[2023.05.05-14.58.20:193][603]LogFbx: Display: Triangulating static mesh Curve_low
+[2023.05.05-14.58.20:272][603]LogFbx: Display: Triangulating static mesh Cushion_low
+[2023.05.05-14.58.20:356][603]LogFbx: Display: Triangulating static mesh Feet_low
+[2023.05.05-14.58.20:479][603]LogFbx: Display: Triangulating static mesh Headrest_low
+[2023.05.05-14.58.20:483][603]LogFbx: Display: Triangulating static mesh HorizontalThings_low
+[2023.05.05-14.58.21:559][603]LogFbx: Display: Triangulating static mesh Pillar_low
+[2023.05.05-14.58.22:281][603]LogFbx: Display: Triangulating static mesh RockerStand_low
+[2023.05.05-14.58.22:423][603]LogFbx: Display: Triangulating static mesh Screws_low
+[2023.05.05-14.58.22:655][603]LogFbx: Display: Triangulating static mesh Seat_low
+[2023.05.05-14.58.22:683][603]LogFbx: Display: Triangulating static mesh Spring_low
+[2023.05.05-14.58.23:119][603]LogStaticMesh: Display: Building static mesh RockingChair_low...
+[2023.05.05-14.58.24:849][603]LogStaticMesh: Built static mesh [1.73s] /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.58.25:536][603]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.58.33:773][662]LogInterchangeEngine: [Pending] Importing
+[2023.05.05-14.58.33:773][662]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.05-14.58.33:773][662]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.05-14.58.33:804][663]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.05.05-14.58.34:440][664]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.05.05-14.58.34:440][664]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.05.05-14.58.34:456][664]LogInterchangeEngine: [Success] Import Done
+[2023.05.05-14.58.34:469][664]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.58.34:483][664]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_BaseColor.RockingChair_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.58.34:486][665]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_Normal.RockingChair_low_DefaultMaterial_Normal (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.58.34:518][665]LogInterchangeEngine: [Success] Import Done
+[2023.05.05-14.58.36:121][669]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.05.05-14.58.36:131][669]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_Normal.RockingChair_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.58.37:944][824]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.05.05-14.58.38:027][824]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.58.40:718][ 84]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.05.05-14.58.42:282][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.58.42:654][201]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.05.05-14.58.42:654][201]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/RockingChair_low_DefaultMaterialB5FDD990465298893ABF7FA10F920665.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.05.05-14.58.42:664][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 382 ms (total: 56.9 sec)
+[2023.05.05-14.58.42:668][201]AssetCheck: New page: Asset Save: RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.05.05-14.58.42:668][201]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.05.05-14.58.43:256][251]LogSlate: Window 'RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-14.58.44:643][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-14.58.45:516][370]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-14.58.45:527][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.58.45:556][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.58.45:561][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.58.45:585][370]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.58.45:585][370]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomA7155ABE408646F2783B1289FBD03C28.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.58.45:598][370]LogFileHelpers: Saving map 'Living_Room' took 0.043
+[2023.05.05-14.58.45:705][370]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low
+[2023.05.05-14.58.45:705][370]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/RockingChair_low293AD8C4451835F663C778A6860CCB62.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/RockingChair_low.uasset'
+[2023.05.05-14.58.46:061][370]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_BaseColor
+[2023.05.05-14.58.46:061][370]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/RockingChair_low_DefaultMaterialBC3DE9F340A156F6C851709F190B48C6.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_BaseColor.uasset'
+[2023.05.05-14.58.46:397][370]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_Normal
+[2023.05.05-14.58.46:397][370]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/RockingChair_low_DefaultMaterial376C37E84B224CF9DEAAC1BDDFABF496.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_Normal.uasset'
+[2023.05.05-14.58.46:406][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 879 ms (total: 57.8 sec)
+[2023.05.05-14.58.46:410][370]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.05-14.58.46:410][370]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.58.46:410][370]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_Normal.RockingChair_low_DefaultMaterial_Normal
+[2023.05.05-14.58.46:410][370]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_BaseColor.RockingChair_low_DefaultMaterial_BaseColor
+[2023.05.05-14.58.46:410][370]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.58.52:642][976]LogContentBrowser: Deferred new asset file creation: MM_FireplaceTexture1_Inst
+[2023.05.05-14.58.52:648][976]LogContentBrowser: Creating deferred item: MM_FireplaceTexture1_Inst
+[2023.05.05-14.58.52:659][977]LogContentBrowser: Renaming the item being created (Deferred Item: MM_FireplaceTexture1_Inst).
+[2023.05.05-14.59.00:262][518]LogContentBrowser: Attempting asset rename: MM_FireplaceTexture1_Inst -> MI_RockingChair
+[2023.05.05-14.59.00:263][518]LogContentBrowser: End creating deferred item MM_FireplaceTexture1_Inst
+[2023.05.05-14.59.04:509][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.59.04:560][946]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/MI_RockingChair
+[2023.05.05-14.59.04:560][946]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_RockingChair9DFEC40A4CF4E5056EAA0EBF1734E52A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/MI_RockingChair.uasset'
+[2023.05.05-14.59.04:570][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 57.8 sec)
+[2023.05.05-14.59.04:579][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.59.04:585][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.59.04:590][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.05-14.59.04:628][946]AssetCheck: New page: Asset Save: MI_RockingChair
+[2023.05.05-14.59.04:628][946]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/RockingChair/MI_RockingChair.MI_RockingChair
+[2023.05.05-14.59.08:535][260]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Assets/Aziz/Assets/RockingChair/MI_RockingChair.MI_RockingChair
+[2023.05.05-14.59.08:537][260]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.59.08:707][260]LogViewport: Scene viewport resized to 1252x894, mode Windowed.
+[2023.05.05-14.59.22:803][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.59.22:858][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-14.59.22:868][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.59.22:870][632]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/MI_RockingChair
+[2023.05.05-14.59.22:870][632]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_RockingChair79E24F064E700BA5AE20099E7B4E9F22.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/MI_RockingChair.uasset'
+[2023.05.05-14.59.22:879][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 57.9 sec)
+[2023.05.05-14.59.22:882][632]AssetCheck: New page: Asset Save: MI_RockingChair
+[2023.05.05-14.59.22:882][632]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Assets/Aziz/Assets/RockingChair/MI_RockingChair.MI_RockingChair
+[2023.05.05-14.59.23:688][700]LogSlate: Window 'MI_RockingChair' being destroyed
+[2023.05.05-14.59.23:706][700]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.59.23:706][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.59.24:583][764]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.24:625][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.59.24:874][764]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-14.59.27:708][ 34]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/RockingChair/RockingChair_low) ...
+[2023.05.05-14.59.33:530][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.59.33:652][378]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low
+[2023.05.05-14.59.33:652][378]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/RockingChair_low4EB9DDDF44C23AD684B5A9A0637B2D0D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/RockingChair/RockingChair_low.uasset'
+[2023.05.05-14.59.33:662][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 58.0 sec)
+[2023.05.05-14.59.33:668][378]AssetCheck: New page: Asset Save: RockingChair_low
+[2023.05.05-14.59.33:668][378]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.34:733][449]LogSlate: Window 'RockingChair_low' being destroyed
+[2023.05.05-14.59.34:768][449]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.59.34:768][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.59.36:284][579]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.05-14.59.37:388][685]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.59.37:395][685]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.59.39:784][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.39:784][918]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.39:784][918]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_203
+[2023.05.05-14.59.40:850][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.40:850][ 20]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low
+[2023.05.05-14.59.40:851][ 20]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low.RockingChair_low as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_204
+[2023.05.05-14.59.56:059][712]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/RockingChair/RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic.RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.05.05-14.59.56:146][712]LogViewport: Scene viewport resized to 893x890, mode Windowed.
+[2023.05.05-14.59.57:937][870]LogSlate: Window 'RockingChair_low_DefaultMaterial_OcclusionRoughnessMetallic' being destroyed
+[2023.05.05-15.00.15:692][955]LogEditorViewport: Clicking Background
+[2023.05.05-15.00.16:193][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.00.16:219][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.00.16:225][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.05-15.00.16:252][ 12]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.00.16:252][ 12]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room717890104A83861729A2FAB307109617.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.00.16:261][ 12]LogFileHelpers: Saving map 'Living_Room' took 0.042
+[2023.05.05-15.00.16:267][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 58.1 sec)
+[2023.05.05-15.00.16:270][ 12]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.00.16:270][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.00.18:365][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.05-15.00.52:354][143]LogEditorViewport: Clicking Background
+[2023.05.05-15.01.07:902][  7]LogEditorViewport: Clicking Background
+[2023.05.05-15.01.12:849][599]LogEditorViewport: Clicking Background
+[2023.05.05-15.01.13:960][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.01.13:998][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.01.14:003][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-15.01.14:027][728]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.01.14:027][728]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomEA7A6DC1404E1E451C938CB8A532B5A0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.01.14:035][728]LogFileHelpers: Saving map 'Living_Room' took 0.038
+[2023.05.05-15.01.14:042][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 58.2 sec)
+[2023.05.05-15.01.14:046][728]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.01.14:046][728]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.08.22:633][771]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_2mSofa.fbx)
+[2023.05.05-15.08.22:638][771]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_2mSofa.fbx
+[2023.05.05-15.08.22:643][771]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-15.08.23:610][771]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-15.08.23:651][771]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.05-15.08.23:656][771]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.05.05-15.08.23:661][771]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.05.05-15.08.23:665][771]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.05.05-15.08.23:670][771]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.05.05-15.08.23:682][771]LogStaticMesh: Display: Building static mesh SM_2mSofa...
+[2023.05.05-15.08.23:726][771]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.08.23:745][771]LogStaticMesh: Warning: SM_2mSofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.05-15.08.23:745][771]LogStaticMesh: Warning: SM_2mSofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.05-15.08.23:753][771]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-15.08.23:753][771]FBXImport: Warning: SM_2mSofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.05-15.08.23:753][771]FBXImport: Warning: SM_2mSofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.05-15.08.25:034][888]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-15.08.25:040][888]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-15.08.27:593][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.08.27:593][154]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.08.27:593][154]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_205
+[2023.05.05-15.08.28:305][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.08.28:305][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.08.28:307][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_206
+[2023.05.05-15.09.23:252][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.09.23:281][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.09.23:287][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.05-15.09.23:313][438]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.09.23:314][438]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room9E6BA09D4776C838DE9BA481C9BEC97B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.09.23:321][438]LogFileHelpers: Saving map 'Living_Room' took 0.041
+[2023.05.05-15.09.23:328][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 58.3 sec)
+[2023.05.05-15.09.23:332][438]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.09.23:332][438]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.09.26:799][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.09.26:837][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.09.26:842][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-15.09.26:866][814]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.09.26:866][814]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomECFCADB24CF81A24FDB044916E2A5B3D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.09.26:874][814]LogFileHelpers: Saving map 'Living_Room' took 0.037
+[2023.05.05-15.09.26:881][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 58.3 sec)
+[2023.05.05-15.09.26:884][814]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.09.26:884][814]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.09.28:629][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-15.09.29:584][  5]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-15.09.29:593][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.09.29:644][  5]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_2mSofa
+[2023.05.05-15.09.29:645][  5]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_2mSofaB23EBBF145C8F1BD941630A773A7F7A6.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_2mSofa.uasset'
+[2023.05.05-15.09.29:652][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 58.4 sec)
+[2023.05.05-15.09.29:654][  5]AssetCheck: New page: Asset Save: SM_2mSofa
+[2023.05.05-15.09.29:654][  5]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.10.06:131][590]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.146 and deleted 347 files with total size 7 MiB. Scanned 9700 files in 9557 folders with total size 2749 MiB.
+[2023.05.05-15.11.00:306][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_1mSofa.fbx)
+[2023.05.05-15.11.00:310][916]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_1mSofa.fbx
+[2023.05.05-15.11.00:316][916]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-15.11.01:468][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-15.11.01:513][916]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.05-15.11.01:521][916]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.05.05-15.11.01:527][916]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.05.05-15.11.01:540][916]LogStaticMesh: Display: Building static mesh SM_1mSofa...
+[2023.05.05-15.11.01:578][916]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.01:586][916]LogStaticMesh: Warning: SM_1mSofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.05-15.11.01:586][916]LogStaticMesh: Warning: SM_1mSofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.05-15.11.01:594][916]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-15.11.01:594][916]FBXImport: Warning: SM_1mSofa has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.05-15.11.01:594][916]FBXImport: Warning: SM_1mSofa has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.05-15.11.02:737][ 12]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-15.11.02:744][ 12]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-15.11.04:838][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.04:838][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.04:839][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_208
+[2023.05.05-15.11.05:912][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.05:912][319]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.05:913][319]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_209
+[2023.05.05-15.11.20:185][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.11.20:214][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.11.20:220][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-15.11.20:244][985]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.11.20:245][985]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomFC39A3924A2CDC81D50DD986B244550D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.11.20:252][985]LogFileHelpers: Saving map 'Living_Room' took 0.038
+[2023.05.05-15.11.20:258][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 58.5 sec)
+[2023.05.05-15.11.20:262][985]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.11.20:262][985]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.11.23:043][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-15.11.23:872][253]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-15.11.23:880][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.11.23:933][253]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_1mSofa
+[2023.05.05-15.11.23:933][253]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_1mSofaA0B2F3A340762CC37E5B28A6328D135F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_1mSofa.uasset'
+[2023.05.05-15.11.23:940][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 58.5 sec)
+[2023.05.05-15.11.23:943][253]AssetCheck: New page: Asset Save: SM_1mSofa
+[2023.05.05-15.11.23:943][253]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.24:619][309]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.11.24:668][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-15.11.24:931][309]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-15.11.30:133][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.11.30:183][760]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_2mSofa
+[2023.05.05-15.11.30:183][760]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_2mSofa25881E934C813DBD8AEF6EA7D45091FD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_2mSofa.uasset'
+[2023.05.05-15.11.30:191][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 58.6 sec)
+[2023.05.05-15.11.30:194][760]AssetCheck: New page: Asset Save: SM_2mSofa
+[2023.05.05-15.11.30:194][760]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_2mSofa.SM_2mSofa
+[2023.05.05-15.11.30:955][812]LogSlate: Window 'SM_2mSofa' being destroyed
+[2023.05.05-15.11.30:988][812]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.11.30:989][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-15.11.33:049][ 10]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.33:092][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-15.11.33:350][ 10]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.05-15.11.37:595][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.11.37:648][383]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_1mSofa
+[2023.05.05-15.11.37:649][383]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_1mSofa6F06F8DE4DA8FB587D9654857F296189.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_1mSofa.uasset'
+[2023.05.05-15.11.37:657][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 58.7 sec)
+[2023.05.05-15.11.37:660][383]AssetCheck: New page: Asset Save: SM_1mSofa
+[2023.05.05-15.11.37:660][383]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.05.05-15.11.38:376][433]LogSlate: Window 'SM_1mSofa' being destroyed
+[2023.05.05-15.11.38:411][433]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.11.38:411][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-15.11.46:615][267]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/Fireplace/ID_1.ID_1
+[2023.05.05-15.11.46:618][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-15.11.46:736][267]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-15.11.46:736][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-15.11.46:736][267]MaterialEditorStats: Shader Count: 0
+[2023.05.05-15.11.46:743][267]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: ================================================
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Total job queries 1078, among them cache hits 486 (45.08%)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Tracking 588 distinct input hashes that result in 219 distinct outputs (37.24%)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: RAM used: 4.65 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.28%
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Shaders Compiled: 490
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Jobs assigned 490, completed 490 (100.00%)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Average time worker was idle: 34.14 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 5.03 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.73 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Job life time (pending + execution): average 1.60 s, max 6.55
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.85 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Jobs were issued in 490 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Average processing rate: 5.28 jobs/sec
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Total thread time: 380.13 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Total thread preprocess time: 19.99 s
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Effective parallelization: 4.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   21 times, average 1.74 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   11 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 1.46 sec, max 1.48 sec, min 1.42 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 1.37 sec, max 1.42 sec, min 1.31 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.37% of total time (compiled   43 times, average 0.92 sec, max 1.43 sec, min 0.62 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.63% of total time (compiled   21 times, average 1.74 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.51% of total time (compiled   43 times, average 0.84 sec, max 1.36 sec, min 0.59 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.31% of total time (compiled   31 times, average 0.77 sec, max 1.17 sec, min 0.58 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.43% of total time (compiled   31 times, average 0.54 sec, max 1.10 sec, min 0.40 sec)
+[2023.05.05-15.11.46:775][268]LogShaderCompilers: Display: ================================================
+[2023.05.05-15.11.46:809][269]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.05.05-15.11.46:809][269]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-15.11.46:809][269]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-15.11.46:809][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-15.11.46:809][269]MaterialEditorStats: Shader Count: 9
+[2023.05.05-15.11.51:828][590]LogSlate: Window 'Color Picker' being destroyed
+[2023.05.05-15.11.51:835][590]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.05-15.11.51:835][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-15.11.51:835][590]MaterialEditorStats: Shader Count: 0
+[2023.05.05-15.11.51:904][593]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.05.05-15.11.51:904][593]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-15.11.51:904][593]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.05-15.11.51:904][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-15.11.51:904][593]MaterialEditorStats: Shader Count: 9
+[2023.05.05-15.11.53:062][672]LogMaterialEditor: Saving and Compiling material ID_1
+[2023.05.05-15.11.53:515][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.05-15.11.53:662][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.05-15.11.53:671][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.11.53:754][672]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/ID_1
+[2023.05.05-15.11.53:754][672]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/ID_13068E3A14A6AFAE57D940189FD69E4BD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/ID_1.uasset'
+[2023.05.05-15.11.53:762][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 58.7 sec)
+[2023.05.05-15.11.53:764][672]AssetCheck: New page: Asset Save: ID_1
+[2023.05.05-15.11.53:764][672]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/Fireplace/ID_1.ID_1
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: Base pass shader: 221 instructions
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: MaxSampler: 269 instructions
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.05-15.11.53:765][672]MaterialEditorStats: Shader Count: 24
+[2023.05.05-15.11.54:352][712]LogSlate: Window 'ID_1' being destroyed
+[2023.05.05-15.11.54:368][712]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.11.54:368][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-15.11.56:048][907]LogEditorViewport: Clicking Background
+[2023.05.05-15.11.57:907][126]LogEditorViewport: Clicking Background
+[2023.05.05-15.12.01:860][555]LogEditorViewport: Clicking Background
+[2023.05.05-15.12.08:501][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-15.12.08:534][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-15.12.08:539][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-15.12.08:566][332]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-15.12.08:566][332]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomA3D2751441BAE180BD205787D9E6997C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-15.12.08:574][332]LogFileHelpers: Saving map 'Living_Room' took 0.041
+[2023.05.05-15.12.08:582][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 58.8 sec)
+[2023.05.05-15.12.08:584][332]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-15.12.08:584][332]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-15.12.11:530][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-15.12.34:360][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.05-15.12.34:361][174]LogStall: Shutdown...
+[2023.05.05-15.12.34:365][174]LogStall: Shutdown complete.
+[2023.05.05-15.12.34:397][174]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.05.05-15.12.34:476][175]Cmd: QUIT_EDITOR
+[2023.05.05-15.12.34:476][175]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.05-15.12.34:478][175]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.05-15.12.34:479][175]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.05-15.12.34:479][175]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.05-15.12.34:481][175]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.12.34:481][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-15.12.34:481][175]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.05-15.12.34:481][175]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.05-15.12.34:680][175]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.05-15.12.34:680][175]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.05-15.12.34:680][175]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.05.05-15.12.34:680][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.05-15.12.34:683][175]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.05-15.12.34:691][175]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.05-15.12.34:694][175]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.05-15.12.34:694][175]LogExit: Preparing to exit.
+[2023.05.05-15.12.34:750][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-15.12.35:742][175]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.12.35:743][175]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-15.12.35:761][175]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.05-15.12.35:771][175]LogExit: Editor shut down
+[2023.05.05-15.12.35:773][175]LogExit: Transaction tracking system shut down
+[2023.05.05-15.12.35:854][175]LogExit: Object subsystem successfully closed.
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: ================================================
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Total job queries 1145, among them cache hits 553 (48.30%)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Tracking 588 distinct input hashes that result in 219 distinct outputs (37.24%)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: RAM used: 4.65 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.28%
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Shaders Compiled: 490
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Jobs assigned 490, completed 490 (100.00%)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Average time worker was idle: 34.14 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 5.03 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 2.73 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Job life time (pending + execution): average 1.60 s, max 6.55
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.85 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Jobs were issued in 490 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Average processing rate: 5.28 jobs/sec
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Total thread time: 380.13 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Total thread preprocess time: 19.99 s
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Percentage time preprocessing: 5.26%
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Effective parallelization: 4.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   21 times, average 1.74 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   11 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 1.46 sec, max 1.48 sec, min 1.42 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 1.37 sec, max 1.42 sec, min 1.31 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.37% of total time (compiled   43 times, average 0.92 sec, max 1.43 sec, min 0.62 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.63% of total time (compiled   21 times, average 1.74 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.51% of total time (compiled   43 times, average 0.84 sec, max 1.36 sec, min 0.59 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.31% of total time (compiled   31 times, average 0.77 sec, max 1.17 sec, min 0.58 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 4.43% of total time (compiled   31 times, average 0.54 sec, max 1.10 sec, min 0.40 sec)
+[2023.05.05-15.12.35:861][175]LogShaderCompilers: Display: ================================================
+[2023.05.05-15.12.35:880][175]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.05-15.12.36:021][175]LogVirtualization: UE::Virtualization was shutdown
+[2023.05.05-15.12.36:032][175]LogModuleManager: Shutting down and abandoning module WebBrowser (993)
+[2023.05.05-15.12.36:545][175]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (991)
+[2023.05.05-15.12.36:550][175]LogModuleManager: Shutting down and abandoning module TextureEditor (989)
+[2023.05.05-15.12.36:550][175]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2023.05.05-15.12.36:550][175]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2023.05.05-15.12.36:550][175]LogModuleManager: Shutting down and abandoning module AddContentDialog (983)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WidgetCarousel (982)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SubobjectEditor (979)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SceneOutliner (977)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WaveTableEditor (965)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (963)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (961)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (959)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (957)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (955)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module GooglePADEditor (953)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (951)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (949)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (947)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (945)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (943)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (941)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module WebMMedia (939)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (937)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (935)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SequenceRecorder (934)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (931)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (929)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (927)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (925)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (923)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (921)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module PlanarCut (919)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module CharacterAI (917)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (915)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module IKRigEditor (913)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module ControlRigEditor (911)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module TextureAlignMode (909)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module BspMode (907)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module GeometryMode (905)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SmartSnapping (903)
+[2023.05.05-15.12.36:551][175]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2023.05.05-15.12.36:553][175]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2023.05.05-15.12.36:553][175]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2023.05.05-15.12.36:553][175]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2023.05.05-15.12.36:553][175]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2023.05.05-15.12.36:553][175]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2023.05.05-15.12.36:554][175]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2023.05.05-15.12.37:552][175]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2023.05.05-15.12.37:552][175]MemoryProfiler: Shutdown
+[2023.05.05-15.12.37:552][175]NetworkingProfiler: Shutdown
+[2023.05.05-15.12.37:552][175]LoadingProfiler: Shutdown
+[2023.05.05-15.12.37:552][175]TimingProfiler: Shutdown
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2023.05.05-15.12.37:553][175]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2023.05.05-15.12.37:554][175]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2023.05.05-15.12.37:566][175]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (707)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (705)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (703)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TakesCore (701)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (695)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module LightMixer (693)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (691)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (689)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (687)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (683)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (681)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (679)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module SynthesisEditor (677)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ResonanceAudio (675)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (673)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (671)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AppleImageUtils (669)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (667)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ModelingOperators (665)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (663)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ModelingComponents (661)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GeometryFramework (660)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (657)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MeshModelingTools (655)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (653)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InputDebugging (651)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GooglePAD (649)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module DynamicMesh (647)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (645)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AssetTags (643)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AudioCapture (641)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (640)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (637)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module AndroidPermission (635)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (633)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (631)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (629)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MediaPlate (627)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module MediaCompositing (625)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module ImgMedia (623)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TakeSequencer (621)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TakeMovieScene (619)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module TemplateSequence (617)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (615)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module SequencerScripting (613)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (611)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (609)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (607)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeEditor (605)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (603)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (601)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (599)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangePipelines (597)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeExport (595)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeMessages (593)
+[2023.05.05-15.12.37:589][175]LogModuleManager: Shutting down and abandoning module InterchangeImport (591)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (589)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module InterchangeNodes (587)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (585)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module UVEditorTools (583)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module UVEditor (581)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (579)
+[2023.05.05-15.12.37:590][175]LogOpenImageDenoise: OIDN shutting down
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (577)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (575)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (573)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (571)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MeshLODToolset (569)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module Iris (567)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (565)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (563)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (561)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (559)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (557)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (556)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (554)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (551)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module DataflowNodes (549)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module DataflowEditor (547)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module FractureEditor (545)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ChaosNiagara (543)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (541)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (539)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (537)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module BackChannel (535)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (533)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AutomationUtils (531)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (529)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (527)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module VariantManager (525)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (523)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (521)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (519)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (517)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AlembicImporter (515)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AlembicLibrary (514)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCache (513)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (512)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (507)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (505)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (503)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PluginUtils (501)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module UObjectPlugin (499)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (497)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (495)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (493)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module DumpGPUServices (491)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GitSourceControl (489)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (487)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (485)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module InterchangeTests (483)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (479)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ControlRigSpline (477)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (475)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (473)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (471)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module StylusInput (469)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PluginBrowser (467)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (465)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (463)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (461)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (459)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module EditorDebugTools (457)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GLTFImporter (455)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module GLTFCore (453)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (451)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module CurveEditorTools (449)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (447)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module CryptoKeys (445)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (443)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (441)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (439)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module Paper2DEditor (437)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module Synthesis (425)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (423)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module SoundFields (421)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module SignificanceManager (419)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (417)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (415)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MetasoundEditor (413)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AudioWidgets (412)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (411)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (407)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MetasoundEngine (405)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module WaveTable (404)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (402)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (399)
+[2023.05.05-15.12.37:590][175]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (397)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (395)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (393)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (391)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module CableComponent (389)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (387)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (386)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (383)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (381)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module ActorSequence (379)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (377)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module PBIK (375)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module FullBodyIK (373)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (371)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module TakeRecorder (370)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module ChaosCaching (367)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (365)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module Niagara (363)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module SignalProcessing (362)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module NiagaraEditor (360)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module NiagaraCore (357)
+[2023.05.05-15.12.37:591][175]LogModuleManager: Shutting down and abandoning module TcpMessaging (355)
+[2023.05.05-15.12.37:691][175]LogModuleManager: Shutting down and abandoning module GameplayCameras (353)
+[2023.05.05-15.12.37:691][175]LogModuleManager: Shutting down and abandoning module UdpMessaging (351)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (349)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (347)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module AnimationSharing (345)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (343)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (341)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module IKRig (339)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (337)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module ControlRig (335)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module LevelSequence (334)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (331)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module FacialAnimation (329)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (327)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module DataValidation (325)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (323)
+[2023.05.05-15.12.37:792][175]LogModuleManager: Shutting down and abandoning module LevelEditor (322)
+[2023.05.05-15.12.37:800][175]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (321)
+[2023.05.05-15.12.37:800][175]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (319)
+[2023.05.05-15.12.37:800][175]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (317)
+[2023.05.05-15.12.37:800][175]LogModuleManager: Shutting down and abandoning module MainFrame (315)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module HotReload (314)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module ContentBrowser (310)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module ContentBrowserData (307)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module TreeMap (304)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (295)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (293)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.05.05-15.12.37:801][175]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.05.05-15.12.37:803][175]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.05.05-15.12.37:814][175]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.05.05-15.12.37:814][175]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.05.05-15.12.37:817][175]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module WmfMedia (106)
+[2023.05.05-15.12.37:818][175]LogModuleManager: Shutting down and abandoning module Media (105)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (102)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (100)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module GLTFExporter (96)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module VariantManagerContent (94)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module DatasmithContent (92)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (90)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module NiagaraShader (88)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (84)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module PixWinPlugin (82)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module AISupportModule (80)
+[2023.05.05-15.12.37:820][175]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2023.05.05-15.12.37:821][175]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2023.05.05-15.12.37:821][175]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2023.05.05-15.12.37:839][175]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2023.05.05-15.12.37:839][175]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.05.05-15.12.37:839][175]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC087C028-40DA-EE39-F8D2-5A86E03EE45C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=835735384c196fc1cbbdd19a40318765%7C16643b4d374043bfb455a99909c59f42%7Cfad989f0-4da9-4716-82c2-be84d8ba69a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.05.05-15.12.37:864][175]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (64)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (62)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (60)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.05.05-15.12.37:865][175]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.05.05-15.12.37:865][175]LogXGEController: Cleaning working directory: C:/Users/demaz/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.05.05-15.12.37:866][175]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.05.05-15.12.37:867][175]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.05.05-15.12.37:867][175]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.05.05-15.12.37:867][175]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.05.05-15.12.37:868][175]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.05-15.12.38:086][175]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.05.05-15.12.38:128][175]LogExit: Exiting.
+[2023.05.05-15.12.38:164][175]Log file closed, 05/05/23 16:12:38
