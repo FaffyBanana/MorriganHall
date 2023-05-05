@@ -2660,3 +2660,260 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.05-14.33.48:079][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2023.05.05-14.33.48:226][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2023.05.05-14.33.48:388][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.35.54:754][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.05-14.35.54:797][728]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Living_Room.Living_Room
+[2023.05.05-14.35.54:797][728]Cmd: MAP LOAD FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.05-14.35.54:797][728]LightingResults: New page: Lighting Build
+[2023.05.05-14.35.54:797][728]LoadErrors: New page: Loading map: Living_Room.umap
+[2023.05.05-14.35.54:834][728]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.35.54:834][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.35.54:838][728]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.05.05-14.35.54:838][728]MapCheck: New page: Map Check
+[2023.05.05-14.35.54:838][728]LightingResults: New page: Lighting Build
+[2023.05.05-14.35.54:843][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.05-14.35.54:846][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.05-14.35.54:847][728]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.05.05-14.35.54:847][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.05-14.35.54:853][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.35.54:859][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.05-14.35.54:860][728]LogAudio: Display: Audio Device (ID: 1) registered with world 'Living_Room'.
+[2023.05.05-14.35.54:860][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.05-14.35.54:860][728]LogAIModule: Creating AISystem for world Living_Room
+[2023.05.05-14.35.54:881][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.05-14.35.54:889][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.05.05-14.35.54:896][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.05-14.35.54:896][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2023.05.05-14.35.54:896][728]LogFileHelpers: Loading map 'Living_Room' took 0.099
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Total job queries 999, among them cache hits 443 (44.34%)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Tracking 554 distinct input hashes that result in 196 distinct outputs (35.38%)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: RAM used: 4.39 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.27%
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Shaders Compiled: 458
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Jobs assigned 458, completed 458 (100.00%)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Average time worker was idle: 13.43 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Time job spent in pending queue: average 0.67 s, longest 5.03 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 2.73 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Job life time (pending + execution): average 1.62 s, max 6.55
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.05 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Jobs were issued in 458 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Average processing rate: 5.39 jobs/sec
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Total thread time: 352.35 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Total thread preprocess time: 18.50 s
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Percentage time preprocessing: 5.25%
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Effective parallelization: 4.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 1.73 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.52 sec, max 1.73 sec, min 1.43 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 1.46 sec, max 1.48 sec, min 1.42 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 1.37 sec, max 1.42 sec, min 1.31 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.08% of total time (compiled   39 times, average 0.91 sec, max 1.15 sec, min 0.62 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.81% of total time (compiled   20 times, average 1.73 sec, max 2.39 sec, min 1.44 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.16% of total time (compiled   39 times, average 0.83 sec, max 1.15 sec, min 0.59 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.48% of total time (compiled   30 times, average 0.76 sec, max 0.95 sec, min 0.58 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.56% of total time (compiled   10 times, average 1.61 sec, max 1.76 sec, min 1.46 sec)
+[2023.05.05-14.35.54:923][729]LogShaderCompilers: Display: ================================================
+[2023.05.05-14.36.09:316][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.36.09:325][280]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.36.09:326][280]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_0
+[2023.05.05-14.36.10:196][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.36.10:196][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.36.10:198][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_2
+[2023.05.05-14.37.05:177][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.37.05:205][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.37.05:210][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.05-14.37.05:216][551]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.37.05:217][551]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room325D77DC44AFC4321A625B9A7516357C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.37.05:224][551]LogFileHelpers: Saving map 'Living_Room' took 0.020
+[2023.05.05-14.37.05:231][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 53.0 sec)
+[2023.05.05-14.37.05:235][551]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.37.05:235][551]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.37.05:354][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.37.05:380][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.37.05:386][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-14.37.05:390][565]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.37.05:390][565]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room64D9C2CB4043C0F30EFFF5B41198CA8A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.37.05:399][565]LogFileHelpers: Saving map 'Living_Room' took 0.019
+[2023.05.05-14.37.05:406][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 53.1 sec)
+[2023.05.05-14.37.05:409][565]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.37.05:409][565]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.37.22:042][965]Cmd: TRANSACTION UNDO
+[2023.05.05-14.37.22:042][965]LogEditorTransaction: Undo Move Elements
+[2023.05.05-14.37.22:340][976]Cmd: TRANSACTION UNDO
+[2023.05.05-14.37.22:340][976]LogEditorTransaction: Undo Clicking on Elements
+[2023.05.05-14.37.28:879][648]Cmd: MODE GRID=1
+[2023.05.05-14.38.22:625][646]LogEditorViewport: Clicking Background
+[2023.05.05-14.39.09:167][716]LogEditorViewport: Clicking Background
+[2023.05.05-14.42.42:164][  3]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx)
+[2023.05.05-14.42.42:169][  3]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx
+[2023.05.05-14.42.42:173][  3]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.42.45:080][  3]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.05.05-14.42.45:125][  3]LogFbx: Display: Triangulating static mesh Plane
+[2023.05.05-14.42.45:133][  3]LogStaticMesh: Display: Building static mesh SM_WallTile...
+[2023.05.05-14.42.45:164][  3]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.42.45:177][  3]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.42.46:353][113]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.42.46:359][113]LogSlate: Window 'Message Log' being destroyed
+[2023.05.05-14.42.48:748][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.42.48:748][367]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.42.48:749][367]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_74
+[2023.05.05-14.42.49:550][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.42.49:550][446]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.42.49:552][446]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_75
+[2023.05.05-14.44.02:363][478]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx]
+[2023.05.05-14.44.02:373][478]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx
+[2023.05.05-14.44.02:376][478]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.05-14.44.02:426][478]LogFbx: Display: Triangulating static mesh Plane
+[2023.05.05-14.44.02:455][478]LogStaticMesh: Display: Building static mesh SM_WallTile...
+[2023.05.05-14.44.02:481][478]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.44.02:505][478]LogEditorFactories: -- imported successfully
+[2023.05.05-14.44.02:506][478]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.05-14.44.24:142][715]LogEditorViewport: Clicking Background
+[2023.05.05-14.44.26:172][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.44.26:202][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.44.26:208][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.05-14.44.26:224][943]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.44.26:224][943]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomE3FA5119402F5A5AD27C4AACF25085EE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.44.26:232][943]LogFileHelpers: Saving map 'Living_Room' took 0.031
+[2023.05.05-14.44.26:239][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 53.2 sec)
+[2023.05.05-14.44.26:243][943]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.44.26:243][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.45.54:746][ 95]Cmd: DELETE
+[2023.05.05-14.45.54:746][ 95]Cmd: ACTOR DELETE
+[2023.05.05-14.45.54:748][ 95]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.54:754][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.05-14.45.54:757][ 95]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.05.05-14.45.55:300][146]Cmd: DELETE
+[2023.05.05-14.45.55:300][146]Cmd: ACTOR DELETE
+[2023.05.05-14.45.55:302][146]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.55:308][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.05-14.45.55:310][146]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.45.56:013][221]Cmd: DELETE
+[2023.05.05-14.45.56:013][221]Cmd: ACTOR DELETE
+[2023.05.05-14.45.56:015][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.56:020][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.45.56:022][221]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.05.05-14.45.56:415][260]Cmd: DELETE
+[2023.05.05-14.45.56:415][260]Cmd: ACTOR DELETE
+[2023.05.05-14.45.56:417][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.56:424][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.45.56:425][260]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.05.05-14.45.56:892][306]Cmd: DELETE
+[2023.05.05-14.45.56:892][306]Cmd: ACTOR DELETE
+[2023.05.05-14.45.56:894][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.56:900][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.45.56:902][306]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.45.57:427][359]Cmd: DELETE
+[2023.05.05-14.45.57:427][359]Cmd: ACTOR DELETE
+[2023.05.05-14.45.57:429][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.57:435][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.45.57:437][359]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.45.57:914][409]Cmd: DELETE
+[2023.05.05-14.45.57:914][409]Cmd: ACTOR DELETE
+[2023.05.05-14.45.57:915][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.57:920][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.45.57:922][409]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.05.05-14.45.58:374][455]Cmd: DELETE
+[2023.05.05-14.45.58:374][455]Cmd: ACTOR DELETE
+[2023.05.05-14.45.58:376][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.58:381][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.05-14.45.58:383][455]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.05.05-14.45.58:880][503]Cmd: DELETE
+[2023.05.05-14.45.58:880][503]Cmd: ACTOR DELETE
+[2023.05.05-14.45.58:882][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.58:889][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.45.58:892][503]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.05.05-14.45.59:333][546]Cmd: DELETE
+[2023.05.05-14.45.59:333][546]Cmd: ACTOR DELETE
+[2023.05.05-14.45.59:335][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.45.59:340][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.05-14.45.59:342][546]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.05.05-14.46.03:908][ 56]Cmd: DELETE
+[2023.05.05-14.46.03:908][ 56]Cmd: ACTOR DELETE
+[2023.05.05-14.46.03:910][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.05-14.46.03:916][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.05.05-14.46.03:918][ 56]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.05-14.46.21:956][846]LogContentBrowser: Attempting asset rename: Fireplace -> SM_Fireplace
+[2023.05.05-14.46.22:683][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.46.22:772][846]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace
+[2023.05.05-14.46.22:772][846]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_FireplaceE66F861B4DD95888726C17A0109F3C1F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/SM_Fireplace.uasset'
+[2023.05.05-14.46.22:773][846]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/Fireplace/Fireplace
+[2023.05.05-14.46.22:773][846]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/FireplaceDDED4B7C4D281EF0007328B5DE75B4B2.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Fireplace/Fireplace.uasset'
+[2023.05.05-14.46.22:780][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 53.3 sec)
+[2023.05.05-14.46.22:784][846]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.05-14.46.22:784][846]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace.SM_Fireplace
+[2023.05.05-14.46.22:784][846]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Assets/Aziz/Assets/Fireplace/Fireplace.Fireplace
+[2023.05.05-14.46.24:593][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.46.25:543][ 38]LogSlate: Window 'Save Content' being destroyed
+[2023.05.05-14.46.25:552][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.46.25:580][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.46.25:585][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.46.25:599][ 38]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.46.25:599][ 38]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room87CAD3C248CE295B3915159E48CFCC73.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.46.25:608][ 38]LogFileHelpers: Saving map 'Living_Room' took 0.029
+[2023.05.05-14.46.25:635][ 38]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile
+[2023.05.05-14.46.25:635][ 38]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile9C91DD1D4D81603AAAE8528936F4134B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile.uasset'
+[2023.05.05-14.46.25:643][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 53.4 sec)
+[2023.05.05-14.46.25:645][ 38]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.05-14.46.25:646][ 38]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.05-14.46.25:646][ 38]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.46.26:643][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.46.26:676][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.46.26:683][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.05-14.46.26:697][135]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.46.26:697][135]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomB058F0204D6EC5E56F6AE9BE028B2F87.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.46.26:705][135]LogFileHelpers: Saving map 'Living_Room' took 0.028
+[2023.05.05-14.46.26:712][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 53.4 sec)
+[2023.05.05-14.46.26:715][135]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.46.26:715][135]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.46.36:624][249]Cmd: MODE GRID=0
+[2023.05.05-14.46.41:659][787]Cmd: MODE ROTGRID=0
+[2023.05.05-14.46.42:204][839]Cmd: MODE ROTGRID=1
+[2023.05.05-14.46.42:866][902]Cmd: MODE GRID=1
+[2023.05.05-14.46.45:397][196]LogEditorViewport: Clicking Background
+[2023.05.05-14.46.54:786][289]Cmd: MODE GRID=0
+[2023.05.05-14.47.01:906][ 99]Cmd: MODE GRID=1
+[2023.05.05-14.47.05:977][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.05-14.47.08:588][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.47.08:621][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.47.08:626][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.47.08:640][867]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.47.08:641][867]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomEFC321CF41A911F9FAB682B022F5FF59.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.47.08:648][867]LogFileHelpers: Saving map 'Living_Room' took 0.028
+[2023.05.05-14.47.08:666][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 53.5 sec)
+[2023.05.05-14.47.08:668][867]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.47.08:668][867]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.47.08:779][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.47.08:808][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.47.08:814][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.05-14.47.08:827][878]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.47.08:827][878]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room663B5E214C1B3D7A0211D5A01A821736.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.47.08:834][878]LogFileHelpers: Saving map 'Living_Room' took 0.026
+[2023.05.05-14.47.08:846][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 53.6 sec)
+[2023.05.05-14.47.08:849][878]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.47.08:849][878]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.47.08:946][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.47.08:979][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.47.08:984][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.05-14.47.08:998][888]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.47.08:998][888]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomA821D8D141319D16D2242B9B74375186.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.47.09:006][888]LogFileHelpers: Saving map 'Living_Room' took 0.028
+[2023.05.05-14.47.09:019][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 53.6 sec)
+[2023.05.05-14.47.09:022][888]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.47.09:022][888]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.47.11:166][130]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2023.05.05-14.47.11:404][159]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2023.05.05-14.47.33:974][738]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2023.05.05-14.47.47:339][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.05-14.47.47:370][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.05-14.47.47:377][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.05-14.47.47:390][288]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.05-14.47.47:390][288]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room870E47104D0097BEB08CFE9561AEEAE7.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.05-14.47.47:399][288]LogFileHelpers: Saving map 'Living_Room' took 0.027
+[2023.05.05-14.47.47:405][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 53.7 sec)
+[2023.05.05-14.47.47:407][288]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.05-14.47.47:407][288]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.05-14.47.49:387][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
