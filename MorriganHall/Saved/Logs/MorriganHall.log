@@ -1503,3 +1503,506 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.15-17.05.13:990][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
 [2023.05.15-17.05.14:170][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2023.05.15-17.05.14:382][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.15-17.06.37:411][439]LogClient: High resolution screenshot saved as E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Screenshots/WindowsEditor/HighresScreenshot00000.png
+[2023.05.15-17.06.38:268][507]Cmd: r.ResetRenderTargetsExtent
+[2023.05.15-17.06.38:268][507]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.05.15-17.06.38:269][507]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.05.15-17.07.06:131][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.05.15-17.19.06:939][ 92]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_GlassCabinet.fbx]
+[2023.05.15-17.19.06:949][ 92]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_GlassCabinet.fbx
+[2023.05.15-17.19.06:953][ 92]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.15-17.19.06:984][ 92]LogFbx: Display: Triangulating static mesh Cube
+[2023.05.15-17.19.06:989][ 92]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.05.15-17.19.06:989][ 92]LogFbx: Display: Triangulating static mesh Plane.002
+[2023.05.15-17.19.06:996][ 92]LogStaticMesh: Display: Building static mesh SM_GlassCabinet...
+[2023.05.15-17.19.07:025][ 92]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_GlassCabinet.SM_GlassCabinet
+[2023.05.15-17.19.07:032][ 92]LogStaticMesh: Warning: SM_GlassCabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.15-17.19.07:032][ 92]LogStaticMesh: Warning: SM_GlassCabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.15-17.19.08:205][ 92]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.05.15-17.19.08:212][ 92]LogEditorFactories: -- imported successfully
+[2023.05.15-17.19.08:213][ 92]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.15-17.19.08:213][ 92]FBXImport: Warning: SM_GlassCabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.05.15-17.19.08:213][ 92]FBXImport: Warning: SM_GlassCabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.05.15-17.19.08:214][ 92]LogStaticMesh: Display: Building static mesh SM_GlassCabinet...
+[2023.05.15-17.19.08:220][ 92]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Aziz/Assets/SM_GlassCabinet.SM_GlassCabinet
+[2023.05.15-17.19.08:220][ 92]LogStaticMesh: Warning: SM_GlassCabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.05.15-17.19.08:220][ 92]LogStaticMesh: Warning: SM_GlassCabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.05.15-17.19.28:040][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.19.28:074][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-17.19.28:080][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.15-17.19.28:131][129]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-17.19.28:131][129]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomD44C4B364F1EA48D0E5DB9A8495F303C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-17.19.28:139][129]LogFileHelpers: No new changes to save!
+[2023.05.15-17.19.28:139][129]LogFileHelpers: Saving map 'Living_Room' took 0.066
+[2023.05.15-17.19.28:145][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.41 sec)
+[2023.05.15-17.19.28:148][129]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-17.19.28:148][129]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-17.19.36:059][613]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.05.15-17.19.36:081][613]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.05.15-17.19.36:088][614]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.05.15-17.19.39:835][ 64]LogContentBrowser: Attempting asset rename: NewMaterial -> MM_Glass
+[2023.05.15-17.19.39:836][ 64]LogContentBrowser: End creating deferred item NewMaterial
+[2023.05.15-17.19.40:153][101]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.19.40:156][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-17.19.40:275][101]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.40:275][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.40:275][101]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.40:280][101]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: ================================================
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Total job queries 493, among them cache hits 104 (21.10%)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 241 distinct outputs (63.76%)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: RAM used: 2.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Shaders Compiled: 239
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Jobs assigned 243, completed 239 (98.35%)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Average time worker was idle: 52.46 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Time job spent in pending queue: average 3.57 s, longest 14.92 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Job execution time: average 1.30 s, max 4.40 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Job life time (pending + execution): average 4.93 s, max 16.95
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 53.58 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Average processing rate: 4.46 jobs/sec
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Total thread time: 234.38 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Total thread preprocess time: 9.87 s
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Percentage time preprocessing: 4.21%
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Effective parallelization: 4.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 2.13 sec, max 2.56 sec, min 1.78 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   27 times, average 1.95 sec, max 2.57 sec, min 1.42 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   45 times, average 1.02 sec, max 1.78 sec, min 0.76 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    5 times, average 0.99 sec, max 1.08 sec, min 0.90 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.49% of total time (compiled   27 times, average 1.95 sec, max 2.57 sec, min 1.42 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.53% of total time (compiled   45 times, average 1.02 sec, max 1.78 sec, min 0.76 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.23% of total time (compiled   45 times, average 0.95 sec, max 1.11 sec, min 0.69 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.72% of total time (compiled   14 times, average 2.13 sec, max 2.56 sec, min 1.78 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.46% of total time (compiled   32 times, average 0.84 sec, max 0.93 sec, min 0.65 sec)
+[2023.05.15-17.19.41:115][145]LogShaderCompilers: Display: ================================================
+[2023.05.15-17.19.41:435][162]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.15-17.19.41:435][162]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.41:435][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.41:435][162]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.19.41:540][169]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.05.15-17.19.41:541][169]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.15-17.19.41:541][169]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.19.41:541][169]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.41:541][169]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.19.42:588][234]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.42:588][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.42:588][234]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.42:631][236]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.05.15-17.19.42:631][236]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.05.15-17.19.42:631][236]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.19.42:631][236]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.42:631][236]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.19.43:965][324]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.43:965][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.43:965][324]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.44:941][390]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.44:942][390]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.44:942][390]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.44:942][390]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.19.46:942][531]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.46:942][531]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.46:942][531]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.46:985][534]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.46:985][534]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.46:985][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.46:985][534]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.19.53:122][984]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.53:122][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.53:122][984]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.53:150][986]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.53:150][986]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.53:150][986]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.53:150][986]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.19.54:387][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.54:387][ 74]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.54:387][ 74]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.54:412][ 76]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.54:412][ 76]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.54:412][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.54:412][ 76]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.19.55:524][156]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.55:524][156]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.55:524][156]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.55:549][158]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.55:550][158]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.55:550][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.55:550][158]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.19.56:642][231]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.56:642][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.56:642][231]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.19.57:556][291]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.19.57:556][291]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.57:556][291]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.19.57:658][298]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.19.57:658][298]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.19.57:658][298]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.57:658][298]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.19.59:836][456]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.19.59:836][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.19.59:836][456]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.00:756][519]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.20.00:756][519]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.00:756][519]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.00:829][524]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.00:829][524]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.00:829][524]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.00:829][524]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.20.04:132][752]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.04:132][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.04:132][752]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.05:022][811]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.20.05:022][811]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.05:022][811]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.05:125][818]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.05:125][818]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.05:125][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.05:125][818]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.20.07:734][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.07:734][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.07:734][ 10]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.08:642][ 73]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.20.08:642][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.08:642][ 73]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.08:734][ 78]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.08:734][ 78]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.08:734][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.08:734][ 78]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.20.11:287][255]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.11:287][255]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.11:287][255]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.12:076][302]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.20.12:076][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.12:076][302]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.12:285][314]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.20.12:285][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.12:285][314]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.20.12:376][320]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.12:376][320]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.12:376][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.12:376][320]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.15:027][510]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.15:027][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.15:027][510]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.15:699][553]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.20.15:700][553]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.15:700][553]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.16:006][573]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.16:006][573]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.16:006][573]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.16:006][573]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.22:704][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.22:704][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.22:704][ 69]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.22:762][ 72]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.22:762][ 72]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.22:762][ 72]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.22:762][ 72]MaterialEditorStats: Shader Count: 5
+[2023.05.15-17.20.23:862][143]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.23:862][143]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.23:862][143]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.24:549][184]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.20.24:549][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.24:549][184]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.24:854][203]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.24:854][203]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.24:854][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.24:854][203]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.25:206][224]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.25:206][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.25:206][224]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.25:228][226]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.25:228][226]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.25:228][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.25:228][226]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.26:721][322]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.26:721][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.26:721][322]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.27:402][363]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.20.27:402][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.27:402][363]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.27:802][388]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.27:802][388]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.27:802][388]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.27:802][388]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.20.28:004][401]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.28:004][401]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.20.28:004][401]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.28:004][401]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.30:112][541]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.30:112][541]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.30:112][541]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.30:145][543]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.30:145][543]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.20.30:145][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.30:145][543]MaterialEditorStats: Shader Count: 5
+[2023.05.15-17.20.31:203][611]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.20.31:203][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.31:203][611]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.20.31:911][653]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.20.31:911][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.31:911][653]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.20.32:211][672]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.32:211][672]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.20.32:211][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.32:211][672]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.20.32:512][692]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.32:512][692]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.20.32:512][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.32:512][692]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.20.37:353][ 30]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.20.37:781][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.05.15-17.20.38:546][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.15-17.20.38:571][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.20.40:425][ 30]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.20.40:425][ 30]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Glass4425189F453DAE3B1DE56A83C5EB842C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.20.40:434][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.86 sec (total: 4.27 sec)
+[2023.05.15-17.20.40:436][ 30]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.20.40:436][ 30]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.20.40:437][ 30]MaterialEditorStats: Base pass shader: 831 instructions
+[2023.05.15-17.20.40:437][ 30]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.20.40:437][ 30]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.20.40:437][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.20.40:437][ 30]MaterialEditorStats: Shader Count: 19
+[2023.05.15-17.20.41:414][ 93]LogSlate: Window 'MM_Glass' being destroyed
+[2023.05.15-17.20.41:456][ 93]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-17.20.41:457][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-17.21.04:142][485]Cmd: TRANSACTION UNDO
+[2023.05.15-17.21.04:142][485]LogEditorTransaction: Undo Create Actors
+[2023.05.15-17.21.12:976][262]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.21.12:980][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-17.21.13:121][262]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.21.13:121][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.13:121][262]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.21.13:126][262]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.15-17.21.13:928][304]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.21.13:928][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.13:928][304]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.21.14:335][325]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.14:335][325]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.21.14:335][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.14:335][325]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.21.14:638][345]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.14:638][345]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.21.14:638][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.14:638][345]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.21.20:276][736]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.21.20:276][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.20:276][736]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.21.21:002][772]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.21.21:002][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.21:002][772]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.21.21:306][789]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.21:307][789]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.21.21:307][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.21:307][789]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.21.21:611][808]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.21:611][808]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.21.21:611][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.21:611][808]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.21.22:896][892]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.21.22:896][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.22:896][892]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.21.22:935][894]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.22:935][894]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.15-17.21.22:935][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.22:935][894]MaterialEditorStats: Shader Count: 5
+[2023.05.15-17.21.23:512][927]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.21.23:512][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.23:512][927]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.21.24:172][965]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.21.24:172][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.24:172][965]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.21.24:487][983]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.21.24:487][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.24:487][983]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.21.24:575][989]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.24:575][989]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.21.24:575][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.24:575][989]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.21.24:826][  6]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.21.25:246][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.15-17.21.26:095][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.15-17.21.26:102][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.21.27:599][  6]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.21.27:599][  6]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Glass839C5B8042D230ED616C798ADDF97459.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.21.27:607][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.50 sec (total: 5.77 sec)
+[2023.05.15-17.21.27:610][  6]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.21.27:610][  6]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.21.27:612][  6]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.05.15-17.21.27:612][  6]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.21.27:612][  6]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.21.27:612][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.21.27:612][  6]MaterialEditorStats: Shader Count: 15
+[2023.05.15-17.21.44:894][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low
+[2023.05.15-17.21.44:894][699]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low
+[2023.05.15-17.21.44:894][699]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_227
+[2023.05.15-17.21.46:703][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low
+[2023.05.15-17.21.46:703][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low
+[2023.05.15-17.21.46:705][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Bookshelf/Books_low.Books_low as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_228
+[2023.05.15-17.22.22:254][407]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.22.22:254][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.22:254][407]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.22.23:048][453]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.22.23:048][453]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.23:048][453]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.22.23:369][469]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.22.23:369][469]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.22.23:369][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.23:369][469]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.22.24:267][525]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.22.24:682][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.15-17.22.25:444][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.05.15-17.22.25:471][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.22.27:191][525]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.22.27:191][525]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Glass2F2310CE4B60AFCDDCBC6A828BA43E35.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.22.27:199][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.72 sec (total: 7.50 sec)
+[2023.05.15-17.22.27:201][525]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.22.27:202][525]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.22.27:202][525]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.05.15-17.22.27:202][525]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.22.27:202][525]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.22.27:202][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.27:202][525]MaterialEditorStats: Shader Count: 15
+[2023.05.15-17.22.40:906][799]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.22.40:906][799]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.40:906][799]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: ================================================
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Total job queries 798, among them cache hits 304 (38.10%)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Tracking 482 distinct input hashes that result in 282 distinct outputs (58.51%)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: RAM used: 3.67 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Shaders Compiled: 343
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Jobs assigned 347, completed 343 (98.85%)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Average time worker was idle: 48.86 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Time job spent in pending queue: average 2.53 s, longest 14.92 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Job execution time: average 1.21 s, max 4.40 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Job life time (pending + execution): average 3.77 s, max 16.95
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.51 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Jobs were issued in 347 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Average processing rate: 3.96 jobs/sec
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Total thread time: 325.64 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Total thread preprocess time: 13.95 s
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Percentage time preprocessing: 4.28%
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Effective parallelization: 3.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   28 times, average 1.94 sec, max 2.57 sec, min 1.42 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   29 times, average 1.84 sec, max 2.56 sec, min 1.35 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    3 times, average 1.37 sec, max 1.47 sec, min 1.27 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   49 times, average 1.01 sec, max 1.78 sec, min 0.76 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.27% of total time (compiled   61 times, average 0.92 sec, max 1.11 sec, min 0.69 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.68% of total time (compiled   28 times, average 1.94 sec, max 2.57 sec, min 1.42 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.36% of total time (compiled   29 times, average 1.84 sec, max 2.56 sec, min 1.35 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.16% of total time (compiled   49 times, average 1.01 sec, max 1.78 sec, min 0.76 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.11% of total time (compiled   36 times, average 0.82 sec, max 0.93 sec, min 0.65 sec)
+[2023.05.15-17.22.41:584][841]LogShaderCompilers: Display: ================================================
+[2023.05.15-17.22.41:599][842]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.22.41:599][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.41:599][842]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.22.41:896][860]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.22.41:896][860]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.22.41:896][860]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.41:896][860]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.22.42:489][901]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.22.42:869][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.05.15-17.22.43:732][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.15-17.22.43:742][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.22.45:308][901]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.22.45:308][901]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Glass00DC93664C34B28AA492FCB441823DC3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.22.45:314][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.57 sec (total: 9.07 sec)
+[2023.05.15-17.22.45:317][901]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.22.45:317][901]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.22.45:319][901]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.05.15-17.22.45:319][901]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.22.45:319][901]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.22.45:319][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.22.45:319][901]MaterialEditorStats: Shader Count: 15
+[2023.05.15-17.24.03:259][701]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2023.05.15-17.24.18:718][314]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.24.18:718][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.18:718][314]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.24.19:642][371]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.24.19:642][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.19:642][371]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.24.19:930][387]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.24.19:931][387]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.24.19:931][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.19:931][387]MaterialEditorStats: Shader Count: 4
+[2023.05.15-17.24.21:127][461]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.24.21:519][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.15-17.24.22:292][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.15-17.24.22:316][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.24.23:990][461]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.24.23:990][461]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_GlassEB97D6084C520D87F1D0B1BA4DC6B3FF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.24.23:996][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.67 sec (total: 10.7 sec)
+[2023.05.15-17.24.23:999][461]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.24.23:999][461]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.24.24:000][461]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.05.15-17.24.24:000][461]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.24.24:000][461]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.24.24:000][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.24:000][461]MaterialEditorStats: Shader Count: 15
+[2023.05.15-17.24.24:505][492]LogSlate: Window 'MM_Glass' being destroyed
+[2023.05.15-17.24.24:557][492]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-17.24.24:557][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-17.24.31:547][147]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.24.31:550][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-17.24.31:697][147]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.24.31:697][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.31:697][147]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.24.31:703][147]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.15-17.24.32:393][186]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-17.24.32:393][186]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.32:393][186]MaterialEditorStats: Shader Count: 1
+[2023.05.15-17.24.32:690][203]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-17.24.32:691][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.32:691][203]MaterialEditorStats: Shader Count: 3
+[2023.05.15-17.24.32:793][208]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-17.24.32:793][208]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.32:793][208]MaterialEditorStats: Shader Count: 0
+[2023.05.15-17.24.33:808][270]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.24.33:808][270]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.24.33:808][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.33:808][270]MaterialEditorStats: Shader Count: 2
+[2023.05.15-17.24.34:782][335]LogMaterialEditor: Saving and Compiling material MM_Glass
+[2023.05.15-17.24.35:179][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.15-17.24.35:941][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.05.15-17.24.35:964][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.24.37:543][335]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/MM_Glass
+[2023.05.15-17.24.37:543][335]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Glass1D53ABF4449653A243D0558BCF1C9305.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/MM_Glass.uasset'
+[2023.05.15-17.24.37:551][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.58 sec (total: 12.3 sec)
+[2023.05.15-17.24.37:553][335]AssetCheck: New page: Asset Save: MM_Glass
+[2023.05.15-17.24.37:553][335]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/MM_Glass.MM_Glass
+[2023.05.15-17.24.37:554][335]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.05.15-17.24.37:554][335]MaterialEditorStats: Base pass vertex shader: 279 instructions
+[2023.05.15-17.24.37:554][335]MaterialEditorStats: Texture samplers: 3/16
+[2023.05.15-17.24.37:554][335]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.05.15-17.24.37:554][335]MaterialEditorStats: Shader Count: 13
+[2023.05.15-17.24.39:946][495]LogSlate: Window 'MM_Glass' being destroyed
+[2023.05.15-17.24.39:963][495]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-17.24.39:964][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-17.24.57:512][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.24.57:548][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-17.24.57:554][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.15-17.24.57:585][459]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-17.24.57:586][459]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room0CEC065941A157A0D1F833A3BC138FB1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-17.24.57:594][459]LogFileHelpers: No new changes to save!
+[2023.05.15-17.24.57:594][459]LogFileHelpers: Saving map 'Living_Room' took 0.047
+[2023.05.15-17.24.57:600][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 12.4 sec)
+[2023.05.15-17.24.57:603][459]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-17.24.57:603][459]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-17.24.59:434][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.15-17.25.00:602][653]LogSlate: Window 'Save Content' being destroyed
+[2023.05.15-17.25.00:609][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-17.25.00:711][653]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_GlassCabinet
+[2023.05.15-17.25.00:711][653]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_GlassCabinet885C30EF46384E716FB5BE8A693B9F5F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_GlassCabinet.uasset'
+[2023.05.15-17.25.00:719][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 12.5 sec)
+[2023.05.15-17.25.00:722][653]AssetCheck: New page: Asset Save: SM_GlassCabinet
+[2023.05.15-17.25.00:722][653]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_GlassCabinet.SM_GlassCabinet
