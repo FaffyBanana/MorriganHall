@@ -1146,3 +1146,265 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.15-19.51.56:051][344]AssetCheck: New page: Asset Save: Living_Room
 [2023.05.15-19.51.56:051][344]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.05.15-19.51.57:878][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.15-19.54.29:720][402]Cmd: TRANSACTION UNDO
+[2023.05.15-19.54.29:720][402]LogEditorTransaction: Undo Move Elements
+[2023.05.15-19.54.42:023][687]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.15-19.54.42:045][689]LogShaderCompilers: Display: ================================================
+[2023.05.15-19.54.42:045][689]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.15-19.54.42:045][689]LogShaderCompilers: Display: Total job queries 206, among them cache hits 68 (33.01%)
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 107 distinct outputs (77.54%)
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: RAM used: 1.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.15-19.54.42:046][689]LogShaderCompilers: Display: ================================================
+[2023.05.15-19.54.49:187][473]Cmd: ACTOR HIDE SELECTED
+[2023.05.15-19.55.06:785][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-19.55.06:814][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-19.55.06:819][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.05.15-19.55.06:852][459]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-19.55.06:853][459]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room717860624D48EBB81A10A9BD783B698C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-19.55.06:861][459]LogFileHelpers: No new changes to save!
+[2023.05.15-19.55.06:861][459]LogFileHelpers: Saving map 'Living_Room' took 0.047
+[2023.05.15-19.55.06:878][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 262 ms)
+[2023.05.15-19.55.06:881][459]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-19.55.06:881][459]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-19.55.26:650][688]Cmd: DELETE
+[2023.05.15-19.55.26:650][688]Cmd: ACTOR DELETE
+[2023.05.15-19.55.26:654][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-19.55.26:655][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-19.55.26:660][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.15-19.55.26:660][688]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2023.05.15-19.55.36:835][841]Cmd: DELETE
+[2023.05.15-19.55.36:835][841]Cmd: ACTOR DELETE
+[2023.05.15-19.55.36:838][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.05.15-19.55.36:844][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.15-19.55.36:845][841]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.05.15-19.56.44:466][657]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace.SM_Fireplace
+[2023.05.15-19.56.44:604][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-19.56.45:248][657]LogViewport: Scene viewport resized to 1242x894, mode Windowed.
+[2023.05.15-19.57.07:740][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.08:033][ 97]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.09:127][147]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.05.15-19.57.09:160][147]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.10:798][225]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.11:047][225]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.11:695][251]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.05.15-19.57.11:732][251]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.12:790][304]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.13:036][304]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.16:153][487]LogEditorTransaction: Undo StaticMesh: Material changed
+[2023.05.15-19.57.16:188][487]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Assets/Aziz/Assets/Fireplace/SM_Fireplace) ...
+[2023.05.15-19.57.33:126][560]LogSlate: Window 'SM_Fireplace' being destroyed
+[2023.05.15-19.57.33:190][560]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-19.57.33:190][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-19.59.23:486][548]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.15-19.59.26:341][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.05.15-19.59.26:341][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.05.15-19.59.26:343][874]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_0
+[2023.05.15-19.59.26:343][874]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_0
+[2023.05.15-20.00.05:554][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.00.05:586][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-20.00.05:594][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.15-20.00.05:626][220]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-20.00.05:626][220]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room5762E7394DE1262A0D8425B101AC20CA.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-20.00.05:636][220]LogFileHelpers: No new changes to save!
+[2023.05.15-20.00.05:636][220]LogFileHelpers: Saving map 'Living_Room' took 0.050
+[2023.05.15-20.00.05:643][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 351 ms)
+[2023.05.15-20.00.05:645][220]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-20.00.05:646][220]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: ================================================
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Total job queries 236, among them cache hits 71 (30.08%)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Tracking 165 distinct input hashes that result in 120 distinct outputs (72.73%)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: RAM used: 1.35 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 0.90 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 1.82 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 2.73
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.74 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Average processing rate: 3.65 jobs/sec
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Total thread time: 9.96 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Total thread preprocess time: 0.43 s
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Percentage time preprocessing: 4.27%
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Effective parallelization: 3.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.73 sec, max 1.74 sec, min 1.72 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.99 sec, max 1.00 sec, min 0.98 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.91 sec, max 0.93 sec, min 0.89 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.80 sec, max 0.81 sec, min 0.80 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.68% of total time (compiled    2 times, average 1.73 sec, max 1.74 sec, min 1.72 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.94% of total time (compiled    2 times, average 0.99 sec, max 1.00 sec, min 0.98 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.26% of total time (compiled    2 times, average 0.91 sec, max 0.93 sec, min 0.89 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.16% of total time (compiled    2 times, average 0.80 sec, max 0.81 sec, min 0.80 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.96% of total time (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2023.05.15-20.00.46:960][925]LogShaderCompilers: Display: ================================================
+[2023.05.15-20.00.49:165][141]LogInterchangeEngine: [Pending] Importing
+[2023.05.15-20.00.49:170][141]LogInterchangeImport: JPEG file [C:/Users/demaz/Desktop/31e51c3331f6ef04c8a6d2fdb440a773.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.05.15-20.00.49:187][142]LogInterchangeEngine: [Pending] Importing
+[2023.05.15-20.00.49:192][142]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.00.49:195][142]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773.31e51c3331f6ef04c8a6d2fdb440a773 (TFO_AutoDXT, 640x640 x1x1x1) (Required Memory Estimate: 68.395823 MB), EncodeSpeed: Fast
+[2023.05.15-20.00.49:222][143]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.00.58:680][877]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773_Mat.31e51c3331f6ef04c8a6d2fdb440a773_Mat
+[2023.05.15-20.00.58:685][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.00.58:804][877]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-20.00.58:804][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.00.58:804][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.00.58:804][877]MaterialEditorStats: Shader Count: 0
+[2023.05.15-20.00.58:808][877]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.15-20.00.58:811][877]LogViewport: Scene viewport resized to 391x392, mode Windowed.
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.00.58:878][879]MaterialEditorStats: Shader Count: 5
+[2023.05.15-20.01.00:774][ 10]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-20.01.00:774][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.00:774][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.00:774][ 10]MaterialEditorStats: Shader Count: 0
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.00:832][ 12]MaterialEditorStats: Shader Count: 5
+[2023.05.15-20.01.01:900][ 97]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-20.01.01:900][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.01:900][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.01:900][ 97]MaterialEditorStats: Shader Count: 0
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.01:975][100]MaterialEditorStats: Shader Count: 5
+[2023.05.15-20.01.04:678][295]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-20.01.04:678][295]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.04:678][295]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.04:678][295]MaterialEditorStats: Shader Count: 0
+[2023.05.15-20.01.05:276][327]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-20.01.05:276][327]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.05:276][327]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.05:276][327]MaterialEditorStats: Shader Count: 1
+[2023.05.15-20.01.05:489][339]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.01.05:489][339]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-20.01.05:489][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.05:489][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.05:489][339]MaterialEditorStats: Shader Count: 3
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: Base pass shader: 181 instructions
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.05:576][344]MaterialEditorStats: Shader Count: 4
+[2023.05.15-20.01.05:823][357]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.15-20.01.05:823][357]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.05:823][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.05:823][357]MaterialEditorStats: Shader Count: 0
+[2023.05.15-20.01.06:503][392]MaterialEditorStats: Texture samplers: 1/16
+[2023.05.15-20.01.06:503][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.06:503][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.06:503][392]MaterialEditorStats: Shader Count: 1
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: Base pass shader: 181 instructions
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: Texture samplers: 2/16
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.15-20.01.06:804][409]MaterialEditorStats: Shader Count: 4
+[2023.05.15-20.01.07:278][443]LogMaterialEditor: Saving and Compiling material 31e51c3331f6ef04c8a6d2fdb440a773_Mat
+[2023.05.15-20.01.07:733][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.15-20.01.08:532][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.05.15-20.01.08:556][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.01.09:702][443]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773_Mat
+[2023.05.15-20.01.09:702][443]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/31e51c3331f6ef04c8a6d2fdb440a773A0C753F8484581AC18BDD596A578ADB0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773_Mat.uasset'
+[2023.05.15-20.01.09:710][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 1.50 sec)
+[2023.05.15-20.01.09:713][443]AssetCheck: New page: Asset Save: 31e51c3331f6ef04c8a6d2fdb440a773_Mat
+[2023.05.15-20.01.09:713][443]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773_Mat.31e51c3331f6ef04c8a6d2fdb440a773_Mat
+[2023.05.15-20.01.10:385][484]LogSlate: Window '31e51c3331f6ef04c8a6d2fdb440a773_Mat' being destroyed
+[2023.05.15-20.01.10:397][484]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.01.10:397][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.02.39:823][233]LogInterchangeEngine: [Pending] Importing
+[2023.05.15-20.02.39:823][233]LogInterchangeImport: JPEG file [C:/Users/demaz/Desktop/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.05.15-20.02.39:833][234]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor (BGRA8, 249x280 x1x1x1) (Required Memory Estimate: 2.101532 MB), EncodeSpeed: Fast
+[2023.05.15-20.02.39:849][234]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.02.39:853][234]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.02.46:934][922]LogMaterial: Display: Material /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.05.15-20.04.00:818][360]LogViewport: Scene viewport resized to 1028x572, mode Windowed.
+[2023.05.15-20.04.01:988][360]LogViewport: Scene viewport resized to 1529x869, mode Windowed.
+[2023.05.15-20.04.04:352][599]LogViewport: Scene viewport resized to 1028x572, mode Windowed.
+[2023.05.15-20.04.05:322][599]LogViewport: Scene viewport resized to 1529x869, mode Windowed.
+[2023.05.15-20.04.12:139][312]LogViewport: Scene viewport resized to 1529x420, mode Windowed.
+[2023.05.15-20.04.15:423][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.15:423][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.15:423][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.15:439][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.15:439][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.15:439][645]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.16:067][706]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path E:/Program Files/Unreal Engine/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.05.15-20.04.17:506][863]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2023.05.15-20.04.17:583][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2023.05.15-20.04.17:584][863]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2023.05.15-20.04.17:605][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-20.04.17:611][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-20.04.17:617][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-20.04.17:623][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.15-20.04.17:639][863]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2023.05.15-20.04.17:659][863]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.15-20.04.22:678][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.04.22:716][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-20.04.22:722][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.15-20.04.22:755][409]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-20.04.22:755][409]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room0250A4FD477C78E791999F8FA4A93D2C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-20.04.22:765][409]LogFileHelpers: No new changes to save!
+[2023.05.15-20.04.22:765][409]LogFileHelpers: Saving map 'Living_Room' took 0.050
+[2023.05.15-20.04.22:772][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.59 sec)
+[2023.05.15-20.04.22:775][409]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-20.04.22:775][409]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-20.04.24:608][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.15-20.04.25:512][604]LogSlate: Window 'Save Content' being destroyed
+[2023.05.15-20.04.25:521][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.04.25:556][604]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773
+[2023.05.15-20.04.25:556][604]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/31e51c3331f6ef04c8a6d2fdb440a7739909AB8342BE217532A662A56ACD084B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773.uasset'
+[2023.05.15-20.04.25:560][604]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor
+[2023.05.15-20.04.25:560][604]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/4dbbf9e7afb8f20859dd4b7af89e6fae02834E8B4BC96F4E265BE48AAF149D0A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor.uasset'
+[2023.05.15-20.04.25:587][604]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat
+[2023.05.15-20.04.25:587][604]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/4dbbf9e7afb8f20859dd4b7af89e6fae63992CD04485134A0E491E91B2FB0AEF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat.uasset'
+[2023.05.15-20.04.25:596][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.67 sec)
+[2023.05.15-20.04.25:602][604]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat
+[2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773.31e51c3331f6ef04c8a6d2fdb440a773
+[2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor
