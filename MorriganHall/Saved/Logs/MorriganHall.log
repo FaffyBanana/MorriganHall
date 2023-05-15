@@ -1593,3 +1593,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.15-20.18.24:982][414]AssetCheck: New page: Asset Save: Living_Room
 [2023.05.15-20.18.24:982][414]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.05.15-20.18.30:243][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.05.15-20.28.33:966][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.05.15-20.28.33:968][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.008
+[2023.05.15-20.29.16:459][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.29.16:483][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-20.29.16:489][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.05.15-20.29.16:521][605]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-20.29.16:521][605]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room0AA416284B366FA58CBB7E83643BF23A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-20.29.16:533][605]LogFileHelpers: No new changes to save!
+[2023.05.15-20.29.16:533][605]LogFileHelpers: Saving map 'Living_Room' took 0.050
+[2023.05.15-20.29.16:539][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 2.48 sec)
+[2023.05.15-20.29.16:543][605]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-20.29.16:543][605]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-20.29.18:993][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
