@@ -1408,3 +1408,154 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor_Mat
 [2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/31e51c3331f6ef04c8a6d2fdb440a773.31e51c3331f6ef04c8a6d2fdb440a773
 [2023.05.15-20.04.25:602][604]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor.4dbbf9e7afb8f20859dd4b7af89e6fae--wood-material-texture-texture-floor
+[2023.05.15-20.05.13:184][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.05.13:214][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-20.05.13:219][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.05.15-20.05.13:250][788]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-20.05.13:251][788]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room7719AD9C4FCEAA4DC6AF30821DDC8AA0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-20.05.13:259][788]LogFileHelpers: No new changes to save!
+[2023.05.15-20.05.13:259][788]LogFileHelpers: Saving map 'Living_Room' took 0.046
+[2023.05.15-20.05.13:266][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.75 sec)
+[2023.05.15-20.05.13:270][788]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-20.05.13:270][788]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-20.08.58:338][993]LogInterchangeEngine: [Pending] Importing
+[2023.05.15-20.08.58:362][994]LogInterchangeEngine: [Pending] Importing
+[2023.05.15-20.08.58:423][997]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.08.58:424][997]LogTexture: Display: Building textures: /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector (TFO_AutoDXT, 1920x1920 x1x1x1) (Required Memory Estimate: 253.1875 MB), EncodeSpeed: Fast
+[2023.05.15-20.08.58:462][998]LogInterchangeEngine: [Success] Import Done
+[2023.05.15-20.10.53:083][783]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx]
+[2023.05.15-20.10.53:091][783]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WallTile.fbx
+[2023.05.15-20.10.53:095][783]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.15-20.10.53:127][783]LogFbx: Display: Triangulating static mesh Plane
+[2023.05.15-20.10.53:135][783]LogStaticMesh: Display: Building static mesh SM_WallTile...
+[2023.05.15-20.10.53:164][783]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.15-20.10.54:409][783]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.05.15-20.10.54:417][783]LogEditorFactories: -- imported successfully
+[2023.05.15-20.10.54:417][783]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.15-20.10.54:418][783]LogStaticMesh: Display: Building static mesh SM_WallTile...
+[2023.05.15-20.10.54:420][783]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.15-20.10.59:196][171]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.15-20.10.59:225][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.10.59:483][171]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2023.05.15-20.11.09:482][ 12]LogViewport: Scene viewport resized to 693x372, mode Windowed.
+[2023.05.15-20.11.11:186][ 18]LogViewport: Scene viewport resized to 753x372, mode Windowed.
+[2023.05.15-20.11.13:178][110]LogViewport: Scene viewport resized to 1026x597, mode Windowed.
+[2023.05.15-20.11.13:512][110]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: ================================================
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Total job queries 364, among them cache hits 118 (32.42%)
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Tracking 215 distinct input hashes that result in 154 distinct outputs (71.63%)
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: RAM used: 1.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Shaders Compiled: 60
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Jobs assigned 68, completed 60 (88.24%)
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Average time worker was idle: 124.84 s
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 2.71 s
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 2.62 s
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Job life time (pending + execution): average 1.63 s, max 3.42
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.71 s
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Jobs were issued in 64 batches (only local compilation was used), average 1.06 jobs/batch
+[2023.05.15-20.11.27:465][414]LogShaderCompilers: Display: Average processing rate: 4.08 jobs/sec
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Total thread time: 52.30 s
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Total thread preprocess time: 2.37 s
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Percentage time preprocessing: 4.53%
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Effective parallelization: 3.55 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 2.38 sec, max 2.38 sec, min 2.38 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.79 sec, max 1.79 sec, min 1.79 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.71 sec, max 1.87 sec, min 1.55 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.28 sec, max 1.59 sec, min 0.98 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.36% of total time (compiled    5 times, average 1.71 sec, max 1.87 sec, min 1.55 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.98% of total time (compiled    7 times, average 0.89 sec, max 1.00 sec, min 0.62 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.47% of total time (compiled    7 times, average 0.86 sec, max 0.98 sec, min 0.64 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.17% of total time (compiled    6 times, average 0.80 sec, max 0.89 sec, min 0.69 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.44% of total time (compiled    7 times, average 0.56 sec, max 0.63 sec, min 0.49 sec)
+[2023.05.15-20.11.27:466][414]LogShaderCompilers: Display: ================================================
+[2023.05.15-20.11.37:170][209]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile2.SM_WallTile2
+[2023.05.15-20.11.37:185][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.11.37:460][209]LogViewport: Scene viewport resized to 693x372, mode Windowed.
+[2023.05.15-20.11.38:818][300]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.15-20.11.40:153][387]LogSlate: Window 'SM_WallTile2' being destroyed
+[2023.05.15-20.11.40:160][387]LogSlate: Window 'SM_WallTile2' being destroyed
+[2023.05.15-20.11.40:195][387]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.11.40:195][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.11.40:225][387]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.11.40:225][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.11.42:263][576]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.15-20.11.42:310][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.11.42:589][576]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.15-20.11.47:498][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.11.47:555][992]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile
+[2023.05.15-20.11.47:556][992]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile8CBA4DA2467D68B5EF3F7392E64826ED.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile.uasset'
+[2023.05.15-20.11.47:569][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.82 sec)
+[2023.05.15-20.11.47:572][992]AssetCheck: New page: Asset Save: SM_WallTile
+[2023.05.15-20.11.47:572][992]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile.SM_WallTile
+[2023.05.15-20.11.49:816][146]LogSlate: Window 'SM_WallTile' being destroyed
+[2023.05.15-20.11.49:849][146]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.11.49:849][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.13.57:616][717]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WallTile2.fbx]
+[2023.05.15-20.13.57:626][717]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WallTile2.fbx
+[2023.05.15-20.13.57:630][717]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.15-20.13.57:660][717]LogFbx: Display: Triangulating static mesh Plane
+[2023.05.15-20.13.57:669][717]LogStaticMesh: Display: Building static mesh SM_WallTile2...
+[2023.05.15-20.13.57:697][717]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WallTile2.SM_WallTile2
+[2023.05.15-20.13.58:794][717]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.05.15-20.13.58:802][717]LogEditorFactories: -- imported successfully
+[2023.05.15-20.13.58:802][717]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.15-20.14.05:884][240]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx]
+[2023.05.15-20.14.05:892][240]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx
+[2023.05.15-20.14.05:896][240]LogFbx: FBX Scene Loaded Succesfully
+[2023.05.15-20.14.05:928][240]LogFbx: Display: Triangulating static mesh Plane
+[2023.05.15-20.14.05:936][240]LogStaticMesh: Display: Building static mesh SM_WindowTile...
+[2023.05.15-20.14.05:968][240]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.15-20.14.06:904][240]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.05.15-20.14.06:911][240]LogEditorFactories: -- imported successfully
+[2023.05.15-20.14.06:912][240]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.05.15-20.14.07:927][297]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.15-20.14.07:966][297]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.14.08:229][297]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.15-20.14.12:749][731]LogMaterial: Display: Material /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.05.15-20.14.14:322][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.14.14:374][827]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowTile
+[2023.05.15-20.14.14:374][827]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowTile0AEA87054EBBC386B19788877E1D9C0B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowTile.uasset'
+[2023.05.15-20.14.14:382][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 1.88 sec)
+[2023.05.15-20.14.14:385][827]AssetCheck: New page: Asset Save: SM_WindowTile
+[2023.05.15-20.14.14:385][827]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowTile.SM_WindowTile
+[2023.05.15-20.14.15:322][891]LogSlate: Window 'SM_WindowTile' being destroyed
+[2023.05.15-20.14.15:358][891]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.14.15:358][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.14.18:623][213]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile2.SM_WallTile2
+[2023.05.15-20.14.18:669][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.15-20.14.18:928][213]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.05.15-20.14.24:317][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.14.24:367][652]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile2
+[2023.05.15-20.14.24:367][652]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile25B1354C4469DCBC1A74B4DA7B798BFCE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile2.uasset'
+[2023.05.15-20.14.24:377][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.94 sec)
+[2023.05.15-20.14.24:384][652]AssetCheck: New page: Asset Save: SM_WallTile2
+[2023.05.15-20.14.24:384][652]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile2.SM_WallTile2
+[2023.05.15-20.14.24:978][691]LogSlate: Window 'SM_WallTile2' being destroyed
+[2023.05.15-20.14.25:016][691]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.15-20.14.25:016][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.15-20.14.29:764][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.14.29:792][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.15-20.14.29:800][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.15-20.14.29:832][243]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.05.15-20.14.29:832][243]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room1643D3CF4AE884462D1EDE835C915B8C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.05.15-20.14.29:841][243]LogFileHelpers: No new changes to save!
+[2023.05.15-20.14.29:841][243]LogFileHelpers: Saving map 'Living_Room' took 0.050
+[2023.05.15-20.14.29:849][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.02 sec)
+[2023.05.15-20.14.29:854][243]AssetCheck: New page: Asset Save: Living_Room
+[2023.05.15-20.14.29:854][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.05.15-20.14.34:355][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.15-20.14.35:525][760]LogSlate: Window 'Save Content' being destroyed
+[2023.05.15-20.14.35:534][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.15-20.14.35:629][760]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector
+[2023.05.15-20.14.35:629][760]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/floral-seamless-pattern-flower-b2EC63DE648DB67F840627AA604F6D1EB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector.uasset'
+[2023.05.15-20.14.35:658][760]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.05.15-20.14.35:658][760]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/floral-seamless-pattern-flower-bF968AD0D433D3CE264A72CBDC14F9B6B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.uasset'
+[2023.05.15-20.14.35:667][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2.16 sec)
+[2023.05.15-20.14.35:671][760]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.15-20.14.35:671][760]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.05.15-20.14.35:671][760]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector
