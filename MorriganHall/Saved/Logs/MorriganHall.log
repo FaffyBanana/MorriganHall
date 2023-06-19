@@ -1535,3 +1535,79 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-17.36.39:307][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.58 sec)
 [2023.06.19-17.36.39:311][678]AssetCheck: New page: Asset Save: SM_LargePots
 [2023.06.19-17.36.39:311][678]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.37.32:069][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.37.32:100][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.37.32:105][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.19-17.37.32:144][569]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.37.32:145][569]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room01CBF928420A7C83B788D4ADCC1DAEDE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.37.32:153][569]LogFileHelpers: No new changes to save!
+[2023.06.19-17.37.32:153][569]LogFileHelpers: Saving map 'Living_Room' took 0.053
+[2023.06.19-17.37.32:161][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.68 sec)
+[2023.06.19-17.37.32:166][569]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.37.32:166][569]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.43.53:514][431]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_InnerWindow.fbx)
+[2023.06.19-17.43.53:518][431]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_InnerWindow.fbx
+[2023.06.19-17.43.53:523][431]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.43.54:441][431]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-17.43.54:498][431]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.06.19-17.43.54:499][431]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.06.19-17.43.54:500][431]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.06.19-17.43.54:508][431]LogStaticMesh: Display: Building static mesh SM_InnerWindow...
+[2023.06.19-17.43.54:545][431]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_InnerWindow.SM_InnerWindow
+[2023.06.19-17.43.54:560][431]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.43.55:870][541]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.43.55:877][541]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.44.02:577][256]Cmd: DUPLICATE
+[2023.06.19-17.44.02:577][256]Cmd: ACTOR DUPLICATE
+[2023.06.19-17.44.02:598][256]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.06.19-17.44.02:641][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-17.44.02:917][256]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.06.19-17.44.03:740][313]LogSlate: Window 'SM_WindowFrame' being destroyed
+[2023.06.19-17.44.03:748][313]LogSlate: Window 'SM_WindowFrame' being destroyed
+[2023.06.19-17.44.03:780][313]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-17.44.03:780][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-17.44.06:818][658]Cmd: TRANSACTION UNDO
+[2023.06.19-17.44.06:818][658]LogEditorTransaction: Undo Move Elements
+[2023.06.19-17.44.07:379][685]Cmd: TRANSACTION UNDO
+[2023.06.19-17.44.07:379][685]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.19-17.44.11:394][ 65]Cmd: DELETE
+[2023.06.19-17.44.11:394][ 65]Cmd: ACTOR DELETE
+[2023.06.19-17.44.11:399][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.19-17.44.11:408][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.19-17.44.11:410][ 65]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2023.06.19-17.44.13:801][332]Cmd: TRANSACTION UNDO
+[2023.06.19-17.44.13:801][332]LogEditorTransaction: Undo Move Elements
+[2023.06.19-17.44.16:261][522]Cmd: TRANSACTION UNDO
+[2023.06.19-17.44.16:261][522]LogEditorTransaction: Undo Move Elements
+[2023.06.19-17.44.17:108][594]Cmd: DUPLICATE
+[2023.06.19-17.44.17:108][594]Cmd: ACTOR DUPLICATE
+[2023.06.19-17.44.19:658][842]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.44.19:658][842]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.19-17.44.19:658][842]LogShaderCompilers: Display: Total job queries 271, among them cache hits 75 (27.68%)
+[2023.06.19-17.44.19:658][842]LogShaderCompilers: Display: Tracking 196 distinct input hashes that result in 142 distinct outputs (72.45%)
+[2023.06.19-17.44.19:658][842]LogShaderCompilers: Display: RAM used: 1.56 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.06.19-17.44.19:659][842]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.19-17.44.19:659][842]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.19-17.44.19:659][842]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.19-17.44.19:659][842]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.19-17.44.19:659][842]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.44.38:055][884]LogEditorViewport: Clicking Background
+[2023.06.19-17.44.47:841][ 29]LogEditorViewport: Clicking Background
+[2023.06.19-17.44.53:460][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.44.53:498][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.44.53:506][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.19-17.44.53:547][671]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.44.53:548][671]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room129512EC4776206F15112981836602CD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.44.53:558][671]LogFileHelpers: No new changes to save!
+[2023.06.19-17.44.53:558][671]LogFileHelpers: Saving map 'Living_Room' took 0.061
+[2023.06.19-17.44.53:566][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.78 sec)
+[2023.06.19-17.44.53:573][671]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.44.53:573][671]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.44.55:323][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.19-17.44.56:251][863]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.44.56:260][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.44.56:323][863]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_InnerWindow
+[2023.06.19-17.44.56:323][863]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_InnerWindow90B46EDC46660428B2AD46AF77E492BD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_InnerWindow.uasset'
+[2023.06.19-17.44.56:332][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 1.85 sec)
+[2023.06.19-17.44.56:335][863]AssetCheck: New page: Asset Save: SM_InnerWindow
+[2023.06.19-17.44.56:335][863]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_InnerWindow.SM_InnerWindow
