@@ -1227,3 +1227,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-19.03.14:610][ 28]AssetCheck: New page: Asset Save: SM_Skirting
 [2023.06.19-19.03.14:610][ 28]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
 [2023.06.19-19.03.24:055][922]LogClient: High resolution screenshot saved as E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
+[2023.06.19-19.05.56:371][685]Cmd: r.ResetRenderTargetsExtent
+[2023.06.19-19.05.56:371][685]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.06.19-19.05.56:374][685]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.06.19-19.16.23:558][  9]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx)
+[2023.06.19-19.16.23:562][  9]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx
+[2023.06.19-19.16.23:567][  9]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.16.24:929][  9]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-19.16.24:993][  9]LogFbx: Display: Triangulating static mesh Cube.009
+[2023.06.19-19.16.25:014][  9]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.06.19-19.16.25:032][  9]LogStaticMesh: Display: Building static mesh SM_WallTile4...
+[2023.06.19-19.16.25:088][  9]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.16.25:109][  9]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.16.26:266][ 91]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-19.16.26:273][ 91]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-19.16.31:937][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.16.31:937][638]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.16.31:937][638]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_80
+[2023.06.19-19.16.32:674][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.16.32:674][700]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.16.32:675][700]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_82
+[2023.06.19-19.17.08:467][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.19-19.17.08:540][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto1
+[2023.06.19-19.17.08:540][958]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room_Auto18BC93CBB461165AB2D799FB89D4E7357.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Living_Room_Auto1.umap'
+[2023.06.19-19.17.08:548][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.089
+[2023.06.19-19.17.08:548][958]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2023.06.19-19.17.08:548][958]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Aziz/Assets/SM_WallTile4] ([1] browsable assets)...
+[2023.06.19-19.17.08:583][958]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4]
+[2023.06.19-19.17.08:583][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Aziz/Assets/SM_WallTile4]
+[2023.06.19-19.17.08:587][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Aziz/Assets/SM_WallTile4_Auto1
+[2023.06.19-19.17.08:587][958]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile4_Auto19852AFEA464BAB09643D1EB21135BCAC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Aziz/Assets/SM_WallTile4_Auto1.uasset'
+[2023.06.19-19.17.08:587][958]LogFileHelpers: Auto-saving content packages took 0.039
+[2023.06.19-19.17.19:475][365]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx]
+[2023.06.19-19.17.19:485][365]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx
+[2023.06.19-19.17.19:489][365]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.17.19:523][365]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.06.19-19.17.19:572][365]LogStaticMesh: Display: Building static mesh SM_WallTile4...
+[2023.06.19-19.17.19:629][365]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.17.19:648][365]LogEditorFactories: -- imported successfully
+[2023.06.19-19.17.19:649][365]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.17.40:999][506]Cmd: ACTOR HIDE SELECTED
+[2023.06.19-19.17.41:146][522]Cmd: ACTOR HIDE SELECTED
+[2023.06.19-19.17.41:938][616]Cmd: TRANSACTION UNDO
+[2023.06.19-19.17.41:938][616]LogEditorTransaction: Undo Hide Selected
+[2023.06.19-19.17.42:150][623]Cmd: TRANSACTION UNDO
+[2023.06.19-19.17.42:150][623]LogEditorTransaction: Undo Move Elements
+[2023.06.19-19.18.14:077][788]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx]
+[2023.06.19-19.18.14:088][788]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WallTile4.fbx
+[2023.06.19-19.18.14:092][788]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.18.14:126][788]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.06.19-19.18.14:177][788]LogStaticMesh: Display: Building static mesh SM_WallTile4...
+[2023.06.19-19.18.14:225][788]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.18.14:245][788]LogEditorFactories: -- imported successfully
+[2023.06.19-19.18.14:246][788]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.18.44:347][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.18.44:380][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-19.18.44:388][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.19-19.18.44:430][662]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-19.18.44:430][662]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room6937CEF444D898DE168B0681271CC913.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-19.18.44:439][662]LogFileHelpers: No new changes to save!
+[2023.06.19-19.18.44:439][662]LogFileHelpers: Saving map 'Living_Room' took 0.059
+[2023.06.19-19.18.44:449][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 504 ms)
+[2023.06.19-19.18.44:452][662]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-19.18.44:452][662]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-19.18.50:420][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.19-19.18.51:556][108]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-19.18.51:569][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.18.51:631][108]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile4
+[2023.06.19-19.18.51:631][108]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile4D57100E44C80B8225FD79EB5FE1DEA89.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile4.uasset'
+[2023.06.19-19.18.51:641][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 576 ms)
+[2023.06.19-19.18.51:644][108]AssetCheck: New page: Asset Save: SM_WallTile4
+[2023.06.19-19.18.51:644][108]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.18.59:594][933]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: ================================================
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: Total job queries 278, among them cache hits 95 (34.17%)
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: Tracking 183 distinct input hashes that result in 134 distinct outputs (73.22%)
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: RAM used: 1.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.19-19.18.59:667][938]LogShaderCompilers: Display: ================================================
+[2023.06.19-19.19.09:513][885]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.19.09:565][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-19.19.09:890][885]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.06.19-19.19.14:122][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.19.14:192][220]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WallTile4
+[2023.06.19-19.19.14:193][220]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile41E5CADE2432EE8661F4580A7BB429BDF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WallTile4.uasset'
+[2023.06.19-19.19.14:203][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 657 ms)
+[2023.06.19-19.19.14:208][220]AssetCheck: New page: Asset Save: SM_WallTile4
+[2023.06.19-19.19.14:208][220]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WallTile4.SM_WallTile4
+[2023.06.19-19.19.14:807][257]LogSlate: Window 'SM_WallTile4' being destroyed
+[2023.06.19-19.19.14:853][257]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-19.19.14:853][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-19.19.23:029][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.19.23:071][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-19.19.23:079][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.19-19.19.23:125][145]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-19.19.23:126][145]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomC1776CBE412D640A28760088D35AA173.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-19.19.23:136][145]LogFileHelpers: No new changes to save!
+[2023.06.19-19.19.23:136][145]LogFileHelpers: Saving map 'Living_Room' took 0.064
+[2023.06.19-19.19.23:147][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 775 ms)
+[2023.06.19-19.19.23:152][145]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-19.19.23:152][145]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-19.19.26:383][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.19-19.19.57:747][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.19.57:786][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-19.19.57:793][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.19-19.19.57:835][371]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-19.19.57:835][371]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room70C59A5F413C523BD82C229733F24887.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-19.19.57:845][371]LogFileHelpers: No new changes to save!
+[2023.06.19-19.19.57:845][371]LogFileHelpers: Saving map 'Living_Room' took 0.058
+[2023.06.19-19.19.57:852][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 880 ms)
+[2023.06.19-19.19.57:856][371]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-19.19.57:856][371]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-19.19.59:455][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
