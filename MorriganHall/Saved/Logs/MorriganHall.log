@@ -1174,3 +1174,56 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-19.00.03:919][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 244 ms)
 [2023.06.19-19.00.03:923][535]AssetCheck: New page: Asset Save: Living_Room
 [2023.06.19-19.00.03:923][535]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-19.00.38:384][558]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.00.38:384][558]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.00.38:384][558]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_75
+[2023.06.19-19.00.39:971][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.00.39:971][737]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.00.39:972][737]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_78
+[2023.06.19-19.00.42:918][ 41]Cmd: TRANSACTION UNDO
+[2023.06.19-19.00.42:918][ 41]LogEditorTransaction: Undo Rotate Elements
+[2023.06.19-19.00.43:549][ 64]Cmd: TRANSACTION UNDO
+[2023.06.19-19.00.43:549][ 64]LogEditorTransaction: Undo Rotate Elements
+[2023.06.19-19.01.18:751][959]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx]
+[2023.06.19-19.01.18:761][959]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx
+[2023.06.19-19.01.18:765][959]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.01.18:791][959]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.06.19-19.01.18:800][959]LogStaticMesh: Display: Building static mesh SM_Skirting...
+[2023.06.19-19.01.18:830][959]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.01.18:843][959]LogEditorFactories: -- imported successfully
+[2023.06.19-19.01.18:843][959]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.01.47:424][925]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx]
+[2023.06.19-19.01.47:434][925]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx
+[2023.06.19-19.01.47:438][925]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.01.47:470][925]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.06.19-19.01.47:477][925]LogStaticMesh: Display: Building static mesh SM_Skirting...
+[2023.06.19-19.01.47:509][925]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.01.47:521][925]LogEditorFactories: -- imported successfully
+[2023.06.19-19.01.47:523][925]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.02.31:838][616]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx]
+[2023.06.19-19.02.31:847][616]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_Skirting.fbx
+[2023.06.19-19.02.31:851][616]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-19.02.31:879][616]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.06.19-19.02.31:887][616]LogStaticMesh: Display: Building static mesh SM_Skirting...
+[2023.06.19-19.02.31:921][616]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.02.31:935][616]LogEditorFactories: -- imported successfully
+[2023.06.19-19.02.31:936][616]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-19.03.11:311][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.03.11:340][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-19.03.11:347][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.19-19.03.11:385][839]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-19.03.11:385][839]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room252F6A374ECC2FAF82FC4A82E975F7B6.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-19.03.11:394][839]LogFileHelpers: No new changes to save!
+[2023.06.19-19.03.11:394][839]LogFileHelpers: Saving map 'Living_Room' took 0.055
+[2023.06.19-19.03.11:402][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 335 ms)
+[2023.06.19-19.03.11:406][839]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-19.03.11:406][839]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-19.03.13:273][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.19-19.03.14:530][ 28]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-19.03.14:539][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-19.03.14:598][ 28]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_Skirting
+[2023.06.19-19.03.14:598][ 28]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_Skirting5528E17342C4B0AB5E58F394124A92CE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_Skirting.uasset'
+[2023.06.19-19.03.14:607][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 403 ms)
+[2023.06.19-19.03.14:610][ 28]AssetCheck: New page: Asset Save: SM_Skirting
+[2023.06.19-19.03.14:610][ 28]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_Skirting.SM_Skirting
+[2023.06.19-19.03.24:055][922]LogClient: High resolution screenshot saved as E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Screenshots/WindowsEditor/HighresScreenshot00001.png
