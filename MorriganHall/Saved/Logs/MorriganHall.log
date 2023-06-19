@@ -1410,3 +1410,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-17.25.49:005][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.17 sec)
 [2023.06.19-17.25.49:010][722]AssetCheck: New page: Asset Save: Living_Room
 [2023.06.19-17.25.49:010][722]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.26.16:966][ 47]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Aziz/Assets/SM_RoofSupport.SM_RoofSupport
+[2023.06.19-17.26.17:012][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.19-17.26.17:234][ 47]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: Total job queries 259, among them cache hits 72 (27.80%)
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: Tracking 187 distinct input hashes that result in 136 distinct outputs (72.73%)
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: RAM used: 1.49 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.19-17.26.17:556][ 47]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.26.17:560][ 47]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.06.19-17.26.18:936][114]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.19-17.26.23:355][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.26.23:413][436]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_RoofSupport
+[2023.06.19-17.26.23:413][436]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_RoofSupport383EEBB34FBDE6BE24E596A4B39074E5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_RoofSupport.uasset'
+[2023.06.19-17.26.23:420][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.23 sec)
+[2023.06.19-17.26.23:423][436]AssetCheck: New page: Asset Save: SM_RoofSupport
+[2023.06.19-17.26.23:423][436]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_RoofSupport.SM_RoofSupport
+[2023.06.19-17.26.24:163][485]LogSlate: Window 'SM_RoofSupport' being destroyed
+[2023.06.19-17.26.24:211][485]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.19-17.26.24:211][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.19-17.28.01:259][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.19-17.28.04:937][849]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx)
+[2023.06.19-17.28.04:941][849]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx
+[2023.06.19-17.28.04:945][849]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.28.06:243][849]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-17.28.06:313][849]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.06.19-17.28.06:323][849]LogStaticMesh: Display: Building static mesh SM_Yggdrasil...
+[2023.06.19-17.28.06:364][849]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.06:379][849]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.28.07:513][943]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.28.07:520][943]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.28.12:557][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.12:557][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.12:557][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_257
+[2023.06.19-17.28.13:838][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.13:838][584]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.13:840][584]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_258
+[2023.06.19-17.28.28:286][190]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx]
+[2023.06.19-17.28.28:296][190]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx
+[2023.06.19-17.28.28:299][190]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.28.28:333][190]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.06.19-17.28.28:344][190]LogStaticMesh: Display: Building static mesh SM_Yggdrasil...
+[2023.06.19-17.28.28:384][190]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.28.28:400][190]LogEditorFactories: -- imported successfully
+[2023.06.19-17.28.28:401][190]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.29.02:676][532]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx]
+[2023.06.19-17.29.02:685][532]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_Yggdrasil.fbx
+[2023.06.19-17.29.02:689][532]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.29.02:719][532]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.06.19-17.29.02:730][532]LogStaticMesh: Display: Building static mesh SM_Yggdrasil...
+[2023.06.19-17.29.02:765][532]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.29.02:778][532]LogEditorFactories: -- imported successfully
+[2023.06.19-17.29.02:778][532]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.29.05:504][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.29.05:532][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.29.05:539][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.19-17.29.05:577][740]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.29.05:578][740]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomBF44DCF243431151EB182FB9A45B7E43.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.29.05:586][740]LogFileHelpers: No new changes to save!
+[2023.06.19-17.29.05:586][740]LogFileHelpers: Saving map 'Living_Room' took 0.055
+[2023.06.19-17.29.05:597][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.33 sec)
+[2023.06.19-17.29.05:601][740]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.29.05:601][740]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.29.07:466][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.19-17.29.08:474][898]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.29.08:488][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.29.08:555][898]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_Yggdrasil
+[2023.06.19-17.29.08:555][898]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_YggdrasilDE2AEE4F4732AD5E2560E19B050D547E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_Yggdrasil.uasset'
+[2023.06.19-17.29.08:567][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.41 sec)
+[2023.06.19-17.29.08:572][898]AssetCheck: New page: Asset Save: SM_Yggdrasil
+[2023.06.19-17.29.08:572][898]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
