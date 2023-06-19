@@ -1485,3 +1485,53 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-17.29.08:567][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.41 sec)
 [2023.06.19-17.29.08:572][898]AssetCheck: New page: Asset Save: SM_Yggdrasil
 [2023.06.19-17.29.08:572][898]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.19-17.35.12:581][604]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx)
+[2023.06.19-17.35.12:585][604]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx
+[2023.06.19-17.35.12:590][604]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.35.13:657][604]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-17.35.13:705][604]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2023.06.19-17.35.13:778][604]LogStaticMesh: Display: Building static mesh SM_LargePots...
+[2023.06.19-17.35.13:839][604]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.13:864][604]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.35.15:118][711]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.35.15:125][711]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.35.21:930][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.21:930][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.21:930][429]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_259
+[2023.06.19-17.35.23:366][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.23:366][590]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.23:368][590]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_260
+[2023.06.19-17.35.54:835][540]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx]
+[2023.06.19-17.35.54:844][540]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx
+[2023.06.19-17.35.54:848][540]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.35.54:885][540]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2023.06.19-17.35.54:963][540]LogStaticMesh: Display: Building static mesh SM_LargePots...
+[2023.06.19-17.35.55:027][540]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.35.55:049][540]LogEditorFactories: -- imported successfully
+[2023.06.19-17.35.55:050][540]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.36.27:000][471]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx]
+[2023.06.19-17.36.27:009][471]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_LargePots.fbx
+[2023.06.19-17.36.27:014][471]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.36.27:048][471]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2023.06.19-17.36.27:118][471]LogStaticMesh: Display: Building static mesh SM_LargePots...
+[2023.06.19-17.36.27:171][471]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
+[2023.06.19-17.36.27:195][471]LogEditorFactories: -- imported successfully
+[2023.06.19-17.36.27:196][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.36.36:113][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.36.36:145][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.36.36:151][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.19-17.36.36:191][443]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.36.36:192][443]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room0C58FE564649D489AC65E1A037320FE7.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.36.36:201][443]LogFileHelpers: No new changes to save!
+[2023.06.19-17.36.36:201][443]LogFileHelpers: Saving map 'Living_Room' took 0.057
+[2023.06.19-17.36.36:210][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.50 sec)
+[2023.06.19-17.36.36:215][443]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.36.36:215][443]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.36.38:257][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.06.19-17.36.39:214][678]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.36.39:227][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.36.39:298][678]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_LargePots
+[2023.06.19-17.36.39:298][678]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_LargePotsC8EBE2D646CE23DAB47F209CDC022954.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_LargePots.uasset'
+[2023.06.19-17.36.39:307][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.58 sec)
+[2023.06.19-17.36.39:311][678]AssetCheck: New page: Asset Save: SM_LargePots
+[2023.06.19-17.36.39:311][678]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_LargePots.SM_LargePots
