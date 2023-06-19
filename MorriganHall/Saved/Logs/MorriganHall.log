@@ -1165,3 +1165,161 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.19-17.02.26:178][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 176 ms)
 [2023.06.19-17.02.26:180][214]AssetCheck: New page: Asset Save: SM_WindowFrame
 [2023.06.19-17.02.26:180][214]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.06.19-17.06.45:475][716]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx)
+[2023.06.19-17.06.45:481][716]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx
+[2023.06.19-17.06.45:485][716]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.06.46:640][716]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-17.06.46:690][716]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.06.19-17.06.46:712][716]LogStaticMesh: Display: Building static mesh SM_WindowFrameRoof...
+[2023.06.19-17.06.46:761][716]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.06.46:778][716]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.06.48:142][829]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.06.48:148][829]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.06.50:070][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.06.50:070][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.06.50:071][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_78
+[2023.06.19-17.06.51:554][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.06.51:554][147]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.06.51:556][147]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_79
+[2023.06.19-17.06.56:440][697]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.06.19-17.07.28:236][188]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx]
+[2023.06.19-17.07.28:245][188]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx
+[2023.06.19-17.07.28:250][188]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.07.28:285][188]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.06.19-17.07.28:308][188]LogStaticMesh: Display: Building static mesh SM_WindowFrameRoof...
+[2023.06.19-17.07.28:347][188]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.07.28:364][188]LogEditorFactories: -- imported successfully
+[2023.06.19-17.07.28:365][188]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.09.26:107][126]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx]
+[2023.06.19-17.09.26:116][126]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx
+[2023.06.19-17.09.26:120][126]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.09.26:159][126]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.06.19-17.09.26:185][126]LogStaticMesh: Display: Building static mesh SM_WindowFrameRoof...
+[2023.06.19-17.09.26:224][126]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.09.26:241][126]LogEditorFactories: -- imported successfully
+[2023.06.19-17.09.26:242][126]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.09.28:295][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.19-17.09.29:264][278]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.09.29:275][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.09.29:305][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.09.29:313][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.19-17.09.29:363][278]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.09.29:363][278]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomE7BE37CF4ACB6DA5F09231AA0F208337.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.09.29:373][278]LogFileHelpers: No new changes to save!
+[2023.06.19-17.09.29:373][278]LogFileHelpers: Saving map 'Living_Room' took 0.068
+[2023.06.19-17.09.29:403][278]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowFrameRoof
+[2023.06.19-17.09.29:403][278]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowFrameRoof51B33D4748851F19398582A5BFC75B0C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowFrameRoof.uasset'
+[2023.06.19-17.09.29:414][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 314 ms)
+[2023.06.19-17.09.29:422][278]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.19-17.09.29:422][278]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.09.29:422][278]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.10.27:247][959]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx]
+[2023.06.19-17.10.27:255][959]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrameRoof.fbx
+[2023.06.19-17.10.27:260][959]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.10.27:290][959]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.06.19-17.10.27:313][959]LogStaticMesh: Display: Building static mesh SM_WindowFrameRoof...
+[2023.06.19-17.10.27:349][959]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.10.27:364][959]LogEditorFactories: -- imported successfully
+[2023.06.19-17.10.27:365][959]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.11.14:852][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.11.14:884][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.11.14:890][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.19-17.11.14:927][247]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.11.14:927][247]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room9D8460A446A001357B3961B15C6257AF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.11.14:938][247]LogFileHelpers: No new changes to save!
+[2023.06.19-17.11.14:938][247]LogFileHelpers: Saving map 'Living_Room' took 0.055
+[2023.06.19-17.11.14:945][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 407 ms)
+[2023.06.19-17.11.14:950][247]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.11.14:950][247]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.11.16:517][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.19-17.11.17:401][413]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.11.17:411][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.11.17:471][413]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowFrameRoof
+[2023.06.19-17.11.17:472][413]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowFrameRoofDD5F360D4A1627785A7D618C9F3731BC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowFrameRoof.uasset'
+[2023.06.19-17.11.17:480][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 477 ms)
+[2023.06.19-17.11.17:489][413]AssetCheck: New page: Asset Save: SM_WindowFrameRoof
+[2023.06.19-17.11.17:489][413]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameRoof.SM_WindowFrameRoof
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: Total job queries 249, among them cache hits 72 (28.92%)
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: Tracking 177 distinct input hashes that result in 130 distinct outputs (73.45%)
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: RAM used: 1.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.19-17.12.20:572][832]LogShaderCompilers: Display: ================================================
+[2023.06.19-17.12.27:745][456]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Aziz/Assets/Bookshelf/Books_low_LowPoly3_OcclusionRoughnessMetallic.Books_low_LowPoly3_OcclusionRoughnessMetallic
+[2023.06.19-17.12.27:923][456]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.06.19-17.12.32:055][803]LogSlate: Window 'Books_low_LowPoly3_OcclusionRoughnessMetallic' being destroyed
+[2023.06.19-17.13.01:316][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.13.01:352][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.13.01:359][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.19-17.13.01:398][ 15]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.13.01:399][ 15]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room9535AC2E4196A229F6C6129E8A74E7FB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.13.01:407][ 15]LogFileHelpers: No new changes to save!
+[2023.06.19-17.13.01:407][ 15]LogFileHelpers: Saving map 'Living_Room' took 0.055
+[2023.06.19-17.13.01:414][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 575 ms)
+[2023.06.19-17.13.01:418][ 15]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.13.01:418][ 15]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.16.30:246][325]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowFrameFloor.fbx)
+[2023.06.19-17.16.30:250][325]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/SM_WindowFrameFloor.fbx
+[2023.06.19-17.16.30:254][325]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.16.31:465][325]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.19-17.16.31:515][325]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.06.19-17.16.31:524][325]LogStaticMesh: Display: Building static mesh SM_WindowFrameFloor...
+[2023.06.19-17.16.31:560][325]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.16.31:576][325]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.16.32:762][425]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.16.32:770][425]LogSlate: Window 'Message Log' being destroyed
+[2023.06.19-17.16.38:169][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.16.38:169][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.16.38:169][926]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_80
+[2023.06.19-17.16.39:061][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.16.39:061][ 17]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.16.39:062][ 17]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_81
+[2023.06.19-17.17.34:119][396]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx]
+[2023.06.19-17.17.34:129][396]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx
+[2023.06.19-17.17.34:132][396]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.17.34:167][396]LogFbx: Display: Triangulating static mesh Cube
+[2023.06.19-17.17.34:180][396]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.06.19-17.17.34:212][396]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.06.19-17.17.34:228][396]LogEditorFactories: -- imported successfully
+[2023.06.19-17.17.34:228][396]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.17.49:714][767]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx]
+[2023.06.19-17.17.49:723][767]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx
+[2023.06.19-17.17.49:728][767]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.17.49:761][767]LogFbx: Display: Triangulating static mesh Cube
+[2023.06.19-17.17.49:773][767]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.06.19-17.17.49:806][767]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.06.19-17.17.49:821][767]LogEditorFactories: -- imported successfully
+[2023.06.19-17.17.49:821][767]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.18.06:992][657]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx]
+[2023.06.19-17.18.07:002][657]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx
+[2023.06.19-17.18.07:006][657]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.19-17.18.07:039][657]LogFbx: Display: Triangulating static mesh Cube
+[2023.06.19-17.18.07:052][657]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.06.19-17.18.07:085][657]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.06.19-17.18.07:098][657]LogEditorFactories: -- imported successfully
+[2023.06.19-17.18.07:099][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.19-17.18.12:687][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.18.12:716][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.19-17.18.12:723][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.19-17.18.12:762][132]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.19-17.18.12:762][132]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room86B57207439695ED51F33BA3211523AB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.19-17.18.12:772][132]LogFileHelpers: No new changes to save!
+[2023.06.19-17.18.12:772][132]LogFileHelpers: Saving map 'Living_Room' took 0.055
+[2023.06.19-17.18.12:780][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 668 ms)
+[2023.06.19-17.18.12:784][132]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.19-17.18.12:784][132]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.19-17.18.14:698][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.19-17.18.15:543][339]LogSlate: Window 'Save Content' being destroyed
+[2023.06.19-17.18.15:552][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.19-17.18.15:620][339]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowFrame
+[2023.06.19-17.18.15:620][339]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowFrameFDB0A0A14BC7E611E6FB20B107D2C7B4.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowFrame.uasset'
+[2023.06.19-17.18.15:632][339]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/SM_WindowFrameFloor
+[2023.06.19-17.18.15:632][339]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WindowFrameFloorC87950BB4DD7366350E84AB561F9BC07.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_WindowFrameFloor.uasset'
+[2023.06.19-17.18.15:641][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 756 ms)
+[2023.06.19-17.18.15:644][339]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.19-17.18.15:644][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrameFloor.SM_WindowFrameFloor
+[2023.06.19-17.18.15:644][339]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
