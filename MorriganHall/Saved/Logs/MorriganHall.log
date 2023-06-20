@@ -2426,3 +2426,664 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.20-10.46.29:095][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms
 [2023.06.20-10.46.29:098][319]AssetCheck: New page: Asset Save: test
 [2023.06.20-10.46.29:098][319]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/test.test
+[2023.06.20-10.49.24:342][438]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\sofa\old leather sofa.fbx)
+[2023.06.20-10.49.24:346][438]LogFbx: Loading FBX Scene from C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\sofa\old leather sofa.fbx
+[2023.06.20-10.49.24:350][438]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.20-10.49.27:311][438]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.20-10.49.27:336][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.20-10.49.27:337][438]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.06.20-10.49.27:418][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.20-10.49.27:418][438]FBXImport: Import was canceled. 
+[2023.06.20-10.49.27:462][438]LogAssetTools: The import task was canceled.
+[2023.06.20-10.49.28:933][511]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.49.28:938][511]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.49.37:207][718]LogInterchangeEngine: [Pending] Importing
+[2023.06.20-10.49.37:207][718]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.20-10.49.37:207][718]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.20-10.49.37:207][718]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.06.20-10.49.37:207][718]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.06.20-10.49.37:208][718]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\sofa\old leather sofa.fbx)
+[2023.06.20-10.49.37:212][718]LogFbx: Loading FBX Scene from C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\sofa\old leather sofa.fbx
+[2023.06.20-10.49.37:216][718]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.20-10.49.37:337][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height.Old_leather_sofa_Height (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 442.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.37:338][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic.Old_leather_sofa_Metallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 442.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.37:377][718]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.06.20-10.49.37:377][718]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.20-10.49.37:495][718]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.20-10.49.37:645][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness.Old_leather_sofa_Roughness (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 442.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.38:061][718]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.20-10.49.38:069][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor.Old_leather_sofa_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.38:115][718]LogInterchangeEngine: [Success] Import Done
+[2023.06.20-10.49.38:122][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal.Old_leather_sofa_Normal (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.38:517][718]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.20-10.49.38:620][718]LogFbx: Display: Triangulating static mesh LP
+[2023.06.20-10.49.38:670][718]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.20-10.49.38:761][718]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.06.20-10.49.38:774][718]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal.Old_leather_sofa_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.49.38:859][719]LogInterchangeEngine: [Success] Import Done
+[2023.06.20-10.49.45:412][ 74]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.06.20-10.49.45:418][ 74]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.06.20-10.49.45:425][ 75]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.06.20-10.49.48:494][258]LogContentBrowser: Attempting asset rename: NewMaterial -> sofa
+[2023.06.20-10.49.48:497][258]LogContentBrowser: End creating deferred item NewMaterial
+[2023.06.20-10.49.49:991][344]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Amy/Asset/sofa/sofa.sofa
+[2023.06.20-10.49.49:993][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-10.49.50:065][344]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.49.50:065][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.50:065][344]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.49.50:072][344]LogViewport: Scene viewport resized to 627x393, mode Windowed.
+[2023.06.20-10.49.50:694][379]LogShaderCompilers: Display: ================================================
+[2023.06.20-10.49.50:694][379]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.20-10.49.50:694][379]LogShaderCompilers: Display: Total job queries 1132, among them cache hits 689 (60.87%)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Tracking 439 distinct input hashes that result in 220 distinct outputs (50.11%)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: RAM used: 3.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.41%
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Shaders Compiled: 143
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Jobs assigned 147, completed 143 (97.28%)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Average time worker was idle: 27.55 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.17 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 1.40 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.50
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.96 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Jobs were issued in 147 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Total thread time: 73.88 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Total thread preprocess time: 4.24 s
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Percentage time preprocessing: 5.73%
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Effective parallelization: 1.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   14 times, average 1.08 sec, max 1.20 sec, min 0.99 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 1.08 sec, max 1.16 sec, min 0.97 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   33 times, average 0.48 sec, max 0.55 sec, min 0.40 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   28 times, average 0.46 sec, max 0.55 sec, min 0.36 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   13 times, average 0.43 sec, max 0.50 sec, min 0.36 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.23% of total time (compiled   33 times, average 0.48 sec, max 0.55 sec, min 0.40 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.53% of total time (compiled   14 times, average 1.08 sec, max 1.20 sec, min 0.99 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.41% of total time (compiled   28 times, average 0.46 sec, max 0.55 sec, min 0.36 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 11.71% of total time (compiled    8 times, average 1.08 sec, max 1.16 sec, min 0.97 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.00% of total time (compiled   14 times, average 0.42 sec, max 0.48 sec, min 0.37 sec)
+[2023.06.20-10.49.50:695][379]LogShaderCompilers: Display: ================================================
+[2023.06.20-10.49.50:909][392]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.49.50:909][392]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.49.50:909][392]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.49.50:909][392]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.50:909][392]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.49.59:117][859]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.49.59:117][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.59:117][859]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.49.59:159][861]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.49.59:159][861]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.49.59:159][861]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.49.59:159][861]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.59:159][861]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.49.59:625][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.49.59:626][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.59:626][888]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.49.59:668][890]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.49.59:668][890]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.49.59:668][890]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.49.59:668][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.49.59:668][890]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.00:082][914]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.00:082][914]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.00:082][914]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.00:122][916]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.50.00:122][916]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.50.00:122][916]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.00:122][916]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.00:122][916]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.00:519][939]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.00:520][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.00:520][939]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.00:562][941]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.50.00:562][941]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.50.00:562][941]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.00:562][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.00:562][941]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.01:028][968]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.01:028][968]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.01:028][968]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.01:071][970]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.50.01:071][970]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.50.01:071][970]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.01:071][970]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.01:071][970]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.08:105][359]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.08:105][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.08:105][359]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.08:140][361]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.50.08:140][361]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.50.08:140][361]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.08:140][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.50.08:140][361]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.12:748][618]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.13:328][649]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Base pass shader: 253 instructions
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.13:345][650]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.17:020][855]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.17:619][888]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Base pass shader: 253 instructions
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.17:664][890]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.21:419][ 95]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.21:963][126]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.50.21:964][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.50.21:964][126]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.50.21:964][126]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.21:964][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.21:964][126]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Base pass shader: 274 instructions
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.22:069][132]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.25:282][309]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.25:966][348]MaterialEditorStats: Shader Count: 3
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Base pass shader: 300 instructions
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.26:033][352]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.50.34:138][805]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.50.34:138][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.06.20-10.50.34:139][805]MaterialEditorStats: Virtual Texture Lookups (Est.): 5
+[2023.06.20-10.50.34:139][805]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.34:139][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.34:139][805]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Base pass shader: 319 instructions
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Texture samplers: 5/16
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Virtual Texture Lookups (Est.): 5
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.34:261][808]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.50.37:390][987]LogMaterialEditor: Applying material sofa
+[2023.06.20-10.50.37:809][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.20-10.50.37:997][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: Texture samplers: 5/16
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: Virtual Texture Lookups (Est.): 5
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.38:016][988]MaterialEditorStats: Shader Count: 2
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Base pass shader: 319 instructions
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Texture samplers: 5/16
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Virtual Texture Lookups (Est.): 5
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.50.38:077][990]MaterialEditorStats: Shader Count: 7
+[2023.06.20-10.50.43:558][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa
+[2023.06.20-10.50.43:558][310]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa
+[2023.06.20-10.50.43:558][310]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_10
+[2023.06.20-10.50.45:134][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa
+[2023.06.20-10.50.45:134][403]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa
+[2023.06.20-10.50.45:136][403]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_12
+[2023.06.20-10.50.54:315][942]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.50.54:320][942]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.51.00:512][299]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.20-10.51.25:967][793]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa
+[2023.06.20-10.51.25:991][793]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-10.51.26:207][793]LogViewport: Scene viewport resized to 1543x1117, mode Windowed.
+[2023.06.20-10.51.46:652][980]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-10.51.46:652][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-10.56.16:819][649]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.06.20-10.56.16:827][649]LogContentBrowser: Creating deferred item: NewWorld
+[2023.06.20-10.56.16:840][650]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.06.20-10.56.18:887][771]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2023.06.20-10.56.18:896][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-10.56.18:897][771]LogContentBrowser: End creating deferred item NewWorld
+[2023.06.20-10.56.21:843][943]LogObjectTools: Deleting 1 worlds: /Game/Assets/Amy/Asset/NewWorld.NewWorld
+[2023.06.20-10.56.21:854][943]LogObjectTools: Currently 5 active worlds: /Game/Assets/Amy/test.test, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2023.06.20-10.56.21:862][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.20-10.56.23:389][943]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.20-10.56.23:399][943]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-10.56.23:399][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-10.56.23:407][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.20-10.56.23:415][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.20-10.56.23:422][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.06.20-10.56.36:329][700]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.20-10.56.36:337][700]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.20-10.56.36:347][701]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.20-10.56.41:538][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> violincase
+[2023.06.20-10.56.41:539][ 11]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.20-10.56.48:154][249]LogInterchangeEngine: [Pending] Importing
+[2023.06.20-10.56.48:154][249]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.20-10.56.48:154][249]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.20-10.56.48:154][249]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.06.20-10.56.48:155][249]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\violincase\ukphae2aw_LOD4.fbx)
+[2023.06.20-10.56.48:158][249]LogFbx: Loading FBX Scene from C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\violincase\ukphae2aw_LOD4.fbx
+[2023.06.20-10.56.48:161][249]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.20-10.56.48:209][249]LogInterchangeImport: JPEG file [C:/Users/xiiao/Desktop/Master/Module5/asset/onlineasset/violincase/ukphae2aw_4K_Displacement.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.20-10.56.48:212][249]LogInterchangeImport: JPEG file [C:/Users/xiiao/Desktop/Master/Module5/asset/onlineasset/violincase/ukphae2aw_4K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.20-10.56.48:215][249]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.20-10.56.48:219][249]LogInterchangeImport: JPEG file [C:/Users/xiiao/Desktop/Master/Module5/asset/onlineasset/violincase/ukphae2aw_4K_Albedo_LOD4.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.20-10.56.48:223][249]LogInterchangeImport: JPEG file [C:/Users/xiiao/Desktop/Master/Module5/asset/onlineasset/violincase/ukphae2aw_4K_Normal_LOD4.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.20-10.56.48:262][249]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.20-10.56.48:262][249]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.20-10.56.48:339][249]LogInterchangeEngine: [Success] Import Done
+[2023.06.20-10.56.48:347][249]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement.ukphae2aw_4K_Displacement (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.56.48:697][249]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness.ukphae2aw_4K_Roughness (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.56.49:164][249]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4.ukphae2aw_4K_Albedo_LOD4 (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.56.49:192][249]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.20-10.56.49:343][249]LogStaticMesh: Display: Building static mesh ukphae2aw_LOD4...
+[2023.06.20-10.56.49:446][249]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4
+[2023.06.20-10.56.49:460][249]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.20-10.56.49:768][249]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4.ukphae2aw_4K_Normal_LOD4 (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.56.50:116][250]LogInterchangeEngine: [Success] Import Done
+[2023.06.20-10.56.50:315][250]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.06.20-10.56.50:511][253]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4.ukphae2aw_4K_Normal_LOD4 (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.20-10.56.51:834][324]LogSlate: Window 'sofa' being destroyed
+[2023.06.20-10.56.51:842][324]LogSlate: Window 'sofa' being destroyed
+[2023.06.20-10.56.51:850][324]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-10.56.51:850][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-10.56.51:866][324]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-10.56.51:866][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-10.56.53:220][405]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.56.53:226][405]LogSlate: Window 'Message Log' being destroyed
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: ================================================
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Total job queries 1387, among them cache hits 882 (63.59%)
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Tracking 501 distinct input hashes that result in 242 distinct outputs (48.30%)
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: RAM used: 3.79 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.46%
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Shaders Compiled: 195
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Jobs assigned 199, completed 195 (97.99%)
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Average time worker was idle: 35.84 s
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.17 s
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 1.40 s
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.50
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.79 s
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Jobs were issued in 199 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.20-10.56.55:152][516]LogShaderCompilers: Display: Average processing rate: 3.92 jobs/sec
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Total thread time: 100.06 s
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Total thread preprocess time: 5.83 s
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Percentage time preprocessing: 5.82%
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Effective parallelization: 2.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.09 sec, max 1.20 sec, min 0.99 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    8 times, average 1.08 sec, max 1.16 sec, min 0.97 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   50 times, average 0.48 sec, max 0.64 sec, min 0.40 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   45 times, average 0.47 sec, max 0.62 sec, min 0.36 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   13 times, average 0.43 sec, max 0.50 sec, min 0.36 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.00% of total time (compiled   50 times, average 0.48 sec, max 0.64 sec, min 0.40 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.11% of total time (compiled   45 times, average 0.47 sec, max 0.62 sec, min 0.36 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.66% of total time (compiled   19 times, average 1.09 sec, max 1.20 sec, min 0.99 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.64% of total time (compiled    8 times, average 1.08 sec, max 1.16 sec, min 0.97 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.98% of total time (compiled   19 times, average 0.42 sec, max 0.48 sec, min 0.37 sec)
+[2023.06.20-10.56.55:153][516]LogShaderCompilers: Display: ================================================
+[2023.06.20-10.56.55:506][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4
+[2023.06.20-10.56.55:506][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4
+[2023.06.20-10.56.55:506][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4 as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_14
+[2023.06.20-10.56.56:785][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4
+[2023.06.20-10.56.56:785][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4
+[2023.06.20-10.56.56:786][608]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4 as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_16
+[2023.06.20-10.56.58:754][722]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Amy/Asset/violincase/_mat__mat__mat_defaultMat._mat__mat__mat_defaultMat
+[2023.06.20-10.56.58:757][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-10.56.58:873][722]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.56.58:873][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.56.58:873][722]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.56.58:878][722]LogViewport: Scene viewport resized to 628x394, mode Windowed.
+[2023.06.20-10.56.58:939][724]MaterialEditorStats: Base pass shader: 179 instructions
+[2023.06.20-10.56.58:939][724]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.56.58:939][724]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.56.58:939][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.56.58:939][724]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.57.01:008][845]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.57.01:008][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.57.01:008][845]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.57.01:602][880]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.20-10.57.01:602][880]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.20-10.57.01:602][880]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.57.01:602][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.20-10.57.01:602][880]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.09:982][356]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.10:529][386]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Base pass shader: 253 instructions
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.11:428][439]MaterialEditorStats: Shader Count: 5
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.17:291][778]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.17:788][805]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.17:888][811]MaterialEditorStats: Shader Count: 3
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.18:809][859]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.19:363][890]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.19:479][897]MaterialEditorStats: Shader Count: 3
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Base pass shader: 299 instructions
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.19:580][903]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.21:484][  9]MaterialEditorStats: Shader Count: 0
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.22:038][ 39]MaterialEditorStats: Shader Count: 1
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.22:152][ 45]MaterialEditorStats: Shader Count: 3
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Base pass shader: 299 instructions
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.22:248][ 50]MaterialEditorStats: Shader Count: 4
+[2023.06.20-10.57.22:657][ 73]LogMaterialEditor: Applying material _mat__mat__mat_defaultMat
+[2023.06.20-10.57.23:158][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.20-10.57.23:894][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.20-10.57.23:909][ 73]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.23:910][ 73]MaterialEditorStats: Shader Count: 7
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Base pass shader: 299 instructions
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.20-10.57.23:948][ 75]MaterialEditorStats: Shader Count: 8
+[2023.06.20-10.57.24:672][117]LogSlate: Window '_mat__mat__mat_defaultMat' being destroyed
+[2023.06.20-10.57.24:679][117]LogSlate: Window '_mat__mat__mat_defaultMat' being destroyed
+[2023.06.20-10.57.24:696][117]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-10.57.24:696][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-10.57.25:582][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.20-10.57.40:322][ 36]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.20-10.58.18:158][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.06.20-10.58.18:167][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/test_Auto1
+[2023.06.20-10.58.18:168][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/test_Auto1548DC8804906CFDAFE8C10ABFD601760.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/test_Auto1.umap'
+[2023.06.20-10.58.18:174][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/test' took 0.022
+[2023.06.20-10.58.18:174][ 53]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2023.06.20-10.58.18:174][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublebasscase_close_cbm] ([1] browsable assets)...
+[2023.06.20-10.58.18:277][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/doublebass_Case/Doublebasscase_close_cbm.Doublebasscase_close_cbm]
+[2023.06.20-10.58.18:277][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublebasscase_close_cbm]
+[2023.06.20-10.58.18:750][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublebasscase_close_cbm_Auto1
+[2023.06.20-10.58.18:751][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublebasscase_close_cbm_Auto1DF6BA0DE438D06529094CD847E78D8B3.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublebasscase_close_cbm_Auto1.uasset'
+[2023.06.20-10.58.18:754][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.06.20-10.58.18:757][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_OcclusionRoughnessMetallic.Doublecase_V1_wood_OcclusionRoughnessMetallic]
+[2023.06.20-10.58.18:757][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_OcclusionRoughnessMetallic]
+[2023.06.20-10.58.18:824][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_OcclusionRoughnessMetallic_Auto1
+[2023.06.20-10.58.18:825][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_wood_OcclusionRougAB9F7DAB469D6AB5895F128E2C2B9E67.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.06.20-10.58.18:827][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_BaseColor] ([1] browsable assets)...
+[2023.06.20-10.58.18:831][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_BaseColor.Doublecase_V1_metal_BaseColor]
+[2023.06.20-10.58.18:831][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_BaseColor]
+[2023.06.20-10.58.18:896][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_BaseColor_Auto1
+[2023.06.20-10.58.18:899][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_metal_BaseColor_AuB14C09B64BC88B828CEA4A8C92862022.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_BaseColor_Auto1.uasset'
+[2023.06.20-10.58.18:902][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_Normal] ([1] browsable assets)...
+[2023.06.20-10.58.18:904][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_Normal.Doublecase_V1_metal_Normal]
+[2023.06.20-10.58.18:904][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_Normal]
+[2023.06.20-10.58.19:059][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_Normal_Auto1
+[2023.06.20-10.58.19:060][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_metal_Normal_Auto17B90E8ED4DD87488E013C0B6B84882A5.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_Normal_Auto1.uasset'
+[2023.06.20-10.58.19:063][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.06.20-10.58.19:065][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_OcclusionRoughnessMetallic.Doublecase_V1_metal_OcclusionRoughnessMetallic]
+[2023.06.20-10.58.19:065][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_OcclusionRoughnessMetallic]
+[2023.06.20-10.58.19:678][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_OcclusionRoughnessMetallic_Auto1
+[2023.06.20-10.58.19:679][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_metal_OcclusionRouCE9530C848161F43188E30A4A5D3BEED.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_metal_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.06.20-10.58.19:682][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_BaseColor] ([1] browsable assets)...
+[2023.06.20-10.58.19:685][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_BaseColor.Doublecase_V1_wood_BaseColor]
+[2023.06.20-10.58.19:685][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_BaseColor]
+[2023.06.20-10.58.19:763][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_BaseColor_Auto1
+[2023.06.20-10.58.19:764][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_wood_BaseColor_Aut32B9E72C413DD450683C27A2D526D672.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_BaseColor_Auto1.uasset'
+[2023.06.20-10.58.19:767][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_Normal] ([1] browsable assets)...
+[2023.06.20-10.58.19:770][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_Normal.Doublecase_V1_wood_Normal]
+[2023.06.20-10.58.19:770][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_Normal]
+[2023.06.20-10.58.19:840][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_Normal_Auto1
+[2023.06.20-10.58.19:841][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Doublecase_V1_wood_Normal_Auto123433A4C45148221D646599959C7E959.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/doublebass_Case/Doublecase_V1_wood_Normal_Auto1.uasset'
+[2023.06.20-10.58.19:844][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf] ([1] browsable assets)...
+[2023.06.20-10.58.19:868][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf.Old_Dusty_Bookshelf]
+[2023.06.20-10.58.19:868][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf]
+[2023.06.20-10.58.19:874][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Auto1
+[2023.06.20-10.58.19:874][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Auto11B67B4B1437E04EC9EBAEE89ECBCF185.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Auto1.uasset'
+[2023.06.20-10.58.19:877][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse] ([1] browsable assets)...
+[2023.06.20-10.58.19:881][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse.Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse]
+[2023.06.20-10.58.19:881][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse]
+[2023.06.20-10.58.19:892][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse_Auto1
+[2023.06.20-10.58.19:892][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M0C1ED8C841E7B3CB97DE1FAE5D8D593C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Diffuse_Auto1.uasset'
+[2023.06.20-10.58.19:894][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor] ([1] browsable assets)...
+[2023.06.20-10.58.19:897][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor.Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor]
+[2023.06.20-10.58.19:897][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor]
+[2023.06.20-10.58.19:949][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor_Auto1
+[2023.06.20-10.58.19:949][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_MC269542442E7062452799DBCD6CFB819.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_BaseColor_Auto1.uasset'
+[2023.06.20-10.58.19:951][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness] ([1] browsable assets)...
+[2023.06.20-10.58.19:953][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness.Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness]
+[2023.06.20-10.58.19:953][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness]
+[2023.06.20-10.58.19:958][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness_Auto1
+[2023.06.20-10.58.19:958][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_MD20899314EFA668F1C3B3E94F7DC2E5D.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Glossiness_Auto1.uasset'
+[2023.06.20-10.58.19:960][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Height] ([1] browsable assets)...
+[2023.06.20-10.58.19:962][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Height.Old_Dusty_Bookshelf_Spiderwebs_Mat_Height]
+[2023.06.20-10.58.19:962][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Height]
+[2023.06.20-10.58.19:966][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Height_Auto1
+[2023.06.20-10.58.19:966][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M8E3D2888409243C7A4027490E1DBEB6C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Height_Auto1.uasset'
+[2023.06.20-10.58.19:968][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic] ([1] browsable assets)...
+[2023.06.20-10.58.19:970][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic.Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic]
+[2023.06.20-10.58.19:970][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic]
+[2023.06.20-10.58.19:975][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic_Auto1
+[2023.06.20-10.58.19:975][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M0323C9854D29D0D0B99C67BB299073AA.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Metallic_Auto1.uasset'
+[2023.06.20-10.58.19:977][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX_] ([1] browsable assets)...
+[2023.06.20-10.58.19:981][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX_.Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX_]
+[2023.06.20-10.58.19:981][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX_]
+[2023.06.20-10.58.20:058][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX__Auto1
+[2023.06.20-10.58.20:058][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M82A1C66E48018245F311C0B6959C1E69.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_DirectX__Auto1.uasset'
+[2023.06.20-10.58.20:061][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL_] ([1] browsable assets)...
+[2023.06.20-10.58.20:064][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL_.Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL_]
+[2023.06.20-10.58.20:064][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL_]
+[2023.06.20-10.58.20:152][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL__Auto1
+[2023.06.20-10.58.20:152][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M749EDAF44874C28FDA6C6F9C332B4F9C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Normal_OpenGL__Auto1.uasset'
+[2023.06.20-10.58.20:154][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity] ([1] browsable assets)...
+[2023.06.20-10.58.20:159][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity.Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity]
+[2023.06.20-10.58.20:159][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity]
+[2023.06.20-10.58.20:162][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity_Auto1
+[2023.06.20-10.58.20:162][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_MBEDA362B4964A59466027CBA2A63D1D3.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Opacity_Auto1.uasset'
+[2023.06.20-10.58.20:165][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness] ([1] browsable assets)...
+[2023.06.20-10.58.20:169][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness.Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness]
+[2023.06.20-10.58.20:169][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness]
+[2023.06.20-10.58.20:176][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness_Auto1
+[2023.06.20-10.58.20:176][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_M3D33B31041296A7846C6EE94A975463C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_Roughness_Auto1.uasset'
+[2023.06.20-10.58.20:178][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl] ([1] browsable assets)...
+[2023.06.20-10.58.20:181][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl.Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl]
+[2023.06.20-10.58.20:181][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl]
+[2023.06.20-10.58.20:186][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl_Auto1
+[2023.06.20-10.58.20:186][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_Dusty_Bookshelf_Spiderwebs_MAD33FC5C425E9DC8F19F35A98514E2B2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/bookshelf/Old_Dusty_Bookshelf_Spiderwebs_Mat_SpecularLvl_Auto1.uasset'
+[2023.06.20-10.58.20:188][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:210][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_LOD4.uc1kebzfa_LOD4]
+[2023.06.20-10.58.20:210][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_LOD4]
+[2023.06.20-10.58.20:216][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_LOD4_Auto1
+[2023.06.20-10.58.20:216][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/uc1kebzfa_LOD4_Auto1AC1A0C13481123EC231A2FB9156CE72E.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:219][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Normal_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:222][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Normal_LOD4.uc1kebzfa_4K_Normal_LOD4]
+[2023.06.20-10.58.20:222][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Normal_LOD4]
+[2023.06.20-10.58.20:241][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Normal_LOD4_Auto1
+[2023.06.20-10.58.20:241][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/uc1kebzfa_4K_Normal_LOD4_Auto18EDAF61B4CAAF143925DFE9F13A8C1DE.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Normal_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:243][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Displacement] ([1] browsable assets)...
+[2023.06.20-10.58.20:254][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Displacement.uc1kebzfa_4K_Displacement]
+[2023.06.20-10.58.20:254][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Displacement]
+[2023.06.20-10.58.20:257][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Displacement_Auto1
+[2023.06.20-10.58.20:257][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/uc1kebzfa_4K_Displacement_Auto167D110A3474BD8BCB6813C9F3EC89873.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Displacement_Auto1.uasset'
+[2023.06.20-10.58.20:259][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Albedo_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:265][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Albedo_LOD4.uc1kebzfa_4K_Albedo_LOD4]
+[2023.06.20-10.58.20:265][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Albedo_LOD4]
+[2023.06.20-10.58.20:306][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Albedo_LOD4_Auto1
+[2023.06.20-10.58.20:306][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/uc1kebzfa_4K_Albedo_LOD4_Auto17EAB73F6411D4B506B1F3EB781736E63.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Albedo_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:309][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Roughness] ([1] browsable assets)...
+[2023.06.20-10.58.20:313][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Roughness.uc1kebzfa_4K_Roughness]
+[2023.06.20-10.58.20:313][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Roughness]
+[2023.06.20-10.58.20:318][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Roughness_Auto1
+[2023.06.20-10.58.20:318][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/uc1kebzfa_4K_Roughness_Auto1BF0501F6446FC002479523B1A1EBAF50.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/roundtable_megascan/uc1kebzfa_4K_Roughness_Auto1.uasset'
+[2023.06.20-10.58.20:321][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/old_leather_sofa] ([1] browsable assets)...
+[2023.06.20-10.58.20:343][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/sofa/old_leather_sofa.old_leather_sofa]
+[2023.06.20-10.58.20:343][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/old_leather_sofa]
+[2023.06.20-10.58.20:348][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/old_leather_sofa_Auto1
+[2023.06.20-10.58.20:348][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/old_leather_sofa_Auto116A11E4B4F7190423D66828F1A7F6F71.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/old_leather_sofa_Auto1.uasset'
+[2023.06.20-10.58.20:353][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor] ([1] browsable assets)...
+[2023.06.20-10.58.20:363][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor.Old_leather_sofa_BaseColor]
+[2023.06.20-10.58.20:363][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor]
+[2023.06.20-10.58.20:432][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor_Auto1
+[2023.06.20-10.58.20:432][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_leather_sofa_BaseColor_Auto1D4CC5AE2498A0DC1B026EA862036617F.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_BaseColor_Auto1.uasset'
+[2023.06.20-10.58.20:434][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height] ([1] browsable assets)...
+[2023.06.20-10.58.20:437][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height.Old_leather_sofa_Height]
+[2023.06.20-10.58.20:437][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height]
+[2023.06.20-10.58.20:482][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height_Auto1
+[2023.06.20-10.58.20:483][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_leather_sofa_Height_Auto173C311204A2918CA295B4899769B0F7E.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Height_Auto1.uasset'
+[2023.06.20-10.58.20:486][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic] ([1] browsable assets)...
+[2023.06.20-10.58.20:490][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic.Old_leather_sofa_Metallic]
+[2023.06.20-10.58.20:490][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic]
+[2023.06.20-10.58.20:565][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic_Auto1
+[2023.06.20-10.58.20:565][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_leather_sofa_Metallic_Auto12FB8933B4F1C61EC22C7C8A262B42B46.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Metallic_Auto1.uasset'
+[2023.06.20-10.58.20:569][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal] ([1] browsable assets)...
+[2023.06.20-10.58.20:577][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal.Old_leather_sofa_Normal]
+[2023.06.20-10.58.20:577][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal]
+[2023.06.20-10.58.20:680][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal_Auto1
+[2023.06.20-10.58.20:680][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_leather_sofa_Normal_Auto10A87EF9A4AC64DBCCFF0ABA25B2CBB73.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Normal_Auto1.uasset'
+[2023.06.20-10.58.20:682][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness] ([1] browsable assets)...
+[2023.06.20-10.58.20:685][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness.Old_leather_sofa_Roughness]
+[2023.06.20-10.58.20:685][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness]
+[2023.06.20-10.58.20:727][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness_Auto1
+[2023.06.20-10.58.20:727][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Old_leather_sofa_Roughness_Auto15A1C219A4D3D8ED0716E26B9D629657C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/sofa/Old_leather_sofa_Roughness_Auto1.uasset'
+[2023.06.20-10.58.20:730][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:752][ 53]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4.ukphae2aw_LOD4]
+[2023.06.20-10.58.20:752][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4]
+[2023.06.20-10.58.20:757][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4_Auto1
+[2023.06.20-10.58.20:757][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukphae2aw_LOD4_Auto1E4C035754E6468F3082717BCFC853BC9.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:759][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement] ([1] browsable assets)...
+[2023.06.20-10.58.20:762][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement.ukphae2aw_4K_Displacement]
+[2023.06.20-10.58.20:762][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement]
+[2023.06.20-10.58.20:766][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement_Auto1
+[2023.06.20-10.58.20:766][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukphae2aw_4K_Displacement_Auto1E51275944EB707FBF1478E98D1DB3313.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Displacement_Auto1.uasset'
+[2023.06.20-10.58.20:768][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:772][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4.ukphae2aw_4K_Albedo_LOD4]
+[2023.06.20-10.58.20:772][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4]
+[2023.06.20-10.58.20:778][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4_Auto1
+[2023.06.20-10.58.20:779][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukphae2aw_4K_Albedo_LOD4_Auto1D8C7640F4045B43F93FDF3899A300516.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Albedo_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:781][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4] ([1] browsable assets)...
+[2023.06.20-10.58.20:792][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4.ukphae2aw_4K_Normal_LOD4]
+[2023.06.20-10.58.20:792][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4]
+[2023.06.20-10.58.20:853][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4_Auto1
+[2023.06.20-10.58.20:853][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukphae2aw_4K_Normal_LOD4_Auto16659CD2C44E96C6E88061CB330457747.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Normal_LOD4_Auto1.uasset'
+[2023.06.20-10.58.20:855][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness] ([1] browsable assets)...
+[2023.06.20-10.58.20:860][ 53]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness.ukphae2aw_4K_Roughness]
+[2023.06.20-10.58.20:860][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness]
+[2023.06.20-10.58.20:866][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness_Auto1
+[2023.06.20-10.58.20:866][ 53]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukphae2aw_4K_Roughness_Auto15699CCF14BBE2DA36AA3BD8BAD67DDC9.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/ukphae2aw_4K_Roughness_Auto1.uasset'
+[2023.06.20-10.58.20:867][ 53]LogFileHelpers: Auto-saving content packages took 2.693
