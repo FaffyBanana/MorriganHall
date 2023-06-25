@@ -2202,3 +2202,212 @@ Script Stack (0 frames) :
 [2023.06.25-20.48.05:756][798]LogSlate: Window 'Content Browser' being destroyed
 [2023.06.25-20.48.07:418][896]LogSlate: Window 'Message Log' being destroyed
 [2023.06.25-20.48.07:423][896]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-20.57.40:852][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.25-20.57.40:858][716]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/test_Auto4
+[2023.06.25-20.57.40:858][716]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/test_Auto42A4D03CE4BBDAD586F57DA97C1124EA2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/test_Auto4.umap'
+[2023.06.25-20.57.40:862][716]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/test' took 0.016
+[2023.06.25-20.57.40:862][716]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2023.06.25-21.03.39:737][792]LogDerivedDataCache: C:/Users/xiiao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.177 and deleted 0 files with total size 0 MiB. Scanned 7843 files in 7743 folders with total size 2556 MiB.
+[2023.06.25-21.17.44:753][640]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.25-21.17.44:764][640]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.25-21.17.44:772][641]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.25-21.18.01:642][652]LogContentBrowser: Attempting asset rename: NewFolder -> musicsheet_Stand
+[2023.06.25-21.18.01:642][652]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.25-21.18.19:299][869]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - (Keyboard).
+[2023.06.25-21.18.19:299][869]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2023.06.25-21.18.23:692][114]LogSlate: Took 0.002458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.25-21.18.24:683][174]LogContentBrowser: Attempting asset rename: musicsheet_Stand -> music_Stand
+[2023.06.25-21.18.42:030][540]LogInterchangeEngine: [Pending] Importing
+[2023.06.25-21.18.42:030][540]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Downloads\Props_Wood_ukmsfieaw_4K_3d_ms\ukmsfieaw_LOD4.fbx)
+[2023.06.25-21.18.42:034][540]LogFbx: Loading FBX Scene from C:\Users\xiiao\Downloads\Props_Wood_ukmsfieaw_4K_3d_ms\ukmsfieaw_LOD4.fbx
+[2023.06.25-21.18.42:037][540]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.25-21.18.42:078][540]LogInterchangeImport: JPEG file [C:/Users/xiiao/Downloads/Props_Wood_ukmsfieaw_4K_3d_ms/ukmsfieaw_4K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.25-21.18.42:143][540]LogInterchangeEngine: [Success] Import Done
+[2023.06.25-21.18.42:224][540]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness.ukmsfieaw_4K_Roughness (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.25-21.18.43:142][540]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.25-21.18.43:228][540]LogStaticMesh: Display: Building static mesh ukmsfieaw_LOD4...
+[2023.06.25-21.18.43:251][540]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4
+[2023.06.25-21.18.43:263][540]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.25-21.18.43:307][540]LogInterchangeEngine: [Pending] Importing
+[2023.06.25-21.18.43:307][540]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.25-21.18.43:340][540]LogInterchangeImport: JPEG file [C:/Users/xiiao/Downloads/Props_Wood_ukmsfieaw_4K_3d_ms/ukmsfieaw_4K_Albedo_LOD4.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.25-21.18.43:344][540]LogInterchangeImport: JPEG file [C:/Users/xiiao/Downloads/Props_Wood_ukmsfieaw_4K_3d_ms/ukmsfieaw_4K_Normal_LOD4.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.25-21.18.43:510][541]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.25-21.18.43:510][541]LogInterchangeEngine: [Success] Import Done
+[2023.06.25-21.18.43:514][541]LogInterchangeEngine: [Success] Import Done
+[2023.06.25-21.18.43:535][541]LogInterchangeEngine: [Success] Import Done
+[2023.06.25-21.18.43:785][546]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4.ukmsfieaw_4K_Albedo_LOD4 (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.25-21.18.43:866][548]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4.ukmsfieaw_4K_Normal_LOD4 (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.25-21.18.44:841][567]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.06.25-21.18.45:153][568]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4.ukmsfieaw_4K_Normal_LOD4 (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.06.25-21.19.07:741][758]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.06.25-21.19.07:749][758]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.06.25-21.19.07:767][759]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.06.25-21.19.13:556][ 99]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1662)].
+[2023.06.25-21.19.13:556][ 99]LogContentBrowser: Attempting asset rename: NewMaterial -> muic
+[2023.06.25-21.19.13:556][ 99]LogContentBrowser: End creating deferred item NewMaterial
+[2023.06.25-21.19.13:589][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.25-21.19.13:590][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/test' took 0.008
+[2023.06.25-21.19.13:590][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4] ([1] browsable assets)...
+[2023.06.25-21.19.13:609][ 99]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4]
+[2023.06.25-21.19.13:609][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4]
+[2023.06.25-21.19.13:613][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4_Auto5
+[2023.06.25-21.19.13:613][ 99]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukmsfieaw_LOD4_Auto5CE313ABF48B1A4FE9CD4EBBA1346DA83.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4_Auto5.uasset'
+[2023.06.25-21.19.13:615][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness] ([1] browsable assets)...
+[2023.06.25-21.19.13:616][ 99]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness.ukmsfieaw_4K_Roughness]
+[2023.06.25-21.19.13:616][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness]
+[2023.06.25-21.19.13:619][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness_Auto5
+[2023.06.25-21.19.13:619][ 99]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukmsfieaw_4K_Roughness_Auto5F2A804A94BB27955730805B1F46F9267.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Roughness_Auto5.uasset'
+[2023.06.25-21.19.13:620][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4] ([1] browsable assets)...
+[2023.06.25-21.19.13:621][ 99]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4.ukmsfieaw_4K_Albedo_LOD4]
+[2023.06.25-21.19.13:621][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4]
+[2023.06.25-21.19.13:627][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4_Auto5
+[2023.06.25-21.19.13:627][ 99]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukmsfieaw_4K_Albedo_LOD4_Auto551726A5F443DE672485EA198B4AAAD8C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Albedo_LOD4_Auto5.uasset'
+[2023.06.25-21.19.13:628][ 99]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4] ([1] browsable assets)...
+[2023.06.25-21.19.13:630][ 99]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4.ukmsfieaw_4K_Normal_LOD4]
+[2023.06.25-21.19.13:630][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4]
+[2023.06.25-21.19.13:640][ 99]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4_Auto5
+[2023.06.25-21.19.13:640][ 99]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/ukmsfieaw_4K_Normal_LOD4_Auto5194CF9434A829DCA7FDE57AAF4391B4A.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_4K_Normal_LOD4_Auto5.uasset'
+[2023.06.25-21.19.13:642][ 99]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.06.25-21.19.28:144][955]LogContentBrowser: Attempting asset rename: muic -> music_stand
+[2023.06.25-21.19.28:231][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.25-21.19.28:308][955]LogSavePackage: Moving output files for package: /Game/Assets/Amy/Asset/music_Stand/music_stand
+[2023.06.25-21.19.28:308][955]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/music_stand610DC06F4A3470AF7E09BAA411FA8A36.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/music_Stand/music_stand.uasset'
+[2023.06.25-21.19.28:316][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 318 ms)
+[2023.06.25-21.19.28:325][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.25-21.19.28:330][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.25-21.19.28:336][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.25-21.19.28:339][955]AssetCheck: New page: Asset Save: music_stand
+[2023.06.25-21.19.28:339][955]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Amy/Asset/music_Stand/music_stand.music_stand
+[2023.06.25-21.19.29:552][ 26]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Amy/Asset/music_Stand/music_stand.music_stand
+[2023.06.25-21.19.29:554][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.25-21.19.29:666][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.25-21.19.29:666][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.25-21.19.29:666][ 26]MaterialEditorStats: Shader Count: 0
+[2023.06.25-21.19.29:673][ 26]LogViewport: Scene viewport resized to 632x399, mode Windowed.
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: ================================================
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Total job queries 516, among them cache hits 220 (42.64%)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Tracking 292 distinct input hashes that result in 158 distinct outputs (54.11%)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: RAM used: 2.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.29%
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Shaders Compiled: 113
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Jobs assigned 117, completed 113 (96.58%)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Average time worker was idle: 178.97 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Job execution time: average 0.66 s, max 1.54 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Job life time (pending + execution): average 0.72 s, max 1.56
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.01 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Total thread time: 58.36 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Total thread preprocess time: 3.03 s
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Percentage time preprocessing: 5.19%
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Effective parallelization: 1.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 1.03 sec, max 1.13 sec, min 0.96 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   20 times, average 0.49 sec, max 0.58 sec, min 0.44 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   20 times, average 0.47 sec, max 0.53 sec, min 0.44 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   20 times, average 0.41 sec, max 0.45 sec, min 0.38 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.41 sec, max 0.44 sec, min 0.39 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.36% of total time (compiled   20 times, average 1.03 sec, max 1.13 sec, min 0.96 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.85% of total time (compiled   20 times, average 0.49 sec, max 0.58 sec, min 0.44 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.13% of total time (compiled   20 times, average 0.47 sec, max 0.53 sec, min 0.44 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.12% of total time (compiled   20 times, average 0.41 sec, max 0.45 sec, min 0.38 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.31% of total time (compiled   21 times, average 0.29 sec, max 0.33 sec, min 0.25 sec)
+[2023.06.25-21.19.30:519][ 74]LogShaderCompilers: Display: ================================================
+[2023.06.25-21.19.30:751][ 88]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.25-21.19.30:751][ 88]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.25-21.19.30:751][ 88]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.25-21.19.30:751][ 88]MaterialEditorStats: Shader Count: 3
+[2023.06.25-21.19.30:851][ 94]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.06.25-21.19.30:851][ 94]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.06.25-21.19.30:851][ 94]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.25-21.19.30:851][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.25-21.19.30:851][ 94]MaterialEditorStats: Shader Count: 4
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.39:229][570]MaterialEditorStats: Shader Count: 0
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.39:783][600]MaterialEditorStats: Shader Count: 1
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Base pass shader: 253 instructions
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.39:986][612]MaterialEditorStats: Shader Count: 4
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.41:741][705]MaterialEditorStats: Shader Count: 0
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.42:232][729]MaterialEditorStats: Shader Count: 1
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.42:998][769]MaterialEditorStats: Shader Count: 0
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.43:468][794]MaterialEditorStats: Shader Count: 1
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Base pass shader: 299 instructions
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.43:682][806]MaterialEditorStats: Shader Count: 4
+[2023.06.25-21.19.44:047][828]LogMaterialEditor: Applying material music_stand
+[2023.06.25-21.19.44:528][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.25-21.19.45:108][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.45:117][828]MaterialEditorStats: Shader Count: 2
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Base pass shader: 299 instructions
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.25-21.19.45:180][831]MaterialEditorStats: Shader Count: 7
+[2023.06.25-21.19.45:649][858]LogSlate: Window 'music_stand' being destroyed
+[2023.06.25-21.19.45:655][858]LogSlate: Window 'music_stand' being destroyed
+[2023.06.25-21.19.45:678][858]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.06.25-21.19.45:678][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.25-21.19.47:739][975]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4
+[2023.06.25-21.19.47:739][975]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4
+[2023.06.25-21.19.47:739][975]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4 as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_18
+[2023.06.25-21.19.48:570][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4
+[2023.06.25-21.19.48:570][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4
+[2023.06.25-21.19.48:571][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/music_Stand/ukmsfieaw_LOD4.ukmsfieaw_LOD4 as actor: StaticMeshActor /Game/Assets/Amy/test.test:PersistentLevel.StaticMeshActor_19
+[2023.06.25-21.19.51:642][195]LogSlate: Window 'Content Browser' being destroyed
+[2023.06.25-21.19.51:649][195]LogSlate: Window 'Content Browser' being destroyed
+[2023.06.25-21.19.54:008][335]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-21.19.54:013][335]LogSlate: Window 'Message Log' being destroyed
+[2023.06.25-21.19.55:808][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.25-21.20.03:558][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
