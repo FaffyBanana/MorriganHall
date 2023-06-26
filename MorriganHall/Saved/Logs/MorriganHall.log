@@ -1113,3 +1113,54 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-05.50.36:154][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_OcclusionRoughnessMetallic.TreeOfLife_low_DefaultMaterial_OcclusionRoughnessMetallic
 [2023.06.26-05.50.36:154][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_Normal.TreeOfLife_low_DefaultMaterial_Normal
 [2023.06.26-05.50.36:154][181]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_BaseColor.TreeOfLife_low_DefaultMaterial_BaseColor
+[2023.06.26-05.51.50:843][664]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.540 and deleted 0 files with total size 0 MiB. Scanned 13789 files in 13462 folders with total size 3398 MiB.
+[2023.06.26-05.52.05:754][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.26-05.52.08:050][312]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Living_Room.Living_Room
+[2023.06.26-05.52.08:051][312]Cmd: MAP LOAD FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.26-05.52.08:051][312]LightingResults: New page: Lighting Build
+[2023.06.26-05.52.08:051][312]LoadErrors: New page: Loading map: Living_Room.umap
+[2023.06.26-05.52.08:055][312]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-05.52.08:055][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-05.52.08:062][312]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.06.26-05.52.08:062][312]MapCheck: New page: Map Check
+[2023.06.26-05.52.08:062][312]LightingResults: New page: Lighting Build
+[2023.06.26-05.52.08:075][312]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.26-05.52.08:079][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.06.26-05.52.08:103][312]LogTexture: Display: Waiting for textures to be ready 11/63 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_Normal) ...
+[2023.06.26-05.52.08:124][312]LogTexture: Display: Waiting for textures to be ready 12/63 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1003_OcclusionRoughnessMetallic) ...
+[2023.06.26-05.52.08:164][312]LogTexture: Display: Waiting for textures to be ready 13/63 (/Game/Assets/Aziz/Assets/Fireplace/Fireplace_low_1004_BaseColor) ...
+[2023.06.26-05.52.08:257][312]LogTexture: Display: Waiting for textures to be ready 18/63 (/Game/Assets/Aziz/Assets/Bookshelf/Bookshelf_low_LowPoly3_OcclusionRoughnessMetallic) ...
+[2023.06.26-05.52.08:765][312]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-05.52.08:765][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-05.52.08:773][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.26-05.52.08:779][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.26-05.52.08:797][312]LogAudio: Display: Audio Device (ID: 1) registered with world 'Living_Room'.
+[2023.06.26-05.52.08:797][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-05.52.08:797][312]LogAIModule: Creating AISystem for world Living_Room
+[2023.06.26-05.52.08:819][312]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.26-05.52.08:830][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.26-05.52.08:837][312]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.26-05.52.08:837][312]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2023.06.26-05.52.08:837][312]LogFileHelpers: Loading map 'Living_Room' took 0.786
+[2023.06.26-05.52.09:430][315]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.26-05.52.47:076][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.26-05.52.47:076][330]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.26-05.52.47:076][330]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_75
+[2023.06.26-05.52.48:086][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.26-05.52.48:086][405]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil
+[2023.06.26-05.52.48:088][405]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.SM_Yggdrasil as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_80
+[2023.06.26-05.53.25:356][550]Cmd: DELETE
+[2023.06.26-05.53.25:356][550]Cmd: ACTOR DELETE
+[2023.06.26-05.53.25:361][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.26-05.53.25:366][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.06.26-05.53.25:367][550]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.06.26-05.53.30:788][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-05.53.30:820][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-05.53.30:825][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.26-05.53.30:864][161]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-05.53.30:865][161]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room01EC30424E95613C3499DBB4E779AE09.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-05.53.30:875][161]LogFileHelpers: No new changes to save!
+[2023.06.26-05.53.30:875][161]LogFileHelpers: Saving map 'Living_Room' took 0.056
+[2023.06.26-05.53.30:882][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.27 sec)
+[2023.06.26-05.53.30:885][161]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-05.53.30:885][161]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
