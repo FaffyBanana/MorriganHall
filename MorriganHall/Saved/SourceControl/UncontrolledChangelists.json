@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/Plaque/SM_Yggdrasil.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/SM_Yggdrasil.uasset",
@@ -70,6 +71,8 @@
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall/Content/Assets/Modular/Attic_Parts/Build_Floor_Ceiling_01.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwell.umap",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/testmap.umap",
+=======
+>>>>>>> Stashed changes
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/wallpaper/Material_001.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/wallpaper/WallPaper_basecolor.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/wallpaper/WallPaper_normal.uasset",
@@ -383,6 +386,26 @@
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Cube_015.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Cube_027.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/clothesrail/sm_clothesrail.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/Material_001.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/TexturePlane_DefaultMaterial_Normal.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/TexturePlane_DefaultMaterial_BaseColor.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/TexturePlane_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windows_Cube.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windows_Cube_001.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windows_Cube_002.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/stairs/stairs.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windowframe.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Cube_016.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/Material_001_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windowwalls_Walls_Modular_01_Wall_Smooth_2m18.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/Fbx_Default_Material.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windowwalls_windowframe.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/WorldGridMaterial.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windowwalls_windowframe2.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/windowwalls_windowframe3.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwell.umap",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/testmap.umap",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/__ExternalActors__/abandonedroom_night/0/0G/NE1WQ7DGASTH5CQVRFT51O.uasset"
 			]
 		}
