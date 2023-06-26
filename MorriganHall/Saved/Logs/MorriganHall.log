@@ -1192,3 +1192,70 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-06.08.10:240][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.09 sec)
 [2023.06.26-06.08.10:243][439]AssetCheck: New page: Asset Save: Living_Room
 [2023.06.26-06.08.10:243][439]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.09.18:833][919]LogViewport: Scene viewport resized to 1874x784, mode Windowed.
+[2023.06.26-06.09.18:856][921]LogViewport: Scene viewport resized to 1856x784, mode Windowed.
+[2023.06.26-06.09.18:895][923]LogViewport: Scene viewport resized to 1816x784, mode Windowed.
+[2023.06.26-06.09.18:941][924]LogViewport: Scene viewport resized to 1773x784, mode Windowed.
+[2023.06.26-06.09.19:005][925]LogViewport: Scene viewport resized to 1690x784, mode Windowed.
+[2023.06.26-06.09.19:060][927]LogViewport: Scene viewport resized to 1614x784, mode Windowed.
+[2023.06.26-06.09.19:092][929]LogViewport: Scene viewport resized to 1600x784, mode Windowed.
+[2023.06.26-06.09.19:129][931]LogViewport: Scene viewport resized to 1590x784, mode Windowed.
+[2023.06.26-06.09.19:146][932]LogViewport: Scene viewport resized to 1583x784, mode Windowed.
+[2023.06.26-06.09.19:193][934]LogViewport: Scene viewport resized to 1548x784, mode Windowed.
+[2023.06.26-06.09.19:219][936]LogViewport: Scene viewport resized to 1519x784, mode Windowed.
+[2023.06.26-06.09.19:257][938]LogViewport: Scene viewport resized to 1494x784, mode Windowed.
+[2023.06.26-06.09.19:568][972]LogViewport: Scene viewport resized to 1498x784, mode Windowed.
+[2023.06.26-06.09.19:607][974]LogViewport: Scene viewport resized to 1499x784, mode Windowed.
+[2023.06.26-06.09.19:639][976]LogViewport: Scene viewport resized to 1507x784, mode Windowed.
+[2023.06.26-06.09.19:654][977]LogViewport: Scene viewport resized to 1508x784, mode Windowed.
+[2023.06.26-06.09.19:684][979]LogViewport: Scene viewport resized to 1518x784, mode Windowed.
+[2023.06.26-06.09.19:707][981]LogViewport: Scene viewport resized to 1520x784, mode Windowed.
+[2023.06.26-06.09.19:746][985]LogViewport: Scene viewport resized to 1524x784, mode Windowed.
+[2023.06.26-06.09.19:769][987]LogViewport: Scene viewport resized to 1526x784, mode Windowed.
+[2023.06.26-06.09.19:803][988]LogViewport: Scene viewport resized to 1532x784, mode Windowed.
+[2023.06.26-06.09.53:046][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.09.53:076][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-06.09.53:081][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.26-06.09.53:119][533]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-06.09.53:120][533]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomD8365B3B4B820EB4074E99BA748A2E9A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-06.09.53:129][533]LogFileHelpers: No new changes to save!
+[2023.06.26-06.09.53:129][533]LogFileHelpers: Saving map 'Living_Room' took 0.054
+[2023.06.26-06.09.53:148][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.20 sec)
+[2023.06.26-06.09.53:151][533]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-06.09.53:151][533]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.09.54:921][743]LogViewport: Scene viewport resized to 1537x784, mode Windowed.
+[2023.06.26-06.09.54:950][745]LogViewport: Scene viewport resized to 1541x784, mode Windowed.
+[2023.06.26-06.09.54:981][747]LogViewport: Scene viewport resized to 1563x784, mode Windowed.
+[2023.06.26-06.09.55:004][749]LogViewport: Scene viewport resized to 1598x784, mode Windowed.
+[2023.06.26-06.09.55:030][751]LogViewport: Scene viewport resized to 1662x784, mode Windowed.
+[2023.06.26-06.09.55:055][753]LogViewport: Scene viewport resized to 1733x784, mode Windowed.
+[2023.06.26-06.09.55:073][754]LogViewport: Scene viewport resized to 1756x784, mode Windowed.
+[2023.06.26-06.09.55:105][756]LogViewport: Scene viewport resized to 1841x784, mode Windowed.
+[2023.06.26-06.09.55:128][758]LogViewport: Scene viewport resized to 1863x784, mode Windowed.
+[2023.06.26-06.09.55:151][760]LogViewport: Scene viewport resized to 1873x784, mode Windowed.
+[2023.06.26-06.09.55:169][761]LogViewport: Scene viewport resized to 1877x784, mode Windowed.
+[2023.06.26-06.09.55:199][763]LogViewport: Scene viewport resized to 1890x784, mode Windowed.
+[2023.06.26-06.09.55:227][765]LogViewport: Scene viewport resized to 1903x784, mode Windowed.
+[2023.06.26-06.09.55:250][766]LogViewport: Scene viewport resized to 1907x784, mode Windowed.
+[2023.06.26-06.09.56:986][967]LogViewport: Scene viewport resized to 1902x784, mode Windowed.
+[2023.06.26-06.09.57:009][969]LogViewport: Scene viewport resized to 1898x784, mode Windowed.
+[2023.06.26-06.09.57:033][970]LogViewport: Scene viewport resized to 1892x784, mode Windowed.
+[2023.06.26-06.09.57:061][972]LogViewport: Scene viewport resized to 1887x784, mode Windowed.
+[2023.06.26-06.09.57:084][974]LogViewport: Scene viewport resized to 1881x784, mode Windowed.
+[2023.06.26-06.09.57:107][976]LogViewport: Scene viewport resized to 1879x784, mode Windowed.
+[2023.06.26-06.09.57:131][978]LogViewport: Scene viewport resized to 1875x784, mode Windowed.
+[2023.06.26-06.09.57:153][980]LogViewport: Scene viewport resized to 1874x784, mode Windowed.
+[2023.06.26-06.09.57:259][992]LogViewport: Scene viewport resized to 1871x784, mode Windowed.
+[2023.06.26-06.09.57:772][ 53]LogViewport: Scene viewport resized to 1867x784, mode Windowed.
+[2023.06.26-06.09.57:807][ 55]LogViewport: Scene viewport resized to 1865x784, mode Windowed.
+[2023.06.26-06.09.57:830][ 56]LogViewport: Scene viewport resized to 1863x784, mode Windowed.
+[2023.06.26-06.09.59:052][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.09.59:087][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-06.09.59:092][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.26-06.09.59:134][199]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-06.09.59:134][199]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room115DD134447A29254115B7BF8AB7EA42.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-06.09.59:143][199]LogFileHelpers: No new changes to save!
+[2023.06.26-06.09.59:143][199]LogFileHelpers: Saving map 'Living_Room' took 0.057
+[2023.06.26-06.09.59:151][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.30 sec)
+[2023.06.26-06.09.59:154][199]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-06.09.59:154][199]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
