@@ -1259,3 +1259,106 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.26-06.09.59:151][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.30 sec)
 [2023.06.26-06.09.59:154][199]AssetCheck: New page: Asset Save: Living_Room
 [2023.06.26-06.09.59:154][199]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.13.40:765][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.13.40:802][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-06.13.40:808][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.26-06.13.40:848][  8]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-06.13.40:848][  8]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room94C6CCBB4801912DC9B7E9A0937556D1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-06.13.40:859][  8]LogFileHelpers: No new changes to save!
+[2023.06.26-06.13.40:859][  8]LogFileHelpers: Saving map 'Living_Room' took 0.057
+[2023.06.26-06.13.40:869][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.40 sec)
+[2023.06.26-06.13.40:873][  8]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-06.13.40:873][  8]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.13.42:671][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.26-06.13.51:222][ 28]LogViewport: Scene viewport resized to 1858x784, mode Windowed.
+[2023.06.26-06.13.51:255][ 30]LogViewport: Scene viewport resized to 1823x784, mode Windowed.
+[2023.06.26-06.13.51:286][ 32]LogViewport: Scene viewport resized to 1785x784, mode Windowed.
+[2023.06.26-06.13.51:315][ 34]LogViewport: Scene viewport resized to 1755x784, mode Windowed.
+[2023.06.26-06.13.51:340][ 36]LogViewport: Scene viewport resized to 1741x784, mode Windowed.
+[2023.06.26-06.13.51:364][ 38]LogViewport: Scene viewport resized to 1716x784, mode Windowed.
+[2023.06.26-06.13.51:387][ 40]LogViewport: Scene viewport resized to 1687x784, mode Windowed.
+[2023.06.26-06.13.51:411][ 42]LogViewport: Scene viewport resized to 1663x784, mode Windowed.
+[2023.06.26-06.13.51:436][ 44]LogViewport: Scene viewport resized to 1651x784, mode Windowed.
+[2023.06.26-06.13.51:457][ 46]LogViewport: Scene viewport resized to 1643x784, mode Windowed.
+[2023.06.26-06.13.51:480][ 48]LogViewport: Scene viewport resized to 1632x784, mode Windowed.
+[2023.06.26-06.13.51:494][ 49]LogViewport: Scene viewport resized to 1627x784, mode Windowed.
+[2023.06.26-06.13.51:524][ 51]LogViewport: Scene viewport resized to 1610x784, mode Windowed.
+[2023.06.26-06.13.51:547][ 53]LogViewport: Scene viewport resized to 1581x784, mode Windowed.
+[2023.06.26-06.13.51:560][ 54]LogViewport: Scene viewport resized to 1564x784, mode Windowed.
+[2023.06.26-06.13.51:590][ 56]LogViewport: Scene viewport resized to 1524x784, mode Windowed.
+[2023.06.26-06.13.51:613][ 58]LogViewport: Scene viewport resized to 1509x784, mode Windowed.
+[2023.06.26-06.13.51:637][ 60]LogViewport: Scene viewport resized to 1505x784, mode Windowed.
+[2023.06.26-06.14.27:761][870]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.14.34:322][520]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.14.40:242][102]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.14.44:658][526]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.15.27:513][346]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: ================================================
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: Total job queries 266, among them cache hits 79 (29.70%)
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: Tracking 187 distinct input hashes that result in 133 distinct outputs (71.12%)
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: RAM used: 1.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.26-06.15.32:276][835]LogShaderCompilers: Display: ================================================
+[2023.06.26-06.15.33:626][914]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.06.26-06.15.33:632][914]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.26-06.15.34:040][914]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.26-06.15.34:040][914]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.26-06.15.34:040][914]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.26-06.15.34:040][914]MaterialEditorStats: Shader Count: 0
+[2023.06.26-06.15.34:069][914]LogSlate: Took 0.018918 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.26-06.15.34:072][914]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.26-06.15.34:182][916]MaterialEditorStats: Shader Count: 5
+[2023.06.26-06.15.35:534][992]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.26-06.15.35:534][992]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.26-06.15.35:534][992]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.26-06.15.35:534][992]MaterialEditorStats: Shader Count: 0
+[2023.06.26-06.15.36:614][ 47]LogMaterialEditor: Saving and Compiling material floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.06.26-06.15.37:264][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.26-06.15.38:265][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.26-06.15.38:293][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.15.39:455][ 47]LogSavePackage: Moving output files for package: /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.06.26-06.15.39:455][ 47]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/floral-seamless-pattern-flower-b111AE1F24D96E06F187D428C77D18474.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.uasset'
+[2023.06.26-06.15.39:466][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.17 sec (total: 2.57 sec)
+[2023.06.26-06.15.39:469][ 47]AssetCheck: New page: Asset Save: floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.06.26-06.15.39:469][ 47]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Assets/Aziz/Assets/floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat.floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: Base pass shader: 187 instructions
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.26-06.15.39:470][ 47]MaterialEditorStats: Shader Count: 12
+[2023.06.26-06.15.42:890][253]LogSlate: Window 'floral-seamless-pattern-flower-background-floral-seamless-texture-with-flowers-flourish-tiled-white-spring-wallpaper-vector_Mat' being destroyed
+[2023.06.26-06.15.42:910][253]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.26-06.15.42:910][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.26-06.16.26:649][917]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.26-06.16.51:865][504]LogEditorViewport: Clicking Background
+[2023.06.26-06.16.52:539][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.16.52:569][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-06.16.52:576][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.26-06.16.52:618][580]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-06.16.52:618][580]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room12BF39E1468DF24B689377AF3C3E2977.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-06.16.52:628][580]LogFileHelpers: No new changes to save!
+[2023.06.26-06.16.52:628][580]LogFileHelpers: Saving map 'Living_Room' took 0.058
+[2023.06.26-06.16.52:635][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.67 sec)
+[2023.06.26-06.16.52:640][580]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-06.16.52:640][580]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.17.27:947][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.26-06.17.27:979][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.26-06.17.27:985][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.26-06.17.28:029][766]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.06.26-06.17.28:029][766]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room77EA885B420882C1C1D1AC8B5784FB0E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.06.26-06.17.28:037][766]LogFileHelpers: No new changes to save!
+[2023.06.26-06.17.28:038][766]LogFileHelpers: Saving map 'Living_Room' took 0.059
+[2023.06.26-06.17.28:048][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.77 sec)
+[2023.06.26-06.17.28:050][766]AssetCheck: New page: Asset Save: Living_Room
+[2023.06.26-06.17.28:050][766]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.06.26-06.17.29:810][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
