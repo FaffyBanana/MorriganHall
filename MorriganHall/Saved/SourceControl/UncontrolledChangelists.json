@@ -5,12 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/jewellery_box/JB_texture.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/jewellery_box/JB_low.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/jewellery_box/JB_low_lambert1_BaseColor.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/jewellery_box/JB_low_lambert1_Normal.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/jewellery_box/JB_low_lambert1_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/test.umap"
+=======
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/abandonedroom_V2.umap",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Damaged_Wall_Plaster_vcvoeac/MF_DamagedPlaster.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/Daub/mat_daub.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/Daub/mat_daub_Inst1.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/mat_blend_Inst1.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/Daub/mat_daub_Damaged.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Ivy_Instance_1.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
