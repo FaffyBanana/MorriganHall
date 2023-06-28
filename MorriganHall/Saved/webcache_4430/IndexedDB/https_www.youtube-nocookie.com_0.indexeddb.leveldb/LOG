@@ -1,0 +1,6 @@
+2023/06/28-19:12:11.972 350 Creating DB D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/28-19:12:12.198 350 Reusing MANIFEST D:/GroupMorriganHall/MorriganHall/MorriganHall/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/28-19:22:20.017 350 Level-0 table #5: started
+2023/06/28-19:22:20.152 350 Level-0 table #5: 848 bytes OK
+2023/06/28-19:22:20.167 350 Delete type=0 #3
+2023/06/28-19:22:20.170 350 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
