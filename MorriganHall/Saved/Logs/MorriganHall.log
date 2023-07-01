@@ -1207,3 +1207,43 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.01-14.43.56:367][134]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_BaseColor.TreeOfLife_low_DefaultMaterial_BaseColor
 [2023.07.01-14.43.56:367][134]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_Normal.TreeOfLife_low_DefaultMaterial_Normal
 [2023.07.01-14.43.56:367][134]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/Aziz/Assets/Plaque/TreeOfLife_low_DefaultMaterial_OcclusionRoughnessMetallic.TreeOfLife_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.01-14.46.46:538][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.01-14.46.46:556][ 51]LogStall: Shutdown...
+[2023.07.01-14.46.46:561][ 51]LogStall: Shutdown complete.
+[2023.07.01-14.46.46:675][ 51]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.07.01-14.46.46:834][ 52]Cmd: QUIT_EDITOR
+[2023.07.01-14.46.46:834][ 52]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.01-14.46.46:885][ 52]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.01-14.46.46:885][ 52]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.01-14.46.46:904][ 52]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.01-14.46.46:966][ 52]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-14.46.46:966][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.01-14.46.47:114][ 52]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.01-14.46.47:175][ 52]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.01-14.46.47:526][ 52]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.01-14.46.47:526][ 52]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.01-14.46.47:526][ 52]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.07.01-14.46.47:582][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.01-14.46.47:584][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.01-14.46.47:603][ 52]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.01-14.46.47:640][ 52]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.01-14.46.47:648][ 52]LogExit: Preparing to exit.
+[2023.07.01-14.46.48:194][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.01-14.46.50:098][ 52]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-14.46.50:098][ 52]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.01-14.46.50:527][ 52]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.07.01-14.46.50:629][ 52]LogExit: Editor shut down
+[2023.07.01-14.46.50:631][ 52]LogExit: Transaction tracking system shut down
+[2023.07.01-14.46.53:755][ 52]LogExit: Object subsystem successfully closed.
+[2023.07.01-14.46.53:759][ 52]LogShaderCompilers: Display: ================================================
+[2023.07.01-14.46.53:759][ 52]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: Total job queries 291, among them cache hits 84 (28.87%)
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: Tracking 207 distinct input hashes that result in 149 distinct outputs (71.98%)
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: RAM used: 1.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.01-14.46.53:760][ 52]LogShaderCompilers: Display: ================================================
+[2023.07.01-14.46.53:862][ 52]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.07.01-14.46.54:017][ 52]LogVirtualization: UE::Virtualization was shutdown
