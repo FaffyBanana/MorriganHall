@@ -1,0 +1,6 @@
+[0701/091720.212:ERROR:backend_impl.cc(1438)] Unable to map Index file
+[0701/091720.251:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0701/091720.251:ERROR:cache_util.cc(144)] Unable to move cache folder D:/UNIGITHUB/MorriganHall/MorriganHall/Saved/webcache_4430\Cache to D:/UNIGITHUB/MorriganHall/MorriganHall/Saved/webcache_4430\old_Cache_000
+[0701/091720.251:ERROR:disk_cache.cc(184)] Unable to create cache
+[0701/091722.286:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0701/091919.595:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
