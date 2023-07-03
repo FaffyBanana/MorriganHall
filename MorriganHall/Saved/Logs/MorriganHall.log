@@ -1196,3 +1196,195 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.03-14.49.41:237][948]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.03-14.49.41:237][948]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.03-14.49.42:818][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.03-14.51.19:879][162]LogInterchangeEngine: [Pending] Importing
+[2023.07.03-14.51.19:881][162]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-14.51.19:881][162]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-14.51.19:903][163]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-14.51.20:836][165]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-14.51.20:836][165]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.03-14.51.20:858][165]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal.Fenian_low_DefaultMaterial_Normal (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-14.51.20:858][165]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-14.51.20:865][165]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_BaseColor.Fenian_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-14.51.20:875][165]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-14.51.20:903][166]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-14.51.22:368][263]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.03-14.51.22:380][263]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal.Fenian_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-14.51.24:952][446]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-14.51.25:451][446]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.07.03-14.51.31:318][954]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-14.51.32:599][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-14.51.33:066][ 33]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-14.51.33:066][ 33]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fenian_low_DefaultMaterial_Occlu9A7538F44EC07F95D59D9A84E2F17DDE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.07.03-14.51.33:079][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 479 ms (total: 869 ms)
+[2023.07.03-14.51.33:082][ 33]AssetCheck: New page: Asset Save: Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-14.51.33:082][ 33]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-14.51.36:334][260]LogSlate: Window 'Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic' being destroyed
+[2023.07.03-14.51.39:200][518]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_Shotgun.SM_Shotgun
+[2023.07.03-14.51.39:438][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.03-14.51.39:543][518]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2023.07.03-14.51.39:593][518]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.07.03-14.51.40:163][518]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.40:163][518]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.03-14.51.40:163][518]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: ================================================
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: Total job queries 251, among them cache hits 60 (23.90%)
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 135 distinct outputs (70.68%)
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: RAM used: 1.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.03-14.51.40:169][518]LogShaderCompilers: Display: ================================================
+[2023.07.03-14.51.40:200][518]LogSlate: Took 0.027871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.03-14.51.40:204][518]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.07.03-14.51.42:904][632]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.07.03-14.51.42:904][632]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.03-14.51.42:904][632]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.03-14.51.42:904][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.03-14.51.42:904][632]MaterialEditorStats: Shader Count: 4
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.47:332][888]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.47:949][916]MaterialEditorStats: Shader Count: 1
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.48:671][967]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.49:274][993]MaterialEditorStats: Shader Count: 1
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Base pass shader: 280 instructions
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.49:580][  8]MaterialEditorStats: Shader Count: 4
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.50:627][ 90]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.51:241][118]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.03-14.51.51:242][118]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.51:242][118]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.51:242][118]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.51:242][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.51:242][118]MaterialEditorStats: Shader Count: 1
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.51:445][128]MaterialEditorStats: Shader Count: 3
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.52:413][187]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.53:119][215]MaterialEditorStats: Shader Count: 1
+[2023.07.03-14.51.54:114][278]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.03-14.51.54:115][278]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.54:115][278]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.54:115][278]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.54:115][278]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.54:115][278]MaterialEditorStats: Shader Count: 0
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.54:938][312]MaterialEditorStats: Shader Count: 1
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.55:342][329]MaterialEditorStats: Shader Count: 3
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Base pass shader: 308 instructions
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.03-14.51.55:467][333]MaterialEditorStats: Shader Count: 4
+[2023.07.03-14.51.56:628][387]LogMaterialEditor: Saving and Compiling material SM_Shotgun
+[2023.07.03-14.51.57:195][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.03-14.51.58:153][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.03-14.51.58:163][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-14.51.59:374][387]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_Shotgun
+[2023.07.03-14.51.59:374][387]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_Shotgun9FA9D38242DB4A9B9178808A2D447365.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/FenianShotgun/SM_Shotgun.uasset'
+[2023.07.03-14.51.59:384][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.22 sec (total: 2.09 sec)
+[2023.07.03-14.51.59:388][387]AssetCheck: New page: Asset Save: SM_Shotgun
+[2023.07.03-14.51.59:388][387]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_Shotgun.SM_Shotgun
+[2023.07.03-14.52.00:194][433]LogSlate: Window 'SM_Shotgun' being destroyed
+[2023.07.03-14.52.00:229][433]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-14.52.00:229][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.03-14.52.04:238][819]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_GunFrame.SM_GunFrame
+[2023.07.03-14.52.05:334][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.03-14.52.06:246][819]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.07.03-14.52.15:288][819]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.041936s
+[2023.07.03-14.52.15:325][819]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [8634ms] waiting for h/w. InstanceID=1
+[2023.07.03-14.52.15:326][819]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.07.03-14.52.15:927][819]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004449s (0.683441s overbudget)
+[2023.07.03-14.52.16:040][819]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9740
+[2023.07.03-14.52.16:045][819]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.07.03-14.52.16:196][820]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{36f634c3-0d04-4e4a-ae75-de3484b0823a}, Name=Speakers (SRS-XB13)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=20.79
+[2023.07.03-14.52.16:196][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.07.03-14.52.16:199][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.07.03-14.52.18:414][939]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.03-14.52.32:375][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-14.52.32:430][857]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_GunFrame
+[2023.07.03-14.52.32:430][857]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_GunFrameE4BEE8AB48A786CE81CD898169D50D62.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/FenianShotgun/SM_GunFrame.uasset'
+[2023.07.03-14.52.32:439][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.15 sec)
+[2023.07.03-14.52.32:441][857]AssetCheck: New page: Asset Save: SM_GunFrame
+[2023.07.03-14.52.32:441][857]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/FenianShotgun/SM_GunFrame.SM_GunFrame
+[2023.07.03-14.52.34:346][976]LogSlate: Window 'SM_GunFrame' being destroyed
+[2023.07.03-14.52.34:456][976]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.03-14.52.34:456][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.03-14.52.37:147][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.03-14.52.37:983][260]LogSlate: Window 'Save Content' being destroyed
+[2023.07.03-14.52.37:993][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-14.52.38:502][260]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_BaseColor
+[2023.07.03-14.52.38:502][260]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fenian_low_DefaultMaterial_BaseC9571DC1E41D8728384F48186FE6C95D9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_BaseColor.uasset'
+[2023.07.03-14.52.38:899][260]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal
+[2023.07.03-14.52.38:899][260]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Fenian_low_DefaultMaterial_Norma223B7D1340E7B809B952F6B4F52DF6D6.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal.uasset'
+[2023.07.03-14.52.38:908][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 915 ms (total: 3.06 sec)
+[2023.07.03-14.52.38:913][260]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.03-14.52.38:913][260]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal.Fenian_low_DefaultMaterial_Normal
+[2023.07.03-14.52.38:913][260]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_BaseColor.Fenian_low_DefaultMaterial_BaseColor
+[2023.07.03-14.52.39:426][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-14.52.39:467][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.03-14.52.39:473][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.03-14.52.39:513][301]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.03-14.52.39:513][301]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room8019E4EA42D84CFFEC953EB1A41F8D77.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.03-14.52.39:528][301]LogFileHelpers: No new changes to save!
+[2023.07.03-14.52.39:528][301]LogFileHelpers: Saving map 'Living_Room' took 0.061
+[2023.07.03-14.52.39:536][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 3.17 sec)
+[2023.07.03-14.52.39:539][301]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.03-14.52.39:539][301]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
