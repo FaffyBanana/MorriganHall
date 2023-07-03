@@ -1201,3 +1201,70 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.03-15.40.49:607][977]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor
 [2023.07.03-15.40.49:607][977]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal
 [2023.07.03-15.40.49:607][977]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-15.58.41:796][420]LogInterchangeEngine: [Pending] Importing
+[2023.07.03-15.58.41:796][420]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-15.58.41:796][420]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-15.58.41:863][421]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-15.58.42:322][434]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-15.58.42:333][435]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-15.58.42:523][436]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.03-15.58.42:540][437]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-15.58.42:808][447]LogRendererCore: Warning: FlushRenderingCommands called recursively! 2 calls on the stack.
+[2023.07.03-15.58.42:814][447]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-15.58.42:833][447]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-15.58.42:882][448]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-15.58.46:687][635]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.03-15.58.47:193][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.03-15.59.30:941][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.07.03-15.59.30:943][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.009
+[2023.07.03-15.59.30:988][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2023.07.03-15.59.30:989][262]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor]
+[2023.07.03-15.59.30:989][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor]
+[2023.07.03-15.59.31:362][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor_Auto1
+[2023.07.03-15.59.31:362][262]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_BaseCoD7D5D093478271A33C87A381D6272A6D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor_Auto1.uasset'
+[2023.07.03-15.59.31:362][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2023.07.03-15.59.31:364][262]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal]
+[2023.07.03-15.59.31:364][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal]
+[2023.07.03-15.59.31:688][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal_Auto1
+[2023.07.03-15.59.31:688][262]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_Normal5E9E4C31458B43FEDCEAB3AB9F3FCC87.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal_Auto1.uasset'
+[2023.07.03-15.59.31:688][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.07.03-15.59.31:691][262]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.07.03-15.59.31:691][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.07.03-15.59.32:036][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto1
+[2023.07.03-15.59.32:036][262]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_Occlus9115B0D34F06204FB7704BB7C2B401E0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.07.03-15.59.32:077][262]LogFileHelpers: Auto-saving content packages took 1.075
+[2023.07.03-16.02.28:058][171]LogInterchangeEngine: [Pending] Importing
+[2023.07.03-16.02.28:058][171]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-16.02.28:058][171]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-16.02.28:117][172]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.03-16.02.28:427][184]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.03-16.02.28:433][184]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-16.02.28:505][185]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.03-16.02.28:505][185]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-16.02.28:508][185]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-16.02.28:523][185]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.03-16.02.28:544][185]LogInterchangeEngine: [Success] Import Done
+[2023.07.03-16.02.31:337][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.03-16.02.32:355][388]LogSlate: Window 'Save Content' being destroyed
+[2023.07.03-16.02.32:368][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-16.02.32:828][388]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor
+[2023.07.03-16.02.32:828][388]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_BaseCo58B9015B4AA7A133D37C73BE3E62FAAE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.uasset'
+[2023.07.03-16.02.33:172][388]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal
+[2023.07.03-16.02.33:172][388]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_NormalD03E0A6842A62903B3279EA46641B923.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.uasset'
+[2023.07.03-16.02.33:473][388]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-16.02.33:474][388]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_OcclusF450C6E04D100526AED92BA9E61EF196.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.07.03-16.02.33:483][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 3.06 sec)
+[2023.07.03-16.02.33:488][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.03-16.02.33:488][388]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor
+[2023.07.03-16.02.33:488][388]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal
+[2023.07.03-16.02.33:488][388]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.03-16.02.34:542][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.03-16.02.34:572][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.03-16.02.34:578][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.03-16.02.34:617][490]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.03-16.02.34:618][490]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room2A84D67D4ACB39A9543044A7686984B9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.03-16.02.34:631][490]LogFileHelpers: No new changes to save!
+[2023.07.03-16.02.34:631][490]LogFileHelpers: Saving map 'Living_Room' took 0.059
+[2023.07.03-16.02.34:639][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 3.16 sec)
+[2023.07.03-16.02.34:643][490]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.03-16.02.34:643][490]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
