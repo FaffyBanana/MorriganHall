@@ -1885,3 +1885,515 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.07.04-09.50.09:594][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 889 ms)
 [2023.07.04-09.50.09:596][721]AssetCheck: New page: Asset Save: firstfloor
 [2023.07.04-09.50.09:596][721]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
+[2023.07.04-09.50.30:348][865]LogSlate: Window 'Message Log' being destroyed
+[2023.07.04-09.50.30:357][865]LogSlate: Window 'Message Log' being destroyed
+[2023.07.04-09.51.00:558][673]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.04-09.51.00:572][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.04-09.51.00:572][673]PIE: New page: PIE session: firstfloor (Jul 4, 2023, 11:51:00 AM)
+[2023.07.04-09.51.00:577][673]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.04-09.51.00:578][673]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.04-09.51.00:579][673]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.51.00:586][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006559s)
+[2023.07.04-09.51.00:586][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.006792s)
+[2023.07.04-09.51.00:587][673]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.51.00:587][673]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.04-09.51.00:587][673]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.07.04-09.51.00:594][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.04-09.51.00:597][673]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.04-09.51.00:597][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.04-09.51.00:597][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.04-09.51.00:597][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.04-09.51.00:597][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.04-09.51.00:597][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.04-09.51.00:599][673]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.04-09.51.00:649][673]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.04-09.51.00:649][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.04-09.51.00:649][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.04-09.51.00:649][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.04-09.51.00:649][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.04-09.51.00:649][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.04-09.51.00:651][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.04-09.51.00:651][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.04-09.51.00:651][673]LogInit: FAudioDevice initialized.
+[2023.07.04-09.51.00:651][673]LogAudio: Display: Audio Device (ID: 2) registered with world 'firstfloor'.
+[2023.07.04-09.51.00:656][673]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.04-09.51.00:658][673]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.04-10.51.00
+[2023.07.04-09.51.00:659][673]LogWorld: Bringing up level for play took: 0.002375
+[2023.07.04-09.51.00:660][673]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.07.04-09.51.00:700][673]PIE: Server logged in
+[2023.07.04-09.51.00:701][673]PIE: Play in editor total start time 0.132 seconds.
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: ================================================
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Total job queries 310, among them cache hits 67 (21.61%)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Tracking 243 distinct input hashes that result in 188 distinct outputs (77.37%)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: RAM used: 1.98 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.24%
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Shaders Compiled: 102
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100.00%)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Time job spent in pending queue: average 4.45 s, longest 8.93 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 1.88 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Job life time (pending + execution): average 5.39 s, max 9.70
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.95 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Average processing rate: 10.26 jobs/sec
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Total thread time: 78.29 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Total thread preprocess time: 4.14 s
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Percentage time preprocessing: 5.29%
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Effective parallelization: 7.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.69 sec, max 1.84 sec, min 1.51 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 1.54 sec, max 1.61 sec, min 1.43 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.93 sec, max 1.07 sec, min 0.51 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.85 sec, max 0.99 sec, min 0.54 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.77 sec, max 0.82 sec, min 0.72 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.57% of total time (compiled   12 times, average 1.54 sec, max 1.61 sec, min 1.43 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.93% of total time (compiled   16 times, average 0.93 sec, max 1.07 sec, min 0.51 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.46% of total time (compiled   16 times, average 0.85 sec, max 0.99 sec, min 0.54 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.09% of total time (compiled   14 times, average 0.62 sec, max 0.77 sec, min 0.51 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.59% of total time (compiled   14 times, average 0.42 sec, max 0.56 sec, min 0.34 sec)
+[2023.07.04-09.51.00:822][675]LogShaderCompilers: Display: ================================================
+[2023.07.04-09.52.38:160][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.52.38:160][507]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.52.38:161][507]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.52.38:162][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.52.38:168][507]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.04-09.52.38:171][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.52.38:176][507]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.52.38:177][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.04-09.52.38:179][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.04-09.52.38:193][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.04-09.52.38:236][508]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.07.04-09.52.52:931][375]Cmd: TRANSACTION UNDO
+[2023.07.04-09.52.52:942][375]LogEditorTransaction: Undo Scale Elements
+[2023.07.04-09.52.59:021][725]Cmd: TRANSACTION UNDO
+[2023.07.04-09.52.59:021][725]LogEditorTransaction: Undo Scale Elements
+[2023.07.04-09.53.18:266][859]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.53.18:331][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.53.19:287][859]LogViewport: Scene viewport resized to 1671x1152, mode Windowed.
+[2023.07.04-09.53.58:542][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-09.53.58:631][188]LogSavePackage: Moving output files for package: /Game/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.53.58:632][188]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Walls_Modular_01_Wall_Door_011CE95C43464C1ED809B6829A15FC2C27.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.uasset'
+[2023.07.04-09.53.58:647][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 993 ms)
+[2023.07.04-09.53.58:649][188]AssetCheck: New page: Asset Save: Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.53.58:649][188]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.54.03:817][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.04-09.54.03:827][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.04-09.54.03:827][491]PIE: New page: PIE session: firstfloor (Jul 4, 2023, 11:54:03 AM)
+[2023.07.04-09.54.03:827][491]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.54.03:832][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004777s)
+[2023.07.04-09.54.03:832][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.004813s)
+[2023.07.04-09.54.03:832][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.54.03:832][491]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.04-09.54.03:832][491]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2023.07.04-09.54.03:841][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.04-09.54.03:842][491]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.04-09.54.03:842][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.04-09.54.03:842][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.04-09.54.03:843][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.04-09.54.03:843][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.04-09.54.03:843][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.04-09.54.03:844][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.04-09.54.03:894][491]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.04-09.54.03:894][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.04-09.54.03:894][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.04-09.54.03:894][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.04-09.54.03:895][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.04-09.54.03:895][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.04-09.54.03:896][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.04-09.54.03:896][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.04-09.54.03:896][491]LogInit: FAudioDevice initialized.
+[2023.07.04-09.54.03:896][491]LogAudio: Display: Audio Device (ID: 3) registered with world 'firstfloor'.
+[2023.07.04-09.54.03:899][491]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.04-09.54.03:901][491]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.04-10.54.03
+[2023.07.04-09.54.03:901][491]LogWorld: Bringing up level for play took: 0.001722
+[2023.07.04-09.54.03:902][491]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.07.04-09.54.03:904][491]PIE: Server logged in
+[2023.07.04-09.54.03:906][491]PIE: Play in editor total start time 0.079 seconds.
+[2023.07.04-09.54.17:647][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.54.17:647][308]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.54.17:647][308]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.54.17:648][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.54.17:652][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.04-09.54.17:654][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.54.17:660][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.04-09.54.17:660][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.04-09.54.17:662][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.04-09.54.17:671][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.54.17:673][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.04-09.54.17:715][309]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.07.04-09.54.20:404][465]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low.G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low
+[2023.07.04-09.54.20:420][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.54.21:296][465]LogViewport: Scene viewport resized to 1671x1152, mode Windowed.
+[2023.07.04-09.54.37:517][417]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low) ...
+[2023.07.04-09.54.41:281][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-09.54.41:374][640]LogSavePackage: Moving output files for package: /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low
+[2023.07.04-09.54.41:376][640]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/G_ModularAssets_Door_Window_01_S520684204729813E116EBC830CE4C86F.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low.uasset'
+[2023.07.04-09.54.41:388][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.10 sec)
+[2023.07.04-09.54.41:391][640]AssetCheck: New page: Asset Save: G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low
+[2023.07.04-09.54.41:391][640]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low.G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low
+[2023.07.04-09.54.45:466][880]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low.G_ModularAssets_Door_Window_01_SM_Door_02_low
+[2023.07.04-09.54.45:487][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.54.46:379][880]LogViewport: Scene viewport resized to 1671x1152, mode Windowed.
+[2023.07.04-09.54.56:219][459]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low) ...
+[2023.07.04-09.54.57:632][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-09.54.57:797][535]LogSavePackage: Moving output files for package: /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low
+[2023.07.04-09.54.57:800][535]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/G_ModularAssets_Door_Window_01_SE5DE76C04042A0E5EAB890984C2EEE4A.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low.uasset'
+[2023.07.04-09.54.57:818][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 1.28 sec)
+[2023.07.04-09.54.57:821][535]AssetCheck: New page: Asset Save: G_ModularAssets_Door_Window_01_SM_Door_02_low
+[2023.07.04-09.54.57:821][535]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low.G_ModularAssets_Door_Window_01_SM_Door_02_low
+[2023.07.04-09.55.08:547][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-09.55.08:624][149]LogSavePackage: Moving output files for package: /Game/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.55.08:626][149]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Walls_Modular_01_Wall_Door_0164964E1E42899FD80B1319821D6F7852.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.uasset'
+[2023.07.04-09.55.08:637][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.37 sec)
+[2023.07.04-09.55.08:639][149]AssetCheck: New page: Asset Save: Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.55.08:639][149]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.Walls_Modular_01_Wall_Door_01
+[2023.07.04-09.55.10:686][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.04-09.55.10:695][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.04-09.55.10:695][269]PIE: New page: PIE session: firstfloor (Jul 4, 2023, 11:55:10 AM)
+[2023.07.04-09.55.10:695][269]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.55.10:701][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005163s)
+[2023.07.04-09.55.10:701][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.005195s)
+[2023.07.04-09.55.10:701][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.55.10:701][269]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.04-09.55.10:701][269]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2023.07.04-09.55.10:707][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.04-09.55.10:709][269]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.04-09.55.10:709][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.04-09.55.10:709][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.04-09.55.10:709][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.04-09.55.10:709][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.04-09.55.10:709][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.04-09.55.10:711][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.04-09.55.10:764][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.04-09.55.10:764][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.04-09.55.10:764][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.04-09.55.10:764][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.04-09.55.10:765][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.07.04-09.55.10:765][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.07.04-09.55.10:766][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.07.04-09.55.10:766][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.07.04-09.55.10:766][269]LogInit: FAudioDevice initialized.
+[2023.07.04-09.55.10:766][269]LogAudio: Display: Audio Device (ID: 4) registered with world 'firstfloor'.
+[2023.07.04-09.55.10:770][269]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.04-09.55.10:772][269]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.04-10.55.10
+[2023.07.04-09.55.10:772][269]LogWorld: Bringing up level for play took: 0.001915
+[2023.07.04-09.55.10:774][269]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.07.04-09.55.10:777][269]PIE: Server logged in
+[2023.07.04-09.55.10:778][269]PIE: Play in editor total start time 0.082 seconds.
+[2023.07.04-09.55.16:762][622]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:659][675]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:663][675]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:680][676]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:684][676]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:700][677]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:704][677]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:720][678]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:724][678]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:740][679]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:744][679]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:761][680]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:764][680]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:781][681]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:785][681]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:802][682]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:807][682]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:823][683]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:827][683]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:843][684]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:847][684]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:865][685]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:868][685]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:885][686]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:889][686]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:907][687]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:911][687]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:927][688]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:931][688]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:948][689]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:952][689]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:968][690]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:973][690]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:989][691]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.17:993][691]LogChaos: Warning: Degenerate triangle 59394: (45.216717 2.718800 168.824524) (45.099113 2.761359 168.881454) (45.216717 2.718800 168.881454)
+[2023.07.04-09.55.19:230][765]LogChaos: Warning: Degenerate triangle 59385: (45.265423 2.616041 168.881454) (45.216717 2.718800 168.968674) (45.265423 2.616041 168.968674)
+[2023.07.04-09.55.22:507][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.55.22:507][960]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.55.22:507][960]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.55.22:508][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.55.22:511][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.04-09.55.22:514][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.55.22:519][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.55.22:519][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.04-09.55.22:521][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.04-09.55.22:533][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.04-09.55.22:596][962]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.07.04-09.55.34:789][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.04-09.55.34:798][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.04-09.55.34:798][684]PIE: New page: PIE session: firstfloor (Jul 4, 2023, 11:55:34 AM)
+[2023.07.04-09.55.34:826][684]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.55.34:834][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2023.07.04-09.55.34:834][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.007670s)
+[2023.07.04-09.55.34:834][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.04-09.55.34:834][684]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.04-09.55.34:835][684]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2023.07.04-09.55.34:841][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.04-09.55.34:843][684]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.04-09.55.34:843][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.04-09.55.34:843][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.04-09.55.34:843][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.04-09.55.34:843][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.04-09.55.34:843][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.04-09.55.34:845][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.04-09.55.34:894][684]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.04-09.55.34:895][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.04-09.55.34:895][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.04-09.55.34:895][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.04-09.55.34:895][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.07.04-09.55.34:895][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.07.04-09.55.34:898][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.07.04-09.55.34:898][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.07.04-09.55.34:898][684]LogInit: FAudioDevice initialized.
+[2023.07.04-09.55.34:898][684]LogAudio: Display: Audio Device (ID: 5) registered with world 'firstfloor'.
+[2023.07.04-09.55.34:900][684]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.04-09.55.34:902][684]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.04-10.55.34
+[2023.07.04-09.55.34:902][684]LogWorld: Bringing up level for play took: 0.001965
+[2023.07.04-09.55.34:904][684]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.07.04-09.55.34:907][684]PIE: Server logged in
+[2023.07.04-09.55.34:908][684]PIE: Play in editor total start time 0.11 seconds.
+[2023.07.04-09.55.51:967][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.55.51:967][700]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.04-09.55.51:968][700]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.55.51:968][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.55.51:973][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.04-09.55.51:976][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.55.51:982][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.04-09.55.51:983][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.04-09.55.51:984][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.04-09.55.51:994][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.04-09.55.52:040][701]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.07.04-09.57.33:464][780]LogSlate: Window 'G_ModularAssets_Door_Window_01_SM_Door_02_low' being destroyed
+[2023.07.04-09.57.33:476][780]LogSlate: Window 'G_ModularAssets_Door_Window_01_SM_Door_02_low' being destroyed
+[2023.07.04-09.57.33:579][780]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.57.33:579][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.57.33:689][780]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.57.33:689][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.57.33:781][780]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.04-09.57.33:781][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.04-09.57.37:367][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-09.57.37:465][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.04-09.57.37:482][994]LogSavePackage: Moving output files for package: /Game/Assets/Amy/firstfloor
+[2023.07.04-09.57.37:484][994]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloorEA703F0E48C36441382A06A00CF5CA03.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap'
+[2023.07.04-09.57.37:499][994]LogFileHelpers: Saving map 'firstfloor' took 0.042
+[2023.07.04-09.57.37:506][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.51 sec)
+[2023.07.04-09.57.37:508][994]AssetCheck: New page: Asset Save: firstfloor
+[2023.07.04-09.57.37:508][994]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
+[2023.07.04-09.57.53:040][911]Cmd: TRANSACTION UNDO
+[2023.07.04-09.57.53:040][911]LogEditorTransaction: Undo Scale Elements
+[2023.07.04-09.58.02:684][470]Cmd: DUPLICATE
+[2023.07.04-09.58.02:684][470]Cmd: ACTOR DUPLICATE
+[2023.07.04-09.58.27:607][937]Cmd: DELETE
+[2023.07.04-09.58.27:608][937]Cmd: ACTOR DELETE
+[2023.07.04-09.58.27:612][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.04-09.58.27:613][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.04-09.58.27:614][937]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.04-09.58.27:620][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.04-09.58.27:624][937]LogEditorActor: Deleted 3 Actors (0.016 secs)
+[2023.07.04-09.58.29:098][ 26]Cmd: TRANSACTION UNDO
+[2023.07.04-09.58.29:098][ 26]LogEditorTransaction: Undo Delete Elements
+[2023.07.04-09.58.37:227][493]Cmd: DELETE
+[2023.07.04-09.58.37:227][493]Cmd: ACTOR DELETE
+[2023.07.04-09.58.37:230][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.04-09.58.37:231][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.04-09.58.37:238][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.04-09.58.37:241][493]LogEditorActor: Deleted 2 Actors (0.013 secs)
+[2023.07.04-09.58.44:685][937]Cmd: DUPLICATE
+[2023.07.04-09.58.44:685][937]Cmd: ACTOR DUPLICATE
+[2023.07.04-09.58.48:326][151]Cmd: TRANSACTION UNDO
+[2023.07.04-09.58.48:326][151]LogEditorTransaction: Undo Move Elements
+[2023.07.04-09.58.48:711][166]Cmd: TRANSACTION UNDO
+[2023.07.04-09.58.48:711][166]LogEditorTransaction: Undo Duplicate Elements
+[2023.07.04-09.58.49:080][182]Cmd: TRANSACTION UNDO
+[2023.07.04-09.58.49:080][182]LogEditorTransaction: Undo Clicking on Elements
+[2023.07.04-09.58.49:649][216]Cmd: TRANSACTION UNDO
+[2023.07.04-09.58.49:649][216]LogEditorTransaction: Undo Delete Elements
+[2023.07.04-09.58.50:922][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-09.59.31:553][710]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-09.59.45:342][524]Cmd: TRANSACTION UNDO
+[2023.07.04-09.59.45:342][524]LogEditorTransaction: Undo Scale Elements
+[2023.07.04-10.00.34:927][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-10.00.34:981][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.07.04-10.00.35:004][437]LogSavePackage: Moving output files for package: /Game/Assets/Amy/firstfloor
+[2023.07.04-10.00.35:006][437]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloor93C214E04EB98681BAE7259E9044AB48.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap'
+[2023.07.04-10.00.35:021][437]LogFileHelpers: Saving map 'firstfloor' took 0.046
+[2023.07.04-10.00.35:031][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.61 sec)
+[2023.07.04-10.00.35:034][437]AssetCheck: New page: Asset Save: firstfloor
+[2023.07.04-10.00.35:034][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: ================================================
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Total job queries 329, among them cache hits 73 (22.19%)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 197 distinct outputs (76.95%)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: RAM used: 2.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.25%
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Shaders Compiled: 102
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100.00%)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Time job spent in pending queue: average 4.45 s, longest 8.93 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 1.88 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Job life time (pending + execution): average 5.39 s, max 9.70
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.95 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Jobs were issued in 102 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Average processing rate: 10.26 jobs/sec
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Total thread time: 78.29 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Total thread preprocess time: 4.14 s
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Percentage time preprocessing: 5.29%
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Effective parallelization: 7.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.69 sec, max 1.84 sec, min 1.51 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   12 times, average 1.54 sec, max 1.61 sec, min 1.43 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 0.93 sec, max 1.07 sec, min 0.51 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.85 sec, max 0.99 sec, min 0.54 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.77 sec, max 0.82 sec, min 0.72 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.57% of total time (compiled   12 times, average 1.54 sec, max 1.61 sec, min 1.43 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.93% of total time (compiled   16 times, average 0.93 sec, max 1.07 sec, min 0.51 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.46% of total time (compiled   16 times, average 0.85 sec, max 0.99 sec, min 0.54 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                                 FLumenCardVS - 11.09% of total time (compiled   14 times, average 0.62 sec, max 0.77 sec, min 0.51 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.59% of total time (compiled   14 times, average 0.42 sec, max 0.56 sec, min 0.34 sec)
+[2023.07.04-10.00.57:776][785]LogShaderCompilers: Display: ================================================
+[2023.07.04-10.00.57:802][785]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal
+[2023.07.04-10.00.57:802][785]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal
+[2023.07.04-10.00.57:802][785]LogActorFactory: Actor Factory spawned Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_0
+[2023.07.04-10.00.57:803][785]LogActorFactory: Actor Factory spawned Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_0
+[2023.07.04-10.01.04:232][166]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal
+[2023.07.04-10.01.04:232][166]LogActorFactory: Actor Factory attempting to spawn Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal
+[2023.07.04-10.01.04:233][166]LogActorFactory: Actor Factory spawned Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_1
+[2023.07.04-10.01.04:233][166]LogActorFactory: Actor Factory spawned Material /Game/Assets/Tashan/Decals/mm_decal.mm_decal as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_1
+[2023.07.04-10.01.05:211][223]Cmd: DELETE
+[2023.07.04-10.01.05:212][223]Cmd: ACTOR DELETE
+[2023.07.04-10.01.05:215][223]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.01.05:221][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.07.04-10.01.05:224][223]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.07.04-10.01.07:956][381]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2
+[2023.07.04-10.01.07:956][381]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2
+[2023.07.04-10.01.07:956][381]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_2
+[2023.07.04-10.01.07:956][381]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_2
+[2023.07.04-10.01.09:035][445]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2
+[2023.07.04-10.01.09:035][445]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2
+[2023.07.04-10.01.09:035][445]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_3
+[2023.07.04-10.01.09:035][445]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Assets/Tashan/Decals/mm_decal_leak1_2.mm_decal_leak1_2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_3
+[2023.07.04-10.01.10:828][551]Cmd: DELETE
+[2023.07.04-10.01.10:828][551]Cmd: ACTOR DELETE
+[2023.07.04-10.01.10:830][551]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.01.10:837][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.04-10.01.10:838][551]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.07.04-10.01.16:558][889]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.16:558][889]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.16:559][889]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_4
+[2023.07.04-10.01.16:559][889]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_4
+[2023.07.04-10.01.18:412][999]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.18:412][999]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.18:413][999]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_5
+[2023.07.04-10.01.18:413][999]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_5
+[2023.07.04-10.01.28:361][592]Cmd: DELETE
+[2023.07.04-10.01.28:361][592]Cmd: ACTOR DELETE
+[2023.07.04-10.01.28:362][592]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.01.28:369][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.07.04-10.01.28:370][592]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2023.07.04-10.01.30:941][740]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.30:941][740]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.30:942][740]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_6
+[2023.07.04-10.01.30:942][740]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_6
+[2023.07.04-10.01.34:485][952]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.34:485][952]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1
+[2023.07.04-10.01.34:486][952]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_7
+[2023.07.04-10.01.34:486][952]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_leak1.mm_decal_leak1 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_7
+[2023.07.04-10.01.56:480][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.02.52:514][595]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.02.52:514][595]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.02.52:514][595]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_8
+[2023.07.04-10.02.52:514][595]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_8
+[2023.07.04-10.02.53:615][660]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.02.53:615][660]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.02.53:616][660]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_9
+[2023.07.04-10.02.53:616][660]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_9
+[2023.07.04-10.03.39:057][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.03.47:618][867]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.04.22:390][923]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2
+[2023.07.04-10.04.22:390][923]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2
+[2023.07.04-10.04.22:391][923]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_10
+[2023.07.04-10.04.22:391][923]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_10
+[2023.07.04-10.04.24:384][ 42]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2
+[2023.07.04-10.04.24:384][ 42]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2
+[2023.07.04-10.04.24:385][ 42]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_11
+[2023.07.04-10.04.24:385][ 42]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash2.mm_decal_splash2 as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_11
+[2023.07.04-10.04.43:075][151]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.05.36:135][299]Cmd: DELETE
+[2023.07.04-10.05.36:135][299]Cmd: ACTOR DELETE
+[2023.07.04-10.05.36:138][299]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.05.36:144][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.07.04-10.05.36:148][299]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.07.04-10.05.55:009][417]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.05.55:010][417]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.05.55:010][417]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_12
+[2023.07.04-10.05.55:010][417]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_12
+[2023.07.04-10.05.57:544][568]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.05.57:544][568]LogActorFactory: Actor Factory attempting to spawn MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash
+[2023.07.04-10.05.57:545][568]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_13
+[2023.07.04-10.05.57:545][568]LogActorFactory: Actor Factory spawned MaterialInstanceConstant /Game/Group_Assets/Tashan/Decals/mm_decal_splash.mm_decal_splash as actor: DecalActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.DecalActor_13
+[2023.07.04-10.06.15:904][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.06.41:325][171]Cmd: DELETE
+[2023.07.04-10.06.41:325][171]Cmd: ACTOR DELETE
+[2023.07.04-10.06.41:327][171]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.06.41:333][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.04-10.06.41:336][171]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.07.04-10.06.49:358][642]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.06.51:919][795]Cmd: DELETE
+[2023.07.04-10.06.51:919][795]Cmd: ACTOR DELETE
+[2023.07.04-10.06.51:921][795]LogEditorActor: Deleted Actor: DecalActor
+[2023.07.04-10.06.51:926][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.07.04-10.06.51:928][795]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.07.04-10.06.56:695][ 76]Cmd: DUPLICATE
+[2023.07.04-10.06.56:695][ 76]Cmd: ACTOR DUPLICATE
+[2023.07.04-10.07.29:810][ 44]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.04-10.09.03:636][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-10.09.03:704][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.04-10.09.03:721][608]LogSavePackage: Moving output files for package: /Game/Assets/Amy/firstfloor
+[2023.07.04-10.09.03:723][608]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloorFF6ACEF74F17EA6B755B678EC85EAA16.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap'
+[2023.07.04-10.09.03:738][608]LogFileHelpers: Saving map 'firstfloor' took 0.040
+[2023.07.04-10.09.03:747][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.72 sec)
+[2023.07.04-10.09.03:750][608]AssetCheck: New page: Asset Save: firstfloor
+[2023.07.04-10.09.03:750][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
+[2023.07.04-10.09.14:940][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.04-10.09.15:004][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.04-10.09.15:019][269]LogSavePackage: Moving output files for package: /Game/Assets/Amy/firstfloor
+[2023.07.04-10.09.15:021][269]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloorC1F9CC2D4233B7DC342893BE2DBD9E42.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap'
+[2023.07.04-10.09.15:035][269]LogFileHelpers: Saving map 'firstfloor' took 0.038
+[2023.07.04-10.09.15:042][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.83 sec)
+[2023.07.04-10.09.15:046][269]AssetCheck: New page: Asset Save: firstfloor
+[2023.07.04-10.09.15:046][269]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
