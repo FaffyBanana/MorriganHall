@@ -1459,3 +1459,196 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-18.55.53:758][941]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.08-18.55.53:758][941]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.08-18.55.55:391][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.08-18.59.17:154][668]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-18.59.17:179][669]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-18.59.17:181][669]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-18.59.17:182][669]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.Normal_Carpet (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2023.07.08-18.59.17:223][670]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-18.59.17:249][670]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.08-18.59.17:250][670]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.Normal_Carpet (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.07.08-18.59.21:676][745]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.MM_Carpet
+[2023.07.08-18.59.21:680][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-18.59.21:857][745]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-18.59.21:857][745]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.08-18.59.21:857][745]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.21:857][745]MaterialEditorStats: Shader Count: 0
+[2023.07.08-18.59.21:866][745]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: ================================================
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Total job queries 554, among them cache hits 185 (33.39%)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Tracking 366 distinct input hashes that result in 237 distinct outputs (64.75%)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: RAM used: 2.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Shaders Compiled: 130
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Jobs assigned 130, completed 130 (100.00%)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Average time worker was idle: 35.70 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Time job spent in pending queue: average 3.01 s, longest 10.68 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.59 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Job life time (pending + execution): average 4.13 s, max 12.61
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.84 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Jobs were issued in 130 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Average processing rate: 4.67 jobs/sec
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Total thread time: 110.99 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Total thread preprocess time: 5.19 s
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Percentage time preprocessing: 4.67%
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Effective parallelization: 3.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 1.88 sec, max 2.20 sec, min 1.43 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    9 times, average 1.88 sec, max 2.21 sec, min 1.48 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.22 sec, max 1.22 sec, min 1.22 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.90 sec, max 0.93 sec, min 0.87 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   20 times, average 0.88 sec, max 1.04 sec, min 0.56 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.07% of total time (compiled   13 times, average 1.88 sec, max 2.20 sec, min 1.43 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.16% of total time (compiled   21 times, average 0.85 sec, max 1.07 sec, min 0.58 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.93% of total time (compiled   20 times, average 0.88 sec, max 1.04 sec, min 0.56 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.26% of total time (compiled    9 times, average 1.88 sec, max 2.21 sec, min 1.48 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.87% of total time (compiled   16 times, average 0.75 sec, max 0.86 sec, min 0.62 sec)
+[2023.07.08-18.59.21:908][746]LogShaderCompilers: Display: ================================================
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.21:991][747]MaterialEditorStats: Shader Count: 13
+[2023.07.08-18.59.23:944][839]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-18.59.23:944][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.08-18.59.23:944][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.23:944][839]MaterialEditorStats: Shader Count: 0
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.24:012][841]MaterialEditorStats: Shader Count: 13
+[2023.07.08-18.59.25:651][925]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-18.59.25:651][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-18.59.25:651][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.25:651][925]MaterialEditorStats: Shader Count: 0
+[2023.07.08-18.59.26:598][965]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.08-18.59.26:598][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-18.59.26:598][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.26:598][965]MaterialEditorStats: Shader Count: 2
+[2023.07.08-18.59.26:663][968]LogMaterialEditor: Saving and Compiling material MM_Carpet
+[2023.07.08-18.59.27:256][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-18.59.28:059][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-18.59.28:071][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.59.29:589][968]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet
+[2023.07.08-18.59.29:589][968]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_Carpet6F7C409740B30A3A68734AB8DCEC19DA.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.uasset'
+[2023.07.08-18.59.29:626][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.55 sec (total: 3.96 sec)
+[2023.07.08-18.59.29:630][968]AssetCheck: New page: Asset Save: MM_Carpet
+[2023.07.08-18.59.29:630][968]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.MM_Carpet
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-18.59.29:630][968]MaterialEditorStats: Shader Count: 23
+[2023.07.08-18.59.30:240][992]LogSlate: Window 'MM_Carpet' being destroyed
+[2023.07.08-18.59.30:296][992]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-18.59.30:296][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-18.59.52:544][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.59.52:582][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.59.52:589][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.08-18.59.52:629][468]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.59.52:630][468]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomE4E7D3BD4C2A8122D7C74D83BD4230D2.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.59.52:642][468]LogFileHelpers: No new changes to save!
+[2023.07.08-18.59.52:642][468]LogFileHelpers: Saving map 'Living_Room' took 0.061
+[2023.07.08-18.59.52:650][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 4.07 sec)
+[2023.07.08-18.59.52:654][468]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.59.52:654][468]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-19.00.10:728][910]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.00.10:757][911]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.Normal_Carpet (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 168.562488 MB), EncodeSpeed: Fast
+[2023.07.08-19.00.10:762][911]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.00.10:764][911]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.00.10:823][912]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.00.12:290][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.08-19.00.13:020][996]LogSlate: Window 'Save Content' being destroyed
+[2023.07.08-19.00.13:035][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-19.00.13:109][996]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet
+[2023.07.08-19.00.13:109][996]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Normal_Carpet2A3ACC8C4E6C805EE2B1B78CD1BF4B0B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.uasset'
+[2023.07.08-19.00.13:124][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 4.15 sec)
+[2023.07.08-19.00.13:127][996]AssetCheck: New page: Asset Save: Normal_Carpet
+[2023.07.08-19.00.13:127][996]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.Normal_Carpet
+[2023.07.08-19.00.18:411][388]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.MM_Carpet
+[2023.07.08-19.00.18:414][388]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-19.00.18:556][388]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-19.00.18:556][388]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.18:556][388]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.18:556][388]MaterialEditorStats: Shader Count: 0
+[2023.07.08-19.00.18:563][388]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2023.07.08-19.00.19:679][439]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.08-19.00.19:679][439]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.19:679][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.19:679][439]MaterialEditorStats: Shader Count: 2
+[2023.07.08-19.00.19:992][454]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.08-19.00.19:992][454]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.19:992][454]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.19:992][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.19:992][454]MaterialEditorStats: Shader Count: 5
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.20:125][460]MaterialEditorStats: Shader Count: 6
+[2023.07.08-19.00.21:114][508]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-19.00.21:114][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.21:114][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.21:114][508]MaterialEditorStats: Shader Count: 0
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.21:177][510]MaterialEditorStats: Shader Count: 12
+[2023.07.08-19.00.24:682][713]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-19.00.24:682][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.24:682][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.24:682][713]MaterialEditorStats: Shader Count: 0
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.24:725][715]MaterialEditorStats: Shader Count: 6
+[2023.07.08-19.00.31:759][160]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-19.00.31:759][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.31:759][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.31:759][160]MaterialEditorStats: Shader Count: 0
+[2023.07.08-19.00.32:466][197]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.08-19.00.32:466][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.32:466][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.32:466][197]MaterialEditorStats: Shader Count: 2
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: Base pass shader: 192 instructions
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.32:879][217]MaterialEditorStats: Shader Count: 6
+[2023.07.08-19.00.32:965][219]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.08-19.00.32:965][219]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.32:965][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.32:965][219]MaterialEditorStats: Shader Count: 0
+[2023.07.08-19.00.33:837][260]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.08-19.00.33:837][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.33:837][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.33:837][260]MaterialEditorStats: Shader Count: 1
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: Base pass shader: 192 instructions
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.08-19.00.34:147][273]MaterialEditorStats: Shader Count: 4
+[2023.07.08-19.00.34:583][292]LogMaterialEditor: Saving and Compiling material MM_Carpet
+[2023.07.08-19.00.35:129][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.08-19.00.35:944][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.07.08-19.00.35:972][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-19.00.37:345][292]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet
+[2023.07.08-19.00.37:345][292]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MM_CarpetDE371794401B9841F57542808D56C42C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.uasset'
+[2023.07.08-19.00.37:359][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.38 sec (total: 5.54 sec)
+[2023.07.08-19.00.37:362][292]AssetCheck: New page: Asset Save: MM_Carpet
+[2023.07.08-19.00.37:362][292]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.MM_Carpet
+[2023.07.08-19.00.40:119][460]LogSlate: Window 'MM_Carpet' being destroyed
+[2023.07.08-19.00.40:141][460]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-19.00.40:141][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
