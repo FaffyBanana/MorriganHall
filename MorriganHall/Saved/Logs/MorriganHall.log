@@ -1353,3 +1353,161 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-16.18.56:742][498]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.08-16.18.56:742][498]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.08-16.18.58:245][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.08-16.20.16:345][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.20.16:409][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-16.20.16:413][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.08-16.20.16:452][900]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-16.20.16:452][900]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room528D2FA247C7003F9C991B9876E83429.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-16.20.16:464][900]LogFileHelpers: No new changes to save!
+[2023.07.08-16.20.16:464][900]LogFileHelpers: Saving map 'Living_Room' took 0.057
+[2023.07.08-16.20.16:473][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.16 sec)
+[2023.07.08-16.20.16:476][900]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-16.20.16:476][900]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-16.20.21:867][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.20.21:940][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-16.20.21:945][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-16.20.21:985][218]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-16.20.21:985][218]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room4AB9BE0B44FFF65827C4C09762C01080.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-16.20.21:998][218]LogFileHelpers: No new changes to save!
+[2023.07.08-16.20.21:999][218]LogFileHelpers: Saving map 'Living_Room' took 0.058
+[2023.07.08-16.20.22:006][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 4.30 sec)
+[2023.07.08-16.20.22:011][218]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-16.20.22:011][218]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-16.31.59:564][738]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.08-16.31.59:573][738]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.08-16.31.59:583][739]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.08-16.32.05:131][126]LogContentBrowser: Attempting asset rename: NewFolder -> Sofa1m
+[2023.07.08-16.32.05:131][126]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.08-16.32.08:280][355]LogContentBrowser: Deferred new asset file creation: MI_Sofa2m_Inst
+[2023.07.08-16.32.08:288][355]LogContentBrowser: Creating deferred item: MI_Sofa2m_Inst
+[2023.07.08-16.32.08:298][356]LogContentBrowser: Renaming the item being created (Deferred Item: MI_Sofa2m_Inst).
+[2023.07.08-16.32.13:685][718]LogContentBrowser: Attempting asset rename: MI_Sofa2m_Inst -> MI_Sofa1m
+[2023.07.08-16.32.13:686][718]LogContentBrowser: End creating deferred item MI_Sofa2m_Inst
+[2023.07.08-16.32.17:447][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.32.17:498][ 39]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m
+[2023.07.08-16.32.17:498][ 39]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_Sofa1mE1B0BFCE4A75ED8ABBB81891DF1185CD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m.uasset'
+[2023.07.08-16.32.17:507][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.36 sec)
+[2023.07.08-16.32.17:516][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-16.32.17:523][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.08-16.32.17:528][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-16.32.17:546][ 39]AssetCheck: New page: Asset Save: MI_Sofa1m
+[2023.07.08-16.32.17:546][ 39]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m.MI_Sofa1m
+[2023.07.08-16.32.23:835][218]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-16.32.23:835][218]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.08-16.32.23:835][218]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.08-16.32.23:864][219]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.08-16.32.24:177][228]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.08-16.32.24:177][228]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.08-16.32.24:195][229]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-16.32.24:204][229]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor.Sofa1m_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-16.32.24:809][255]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-16.32.24:842][255]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-16.32.24:854][255]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.Sofa1m_low_DefaultMaterial_Normal (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-16.32.25:642][285]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.08-16.32.25:657][285]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.Sofa1m_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-16.32.26:420][317]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-16.32.26:524][317]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.07.08-16.32.28:698][498]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-16.32.29:731][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.32.30:068][540]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-16.32.30:068][540]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Sofa1m_low_DefaultMaterial_OccluA8FB039443D393BC8BB47E985ABFD06B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.07.08-16.32.30:081][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 4.71 sec)
+[2023.07.08-16.32.30:086][540]AssetCheck: New page: Asset Save: Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-16.32.30:086][540]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-16.32.30:626][576]LogSlate: Window 'Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic' being destroyed
+[2023.07.08-16.32.32:232][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.08-16.32.33:037][684]LogSlate: Window 'Save Content' being destroyed
+[2023.07.08-16.32.33:048][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.32.33:371][684]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor
+[2023.07.08-16.32.33:371][684]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Sofa1m_low_DefaultMaterial_BaseC1FD2820F4AFDA5F6E272CEB62B463BBF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor.uasset'
+[2023.07.08-16.32.33:733][684]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal
+[2023.07.08-16.32.33:733][684]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Sofa1m_low_DefaultMaterial_Norma198CBE9141493965E9DEF88D89C4341A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.uasset'
+[2023.07.08-16.32.33:745][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 695 ms (total: 5.40 sec)
+[2023.07.08-16.32.33:748][684]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.08-16.32.33:749][684]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.Sofa1m_low_DefaultMaterial_Normal
+[2023.07.08-16.32.33:749][684]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor.Sofa1m_low_DefaultMaterial_BaseColor
+[2023.07.08-16.32.34:583][726]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m.MI_Sofa1m
+[2023.07.08-16.32.34:584][726]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-16.32.34:773][726]LogViewport: Scene viewport resized to 1335x894, mode Windowed.
+[2023.07.08-16.32.45:748][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.32.45:807][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-16.32.45:814][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.08-16.32.45:816][497]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m
+[2023.07.08-16.32.45:816][497]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/MI_Sofa1m429F058E40C34919564FCA9DF99B975B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m.uasset'
+[2023.07.08-16.32.45:826][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 5.48 sec)
+[2023.07.08-16.32.45:829][497]AssetCheck: New page: Asset Save: MI_Sofa1m
+[2023.07.08-16.32.45:829][497]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Group_Assets/Aziz/Assets/Sofa1m/MI_Sofa1m.MI_Sofa1m
+[2023.07.08-16.32.46:694][553]LogSlate: Window 'MI_Sofa1m' being destroyed
+[2023.07.08-16.32.46:718][553]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-16.32.46:718][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-16.32.58:233][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.32.58:289][310]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa
+[2023.07.08-16.32.58:289][310]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_1mSofaB114BFF648F2BCE46CA5CFB33C945BA1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.uasset'
+[2023.07.08-16.32.58:290][310]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/SM_1mSofa
+[2023.07.08-16.32.58:290][310]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_1mSofa407A8D044D6D7B19344D46B7064E0F97.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/SM_1mSofa.uasset'
+[2023.07.08-16.32.58:315][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 5.56 sec)
+[2023.07.08-16.32.58:334][310]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.08-16.32.58:334][310]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.SM_1mSofa
+[2023.07.08-16.32.58:334][310]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Group_Assets/Aziz/Assets/SM_1mSofa.SM_1mSofa
+[2023.07.08-16.33.07:293][588]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/Sofas/Sofa1m_low.fbx]
+[2023.07.08-16.33.07:298][588]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/Sofas/Sofa1m_low.fbx
+[2023.07.08-16.33.07:305][588]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.08-16.33.07:338][588]LogFbx: Display: Triangulating static mesh Backrest_low
+[2023.07.08-16.33.07:344][588]LogFbx: Display: Triangulating static mesh Armrest_low
+[2023.07.08-16.33.07:363][588]LogFbx: Display: Triangulating static mesh Base_low
+[2023.07.08-16.33.07:365][588]LogFbx: Display: Triangulating static mesh FrontPlates_low
+[2023.07.08-16.33.07:374][588]LogFbx: Display: Triangulating static mesh Feet_low
+[2023.07.08-16.33.07:388][588]LogStaticMesh: Display: Building static mesh SM_1mSofa...
+[2023.07.08-16.33.07:447][588]LogStaticMesh: Built static mesh [0.06s] /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.SM_1mSofa
+[2023.07.08-16.33.07:469][588]LogEditorFactories: -- imported successfully
+[2023.07.08-16.33.07:471][588]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.08-16.33.20:769][331]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.SM_1mSofa
+[2023.07.08-16.33.20:837][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-16.33.22:773][331]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.07.08-16.33.23:275][331]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002221s (0.506069s overbudget)
+[2023.07.08-16.33.23:383][331]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: ================================================
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Total job queries 292, among them cache hits 67 (22.95%)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Tracking 225 distinct input hashes that result in 147 distinct outputs (65.33%)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: RAM used: 1.83 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Job execution time: average 1.50 s, max 1.61 s
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Job life time (pending + execution): average 1.53 s, max 1.63
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.63 s
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Average processing rate: 1.23 jobs/sec
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Total thread time: 1.11 s
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Total thread preprocess time: 0.06 s
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Percentage time preprocessing: 5.00%
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display:                                             FDebugViewModePS - 57.17% of total time (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display:                                             FDebugViewModeVS - 42.83% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2023.07.08-16.33.25:050][362]LogShaderCompilers: Display: ================================================
+[2023.07.08-16.33.30:231][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.33.30:546][472]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa
+[2023.07.08-16.33.30:546][472]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_1mSofa61067A134E5AF01B3BDE0D9D86746B90.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.uasset'
+[2023.07.08-16.33.30:555][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 5.89 sec)
+[2023.07.08-16.33.30:558][472]AssetCheck: New page: Asset Save: SM_1mSofa
+[2023.07.08-16.33.30:558][472]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.SM_1mSofa
+[2023.07.08-16.33.31:273][485]LogSlate: Window 'SM_1mSofa' being destroyed
+[2023.07.08-16.33.31:479][485]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-16.33.31:479][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-16.33.36:785][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.33.36:823][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-16.33.36:830][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.08-16.33.36:870][811]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-16.33.36:870][811]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room06EC25C84E13D81316CA118180C7F369.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-16.33.36:883][811]LogFileHelpers: No new changes to save!
+[2023.07.08-16.33.36:883][811]LogFileHelpers: Saving map 'Living_Room' took 0.060
+[2023.07.08-16.33.36:890][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.99 sec)
+[2023.07.08-16.33.36:895][811]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-16.33.36:895][811]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-16.33.39:654][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
