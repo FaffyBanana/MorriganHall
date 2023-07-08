@@ -1464,3 +1464,77 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-18.07.37:272][225]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.08-18.07.37:272][225]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.08-18.07.38:666][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-18.09.36:058][933]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_Wall.fbx]
+[2023.07.08-18.09.36:073][933]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_Wall.fbx
+[2023.07.08-18.09.36:078][933]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.08-18.09.36:108][933]LogFbx: Display: Triangulating static mesh Plane.004
+[2023.07.08-18.09.36:119][933]LogEditorFactories: -- imported successfully
+[2023.07.08-18.09.36:120][933]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: ================================================
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Total job queries 259, among them cache hits 34 (13.13%)
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Tracking 211 distinct input hashes that result in 145 distinct outputs (68.72%)
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: RAM used: 1.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.79 s
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Job execution time: average 1.72 s, max 1.72 s
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 1.82
+[2023.07.08-18.09.48:495][944]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.82 s
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Average processing rate: 0.55 jobs/sec
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Total thread time: 0.68 s
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Total thread preprocess time: 0.05 s
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Percentage time preprocessing: 7.45%
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Effective parallelization: 0.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2023.07.08-18.09.48:496][944]LogShaderCompilers: Display: ================================================
+[2023.07.08-18.11.10:971][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.08-18.11.12:515][111]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.08-18.11.12:563][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.08-18.11.12:570][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.07.08-18.11.12:575][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.08-18.11.15:537][308]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-18.11.15:537][308]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.08-18.11.15:537][308]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.08-18.11.15:616][309]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.08-18.11.16:211][333]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.08-18.11.16:221][334]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-18.11.16:807][362]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.08-18.11.16:807][362]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-18.11.16:824][362]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-18.11.16:834][362]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.08-18.11.16:848][362]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-18.11.46:444][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.11.46:486][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.11.46:491][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.07.08-18.11.46:531][413]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.11.46:540][413]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room79567FFA42402DF725445FB42985769F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.11.46:559][413]LogFileHelpers: No new changes to save!
+[2023.07.08-18.11.46:559][413]LogFileHelpers: Saving map 'Living_Room' took 0.073
+[2023.07.08-18.11.46:567][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 4.19 sec)
+[2023.07.08-18.11.46:570][413]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.11.46:570][413]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-18.11.48:431][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.07.08-18.11.49:479][601]LogSlate: Window 'Save Content' being destroyed
+[2023.07.08-18.11.49:492][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.11.49:549][601]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/SM_WallTile3
+[2023.07.08-18.11.49:576][601]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/SM_WallTile3117F4654489F26A046E74BB08F485505.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/SM_WallTile3.uasset'
+[2023.07.08-18.11.50:038][601]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor
+[2023.07.08-18.11.50:038][601]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_BaseCo2985F50D4C5F5C48CBC4B5BA76FAE9F6.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.uasset'
+[2023.07.08-18.11.50:449][601]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal
+[2023.07.08-18.11.50:450][601]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_Normal4B74FAB64BEBA08F27AC34A01580EC13.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.uasset'
+[2023.07.08-18.11.50:784][601]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-18.11.50:784][601]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Walls_low_DefaultMaterial_OcclusC1734E5E4B5484AEF8F9568D77F6292F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.07.08-18.11.50:804][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.31 sec (total: 5.50 sec)
+[2023.07.08-18.11.50:809][601]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.08-18.11.50:809][601]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.Walls_low_DefaultMaterial_BaseColor
+[2023.07.08-18.11.50:809][601]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.Walls_low_DefaultMaterial_Normal
+[2023.07.08-18.11.50:809][601]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.Walls_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.08-18.11.50:809][601]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WallTile3.SM_WallTile3
+[2023.07.08-18.11.50:814][602]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
