@@ -1652,3 +1652,38 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-19.00.40:119][460]LogSlate: Window 'MM_Carpet' being destroyed
 [2023.07.08-19.00.40:141][460]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2023.07.08-19.00.40:141][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-19.03.43:119][932]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.03.43:130][933]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.07.08-19.03.43:142][933]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.Opacity_Carpet (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.07.08-19.03.43:147][933]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.03.43:148][933]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.03.43:204][934]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.04.09:843][552]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.04.09:855][552]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.07.08-19.04.09:857][553]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.Opacity_Carpet (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.07.08-19.04.09:875][553]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.04.09:879][553]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.04.25:509][848]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.04.25:522][849]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2023.07.08-19.04.25:535][849]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.Opacity_Carpet (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 98.645823 MB), EncodeSpeed: Fast
+[2023.07.08-19.04.25:540][849]LogInterchangeEngine: [Pending] Importing
+[2023.07.08-19.04.25:541][849]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.04.25:591][850]LogInterchangeEngine: [Success] Import Done
+[2023.07.08-19.04.42:560][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-19.04.42:601][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-19.04.42:607][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.08-19.04.42:650][702]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-19.04.42:650][702]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomF0A0349E4B1150B7640EB286AAED08F1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-19.04.42:663][702]LogFileHelpers: No new changes to save!
+[2023.07.08-19.04.42:663][702]LogFileHelpers: Saving map 'Living_Room' took 0.062
+[2023.07.08-19.04.42:672][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 5.65 sec)
+[2023.07.08-19.04.42:677][702]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-19.04.42:677][702]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-19.04.44:339][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.08-19.04.45:386][870]LogSlate: Window 'Save Content' being destroyed
+[2023.07.08-19.04.45:398][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-19.04.45:431][870]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet
+[2023.07.08-19.04.45:431][870]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Opacity_CarpetA87C4F024BCC2D73FF17D49FC62F503E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.uasset'
+[2023.07.08-19.04.45:440][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 5.70 sec)
+[2023.07.08-19.04.45:444][870]AssetCheck: New page: Asset Save: Opacity_Carpet
+[2023.07.08-19.04.45:444][870]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.Opacity_Carpet
