@@ -1167,3 +1167,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-18.22.34:600][136]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.08-18.22.34:600][136]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.08-18.22.36:123][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.08-18.23.54:016][401]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.214 and deleted 0 files with total size 0 MiB. Scanned 16942 files in 16481 folders with total size 4408 MiB.
+[2023.07.08-18.24.34:872][535]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.08-18.25.31:652][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.25.31:688][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.25.31:693][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.07.08-18.25.31:731][596]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.25.31:731][596]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room3D53FF464807956EFE980884619AB49B.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.25.31:744][596]LogFileHelpers: No new changes to save!
+[2023.07.08-18.25.31:744][596]LogFileHelpers: Saving map 'Living_Room' took 0.056
+[2023.07.08-18.25.31:751][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.27 sec)
+[2023.07.08-18.25.31:755][596]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.25.31:755][596]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-18.27.01:609][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.27.01:641][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.27.01:646][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.07.08-18.27.01:686][522]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.27.01:686][522]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room79DFFCD045B063C44C6D3388D1C5C491.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.27.01:698][522]LogFileHelpers: No new changes to save!
+[2023.07.08-18.27.01:699][522]LogFileHelpers: Saving map 'Living_Room' took 0.059
+[2023.07.08-18.27.01:717][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.38 sec)
+[2023.07.08-18.27.01:721][522]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.27.01:721][522]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-18.27.03:231][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
