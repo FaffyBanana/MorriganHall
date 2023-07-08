@@ -1381,3 +1381,81 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-18.54.01:791][ 61]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.08-18.54.01:791][ 61]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Carpet/Albedo_Carpet.Albedo_Carpet
 [2023.07.08-18.54.01:791][ 61]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.Opacity_Carpet
+[2023.07.08-18.54.32:084][420]LogStaticMesh: Display: Building static mesh ArchDoorFrameLarge...
+[2023.07.08-18.54.32:160][420]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Tashan/gothicdoor/ArchDoorFrameLarge) ...
+[2023.07.08-18.54.33:438][420]LogStaticMesh: Built static mesh [1.35s] /Game/Group_Assets/Tashan/gothicdoor/ArchDoorFrameLarge.ArchDoorFrameLarge
+[2023.07.08-18.54.38:336][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.54.38:369][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.54.38:375][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.07.08-18.54.38:414][908]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.54.38:414][908]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomE00ECB7B43B1F16FB1A0B88028A610DE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.54.38:428][908]LogFileHelpers: No new changes to save!
+[2023.07.08-18.54.38:428][908]LogFileHelpers: Saving map 'Living_Room' took 0.060
+[2023.07.08-18.54.38:436][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.30 sec)
+[2023.07.08-18.54.38:440][908]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.54.38:440][908]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-18.54.40:094][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-18.54.57:430][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-18.54.57:515][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-18.54.57:522][877]PIE: New page: PIE session: Living_Room (8 Jul 2023, 20:54:57)
+[2023.07.08-18.54.57:540][877]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.08-18.54.57:577][877]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.08-18.54.57:592][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.07.08-18.54.57:639][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039186s)
+[2023.07.08-18.54.57:639][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.047350s)
+[2023.07.08-18.54.57:645][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-18.54.57:645][877]LogAIModule: Creating AISystem for world Living_Room
+[2023.07.08-18.54.57:655][877]LogPlayLevel: PIE: World Init took: (0.016467s)
+[2023.07.08-18.54.57:670][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.08-18.54.57:681][877]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-18.54.57:681][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-18.54.57:681][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-18.54.57:681][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-18.54.57:681][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-18.54.57:681][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-18.54.57:683][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-18.54.57:713][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.07.08-18.54.57:713][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-18.54.57:713][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-18.54.57:713][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-18.54.57:713][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.08-18.54.57:713][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.08-18.54.57:715][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.08-18.54.57:715][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.08-18.54.57:715][877]LogInit: FAudioDevice initialized.
+[2023.07.08-18.54.57:715][877]LogAudio: Display: Audio Device (ID: 2) registered with world 'Living_Room'.
+[2023.07.08-18.54.57:737][877]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-18.54.57:758][877]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.07.08-19.54.57
+[2023.07.08-18.54.57:803][877]LogWorld: Bringing up level for play took: 0.042709
+[2023.07.08-18.54.57:805][877]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.07.08-18.54.58:324][877]PIE: Server logged in
+[2023.07.08-18.54.58:325][877]PIE: Play in editor total start time 0.859 seconds.
+[2023.07.08-18.55.11:750][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-18.55.11:759][279]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.07.08-18.55.11:770][279]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-18.55.11:782][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-18.55.11:787][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-18.55.11:797][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-18.55.11:802][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-18.55.11:802][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.08-18.55.11:803][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.08-18.55.11:818][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.08-18.55.11:893][280]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.07.08-18.55.22:060][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.08-18.55.53:648][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-18.55.53:686][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-18.55.53:692][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.08-18.55.53:733][941]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-18.55.53:733][941]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_Room027D734E4A39E0C4AF13D89B204FFDCD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-18.55.53:746][941]LogFileHelpers: No new changes to save!
+[2023.07.08-18.55.53:746][941]LogFileHelpers: Saving map 'Living_Room' took 0.060
+[2023.07.08-18.55.53:753][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.41 sec)
+[2023.07.08-18.55.53:758][941]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-18.55.53:758][941]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-18.55.55:391][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
