@@ -5,43 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/MI_SofaPillows.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_BaseColor.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_Normal.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_large.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_small.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/SM_WallTile3.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_BaseColor.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_Normal.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Wall/Walls_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/SM_2mSofa.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_BaseColor.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_Normal.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/SM_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/MI_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Albedo_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Opacity_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/SofaPillow.uasset"
-=======
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Weathered_Wooden_Planks_ulxqcedaw/MI_Weathered_Wooden_Planks_ulxqcedaw_2K_Rotated_90_Inst2.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwellblock3.umap",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/mirror/M_Mirror.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/mirror/M_Mirror_Inst.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwellblock3_BuiltData.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Worn_Wall_Plaster_tmglejmcw/MI_Worn_Wall_Plaster_tmglejmcw_2K_Inst1.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Damaged_Wall_Plaster_vcvoeac/MI_Damaged_Wall_Plaster_vcvoeac_2K_Inst.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/LF_Clouds.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Weathered_Wooden_Planks_ulxqcedaw/MI_Weathered_Wooden_Planks_ulxqcedaw_2K_Rotated_90_Inst2.uasset"
->>>>>>> Stashed changes
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Dirty_Wooden_Planks_slxoejhp/MI_Dirty_Wooden_Planks_slxoejhp_4K_Rotated_90_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Dirty_Wooden_Planks_slxoejhp/MI_Dirty_Wooden_Planks_slxoejhp_4K_Rotated_90_Inst_2.uasset"
 			]
 		}
 	]
