@@ -1511,3 +1511,55 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-16.33.36:895][811]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.08-16.33.36:895][811]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.08-16.33.39:654][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.08-16.39.11:584][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-16.39.11:616][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.08-16.39.11:623][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.07.08-16.39.11:662][171]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.08-16.39.11:663][171]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomA07A26CF41DA6C91B3B2DEA0D821DA3E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.08-16.39.11:675][171]LogFileHelpers: No new changes to save!
+[2023.07.08-16.39.11:675][171]LogFileHelpers: Saving map 'Living_Room' took 0.059
+[2023.07.08-16.39.11:682][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.09 sec)
+[2023.07.08-16.39.11:686][171]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.08-16.39.11:686][171]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.08-16.39.13:655][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.07.08-16.49.20:508][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.07.08-16.49.20:532][831]LogStall: Shutdown...
+[2023.07.08-16.49.20:572][831]LogStall: Shutdown complete.
+[2023.07.08-16.49.20:767][831]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.07.08-16.49.21:074][832]Cmd: QUIT_EDITOR
+[2023.07.08-16.49.21:074][832]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.08-16.49.21:293][832]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.08-16.49.21:294][832]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.08-16.49.21:313][832]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.08-16.49.21:353][832]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-16.49.21:354][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-16.49.21:940][832]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.08-16.49.22:015][832]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.08-16.49.22:904][832]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.08-16.49.22:904][832]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.08-16.49.22:904][832]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.07.08-16.49.23:084][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.08-16.49.23:086][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.08-16.49.23:188][832]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.08-16.49.23:274][832]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.08-16.49.23:295][832]LogExit: Preparing to exit.
+[2023.07.08-16.49.24:134][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.07.08-16.49.26:087][832]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-16.49.26:262][832]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.07.08-16.49.26:447][832]LogExit: Editor shut down
+[2023.07.08-16.49.26:449][832]LogExit: Transaction tracking system shut down
