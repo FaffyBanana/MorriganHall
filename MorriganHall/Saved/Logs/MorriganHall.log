@@ -1147,3 +1147,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.09-11.39.49:011][331]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_Normal.Fenian_low_DefaultMaterial_Normal
 [2023.07.09-11.39.49:012][331]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_BaseColor.Fenian_low_DefaultMaterial_BaseColor
 [2023.07.09-11.39.49:012][331]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/FenianShotgun/Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic.Fenian_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.09-11.40.23:544][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.09-11.40.24:686][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.09-11.40.24:721][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Living_Room" FILE="../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.09-11.40.24:728][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.07.09-11.40.24:769][684]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.09-11.40.24:769][684]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Saved/Living_RoomE66E89A74350A422218B11BB916E94FD.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap'
+[2023.07.09-11.40.24:782][684]LogFileHelpers: No new changes to save!
+[2023.07.09-11.40.24:782][684]LogFileHelpers: Saving map 'Living_Room' took 0.061
+[2023.07.09-11.40.24:790][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.58 sec)
+[2023.07.09-11.40.24:794][684]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.09-11.40.24:794][684]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.09-11.40.25:520][762]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.496 and deleted 0 files with total size 0 MiB. Scanned 17337 files in 16855 folders with total size 4567 MiB.
