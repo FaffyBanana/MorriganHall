@@ -35,7 +35,41 @@
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/wallpaper/wallpapers_LOWPOLY_wp_03_001.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Weathered_Wooden_Planks_ulxqcedaw/MI_Weathered_Wooden_Planks_ulxqcedaw_2K_WithTrim.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/frontdoor/sm_frontdoor.uasset",
+<<<<<<< Updated upstream
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/frontdoor/sm_frontdoor_deco.uasset"
+=======
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/frontdoor/sm_frontdoor_deco.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/MF_Bump.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/mi_stainedglass.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/M4/Tashan/Assets/windows/mat_stainedglass.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/M_DoorWindow_2.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/blockout/MM_Texture_door.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/MM_Texture_door.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/M_DoorWindow_1.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/M_DoorWindow_2_I.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/M_DoorWindow_9_I.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/MM_FloorPiece.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/MM_FloorPiece_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_09_OcclusionRoughnessMetallic.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_03_BaseColor.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_03_Normal.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_03_OcclusionRoughnessMetallic.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_09_Normal.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/gothicdoor/SSP_modularAssetsLow_Texture_Set_09_BaseColor.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_02_low.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/walldeco/sm_wall_deco.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_BaseColor.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_Normal.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Pillows/Pillow_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_BaseColor.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_Normal.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa1m/Sofa1m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_BaseColor.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_Normal.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
