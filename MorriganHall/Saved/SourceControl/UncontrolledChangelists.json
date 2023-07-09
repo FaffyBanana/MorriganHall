@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/MI_SofaCloths.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_BaseColor.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_Normal.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/SM_ClothLargeCouch.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/SM_ClothSmallCouch.uasset",
+				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Living_Room.umap",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwellblock3.umap",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Ivy_Instance_1_006.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Splash/EdSplash.uasset",
