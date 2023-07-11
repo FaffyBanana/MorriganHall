@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/bed/bed_low.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/chair/chair.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/wardrobe_FBX.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/MI_SofaCloths.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_BaseColor.uasset",
