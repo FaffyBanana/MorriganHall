@@ -5,13 +5,50 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> Stashed changes
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/bed/bed_low.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/chair/chair.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/wardrobe_FBX.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/wardrobe/wardrobe_FBX.uasset",
+<<<<<<< Updated upstream
+=======
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/3Dprop_download_texture/wallpaper_light_2/wallpaper.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Textures/3Dprop_download_texture/wallpaper_light_2/wallpaper_Inst.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/books.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/Medieval_Bookstack_Height.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/Medieval_Bookstack_Normal.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/books/MedievalBookStack_FBX.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/NewMaterial.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2.uasset",
+>>>>>>> Stashed changes
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/MI_SofaCloths.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_BaseColor.uasset",
