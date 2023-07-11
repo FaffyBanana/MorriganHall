@@ -1788,3 +1788,674 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.11-09.55.32:923][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 303 ms)
 [2023.07.11-09.55.32:927][577]AssetCheck: New page: Asset Save: firstfloor
 [2023.07.11-09.55.32:927][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assets/Amy/firstfloor.firstfloor
+[2023.07.11-10.00.36:160][669]LogSlate: Window 'NewMaterial' being destroyed
+[2023.07.11-10.00.36:168][669]LogSlate: Window 'NewMaterial' being destroyed
+[2023.07.11-10.00.36:177][669]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-10.00.36:177][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-10.00.48:997][433]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.01.58:722][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.02.02:996][854]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.02.34:101][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.02.44:265][303]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.11-10.02.44:276][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.11-10.02.44:276][303]PIE: New page: PIE session: firstfloor (Jul 11, 2023, 12:02:44 PM)
+[2023.07.11-10.02.44:283][303]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.11-10.02.44:283][303]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.11-10.02.44:284][303]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.11-10.02.44:292][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007560s)
+[2023.07.11-10.02.44:292][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.007823s)
+[2023.07.11-10.02.44:292][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-10.02.44:293][303]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.11-10.02.44:293][303]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2023.07.11-10.02.44:305][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.07.11-10.02.44:308][303]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.11-10.02.44:308][303]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.11-10.02.44:308][303]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.11-10.02.44:308][303]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.11-10.02.44:308][303]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.11-10.02.44:308][303]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.11-10.02.44:310][303]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.11-10.02.44:357][303]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.11-10.02.44:357][303]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.11-10.02.44:357][303]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.11-10.02.44:357][303]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.11-10.02.44:358][303]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.11-10.02.44:358][303]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.11-10.02.44:360][303]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.11-10.02.44:360][303]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.11-10.02.44:360][303]LogInit: FAudioDevice initialized.
+[2023.07.11-10.02.44:360][303]LogAudio: Display: Audio Device (ID: 2) registered with world 'firstfloor'.
+[2023.07.11-10.02.44:364][303]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.11-10.02.44:367][303]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.11-11.02.44
+[2023.07.11-10.02.44:367][303]LogWorld: Bringing up level for play took: 0.002778
+[2023.07.11-10.02.44:369][303]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.07.11-10.02.44:408][303]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-330.132 Y=335.929 Z=161.611] for [BP_ThirdPersonCharacter_C]
+[2023.07.11-10.02.44:409][303]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -5.770791 Roll 0.000000
+Translation: -330.131635 335.929057 161.611330
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.07.11-10.02.44:411][303]PIE: Server logged in
+[2023.07.11-10.02.44:411][303]PIE: Play in editor total start time 0.139 seconds.
+[2023.07.11-10.02.47:061][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-10.02.47:061][455]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.11-10.02.47:062][455]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-10.02.47:063][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-10.02.47:067][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.11-10.02.47:070][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-10.02.47:078][455]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.11-10.02.47:079][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.11-10.02.47:081][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.11-10.02.47:086][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-10.02.47:090][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.11-10.02.47:136][457]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.07.11-10.02.55:909][975]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.11-10.02.55:917][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.11-10.02.55:917][975]PIE: New page: PIE session: firstfloor (Jul 11, 2023, 12:02:55 PM)
+[2023.07.11-10.02.55:917][975]LogPlayLevel: Creating play world package: /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.11-10.02.55:925][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008198s)
+[2023.07.11-10.02.55:925][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Amy/firstfloor.firstfloor to /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor (0.008225s)
+[2023.07.11-10.02.55:925][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-10.02.55:925][975]LogAIModule: Creating AISystem for world firstfloor
+[2023.07.11-10.02.55:926][975]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.07.11-10.02.55:936][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.07.11-10.02.55:937][975]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.11-10.02.55:937][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.11-10.02.55:937][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.11-10.02.55:937][975]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.11-10.02.55:937][975]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.11-10.02.55:937][975]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.11-10.02.55:939][975]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.11-10.02.55:984][975]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.07.11-10.02.55:985][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.11-10.02.55:985][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.11-10.02.55:985][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.11-10.02.55:985][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.11-10.02.55:985][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.11-10.02.55:986][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.11-10.02.55:986][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.11-10.02.55:986][975]LogInit: FAudioDevice initialized.
+[2023.07.11-10.02.55:986][975]LogAudio: Display: Audio Device (ID: 3) registered with world 'firstfloor'.
+[2023.07.11-10.02.55:988][975]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.11-10.02.55:992][975]LogWorld: Bringing World /Game/Assets/Amy/UEDPIE_0_firstfloor.firstfloor up for play (max tick rate 60) at 2023.07.11-11.02.55
+[2023.07.11-10.02.55:992][975]LogWorld: Bringing up level for play took: 0.002565
+[2023.07.11-10.02.55:993][975]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.07.11-10.02.56:000][975]PIE: Server logged in
+[2023.07.11-10.02.56:000][975]PIE: Play in editor total start time 0.084 seconds.
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: ================================================
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Total job queries 302, among them cache hits 71 (23.51%)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Tracking 231 distinct input hashes that result in 167 distinct outputs (72.29%)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Shaders Compiled: 13
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100.00%)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Average time worker was idle: 205.95 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.50 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.57
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Average processing rate: 2.79 jobs/sec
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Total thread time: 6.35 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Total thread preprocess time: 0.33 s
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Percentage time preprocessing: 5.14%
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Effective parallelization: 1.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.09 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.49 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.46 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.41 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.54% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.09 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.22% of total time (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.49 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.21% of total time (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.46 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.69% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.41 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.27% of total time (compiled    2 times, average 0.29 sec, max 0.30 sec, min 0.29 sec)
+[2023.07.11-10.02.56:093][977]LogShaderCompilers: Display: ================================================
+[2023.07.11-10.03.03:563][422]LogChaos: Warning: Degenerate triangle 12847: (45.936073 12.939694 216.984283) (46.137608 12.938199 216.994293) (46.137642 12.939694 216.984299)
+[2023.07.11-10.03.32:582][163]LogChaos: Warning: Degenerate triangle 12279: (9.483104 -16.655594 9.875383) (9.477699 -16.358011 9.792362) (9.468891 -16.358744 9.803546)
+[2023.07.11-10.03.33:568][221]LogChaos: Warning: Degenerate triangle 32295: (-45.216717 -0.102759 168.824524) (-45.099113 -0.145318 168.824524) (-45.099113 -0.145318 168.881454)
+[2023.07.11-10.04.00:548][840]LogChaos: Warning: Degenerate triangle 20723: (-4.583657 2.740632 97.090179) (-4.559689 2.750998 97.090179) (-4.559689 2.750998 96.863434)
+[2023.07.11-10.04.11:648][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-10.04.11:649][504]LogWorld: BeginTearingDown for /Game/Assets/Amy/UEDPIE_0_firstfloor
+[2023.07.11-10.04.11:649][504]LogWorld: UWorld::CleanupWorld for firstfloor, bSessionEnded=true, bCleanupResources=true
+[2023.07.11-10.04.11:659][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-10.04.11:663][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.11-10.04.11:665][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.11-10.04.11:674][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.11-10.04.11:675][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.11-10.04.11:676][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.11-10.04.11:683][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.11-10.04.11:726][505]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.07.11-10.04.13:372][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.04.19:105][937]Cmd: TRANSACTION UNDO
+[2023.07.11-10.04.19:105][937]LogEditorTransaction: Undo Scale Elements
+[2023.07.11-10.04.20:633][ 20]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.06.51:914][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.11-10.06.51:936][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/firstfloor_Auto3
+[2023.07.11-10.06.51:937][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloor_Auto31FD4D7164A44437F93FE78BAE89D904E.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/firstfloor_Auto3.umap'
+[2023.07.11-10.06.51:942][305]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/firstfloor' took 0.037
+[2023.07.11-10.06.51:942][305]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.07.11-10.06.51:943][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2] ([1] browsable assets)...
+[2023.07.11-10.06.52:007][305]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2.vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2]
+[2023.07.11-10.06.52:007][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2]
+[2023.07.11-10.06.52:012][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2_Auto3
+[2023.07.11-10.06.52:012][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/vi5gch1ga_LOD2_Aset_props__S_vi58AB16B84484D3C1A318CA4913C0C6E3C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_00_LOD2_Auto3.uasset'
+[2023.07.11-10.06.52:014][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2] ([1] browsable assets)...
+[2023.07.11-10.06.52:037][305]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2.vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2]
+[2023.07.11-10.06.52:037][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2]
+[2023.07.11-10.06.52:043][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2_Auto3
+[2023.07.11-10.06.52:043][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/vi5gch1ga_LOD2_Aset_props__S_vi502BB3E9A4875AA945B1D6F894875AE4B.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_LOD2_Aset_props__S_vi5gch1ga_01_LOD2_Auto3.uasset'
+[2023.07.11-10.06.52:045][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4] ([1] browsable assets)...
+[2023.07.11-10.06.52:049][305]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4.vi5gch1ga_4K_Albedo_LOD4]
+[2023.07.11-10.06.52:049][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4]
+[2023.07.11-10.06.52:055][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4_Auto3
+[2023.07.11-10.06.52:055][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/vi5gch1ga_4K_Albedo_LOD4_Auto3A97833E1424A15056BC75FB9B208F4E4.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Albedo_LOD4_Auto3.uasset'
+[2023.07.11-10.06.52:057][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4] ([1] browsable assets)...
+[2023.07.11-10.06.52:060][305]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4.vi5gch1ga_4K_Normal_LOD4]
+[2023.07.11-10.06.52:060][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4]
+[2023.07.11-10.06.52:071][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4_Auto3
+[2023.07.11-10.06.52:071][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/vi5gch1ga_4K_Normal_LOD4_Auto3CEF668DC49C326E0F2135A9D60E328D2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Normal_LOD4_Auto3.uasset'
+[2023.07.11-10.06.52:073][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness] ([1] browsable assets)...
+[2023.07.11-10.06.52:077][305]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness.vi5gch1ga_4K_Roughness]
+[2023.07.11-10.06.52:077][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness]
+[2023.07.11-10.06.52:082][305]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness_Auto3
+[2023.07.11-10.06.52:082][305]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/vi5gch1ga_4K_Roughness_Auto3A5B65B5A495A923F8E87DB8455386357.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/violincase/vi5gch1ga_4K_Roughness_Auto3.uasset'
+[2023.07.11-10.06.52:083][305]LogFileHelpers: Auto-saving content packages took 0.140
+[2023.07.11-10.10.38:830][476]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.11-10.10.38:836][476]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.11-10.10.38:848][477]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.11-10.10.41:689][647]LogContentBrowser: Attempting asset rename: NewFolder -> books
+[2023.07.11-10.10.41:699][647]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.11-10.10.49:855][880]LogInterchangeEngine: [Pending] Importing
+[2023.07.11-10.10.49:856][880]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.11-10.10.49:856][880]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.11-10.10.49:857][880]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\books\MedievalBookStack_FBX.fbx)
+[2023.07.11-10.10.49:871][880]LogFbx: Loading FBX Scene from C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\books\MedievalBookStack_FBX.fbx
+[2023.07.11-10.10.49:876][880]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.11-10.10.49:945][880]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic.Medieval_Bookstack_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.49:983][880]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.11-10.10.49:983][880]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.11-10.10.49:993][880]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness.Medieval_Bookstack_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.50:083][880]LogInterchangeEngine: [Success] Import Done
+[2023.07.11-10.10.50:084][880]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal.Medieval_Bookstack_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.50:929][880]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.11-10.10.51:014][880]LogFbx: Display: Triangulating static mesh book1_low1
+[2023.07.11-10.10.51:055][880]LogStaticMesh: Display: Building static mesh MedievalBookStack_FBX...
+[2023.07.11-10.10.51:082][880]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX
+[2023.07.11-10.10.51:100][880]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.11-10.10.51:146][880]LogInterchangeEngine: [Pending] Importing
+[2023.07.11-10.10.51:146][880]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.11-10.10.51:221][880]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height.Medieval_Bookstack_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.51:228][880]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.07.11-10.10.51:265][881]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.07.11-10.10.51:282][881]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal.Medieval_Bookstack_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.51:332][881]LogInterchangeEngine: [Success] Import Done
+[2023.07.11-10.10.51:349][881]LogInterchangeEngine: [Success] Import Done
+[2023.07.11-10.10.51:354][881]LogInterchangeEngine: [Success] Import Done
+[2023.07.11-10.10.51:372][881]LogTexture: Display: Building textures: /Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor.Medieval_Bookstack_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.07.11-10.10.54:980][ 76]LogSlate: Window 'Message Log' being destroyed
+[2023.07.11-10.10.54:985][ 76]LogSlate: Window 'Message Log' being destroyed
+[2023.07.11-10.10.58:227][267]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.11.01:494][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX
+[2023.07.11-10.11.01:494][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX
+[2023.07.11-10.11.01:494][451]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_166
+[2023.07.11-10.11.02:689][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX
+[2023.07.11-10.11.02:689][522]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX
+[2023.07.11-10.11.02:690][522]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_167
+[2023.07.11-10.11.16:453][322]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.07.11-10.11.16:461][322]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.07.11-10.11.16:471][323]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.07.11-10.11.21:199][607]LogContentBrowser: Attempting asset rename: NewMaterial -> books
+[2023.07.11-10.11.21:200][607]LogContentBrowser: End creating deferred item NewMaterial
+[2023.07.11-10.11.22:335][671]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Amy/Asset/books/books.books
+[2023.07.11-10.11.22:337][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.11-10.11.22:452][671]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.22:452][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.11-10.11.22:453][671]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.22:457][671]LogViewport: Scene viewport resized to 683x405, mode Windowed.
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: ================================================
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Total job queries 313, among them cache hits 77 (24.60%)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 167 distinct outputs (71.98%)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: RAM used: 1.92 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Shaders Compiled: 14
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Jobs assigned 18, completed 14 (77.78%)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Average time worker was idle: 514.23 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.10 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 1.50 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Job life time (pending + execution): average 0.86 s, max 1.57
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.42 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Average processing rate: 2.58 jobs/sec
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Total thread time: 6.63 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Total thread preprocess time: 0.35 s
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Percentage time preprocessing: 5.34%
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.09 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.49 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.46 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.41 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 33.08% of total time (compiled    2 times, average 1.10 sec, max 1.10 sec, min 1.09 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.54% of total time (compiled    2 times, average 0.52 sec, max 0.54 sec, min 0.49 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.57% of total time (compiled    2 times, average 0.48 sec, max 0.50 sec, min 0.46 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.11% of total time (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.41 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.09% of total time (compiled    3 times, average 0.29 sec, max 0.30 sec, min 0.28 sec)
+[2023.07.11-10.11.23:243][716]LogShaderCompilers: Display: ================================================
+[2023.07.11-10.11.23:474][730]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.07.11-10.11.23:474][730]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.11-10.11.23:474][730]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.11-10.11.23:474][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.11-10.11.23:474][730]MaterialEditorStats: Shader Count: 4
+[2023.07.11-10.11.25:683][853]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.25:683][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.11-10.11.25:683][853]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.25:727][855]MaterialEditorStats: Base pass shader: 173 instructions
+[2023.07.11-10.11.25:727][855]MaterialEditorStats: Base pass vertex shader: 263 instructions
+[2023.07.11-10.11.25:727][855]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.11-10.11.25:727][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.11-10.11.25:727][855]MaterialEditorStats: Shader Count: 5
+[2023.07.11-10.11.26:890][921]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.26:890][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.26:890][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.26:890][921]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.27:286][944]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.11-10.11.27:286][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.27:286][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.27:286][944]MaterialEditorStats: Shader Count: 1
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.27:487][956]MaterialEditorStats: Shader Count: 4
+[2023.07.11-10.11.32:475][240]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.32:475][240]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.32:475][240]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.32:475][240]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.32:520][242]MaterialEditorStats: Shader Count: 5
+[2023.07.11-10.11.36:793][488]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.36:793][488]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.36:793][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.36:793][488]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.36:838][490]MaterialEditorStats: Shader Count: 5
+[2023.07.11-10.11.38:955][611]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.38:955][611]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.38:955][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.38:955][611]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.39:000][613]MaterialEditorStats: Base pass shader: 180 instructions
+[2023.07.11-10.11.39:001][613]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.39:001][613]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.39:001][613]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.11-10.11.39:001][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.39:001][613]MaterialEditorStats: Shader Count: 5
+[2023.07.11-10.11.40:609][703]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.40:609][703]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.11-10.11.40:609][703]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.40:609][703]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.41:072][731]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.41:072][731]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.11-10.11.41:072][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.41:072][731]MaterialEditorStats: Shader Count: 1
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: Base pass shader: 188 instructions
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.41:273][743]MaterialEditorStats: Shader Count: 4
+[2023.07.11-10.11.42:759][824]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.42:759][824]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.11-10.11.42:759][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.42:759][824]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: Base pass shader: 188 instructions
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.42:804][826]MaterialEditorStats: Shader Count: 5
+[2023.07.11-10.11.45:974][  7]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.11-10.11.45:974][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.11-10.11.45:974][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.45:974][  7]MaterialEditorStats: Shader Count: 0
+[2023.07.11-10.11.46:411][ 33]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.11-10.11.46:411][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.11-10.11.46:411][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.46:411][ 33]MaterialEditorStats: Shader Count: 1
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.46:618][ 45]MaterialEditorStats: Shader Count: 4
+[2023.07.11-10.11.47:921][122]LogMaterialEditor: Applying material books
+[2023.07.11-10.11.48:417][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.07.11-10.11.48:999][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.07.11-10.11.49:009][122]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.11-10.11.49:009][122]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.11-10.11.49:009][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.49:009][122]MaterialEditorStats: Shader Count: 2
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: Base pass shader: 191 instructions
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: Base pass vertex shader: 269 instructions
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: Texture samplers: 4/16
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.11-10.11.49:034][124]MaterialEditorStats: Shader Count: 7
+[2023.07.11-10.11.50:037][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.07.11-10.11.53:089][183]LogSlate: Window 'Save Content' being destroyed
+[2023.07.11-10.11.57:194][411]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.16.52:340][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.07.11-10.16.52:359][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/firstfloor_Auto4
+[2023.07.11-10.16.52:360][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloor_Auto4306851864B6F421516C92AA6D0219F93.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/firstfloor_Auto4.umap'
+[2023.07.11-10.16.52:365][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/firstfloor' took 0.031
+[2023.07.11-10.16.52:365][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2023.07.11-10.16.52:365][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/MedievalBookStack_FBX] ([1] browsable assets)...
+[2023.07.11-10.16.52:434][277]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/books/MedievalBookStack_FBX.MedievalBookStack_FBX]
+[2023.07.11-10.16.52:434][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/MedievalBookStack_FBX]
+[2023.07.11-10.16.52:439][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/MedievalBookStack_FBX_Auto4
+[2023.07.11-10.16.52:440][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/MedievalBookStack_FBX_Auto40FC0415E4E7CCB69FA08B991AEA08D63.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/MedievalBookStack_FBX_Auto4.uasset'
+[2023.07.11-10.16.52:442][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic] ([1] browsable assets)...
+[2023.07.11-10.16.52:445][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic.Medieval_Bookstack_Metallic]
+[2023.07.11-10.16.52:445][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic]
+[2023.07.11-10.16.52:449][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic_Auto4
+[2023.07.11-10.16.52:449][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Medieval_Bookstack_Metallic_AutoBE02D462495BE72670F2C4A58E2E7577.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Metallic_Auto4.uasset'
+[2023.07.11-10.16.52:452][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal] ([1] browsable assets)...
+[2023.07.11-10.16.52:455][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal.Medieval_Bookstack_Normal]
+[2023.07.11-10.16.52:455][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal]
+[2023.07.11-10.16.52:463][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal_Auto4
+[2023.07.11-10.16.52:463][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Medieval_Bookstack_Normal_Auto4F6633ADB4BB9158AE65BFCA5C8FA0524.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Normal_Auto4.uasset'
+[2023.07.11-10.16.52:466][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness] ([1] browsable assets)...
+[2023.07.11-10.16.52:470][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness.Medieval_Bookstack_Roughness]
+[2023.07.11-10.16.52:470][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness]
+[2023.07.11-10.16.52:474][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness_Auto4
+[2023.07.11-10.16.52:474][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Medieval_Bookstack_Roughness_Aut750F5A524D04C8FBCE2CF185AF9A9E7C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Roughness_Auto4.uasset'
+[2023.07.11-10.16.52:476][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor] ([1] browsable assets)...
+[2023.07.11-10.16.52:477][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor.Medieval_Bookstack_BaseColor]
+[2023.07.11-10.16.52:477][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor]
+[2023.07.11-10.16.52:508][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor_Auto4
+[2023.07.11-10.16.52:508][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Medieval_Bookstack_BaseColor_Aut3229C0A343B64E0C72195E81EB571764.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_BaseColor_Auto4.uasset'
+[2023.07.11-10.16.52:511][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height] ([1] browsable assets)...
+[2023.07.11-10.16.52:514][277]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height.Medieval_Bookstack_Height]
+[2023.07.11-10.16.52:514][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height]
+[2023.07.11-10.16.52:522][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height_Auto4
+[2023.07.11-10.16.52:522][277]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Medieval_Bookstack_Height_Auto4F249C9F241557CBE0B2AB2A5221251B0.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/books/Medieval_Bookstack_Height_Auto4.uasset'
+[2023.07.11-10.16.52:524][277]LogFileHelpers: Auto-saving content packages took 0.160
+[2023.07.11-10.17.24:930][ 63]LogDerivedDataCache: C:/Users/xiiao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:28.087 and deleted 0 files with total size 0 MiB. Scanned 14637 files in 14310 folders with total size 5010 MiB.
+[2023.07.11-10.22.33:099][655]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.11-10.22.33:106][655]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.11-10.22.33:115][656]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.11-10.22.36:728][873]LogContentBrowser: Attempting asset rename: NewFolder -> clothesstand
+[2023.07.11-10.22.36:729][873]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.11-10.23.29:187][190]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\clothes_stand\Coat_Stand.fbx)
+[2023.07.11-10.23.29:234][190]LogFbx: Loading FBX Scene from C:\Users\xiiao\Desktop\Master\Module5\asset\onlineasset\clothes_stand\Coat_Stand.fbx
+[2023.07.11-10.23.29:364][190]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.11-10.23.30:694][190]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.07.11-10.23.30:784][190]LogFbx: Display: Triangulating static mesh Cylinder
+[2023.07.11-10.23.30:787][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Cylinder...
+[2023.07.11-10.23.30:791][190]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder
+[2023.07.11-10.23.30:814][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Top_Cap...
+[2023.07.11-10.23.30:857][190]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap
+[2023.07.11-10.23.30:864][190]LogStaticMesh: Warning: Coat_Stand_Top_Cap has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.30:864][190]LogStaticMesh: Warning: Coat_Stand_Top_Cap has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.30:875][190]LogFbx: Display: Triangulating static mesh Torus.2
+[2023.07.11-10.23.30:899][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Torus_2...
+[2023.07.11-10.23.30:910][190]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2
+[2023.07.11-10.23.30:942][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean...
+[2023.07.11-10.23.31:001][190]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean
+[2023.07.11-10.23.31:045][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean_3...
+[2023.07.11-10.23.31:099][190]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3
+[2023.07.11-10.23.31:144][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean_2...
+[2023.07.11-10.23.31:201][190]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2
+[2023.07.11-10.23.31:208][190]LogStaticMesh: Warning: Coat_Stand_Boolean_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.31:208][190]LogStaticMesh: Warning: Coat_Stand_Boolean_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.31:245][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean_5...
+[2023.07.11-10.23.31:299][190]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5
+[2023.07.11-10.23.31:349][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean_4...
+[2023.07.11-10.23.31:405][190]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4
+[2023.07.11-10.23.31:447][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Boolean_1...
+[2023.07.11-10.23.31:500][190]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1
+[2023.07.11-10.23.31:509][190]LogStaticMesh: Warning: Coat_Stand_Boolean_1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.31:509][190]LogStaticMesh: Warning: Coat_Stand_Boolean_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.07.11-10.23.31:532][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Leg...
+[2023.07.11-10.23.31:555][190]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg
+[2023.07.11-10.23.31:575][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Leg_3...
+[2023.07.11-10.23.31:598][190]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3
+[2023.07.11-10.23.31:620][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Leg_2...
+[2023.07.11-10.23.31:643][190]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2
+[2023.07.11-10.23.31:654][190]LogFbx: Display: Triangulating static mesh Torus
+[2023.07.11-10.23.31:678][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Torus...
+[2023.07.11-10.23.31:688][190]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus
+[2023.07.11-10.23.31:696][190]LogFbx: Display: Triangulating static mesh Torus.1
+[2023.07.11-10.23.31:720][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Torus_1...
+[2023.07.11-10.23.31:730][190]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1
+[2023.07.11-10.23.31:747][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Leg_1...
+[2023.07.11-10.23.31:771][190]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1
+[2023.07.11-10.23.31:785][190]LogStaticMesh: Display: Building static mesh Coat_Stand_Bottom_Knob...
+[2023.07.11-10.23.31:795][190]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Top_Cap has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Top_Cap has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Boolean_2 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Boolean_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Boolean_1 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Coat_Stand_Boolean_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.07.11-10.23.31:820][190]FBXImport: Warning: Face material index inconsistency - forcing to 0 
+[2023.07.11-10.24.00:141][862]Cmd: TRANSACTION UNDO
+[2023.07.11-10.24.00:141][862]LogEditorTransaction: Undo Rotate Elements
+[2023.07.11-10.24.00:623][882]Cmd: MODE ROTGRID=1
+[2023.07.11-10.24.11:881][547]LogSlate: Window 'Message Log' being destroyed
+[2023.07.11-10.24.11:887][547]LogSlate: Window 'Message Log' being destroyed
+[2023.07.11-10.24.17:116][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean
+[2023.07.11-10.24.17:116][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean
+[2023.07.11-10.24.17:116][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_168
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_169
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_170
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3
+[2023.07.11-10.24.17:117][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_171
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_172
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_173
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_174
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder
+[2023.07.11-10.24.17:118][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_175
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_176
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_177
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2
+[2023.07.11-10.24.17:119][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_178
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_179
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_180
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_181
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1
+[2023.07.11-10.24.17:120][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1
+[2023.07.11-10.24.17:121][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_182
+[2023.07.11-10.24.17:121][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2
+[2023.07.11-10.24.17:121][855]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2
+[2023.07.11-10.24.17:121][855]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_183
+[2023.07.11-10.24.18:603][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean
+[2023.07.11-10.24.18:603][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean
+[2023.07.11-10.24.18:604][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_184
+[2023.07.11-10.24.18:614][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1
+[2023.07.11-10.24.18:614][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1
+[2023.07.11-10.24.18:615][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_185
+[2023.07.11-10.24.18:625][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2
+[2023.07.11-10.24.18:625][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2
+[2023.07.11-10.24.18:625][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_186
+[2023.07.11-10.24.18:636][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3
+[2023.07.11-10.24.18:636][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3
+[2023.07.11-10.24.18:636][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_187
+[2023.07.11-10.24.18:647][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4
+[2023.07.11-10.24.18:647][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4
+[2023.07.11-10.24.18:648][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_188
+[2023.07.11-10.24.18:658][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5
+[2023.07.11-10.24.18:658][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5
+[2023.07.11-10.24.18:658][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_189
+[2023.07.11-10.24.18:669][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob
+[2023.07.11-10.24.18:669][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob
+[2023.07.11-10.24.18:670][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_190
+[2023.07.11-10.24.18:681][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder
+[2023.07.11-10.24.18:681][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder
+[2023.07.11-10.24.18:681][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_191
+[2023.07.11-10.24.18:694][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg
+[2023.07.11-10.24.18:694][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg
+[2023.07.11-10.24.18:694][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_192
+[2023.07.11-10.24.18:705][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1
+[2023.07.11-10.24.18:705][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1
+[2023.07.11-10.24.18:705][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_193
+[2023.07.11-10.24.18:717][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2
+[2023.07.11-10.24.18:717][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2
+[2023.07.11-10.24.18:717][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_194
+[2023.07.11-10.24.18:728][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3
+[2023.07.11-10.24.18:728][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3
+[2023.07.11-10.24.18:729][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_195
+[2023.07.11-10.24.18:740][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap
+[2023.07.11-10.24.18:740][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap
+[2023.07.11-10.24.18:741][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_196
+[2023.07.11-10.24.18:752][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus
+[2023.07.11-10.24.18:752][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus
+[2023.07.11-10.24.18:752][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_197
+[2023.07.11-10.24.18:763][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1
+[2023.07.11-10.24.18:763][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1
+[2023.07.11-10.24.18:765][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_198
+[2023.07.11-10.24.18:776][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2
+[2023.07.11-10.24.18:776][943]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2
+[2023.07.11-10.24.18:776][943]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2 as actor: StaticMeshActor /Game/Assets/Amy/firstfloor.firstfloor:PersistentLevel.StaticMeshActor_199
+[2023.07.11-10.24.22:112][126]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.26.44:998][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.26.54:688][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.28.07:449][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.28.13:941][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.28.23:066][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.29.00:896][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.07.11-10.29.00:921][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/firstfloor_Auto5
+[2023.07.11-10.29.00:922][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloor_Auto56AE738D045805D6CAF0B869802704F64.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/firstfloor_Auto5.umap'
+[2023.07.11-10.29.00:926][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/firstfloor' took 0.037
+[2023.07.11-10.29.00:926][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.07.11-10.29.00:927][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob] ([1] browsable assets)...
+[2023.07.11-10.29.00:993][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob]
+[2023.07.11-10.29.00:993][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob]
+[2023.07.11-10.29.00:997][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob_Auto5
+[2023.07.11-10.29.00:997][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Bottom_Knob_Auto5F6BB65C1464714C9479E699C0F8F44A3.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob_Auto5.uasset'
+[2023.07.11-10.29.00:999][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder] ([1] browsable assets)...
+[2023.07.11-10.29.01:021][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder]
+[2023.07.11-10.29.01:021][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder]
+[2023.07.11-10.29.01:024][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder_Auto5
+[2023.07.11-10.29.01:024][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Cylinder_Auto520F36E384640D1DC7150CBB840A3B974.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder_Auto5.uasset'
+[2023.07.11-10.29.01:026][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap] ([1] browsable assets)...
+[2023.07.11-10.29.01:047][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap]
+[2023.07.11-10.29.01:047][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap]
+[2023.07.11-10.29.01:053][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap_Auto5
+[2023.07.11-10.29.01:053][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Top_Cap_Auto532329B0141BB506010A5B0BA719BA66B.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap_Auto5.uasset'
+[2023.07.11-10.29.01:055][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:077][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2]
+[2023.07.11-10.29.01:077][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2]
+[2023.07.11-10.29.01:082][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2_Auto5
+[2023.07.11-10.29.01:082][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_2_Auto53A7A31224D6DD8C8C7451A850299DB09.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2_Auto5.uasset'
+[2023.07.11-10.29.01:083][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean] ([1] browsable assets)...
+[2023.07.11-10.29.01:128][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean]
+[2023.07.11-10.29.01:128][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean]
+[2023.07.11-10.29.01:135][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_Auto5
+[2023.07.11-10.29.01:135][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_Auto50D604F2A412FD529205B8ABD364D6BD9.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_Auto5.uasset'
+[2023.07.11-10.29.01:137][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3] ([1] browsable assets)...
+[2023.07.11-10.29.01:159][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3]
+[2023.07.11-10.29.01:159][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3]
+[2023.07.11-10.29.01:165][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3_Auto5
+[2023.07.11-10.29.01:165][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_3_Auto5B52D05C44D234D6FA504089ACCA1F3C2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3_Auto5.uasset'
+[2023.07.11-10.29.01:166][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:188][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2]
+[2023.07.11-10.29.01:188][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2]
+[2023.07.11-10.29.01:194][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2_Auto5
+[2023.07.11-10.29.01:195][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_2_Auto5162EEEDE41C88832663669B091AC8206.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2_Auto5.uasset'
+[2023.07.11-10.29.01:196][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5] ([1] browsable assets)...
+[2023.07.11-10.29.01:218][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5]
+[2023.07.11-10.29.01:218][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5]
+[2023.07.11-10.29.01:224][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5_Auto5
+[2023.07.11-10.29.01:224][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_5_Auto5629CAB744CED49264FBCECAF18F9DE4E.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5_Auto5.uasset'
+[2023.07.11-10.29.01:225][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4] ([1] browsable assets)...
+[2023.07.11-10.29.01:246][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4]
+[2023.07.11-10.29.01:246][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4]
+[2023.07.11-10.29.01:252][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4_Auto5
+[2023.07.11-10.29.01:252][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_4_Auto502A0F1D34B5AE141D73D658F884F7435.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4_Auto5.uasset'
+[2023.07.11-10.29.01:253][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:274][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1]
+[2023.07.11-10.29.01:274][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1]
+[2023.07.11-10.29.01:282][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1_Auto5
+[2023.07.11-10.29.01:282][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_1_Auto5FFEA34B64AECD75F8FD07DA0A42BE66C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1_Auto5.uasset'
+[2023.07.11-10.29.01:284][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg] ([1] browsable assets)...
+[2023.07.11-10.29.01:305][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg]
+[2023.07.11-10.29.01:305][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg]
+[2023.07.11-10.29.01:309][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_Auto5
+[2023.07.11-10.29.01:309][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_Auto5C3F77D914A354719AF1896B98560E7F6.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_Auto5.uasset'
+[2023.07.11-10.29.01:311][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3] ([1] browsable assets)...
+[2023.07.11-10.29.01:331][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3]
+[2023.07.11-10.29.01:331][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3]
+[2023.07.11-10.29.01:336][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3_Auto5
+[2023.07.11-10.29.01:336][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_3_Auto5948E88484CEF819FFB488CA8C275D769.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3_Auto5.uasset'
+[2023.07.11-10.29.01:338][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:359][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2]
+[2023.07.11-10.29.01:359][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2]
+[2023.07.11-10.29.01:364][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2_Auto5
+[2023.07.11-10.29.01:364][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_2_Auto5FAF12C494236436D7B17DB9ABFDF7062.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2_Auto5.uasset'
+[2023.07.11-10.29.01:365][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus] ([1] browsable assets)...
+[2023.07.11-10.29.01:386][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus]
+[2023.07.11-10.29.01:386][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus]
+[2023.07.11-10.29.01:390][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_Auto5
+[2023.07.11-10.29.01:390][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_Auto54091D516474D3D3366B87E9BD49BDDA0.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_Auto5.uasset'
+[2023.07.11-10.29.01:391][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:438][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1]
+[2023.07.11-10.29.01:438][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1]
+[2023.07.11-10.29.01:442][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1_Auto5
+[2023.07.11-10.29.01:442][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_1_Auto53DC8FEC341B50D0E764AEB89B1AA10A2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1_Auto5.uasset'
+[2023.07.11-10.29.01:443][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:465][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1]
+[2023.07.11-10.29.01:465][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1]
+[2023.07.11-10.29.01:470][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1_Auto5
+[2023.07.11-10.29.01:470][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_1_Auto5B8DF9D4A46A0DA5A23E68FA4BB97DB5B.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1_Auto5.uasset'
+[2023.07.11-10.29.01:471][701]LogFileHelpers: Auto-saving content packages took 0.546
