@@ -2373,3 +2373,89 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.07.11-10.28.07:449][948]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.07.11-10.28.13:941][333]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2023.07.11-10.28.23:066][865]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.07.11-10.29.00:896][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.07.11-10.29.00:921][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/firstfloor_Auto5
+[2023.07.11-10.29.00:922][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/firstfloor_Auto56AE738D045805D6CAF0B869802704F64.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/firstfloor_Auto5.umap'
+[2023.07.11-10.29.00:926][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assets/Amy/firstfloor' took 0.037
+[2023.07.11-10.29.00:926][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.07.11-10.29.00:927][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob] ([1] browsable assets)...
+[2023.07.11-10.29.00:993][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob.Coat_Stand_Bottom_Knob]
+[2023.07.11-10.29.00:993][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob]
+[2023.07.11-10.29.00:997][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob_Auto5
+[2023.07.11-10.29.00:997][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Bottom_Knob_Auto5F6BB65C1464714C9479E699C0F8F44A3.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Bottom_Knob_Auto5.uasset'
+[2023.07.11-10.29.00:999][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder] ([1] browsable assets)...
+[2023.07.11-10.29.01:021][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder.Coat_Stand_Cylinder]
+[2023.07.11-10.29.01:021][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder]
+[2023.07.11-10.29.01:024][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder_Auto5
+[2023.07.11-10.29.01:024][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Cylinder_Auto520F36E384640D1DC7150CBB840A3B974.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Cylinder_Auto5.uasset'
+[2023.07.11-10.29.01:026][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap] ([1] browsable assets)...
+[2023.07.11-10.29.01:047][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap.Coat_Stand_Top_Cap]
+[2023.07.11-10.29.01:047][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap]
+[2023.07.11-10.29.01:053][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap_Auto5
+[2023.07.11-10.29.01:053][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Top_Cap_Auto532329B0141BB506010A5B0BA719BA66B.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Top_Cap_Auto5.uasset'
+[2023.07.11-10.29.01:055][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:077][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2.Coat_Stand_Torus_2]
+[2023.07.11-10.29.01:077][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2]
+[2023.07.11-10.29.01:082][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2_Auto5
+[2023.07.11-10.29.01:082][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_2_Auto53A7A31224D6DD8C8C7451A850299DB09.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_2_Auto5.uasset'
+[2023.07.11-10.29.01:083][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean] ([1] browsable assets)...
+[2023.07.11-10.29.01:128][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean.Coat_Stand_Boolean]
+[2023.07.11-10.29.01:128][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean]
+[2023.07.11-10.29.01:135][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_Auto5
+[2023.07.11-10.29.01:135][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_Auto50D604F2A412FD529205B8ABD364D6BD9.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_Auto5.uasset'
+[2023.07.11-10.29.01:137][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3] ([1] browsable assets)...
+[2023.07.11-10.29.01:159][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3.Coat_Stand_Boolean_3]
+[2023.07.11-10.29.01:159][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3]
+[2023.07.11-10.29.01:165][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3_Auto5
+[2023.07.11-10.29.01:165][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_3_Auto5B52D05C44D234D6FA504089ACCA1F3C2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_3_Auto5.uasset'
+[2023.07.11-10.29.01:166][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:188][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2.Coat_Stand_Boolean_2]
+[2023.07.11-10.29.01:188][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2]
+[2023.07.11-10.29.01:194][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2_Auto5
+[2023.07.11-10.29.01:195][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_2_Auto5162EEEDE41C88832663669B091AC8206.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_2_Auto5.uasset'
+[2023.07.11-10.29.01:196][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5] ([1] browsable assets)...
+[2023.07.11-10.29.01:218][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5.Coat_Stand_Boolean_5]
+[2023.07.11-10.29.01:218][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5]
+[2023.07.11-10.29.01:224][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5_Auto5
+[2023.07.11-10.29.01:224][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_5_Auto5629CAB744CED49264FBCECAF18F9DE4E.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_5_Auto5.uasset'
+[2023.07.11-10.29.01:225][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4] ([1] browsable assets)...
+[2023.07.11-10.29.01:246][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4.Coat_Stand_Boolean_4]
+[2023.07.11-10.29.01:246][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4]
+[2023.07.11-10.29.01:252][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4_Auto5
+[2023.07.11-10.29.01:252][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_4_Auto502A0F1D34B5AE141D73D658F884F7435.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_4_Auto5.uasset'
+[2023.07.11-10.29.01:253][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:274][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1.Coat_Stand_Boolean_1]
+[2023.07.11-10.29.01:274][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1]
+[2023.07.11-10.29.01:282][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1_Auto5
+[2023.07.11-10.29.01:282][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Boolean_1_Auto5FFEA34B64AECD75F8FD07DA0A42BE66C.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Boolean_1_Auto5.uasset'
+[2023.07.11-10.29.01:284][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg] ([1] browsable assets)...
+[2023.07.11-10.29.01:305][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg.Coat_Stand_Leg]
+[2023.07.11-10.29.01:305][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg]
+[2023.07.11-10.29.01:309][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_Auto5
+[2023.07.11-10.29.01:309][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_Auto5C3F77D914A354719AF1896B98560E7F6.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_Auto5.uasset'
+[2023.07.11-10.29.01:311][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3] ([1] browsable assets)...
+[2023.07.11-10.29.01:331][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3.Coat_Stand_Leg_3]
+[2023.07.11-10.29.01:331][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3]
+[2023.07.11-10.29.01:336][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3_Auto5
+[2023.07.11-10.29.01:336][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_3_Auto5948E88484CEF819FFB488CA8C275D769.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_3_Auto5.uasset'
+[2023.07.11-10.29.01:338][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2] ([1] browsable assets)...
+[2023.07.11-10.29.01:359][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2.Coat_Stand_Leg_2]
+[2023.07.11-10.29.01:359][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2]
+[2023.07.11-10.29.01:364][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2_Auto5
+[2023.07.11-10.29.01:364][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_2_Auto5FAF12C494236436D7B17DB9ABFDF7062.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_2_Auto5.uasset'
+[2023.07.11-10.29.01:365][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus] ([1] browsable assets)...
+[2023.07.11-10.29.01:386][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus.Coat_Stand_Torus]
+[2023.07.11-10.29.01:386][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus]
+[2023.07.11-10.29.01:390][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_Auto5
+[2023.07.11-10.29.01:390][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_Auto54091D516474D3D3366B87E9BD49BDDA0.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_Auto5.uasset'
+[2023.07.11-10.29.01:391][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:438][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1.Coat_Stand_Torus_1]
+[2023.07.11-10.29.01:438][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1]
+[2023.07.11-10.29.01:442][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1_Auto5
+[2023.07.11-10.29.01:442][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Torus_1_Auto53DC8FEC341B50D0E764AEB89B1AA10A2.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Torus_1_Auto5.uasset'
+[2023.07.11-10.29.01:443][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1] ([1] browsable assets)...
+[2023.07.11-10.29.01:465][701]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1.Coat_Stand_Leg_1]
+[2023.07.11-10.29.01:465][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1]
+[2023.07.11-10.29.01:470][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1_Auto5
+[2023.07.11-10.29.01:470][701]LogSavePackage: Moving '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Coat_Stand_Leg_1_Auto5B8DF9D4A46A0DA5A23E68FA4BB97DB5B.tmp' to '../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Saved/Autosaves/Game/Assets/Amy/Asset/clothesstand/Coat_Stand_Leg_1_Auto5.uasset'
+[2023.07.11-10.29.01:471][701]LogFileHelpers: Auto-saving content packages took 0.546
