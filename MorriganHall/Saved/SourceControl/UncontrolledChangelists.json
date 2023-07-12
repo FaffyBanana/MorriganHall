@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/firstfloor.umap",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/bed/bed_low.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall/Content/Assets/Amy/Asset/chair/chair.uasset",
@@ -31,35 +32,28 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Normal_Carpet.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/Albedo_Carpet.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall/Content/Group_Assets/Aziz/Assets/Carpet/MM_Carpet.uasset",
+=======
+>>>>>>> Stashed changes
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/stairwellblock3.umap",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/M4/Tashan/Assets/blockout/room_v5_Ivy_Instance_1_006.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Splash/EdSplash.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/MI_Concrete_Crack_sfelnxg_4K.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_se4otkg/MI_Concrete_Crack_se4otkg_4K.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Leakage_tk3jefoc/MI_Concrete_Leakage_tk3jefoc_2K.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Leakage_tdlodebc/MI_Leakage_tdlodebc_2K.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/T_ConcreteCrack_sfelnxg_4K_DpRA.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/T_Concrete_Crack_sfelnxg_4K_D.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/T_Concrete_Crack_sfelnxg_4K_N.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_se4otkg/T_ConcreteCrack_se4otkg_4K_DpRA.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_se4otkg/T_Concrete_Crack_se4otkg_4K_D.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_se4otkg/T_Concrete_Crack_se4otkg_4K_N.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Leakage_tk3jefoc/T_ConcreteLeakage_tk3jefoc_2K_DpRA.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Leakage_tk3jefoc/T_Concrete_Leakage_tk3jefoc_2K_D.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Leakage_tdlodebc/T_Leakage_tdlodebc_2K_DpRA.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Leakage_tdlodebc/T_Leakage_tdlodebc_2K_D.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Antique_Rug_thslcjzs/T_AntiqueRug_thslcjzs_2K_DpRA.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Antique_Rug_thslcjzs/MI_Antique_Rug_thslcjzs_2K.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/MSPresets/M_MS_Decal_Material_VT/M_MS_Decal_Material_VT.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/FloorTiles2_AORM.uasset",
-				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/Wood/Wood_AORM.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/Wood/MM_wood.uasset",
+<<<<<<< Updated upstream
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/MM_FloorPiece.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/sm_middlefloor.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/FloorTiles2_Albedo.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/floorpiece/FloorTiles2_Normal.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/Wood/Wood_Normal.uasset",
 				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/Wood/Wood_Albedo.uasset"
+=======
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Surfaces/Carpet_pgwfuop0/MI_Carpet_pgwfuop0_2K_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Materials/Glass/Glass_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/stairs/stairs.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Assets/Tashan/stairs/stairwindowwall.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/MI_Concrete_Crack_sfelnxg_4K.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_sfelnxg/MI_Concrete_Crack_sfelnxg_4K_Inst.uasset",
+				"D:/UNIGITHUB/MorriganHall/MorriganHall/Content/Megascans/Decals/Concrete_Crack_se4otkg/MI_Concrete_Crack_se4otkg_4K_Inst.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
