@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/mirror/M_Mirror.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/mirror/M_Mirror_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3_BuiltData.uasset"
+			]
+		}
+	]
+}
