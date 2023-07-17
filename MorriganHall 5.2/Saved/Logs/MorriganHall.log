@@ -934,3 +934,58 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.17-17.49.49:961][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 554223dabfb8a5db58b37efd2ef5e9c98129380e), compiling. 
 [2023.07.17-17.49.50:302][  0]LogTurnkeySupport: Completed device detection: Code = 0
 [2023.07.17-17.50.27:100][  0]LogShaderCompilers: Warning: Last Error 206: Failed to create directory for shader debug info 'C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_2c5579ec6212f78b/Default/FGeometryCacheVertexVertexFactory/TShadowDepthPSPixelShadowDepth_PerspectiveCorrect/0'. Try enabling large file paths or r.DumpShaderDebugShortNames.
+[2023.07.17-17.53.07:143][  0]LogDerivedDataCache: C:/Users/igfxd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:26.709 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 45905 files in 44509 folders with total size 8948 MiB.
+[2023.07.17-17.57.33:315][  0]LogShaderCompilers: Warning: 0 Shader compiler errors compiling WorldGridMaterial for platform PCD3D_SM6:
+[2023.07.17-17.57.33:315][  0]LogShaderCompilers: Warning: 0 Shader compiler errors compiling global shaders for platform PCD3D_SM6:
+[2023.07.17-17.57.33:341][  0]LogWindows: Error: appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 4825] 
+  /Engine/Private/DeferredShadingCommon.ush(434): File '/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush' not found
+Failed to compile default material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial!
+
+
+
+[2023.07.17-17.57.33:341][  0]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: === Critical error: ===
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: 
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 4825] 
+[2023.07.17-17.57.34:493][  0]LogWindows: Error:   /Engine/Private/DeferredShadingCommon.ush(434): File '/Engine/Generated/ShaderAutogen/AutogenShaderHeaders.ush' not found
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: Failed to compile default material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial!
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: 
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: 
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb72f3f459 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb72f20d98 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb72763ff6 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb72834600 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb727600b3 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc36fbda0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc383d7f0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc3827e42 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc384ecd6 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc384d59b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc384dae0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc385feff UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc386d19b UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc386ca2c UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb71c73aad UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb71e4c3ae UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc354e96a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc3568fb3 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc383808d UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc36fc611 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffb71e46d72 UnrealEditor-Engine.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc354e96a UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc3568fb3 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc3870e1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffbc3852c41 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eeeb6b2 UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eee454b UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eee482a UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eee74f0 UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eefa4c4 UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ff64eefd996 UnrealEditor.exe!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffc1d2526ad KERNEL32.DLL!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: [Callstack] 0x00007ffc1db2aa68 ntdll.dll!UnknownFunction []
+[2023.07.17-17.57.34:493][  0]LogWindows: Error: 
+[2023.07.17-17.57.34:505][  0]LogExit: Executing StaticShutdownAfterError
+[2023.07.17-17.57.34:507][  0]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.07.17-17.57.34:507][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.07.17-17.57.34:507][  0]LogCore: Engine exit requested (reason: Win RequestExit)
