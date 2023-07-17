@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cloth/Cloth_low_DefaultMaterial_Normal.uasset",
@@ -21,6 +22,11 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cabinet/Cabinet_low.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cabinet/Cabinet_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cabinet/Cabinet_low_DefaultMaterial_Normal.uasset",
+=======
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Attic.umap",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal.uasset",
+>>>>>>> Stashed changes
 =======
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Attic.umap",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset",
