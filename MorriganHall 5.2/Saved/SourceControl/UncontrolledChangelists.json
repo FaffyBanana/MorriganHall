@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Rusty_Fire_Poker_wlkncbw/MI_Rusty_Fire_Poker_wlkncbw_1K.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Cabinet/Cabinet_low_DefaultMaterial_BaseColor.uasset",
@@ -15,6 +16,12 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Rusty_Fire_Poker_wlkncbw/T_Rusty_Fire_Poker_wlkncbw_1K_N.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Rusty_Fire_Poker_wlkncbw/T_RustyFirePoker_wlkncbw_1K_DpR.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/SM_WallTile4.uasset",
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass_Inst_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/mirror/NewMaterial.uasset",
+>>>>>>> Stashed changes
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal_Inst_01.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Attic.umap",
