@@ -1,8 +1,12 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ﻿Log file open, 07/18/23 12:32:06
 =======
 ﻿Log file open, 07/18/23 11:50:44
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+﻿Log file open, 07/18/23 12:32:06
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -10,12 +14,17 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=18272)
 LogWindows: Enabling Tpause support
 =======
 LogWindows: Started CrashReportClient (pid=24948)
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+LogWindows: Started CrashReportClient (pid=18272)
+LogWindows: Enabling Tpause support
+>>>>>>> Stashed changes
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: MorriganHall
 LogCore: UnrealTraceServer: Trace store launch successful
@@ -33,16 +42,23 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/MorriganHall.uproject"""
 LogCsvProfiler: Display: Metadata set : loginid="9fba05cf4d7b5915eb932cbf65e183a3"
 LogCsvProfiler: Display: Metadata set : llm="0"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.413557
 =======
 LogStats: Stats thread started at 0.291541
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+LogStats: Stats thread started at 0.413557
+>>>>>>> Stashed changes
 LogPluginManager: Adding extension module BinkMediaPlayer from BinkMedia_HoloLens to BinkMedia
 
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
          Session CrashGUID >   UECC-Windows-8ED6EA514B092122E7E39DBA0A6DA6A5
          Session CrashGUID >====================================================
 LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
@@ -60,6 +76,7 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin Paper2D
@@ -163,6 +180,13 @@ LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin MediaCompositing
 <<<<<<< HEAD
+=======
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ImgMedia
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
@@ -275,6 +299,7 @@ LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
 LogPluginManager: Mounting Engine plugin CharacterAI
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin Interchange
@@ -332,11 +357,16 @@ LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 LogPluginManager: Mounting Engine plugin TcpMessaging
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
 LogPluginManager: Mounting Engine plugin PlatformCrypto
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin SkeletalReduction
@@ -384,6 +414,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin ToolPresets
@@ -421,6 +452,16 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieSc
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+>>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
@@ -442,6 +483,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GLTFImporter/Content/' mounted to '/GLTFImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+<<<<<<< Updated upstream
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
@@ -471,6 +513,8 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Virtual
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+>>>>>>> Stashed changes
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 SourceControl: Revision control is disabled
@@ -554,7 +598,10 @@ LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4)
 LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 [2023.07.18-11.32.06:650][  0]LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.07.18-11.32.06:650][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2023.07.18-11.32.06:650][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
@@ -1422,6 +1469,7 @@ LogInit: Object subsystem initialized
 	(Node TextureSample) Texture Sample> Missing input texture
 	(Node TextureSample) Texture Sample> Missing input texture
 	(Node TextureSample) Texture Sample> Missing input texture
+<<<<<<< Updated upstream
 =======
 LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
@@ -2957,11 +3005,16 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 Translation: -690.275400 1061.340608 291.053877
 Scale3D: 1.000000 1.000000 1.000000
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+>>>>>>> Stashed changes
 
 [2023.07.18-11.35.40:632][905]LogMaterial: Warning: [AssetLog] C:\Users\xiiao\Desktop\Master\Module5\github\MorriganHall\MorriganHall 5.2\Content\Group_Assets\Tashan\M4\Tashan\Assets\mat_blend_Inst1.uasset: Failed to compile Material Instance with Base mat_blend for platform PCD3D_SM6, Default Material will be used in game.
 	(Node TextureSample) Sampler type is Linear Color, should be Masks for /Game/Group_Assets/Tashan/M4/Tashan/Assets/masks.masks
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 [2023.07.18-11.35.40:655][905]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.07.18-11.35.40:660][905]LogAssetEditorSubsystem: Opening Asset editor for World /Game/firstfloor.firstfloor
 [2023.07.18-11.35.40:660][905]Cmd: MAP LOAD FILE="../../../../../../Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/firstfloor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
@@ -5932,6 +5985,7 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.07.18-12.29.31:937][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms
 [2023.07.18-12.29.31:941][541]AssetCheck: New page: Asset Save: firstfloor
 [2023.07.18-12.29.31:941][541]LogContentValidation: Display: Validating /Script/Engine.World /Game/firstfloor.firstfloor
+<<<<<<< Updated upstream
 [2023.07.18-12.31.22:717][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2023.07.18-12.31.22:720][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
 [2023.07.18-12.34.39:838][274]LogDerivedDataCache: C:/Users/xiiao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.367 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16952 files in 19027 folders with total size 5411 MiB.
@@ -11392,3 +11446,5 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.07.18-11.29.37:568][378]Log file closed, 07/18/23 12:29:37
 >>>>>>> Stashed changes
 >>>>>>> 1edd63e27980857b37a18828d307a378d2e91104
+=======
+>>>>>>> Stashed changes
