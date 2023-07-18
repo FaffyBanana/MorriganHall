@@ -1,3 +1,2 @@
-2023/07/18-10:33:55.064 6f78 Reusing MANIFEST C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/07/18-10:33:55.079 6f78 Recovering log #3
-2023/07/18-10:33:55.081 6f78 Reusing old log C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/07/18-15:16:06.729 1ec4 Creating DB C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/07/18-15:16:06.740 1ec4 Reusing MANIFEST C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
