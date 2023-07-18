@@ -1,41 +1,2 @@
-[0718/151605.746:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[0718/151607.452:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0718/151607.554:WARNING:storage_block-inl.h(146)] Failed data load.
-[0718/151607.555:WARNING:storage_block-inl.h(146)] Failed data load.
-[0718/151607.557:WARNING:storage_block-inl.h(146)] Failed data load.
-[0718/151607.559:WARNING:storage_block-inl.h(146)] Failed data load.
-[0718/151607.559:ERROR:entry_impl.cc(998)] Failed to save user data
-[0718/151607.559:ERROR:entry_impl.cc(998)] Failed to save user data
-[0718/151609.182:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0718/151806.676:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0718/152107.488:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
-[0718/152107.489:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
-[0718/152107.490:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
-[0718/152107.762:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@../../storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\File System\Origins/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0718/152107.762:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0718/152107.795:WARNING:sandbox_origin_database.cc(113)] Repairing SandboxOriginDatabase completed.
-[0718/152117.579:ERROR:audio_rtp_receiver.cc(88)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
-[0718/152117.580:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
-[0718/152122.092:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[0718/152122.097:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb,IO error: C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0718/172205.743:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0718/172403.935:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
