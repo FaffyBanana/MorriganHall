@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Piano/GrandPiano_low.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Piano/GrandPiano_low_DefaultMaterial_BaseColor.uasset",
@@ -134,6 +135,15 @@
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Modular_Saloon_Balcony_Trim_ufbpaeadw/T_Modular_Saloon_Balcony_Trim_ufbpaeadw_4K_N.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Modular_Saloon_Balcony_Trim_ufbpaeadw/S_Modular_Saloon_Balcony_Trim_ufbpaeadw_lod0_Var2.uasset",
 				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Modular_Saloon_Balcony_Trim_ufbpaeadw/S_Modular_Saloon_Balcony_Trim_ufbpaeadw_lod0_Var1.uasset"
+=======
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper_Inst2.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Attic.umap",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper_char.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/MainStructureModularAssets/Walls_Hole.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wallpaper/wallpapers_WP1_016.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Charlotte/Assets/Door/G_ModularAssets_Door_Window_01_SM_Door_Frame_02_low.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Door_01.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
