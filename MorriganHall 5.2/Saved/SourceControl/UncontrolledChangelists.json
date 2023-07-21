@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/chandielier/mat_chandelier_Inst.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/chandielier/mat_chandelier.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/chandielier/mat_chandelier_Inst_2.uasset",
@@ -16,6 +17,29 @@
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Charlotte/Assets/Sword/Sword_low.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Charlotte/Assets/Sword/Sword_low_lambert1_BaseColor.uasset",
 				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Charlotte/Assets/Sword/Sword_low_lambert1_Normal.uasset"
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/lamp_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/Wood/MM_Lamp.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/MM_Lamp.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/mat_lamp.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/lamp_low.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Neglect/M3/NewMaterialFunction.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/Wood/cabinet.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Weathered_Wooden_Planks_ulxqcedaw/MI_Weathered_Wooden_Planks_ulxqcedaw_2K_WithTrim.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Neglect/M3/charassets/MAT_TRIMS_Inst1.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Neglect/M3/charassets/MAT_TRIMS_Inst1_Inst_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/lamp_low_DefaultMaterial_Normal.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/lamp/lamp_low_DefaultMaterial_BaseColor.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Clay_Vase_udfldgohw/MI_Clay_Vase_udfldgohw_4K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/mirror/M_Mirror.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Decals/Old_Wooden_Chips_sljkzqd/MI_Old_Wooden_Chips_sljkzqd_4K_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Clay_Vase_udfldgohw/S_Clay_Vase_udfldgohw_lod0.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Clay_Vase_udfldgohw/T_Clay_Vase_udfldgohw_4K_D.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Clay_Vase_udfldgohw/T_Clay_Vase_udfldgohw_4K_N.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Clay_Vase_udfldgohw/T_ClayVase_udfldgohw_4K_DpR.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/MainStructureModularAssets/Walls_Modular_01_Wall_Smooth_2m.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
