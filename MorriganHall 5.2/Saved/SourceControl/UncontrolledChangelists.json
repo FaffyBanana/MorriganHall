@@ -5,12 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Clock/Clock_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Clock/MI_Clock.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Clock/Clock_low.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Clock/Clock_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Clock/Clock_low_DefaultMaterial_Normal.uasset"
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/Stairwell_scene_shotsRoot.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0010/shot0010_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0020/shot0020_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0030/shot0030_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0040/shot0040_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0050/shot0050_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/shots/shot0060_01.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
