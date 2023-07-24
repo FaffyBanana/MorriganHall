@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 2023/07/23-23:43:22.315 29a8 Reusing MANIFEST C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2023/07/23-23:43:22.316 29a8 Recovering log #3
 2023/07/23-23:43:22.317 29a8 Reusing old log C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+=======
+2023/07/23-10:08:32.098 374c Reusing MANIFEST C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/07/23-10:08:32.101 374c Recovering log #3
+2023/07/23-10:08:32.103 374c Reusing old log C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes
