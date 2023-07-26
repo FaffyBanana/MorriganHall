@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/CurtainPole.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/MM_Placeholder.uasset",
@@ -14,6 +15,44 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/Curtains_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/Curtains_low_DefaultMaterial_Normal.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/FABRIC_1_FRONT_1629_008.uasset"
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/stairs/mat_trim.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/windows/plane_StainedGlass_BaseColor_2.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/M4/Tashan/Assets/windows/mat_stainedglass.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/stairs/mat_trim_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Assets/Tashan/stairs/mat_trim_Inst1.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/abandonedroom_V2.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoomSequence.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/SewingRoomSequence_01.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/SewingRoomSequence.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_02.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_3.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_4.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_5.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_6.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_7.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/shot0010_8.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Blue_Cloth_scklh0p0/MI_Blue_Cloth_scklh0p0_4K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Grey_Fabric_sbkjpwp0/MI_Grey_Fabric_sbkjpwp0_4K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/White_Cloth_sbklx0p0/MI_White_Cloth_sbklx0p0_4K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass_Inst_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/Wood/MM_wood_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/MSPresets/M_MS_Glass_Material/MI_MS_Glass_Material_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Glass/Glass_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal_Inst1.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/Wood/MM_wood_Inst_Inst1.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Blue_Cloth_scklh0p0/MI_Blue_Cloth_scklh0p0_4K_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/fabriholder/fabhold.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K_Inst2_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K_Inst_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K_Inst_Inst_Inst.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Multi-colored_Lines_Fabric_scklezp0/MI_Multi-colored_Lines_Fabric_scklezp0_4K_Inst_Inst_Inst1.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
