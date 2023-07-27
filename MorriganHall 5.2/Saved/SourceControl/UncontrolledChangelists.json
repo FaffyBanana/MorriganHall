@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/bed/bed_low_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/bed/bed_low_lambert1_Normal.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/bed/bed_low_lambert1_BaseColor.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/firstfloor.umap",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/bed/lambert1.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/MI_CandleHolder.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low.uasset",
