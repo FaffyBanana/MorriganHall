@@ -1418,3 +1418,123 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.26-23.54.21:484][102]AssetCheck: New page: Asset Save: Living_Room
 [2023.07.26-23.54.21:484][102]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.07.26-23.54.23:583][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.07.27-00.21.11:607][ 33]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder3.fbx]
+[2023.07.27-00.21.11:722][ 33]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder3.fbx
+[2023.07.27-00.21.11:732][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.27-00.21.11:792][ 33]LogFbx: Display: Triangulating static mesh Candle2_low
+[2023.07.27-00.21.12:055][ 33]LogFbx: Display: Triangulating static mesh CandleWax1_low
+[2023.07.27-00.21.12:165][ 33]LogStaticMesh: Display: Building static mesh CandleHolder2...
+[2023.07.27-00.21.12:346][ 33]LogStaticMesh: Built static mesh [0.18s] /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder2.CandleHolder2
+[2023.07.27-00.21.12:404][ 33]LogEditorFactories: -- imported successfully
+[2023.07.27-00.21.12:405][ 33]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.27-00.21.12:421][ 33]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder4.fbx]
+[2023.07.27-00.21.12:487][ 33]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder4.fbx
+[2023.07.27-00.21.12:498][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.27-00.21.12:598][ 33]LogFbx: Display: Triangulating static mesh Candle3_low
+[2023.07.27-00.21.12:860][ 33]LogFbx: Display: Triangulating static mesh CandleWax2_low
+[2023.07.27-00.21.13:021][ 33]LogFbx: Display: Triangulating static mesh CandleLooseWax_low
+[2023.07.27-00.21.13:102][ 33]LogStaticMesh: Display: Building static mesh CandleHolder4...
+[2023.07.27-00.21.13:310][ 33]LogStaticMesh: Built static mesh [0.21s] /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder4.CandleHolder4
+[2023.07.27-00.21.13:370][ 33]LogEditorFactories: -- imported successfully
+[2023.07.27-00.21.13:372][ 33]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.27-00.21.13:390][ 33]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder2.fbx]
+[2023.07.27-00.21.13:487][ 33]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CandleHolder/CandleHolder2.fbx
+[2023.07.27-00.21.13:497][ 33]LogFbx: FBX Scene Loaded Succesfully
+[2023.07.27-00.21.13:605][ 33]LogFbx: Display: Triangulating static mesh Candle_low
+[2023.07.27-00.21.13:846][ 33]LogFbx: Display: Triangulating static mesh CandleWax_low
+[2023.07.27-00.21.13:891][ 33]LogFbx: Display: Triangulating static mesh SmallDrippedWax_low
+[2023.07.27-00.21.13:994][ 33]LogStaticMesh: Display: Building static mesh CandleHolder_low...
+[2023.07.27-00.21.14:164][ 33]LogStaticMesh: Built static mesh [0.17s] /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low.CandleHolder_low
+[2023.07.27-00.21.14:223][ 33]LogEditorFactories: -- imported successfully
+[2023.07.27-00.21.14:225][ 33]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.07.27-00.21.14:238][ 33]LogInterchangeEngine: [Pending] Importing
+[2023.07.27-00.21.14:238][ 33]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...ts/CandleHolderCandleHolder_low_DefaultMaterial_BaseColor.png]
+[2023.07.27-00.21.14:239][ 33]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.27-00.21.14:239][ 33]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.27-00.21.14:280][ 34]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.07.27-00.21.14:887][ 34]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.14:887][ 34]LogInterchangeEngine: [Pending] Importing
+[2023.07.27-00.21.14:887][ 34]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...ts/CandleHolderCandleHolder_low_DefaultMaterial_Normal.png]
+[2023.07.27-00.21.14:887][ 34]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.27-00.21.14:907][ 35]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_BaseColor.CandleHolder_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.27-00.21.14:918][ 35]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.14:936][ 35]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.07.27-00.21.15:808][ 36]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.15:809][ 36]LogInterchangeEngine: [Pending] Importing
+[2023.07.27-00.21.15:809][ 36]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...ts/CandleHolderCandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.07.27-00.21.15:814][ 37]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_Normal.CandleHolder_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.27-00.21.15:836][ 37]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.15:873][ 37]LogInterchangeEngine: [Pending] Importing
+[2023.07.27-00.21.16:374][ 37]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.16:388][ 38]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic.CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.07.27-00.21.16:404][ 38]LogInterchangeEngine: [Success] Import Done
+[2023.07.27-00.21.46:824][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-00.21.46:978][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.27-00.21.47:034][717]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.27-00.21.47:034][717]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomBB69A46845D2521D304D879909A533AE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.07.27-00.21.47:042][717]LogFileHelpers: No new changes to save!
+[2023.07.27-00.21.47:042][717]LogFileHelpers: Saving map 'Living_Room' took 0.074
+[2023.07.27-00.21.47:051][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 1.86 sec)
+[2023.07.27-00.21.47:055][717]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.27-00.21.47:055][717]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.27-00.21.50:922][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.07.27-00.21.51:878][770]LogSlate: Window 'Save Content' being destroyed
+[2023.07.27-00.21.51:891][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-00.21.52:198][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder2
+[2023.07.27-00.21.52:199][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder259EA36104AF712D86FCCE2BF02B82D44.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder2.uasset'
+[2023.07.27-00.21.52:474][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder4
+[2023.07.27-00.21.52:474][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder451BED8FA4D62B206C2F111A54867E737.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder4.uasset'
+[2023.07.27-00.21.52:757][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low
+[2023.07.27-00.21.52:757][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder_low94398CDE40DB6A3D2A2D7A89CE44A081.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low.uasset'
+[2023.07.27-00.21.53:147][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_BaseColor
+[2023.07.27-00.21.53:148][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder_low_DefaultMaterial292CC5044E00A8EF56D58AA7BAFE1423.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_BaseColor.uasset'
+[2023.07.27-00.21.53:522][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_Normal
+[2023.07.27-00.21.53:522][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder_low_DefaultMaterialFB25A1DC4D0BBB3A044D5AB77275EBAB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_Normal.uasset'
+[2023.07.27-00.21.53:920][770]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.27-00.21.53:920][770]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/CandleHolder_low_DefaultMaterial576C7D1A402E68C87401C2ADA7FBFFA3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.07.27-00.21.53:930][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.03 sec (total: 3.90 sec)
+[2023.07.27-00.21.53:934][770]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low.CandleHolder_low
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder4.CandleHolder4
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder2.CandleHolder2
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic.CandleHolder_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_Normal.CandleHolder_low_DefaultMaterial_Normal
+[2023.07.27-00.21.53:934][770]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/CandleHolders/CandleHolder_low_DefaultMaterial_BaseColor.CandleHolder_low_DefaultMaterial_BaseColor
+[2023.07.27-00.22.37:069][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-00.22.37:122][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.07.27-00.22.37:179][415]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.07.27-00.22.37:179][415]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room5FBF76C442EC8049F5703BA05022AB88.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.07.27-00.22.37:188][415]LogFileHelpers: No new changes to save!
+[2023.07.27-00.22.37:188][415]LogFileHelpers: Saving map 'Living_Room' took 0.072
+[2023.07.27-00.22.37:197][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 4.03 sec)
+[2023.07.27-00.22.37:201][415]AssetCheck: New page: Asset Save: Living_Room
+[2023.07.27-00.22.37:201][415]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.07.27-00.22.38:911][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.27-00.22.39:826][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.07.27-00.22.39:827][625]LogStall: Shutdown...
+[2023.07.27-00.22.39:834][625]LogStall: Shutdown complete.
+[2023.07.27-00.22.40:177][625]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.07.27-00.22.40:908][626]Cmd: QUIT_EDITOR
+[2023.07.27-00.22.40:931][626]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.27-00.22.41:039][626]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.27-00.22.41:064][626]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.27-00.22.41:064][626]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.27-00.22.41:226][626]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-00.22.41:226][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-00.22.42:571][626]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.27-00.22.44:481][626]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.27-00.22.49:159][626]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.27-00.22.49:159][626]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.27-00.22.49:159][626]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.07.27-00.22.49:209][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.07.27-00.22.49:209][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.27-00.22.49:211][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.27-00.22.49:234][626]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.27-00.22.49:488][626]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.27-00.22.49:488][626]LogExit: Preparing to exit.
+[2023.07.27-00.22.50:597][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.07.27-00.22.52:480][626]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-00.22.52:505][626]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-00.22.55:764][626]LogExit: Editor shut down
+[2023.07.27-00.22.55:787][626]LogExit: Transaction tracking system shut down
+[2023.07.27-00.22.56:794][626]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
