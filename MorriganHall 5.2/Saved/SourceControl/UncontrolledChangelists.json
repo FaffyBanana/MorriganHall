@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Attic.umap",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/Attic_Parts/Ceiling_Planks_Ceiling_Planks_01.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/Attic_Parts/Ceiling_Planks_Ceiling_Planks_01D.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/Attic_Parts/Ceiling_Planks_Ceiling_Planks_02.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Modular/Attic_Parts/Ceiling_Planks_Ceiling_Planks_03.uasset",
+				"D:/GroupMorriganHall/MorriganHall/MorriganHall 5.2/Content/Group_Materials/Metal/MM_Metal_Inst2.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/knicks/jewlsbox_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/knicks/jewlsbox_DefaultMaterial_Normal.uasset",
