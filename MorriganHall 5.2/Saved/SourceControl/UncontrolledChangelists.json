@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Sofa1m/SM_1mSofa.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Sofa2m/SM_2mSofa.uasset",
@@ -14,6 +15,15 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_Normal.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Sofa2m/Sofa2m_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset"
+=======
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/firstfloor.umap",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/firstfloor_01.umap",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper_Inst1.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wallpaper/mat_wallpaper_Inst1_Inst.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/M4/Tashan/Assets/blockout/MM_whitewood_amy.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Modular_Floor_Moulding_Kit_wi0mafddw/Skirting_board_.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Megascans/3D_Assets/Modular_Floor_Moulding_Kit_wi0mafddw/Skirting_board__Inst.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
