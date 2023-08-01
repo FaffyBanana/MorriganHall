@@ -5,15 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Damaged_Parquet_Floor_tl1mffhbw/MI_Damaged_Parquet_Floor_tl1mffhbw_4K.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Damaged_Parquet_Floor_tl1mffhbw/T_Damaged_Parquet_Floor_tl1mffhbw_4K_D.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Damaged_Parquet_Floor_tl1mffhbw/T_Damaged_Parquet_Floor_tl1mffhbw_4K_N.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Damaged_Parquet_Floor_tl1mffhbw/T_DamagedParquetFloor_tl1mffhbw_4K_ORDp.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Worn_Herringbone_Parquet_ugqiaajew/MI_Worn_Herringbone_Parquet_ugqiaajew_4K.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Worn_Herringbone_Parquet_ugqiaajew/T_Worn_Herringbone_Parquet_ugqiaajew_4K_D.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Worn_Herringbone_Parquet_ugqiaajew/T_Worn_Herringbone_Parquet_ugqiaajew_4K_N.uasset",
-				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Worn_Herringbone_Parquet_ugqiaajew/T_WornHerringboneParquet_ugqiaajew_4K_ORDp.uasset"
+<<<<<<< Updated upstream
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap"
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/abandonedroom_V2.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/SewingRoomSequence.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/mat_wardrobe.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_BaseColor.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Chipboard_tmelfglcw/MI_Chipboard_tmelfglcw_2K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_Normal.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/Stairwell_scene_shotsRoot.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
