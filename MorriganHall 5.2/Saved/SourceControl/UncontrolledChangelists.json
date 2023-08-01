@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap"
+=======
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/abandonedroom_V2.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/SewingRoom/SewingRoomSequence.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/mat_wardrobe.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_BaseColor.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Megascans/Surfaces/Chipboard_tmelfglcw/MI_Chipboard_tmelfglcw_2K.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/wardrobe/wardrobe_cabinet_Normal.uasset",
+				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Cinematics/Sequences/Stairwell_scene_shots/Stairwell_scene_shotsRoot.uasset"
+>>>>>>> Stashed changes
 			]
 		}
 	]
