@@ -2537,3 +2537,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.05-10.35.24:284][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.24 sec)
 [2023.08.05-10.35.24:288][130]AssetCheck: New page: Asset Save: SM_OuterBox
 [2023.08.05-10.35.24:288][130]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/SM_OuterBox.SM_OuterBox
+[2023.08.05-10.39.16:620][202]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.16:620][202]LogEditorTransaction: Undo Rotate Elements
+[2023.08.05-10.39.16:683][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.16:683][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.16:683][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.16:684][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.21:948][603]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.21:949][603]LogEditorTransaction: Undo Rotate Elements
+[2023.08.05-10.39.21:998][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.21:999][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.21:999][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.21:999][603]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:205][611]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.22:205][611]LogEditorTransaction: Undo Edit Intensity
+[2023.08.05-10.39.22:253][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:253][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:253][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:254][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:515][624]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.22:515][624]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.05-10.39.22:548][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:550][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:550][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.22:550][624]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.30:415][267]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.30:415][267]LogEditorTransaction: Undo Edit Intensity
+[2023.08.05-10.39.30:458][267]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.30:458][267]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.30:459][267]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.30:460][267]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.31:694][345]Cmd: TRANSACTION UNDO
+[2023.08.05-10.39.31:695][345]LogEditorTransaction: Undo Edit Intensity
+[2023.08.05-10.39.31:720][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.31:720][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.31:720][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.39.31:721][345]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.40.15:852][960]Cmd: TRANSACTION UNDO
+[2023.08.05-10.40.15:852][960]LogEditorTransaction: Undo Edit Intensity Scale
+[2023.08.05-10.40.15:900][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.40.15:900][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.40.15:901][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.40.15:901][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.05-10.41.23:295][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.05-10.41.23:346][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.05-10.41.23:430][554]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.05-10.41.23:431][554]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room92E06FFD4B7E486C0433EB8CB95C4D98.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.05-10.41.23:443][554]LogFileHelpers: No new changes to save!
+[2023.08.05-10.41.23:443][554]LogFileHelpers: Saving map 'Living_Room' took 0.104
+[2023.08.05-10.41.23:451][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 2.40 sec)
+[2023.08.05-10.41.23:456][554]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.05-10.41.23:456][554]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.05-10.41.28:018][909]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.05-10.41.28:020][909]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.05-10.41.28:858][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.05-10.41.28:860][911]LogStall: Shutdown...
+[2023.08.05-10.41.28:879][911]LogStall: Shutdown complete.
+[2023.08.05-10.41.28:948][911]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.08.05-10.41.29:136][912]Cmd: QUIT_EDITOR
+[2023.08.05-10.41.29:138][912]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.05-10.41.29:161][912]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.05-10.41.29:161][912]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.05-10.41.29:161][912]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.05-10.41.29:296][912]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.05-10.41.29:296][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.05-10.41.29:552][912]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.05-10.41.29:600][912]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.05-10.41.30:013][912]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.05-10.41.30:013][912]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.05-10.41.30:013][912]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.08.05-10.41.30:022][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.05-10.41.30:040][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.05-10.41.30:042][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.05-10.41.30:048][912]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.05-10.41.30:084][912]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.05-10.41.30:085][912]LogExit: Preparing to exit.
+[2023.08.05-10.41.30:641][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.05-10.41.31:333][912]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.08.05-10.41.31:333][912]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.05-10.41.32:185][912]LogExit: Editor shut down
+[2023.08.05-10.41.32:187][912]LogExit: Transaction tracking system shut down
+[2023.08.05-10.41.32:263][912]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.08.05-10.41.36:308][912]LogExit: Object subsystem successfully closed.
+[2023.08.05-10.41.36:314][912]LogShaderCompilers: Display: ================================================
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Total job queries 276, among them cache hits 49 (17.75%)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Tracking 227 distinct input hashes that result in 149 distinct outputs (65.64%)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: RAM used: 4.96 MiB of 1.60 GiB budget. Usage: 0.30%
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Shaders Compiled: 8
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Average time worker was idle: 194.02 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.10 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Job execution time: average 2.56 s, max 3.46 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Job life time (pending + execution): average 2.64 s, max 3.56
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.04 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Average processing rate: 1.59 jobs/sec
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Total thread time: 7.567 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Total thread preprocess time: 1.838 s
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Percentage time preprocessing: 24.29%
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.82 sec, max 1.02 sec, min 0.62 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.74% of total time (compiled    2 times, average 0.82 sec, max 1.02 sec, min 0.62 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.19% of total time (compiled    2 times, average 0.80 sec, max 1.02 sec, min 0.58 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.28% of total time (compiled    1 times, average 1.23 sec, max 1.23 sec, min 1.23 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.76% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.52% of total time (compiled    1 times, average 1.02 sec, max 1.02 sec, min 1.02 sec)
+[2023.08.05-10.41.36:315][912]LogShaderCompilers: Display: ================================================
+[2023.08.05-10.41.36:348][912]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.08.05-10.41.36:612][912]LogVirtualization: UE::Virtualization was shutdown
