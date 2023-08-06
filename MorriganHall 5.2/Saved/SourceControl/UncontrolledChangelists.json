@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/CurtainPole.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/CurtainPole/Curtains_low_DefaultMaterial_BaseColor.uasset",
@@ -18,6 +19,18 @@
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Metronome/Metronome_low_DefaultMaterial_BaseColor.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Metronome/Metronome_low_DefaultMaterial_Normal.uasset",
 				"E:/Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Metronome/Metronome_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
+=======
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/brown/Bear_low_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/brown/Bear_low_lambert1_Normal.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/brown/Bear_low_lambert1_BaseColor.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/firstfloor.umap",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/bear_drop.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/pink/Bear_low_lambert1_BaseColor.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/pink/Bear_low_lambert1_Normal.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/pink/Bear_low_lambert1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/pink/brownteddy.uasset",
+				"C:/Users/xiiao/Desktop/Master/Module5/github/MorriganHall/MorriganHall 5.2/Content/Assets/Amy/Asset/teddybear_drop/brown/brownteddy.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/stairwellblock3.umap",
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/chandielier/mat_chandelier.uasset",
 				"C:/Users/igfxd/OneDrive/Documents/Unreal Projects/Morrigan/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Tashan/chandielier/mat_chandelier_Inst_2.uasset",
