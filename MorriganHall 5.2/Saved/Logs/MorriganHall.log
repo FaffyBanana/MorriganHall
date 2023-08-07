@@ -2996,3 +2996,97 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.07-13.41.10:110][529]LogSlate: Window 'SM_RoofTilesSingular' being destroyed
 [2023.08.07-13.41.11:691][529]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
 [2023.08.07-13.41.11:691][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.07-13.44.41:957][298]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.07-13.44.41:977][298]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.07-13.47.41:340][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.41:341][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.41:341][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.41:341][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.45:689][349]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTiles.fbx]
+[2023.08.07-13.47.45:698][349]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTiles.fbx
+[2023.08.07-13.47.45:701][349]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.07-13.47.45:766][349]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.07-13.47.45:775][349]LogStaticMesh: Display: Building static mesh SM_RoofTiles...
+[2023.08.07-13.47.45:806][349]LogStaticMesh: Built static mesh [0.03s] /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTiles.SM_RoofTiles
+[2023.08.07-13.47.45:829][349]LogEditorFactories: -- imported successfully
+[2023.08.07-13.47.45:830][349]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.07-13.47.45:866][349]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTilesSingular.fbx]
+[2023.08.07-13.47.45:875][349]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTilesSingular.fbx
+[2023.08.07-13.47.45:878][349]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.07-13.47.45:955][349]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.07-13.47.46:002][349]LogStaticMesh: Display: Building static mesh SM_RoofTilesSingular...
+[2023.08.07-13.47.46:107][349]LogStaticMesh: Built static mesh [0.11s] /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTilesSingular.SM_RoofTilesSingular
+[2023.08.07-13.47.46:160][349]LogEditorFactories: -- imported successfully
+[2023.08.07-13.47.46:161][349]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.07-13.47.55:134][ 69]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.07-13.47.55:134][ 69]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.07-13.47.55:810][118]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.07-13.47.55:810][118]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.07-13.47.55:857][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.55:857][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.55:857][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.47.55:858][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.48.48:193][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.48.48:193][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.48.48:193][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.48.48:194][337]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.48.51:560][626]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTiles.fbx]
+[2023.08.07-13.48.51:569][626]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/CarvedWoods/SM_RoofTiles.fbx
+[2023.08.07-13.48.51:573][626]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.07-13.48.51:608][626]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.07-13.48.51:616][626]LogStaticMesh: Display: Building static mesh SM_RoofTiles...
+[2023.08.07-13.48.51:651][626]LogStaticMesh: Built static mesh [0.04s] /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTiles.SM_RoofTiles
+[2023.08.07-13.48.51:666][626]LogEditorFactories: -- imported successfully
+[2023.08.07-13.48.51:667][626]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.07-13.48.56:453][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.07-13.48.56:509][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.07-13.48.56:566][977]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.07-13.48.56:566][977]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room26AC480345AFACAD5BA116B19DAA8DED.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.07-13.48.56:576][977]LogFileHelpers: No new changes to save!
+[2023.08.07-13.48.56:577][977]LogFileHelpers: Saving map 'Living_Room' took 0.076
+[2023.08.07-13.48.56:588][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 14.3 sec)
+[2023.08.07-13.48.56:592][977]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.07-13.48.56:593][977]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.07-13.49.14:012][466]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.14:012][466]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.14:012][466]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.14:013][466]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.15:661][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.15:662][577]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.17:325][691]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.17:325][691]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.19:055][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.19:055][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.19:056][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.21:281][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.21:281][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.38:343][380]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.38:343][380]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.38:343][380]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.38:344][380]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.39:294][458]Cmd: DELETE
+[2023.08.07-13.49.39:295][458]Cmd: ACTOR DELETE
+[2023.08.07-13.49.39:300][458]LogEditorActor: Deleted Actor: PointLight
+[2023.08.07-13.49.39:310][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.08.07-13.49.39:313][458]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.08.07-13.49.39:318][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.07-13.49.47:642][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.07-13.49.47:699][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.07-13.49.47:753][119]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.07-13.49.47:754][119]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room0F344B7E49EF278926B384A33DAC8B4C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.07-13.49.47:764][119]LogFileHelpers: No new changes to save!
+[2023.08.07-13.49.47:764][119]LogFileHelpers: Saving map 'Living_Room' took 0.073
+[2023.08.07-13.49.47:772][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 14.4 sec)
+[2023.08.07-13.49.47:776][119]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.07-13.49.47:776][119]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.07-13.49.49:288][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.07-13.49.50:138][238]LogSlate: Window 'Save Content' being destroyed
+[2023.08.07-13.49.50:154][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.07-13.49.50:209][238]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTiles
+[2023.08.07-13.49.50:210][238]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_RoofTiles5102E9CA47482CC522AE1BB3E40918D3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Wall/SM_RoofTiles.uasset'
+[2023.08.07-13.49.50:221][238]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTilesSingular
+[2023.08.07-13.49.50:221][238]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_RoofTilesSingularA4EFCC7344E0B595E7477DB1DD16C295.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Wall/SM_RoofTilesSingular.uasset'
+[2023.08.07-13.49.50:231][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 14.5 sec)
+[2023.08.07-13.49.50:237][238]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.07-13.49.50:237][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTilesSingular.SM_RoofTilesSingular
+[2023.08.07-13.49.50:237][238]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/Wall/SM_RoofTiles.SM_RoofTiles
