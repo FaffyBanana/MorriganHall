@@ -3769,3 +3769,1027 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.12-21.25.22:933][241]AssetCheck: New page: Asset Save: Living_Room
 [2023.08.12-21.25.22:933][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.08.12-21.25.25:250][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.08.12-21.36.00:017][825]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.36.00:027][825]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.36.00:039][825]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.36.00:076][825]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.36.00:088][825]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.36.00:091][825]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.36.00:092][825]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.36.00:096][825]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.36.00:097][825]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.36.00:100][825]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.36.00:101][825]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.12-21.36.00:112][825]LogFbx: Display: Triangulating static mesh Cube.007
+[2023.08.12-21.36.00:116][825]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.08.12-21.36.00:117][825]LogFbx: Display: Triangulating static mesh Cube.009
+[2023.08.12-21.36.00:121][825]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.08.12-21.36.00:121][825]LogFbx: Display: Triangulating static mesh Cube.011
+[2023.08.12-21.36.00:125][825]LogFbx: Display: Triangulating static mesh Cube.012
+[2023.08.12-21.36.00:126][825]LogFbx: Display: Triangulating static mesh Plane.002
+[2023.08.12-21.36.00:136][825]LogFbx: Display: Triangulating static mesh Cube.013
+[2023.08.12-21.36.00:140][825]LogFbx: Display: Triangulating static mesh Cube.014
+[2023.08.12-21.36.00:140][825]LogFbx: Display: Triangulating static mesh Cube.015
+[2023.08.12-21.36.00:144][825]LogFbx: Display: Triangulating static mesh Cube.016
+[2023.08.12-21.36.00:144][825]LogFbx: Display: Triangulating static mesh Cube.017
+[2023.08.12-21.36.00:148][825]LogFbx: Display: Triangulating static mesh Cube.018
+[2023.08.12-21.36.00:160][825]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.36.00:224][825]LogStaticMesh: Built static mesh [0.06s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.36.00:253][825]LogEditorFactories: -- imported successfully
+[2023.08.12-21.36.00:254][825]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.36.40:378][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.12-21.36.40:428][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto8
+[2023.08.12-21.36.40:428][273]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto8B6CD6CDA43C366FDA07A209B73B12884.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto8.umap'
+[2023.08.12-21.36.40:437][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.067
+[2023.08.12-21.36.40:437][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2023.08.12-21.36.40:437][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1] ([1] browsable assets)...
+[2023.08.12-21.36.40:557][273]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1]
+[2023.08.12-21.36.40:557][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1]
+[2023.08.12-21.36.40:563][273]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto8
+[2023.08.12-21.36.40:563][273]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1_Auto8266229014D3D6138DF97C7A93F748FA9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto8.uasset'
+[2023.08.12-21.36.40:563][273]LogFileHelpers: Auto-saving content packages took 0.126
+[2023.08.12-21.37.58:517][649]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.37.58:526][649]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.37.58:538][649]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.37.58:575][649]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.37.58:587][649]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.37.58:591][649]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.37.58:592][649]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.37.58:594][649]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.37.58:596][649]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.37.58:599][649]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.37.58:599][649]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.12-21.37.58:610][649]LogFbx: Display: Triangulating static mesh Cube.007
+[2023.08.12-21.37.58:613][649]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.08.12-21.37.58:614][649]LogFbx: Display: Triangulating static mesh Cube.009
+[2023.08.12-21.37.58:617][649]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.08.12-21.37.58:618][649]LogFbx: Display: Triangulating static mesh Cube.011
+[2023.08.12-21.37.58:621][649]LogFbx: Display: Triangulating static mesh Cube.012
+[2023.08.12-21.37.58:622][649]LogFbx: Display: Triangulating static mesh Plane.002
+[2023.08.12-21.37.58:632][649]LogFbx: Display: Triangulating static mesh Cube.013
+[2023.08.12-21.37.58:634][649]LogFbx: Display: Triangulating static mesh Cube.014
+[2023.08.12-21.37.58:636][649]LogFbx: Display: Triangulating static mesh Cube.015
+[2023.08.12-21.37.58:639][649]LogFbx: Display: Triangulating static mesh Cube.016
+[2023.08.12-21.37.58:640][649]LogFbx: Display: Triangulating static mesh Cube.017
+[2023.08.12-21.37.58:643][649]LogFbx: Display: Triangulating static mesh Cube.018
+[2023.08.12-21.37.58:644][649]LogFbx: Display: Triangulating static mesh Plane.003
+[2023.08.12-21.37.58:645][649]LogFbx: Display: Triangulating static mesh Plane.004
+[2023.08.12-21.37.58:646][649]LogFbx: Display: Triangulating static mesh Plane.005
+[2023.08.12-21.37.58:657][649]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.37.58:726][649]LogStaticMesh: Built static mesh [0.07s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.37.59:787][649]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2023.08.12-21.37.59:799][649]LogEditorFactories: -- imported successfully
+[2023.08.12-21.37.59:800][649]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.38.08:323][275]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.12-21.38.08:336][275]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.12-21.38.08:347][276]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.12-21.38.09:450][380]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2023.08.12-21.38.09:451][380]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.12-21.38.13:542][665]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.08.12-21.38.13:552][665]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.08.12-21.38.13:561][666]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.08.12-21.38.18:023][ 17]LogContentBrowser: Attempting asset rename: NewMaterial -> MM_Pictures
+[2023.08.12-21.38.18:024][ 17]LogContentBrowser: End creating deferred item NewMaterial
+[2023.08.12-21.38.28:137][824]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.MM_Pictures
+[2023.08.12-21.38.28:143][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.38.28:143][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.38.28:286][824]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.28:286][824]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.28:286][824]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.38.28:294][824]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.08.12-21.38.28:374][826]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:13.201 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 38008 files in 38939 folders with total size 11758 MiB.
+[2023.08.12-21.38.29:125][863]LogShaderCompilers: Display: ================================================
+[2023.08.12-21.38.29:125][863]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Total job queries 784, among them cache hits 244 (31.12%)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Tracking 536 distinct input hashes that result in 321 distinct outputs (59.89%)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: RAM used: 11.65 MiB of 1.60 GiB budget. Usage: 0.71%
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Shaders Compiled: 79
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Jobs assigned 83, completed 79 (95.18%)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Average time worker was idle: 946.92 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.18 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 3.04 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 3.05
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.05 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Jobs were issued in 83 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Average processing rate: 3.94 jobs/sec
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Total thread time: 61.426 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Total thread preprocess time: 2.115 s
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Percentage time preprocessing: 3.44%
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Effective parallelization: 3.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.32 sec, min 1.11 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.15 sec, max 1.19 sec, min 1.11 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.11 sec, max 1.19 sec, min 1.03 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.93% of total time (compiled   13 times, average 0.71 sec, max 0.91 sec, min 0.47 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.44% of total time (compiled    9 times, average 0.85 sec, max 1.17 sec, min 0.67 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.41% of total time (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.39% of total time (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.88% of total time (compiled    4 times, average 1.21 sec, max 1.32 sec, min 1.11 sec)
+[2023.08.12-21.38.29:126][863]LogShaderCompilers: Display: ================================================
+[2023.08.12-21.38.29:355][875]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.08.12-21.38.29:355][875]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.29:355][875]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.12-21.38.29:355][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.29:355][875]MaterialEditorStats: Shader Count: 4
+[2023.08.12-21.38.29:992][904]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.29:992][904]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.29:992][904]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.38.30:028][906]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.08.12-21.38.30:028][906]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.30:028][906]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.12-21.38.30:028][906]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.30:028][906]MaterialEditorStats: Shader Count: 5
+[2023.08.12-21.38.31:613][983]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.31:613][983]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.31:613][983]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.38.32:475][ 24]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.32:475][ 24]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.32:475][ 24]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.32:475][ 24]MaterialEditorStats: Shader Count: 3
+[2023.08.12-21.38.32:564][ 29]MaterialEditorStats: Base pass shader: 183 instructions
+[2023.08.12-21.38.32:564][ 29]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.32:564][ 29]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.12-21.38.32:564][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.32:564][ 29]MaterialEditorStats: Shader Count: 4
+[2023.08.12-21.38.38:503][365]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.38:503][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.38:503][365]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.38.39:241][402]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.39:241][402]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.38.39:241][402]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.39:241][402]MaterialEditorStats: Shader Count: 3
+[2023.08.12-21.38.39:357][408]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.08.12-21.38.39:357][408]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.38.39:357][408]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.12-21.38.39:357][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.38.39:357][408]MaterialEditorStats: Shader Count: 4
+[2023.08.12-21.38.40:480][467]LogMaterialEditor: Saving and Compiling material MM_Pictures
+[2023.08.12-21.38.40:615][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.08.12-21.38.41:385][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.12-21.38.41:396][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.38.42:271][467]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures
+[2023.08.12-21.38.42:271][467]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/MM_Pictures9D2CFDA84F8E8614A29263A5015C49B4.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.uasset'
+[2023.08.12-21.38.42:281][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 884 ms (total: 5.88 sec)
+[2023.08.12-21.38.42:285][467]AssetCheck: New page: Asset Save: MM_Pictures
+[2023.08.12-21.38.42:286][467]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.MM_Pictures
+[2023.08.12-21.38.47:926][783]LogMaterialEditor: Saving and Compiling material MM_Pictures
+[2023.08.12-21.38.48:016][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.08.12-21.38.48:199][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.12-21.38.48:209][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.38.48:266][783]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures
+[2023.08.12-21.38.48:266][783]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/MM_Pictures9DA0EFBF4F5C56A705383D9E339070E2.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.uasset'
+[2023.08.12-21.38.48:276][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 5.95 sec)
+[2023.08.12-21.38.48:280][783]AssetCheck: New page: Asset Save: MM_Pictures
+[2023.08.12-21.38.48:280][783]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.MM_Pictures
+[2023.08.12-21.38.57:204][905]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.38.57:204][905]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...gan Hall/AssetsBEST PHOTO EVER.png]
+[2023.08.12-21.38.57:216][906]LogAutomationController: Ignoring very large delta of 6.67 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.38.57:232][906]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.38.58:077][938]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.38.58:085][938]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.BEST_PHOTO_EVER (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.12-21.38.58:114][938]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.39.00:264][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.39.00:264][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.39.00:264][ 19]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.39.01:310][ 55]MaterialEditorStats: Base pass shader: 184 instructions
+[2023.08.12-21.39.01:310][ 55]MaterialEditorStats: Base pass vertex shader: 256 instructions
+[2023.08.12-21.39.01:310][ 55]MaterialEditorStats: Texture samplers: 3/16
+[2023.08.12-21.39.01:310][ 55]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.08.12-21.39.01:310][ 55]MaterialEditorStats: Shader Count: 4
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-21.39.01:769][ 73]MaterialEditorStats: Shader Count: 0
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-21.39.02:440][103]MaterialEditorStats: Shader Count: 1
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Base pass shader: 268 instructions
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Virtual Texture Stacks: 1
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-21.39.02:650][113]MaterialEditorStats: Shader Count: 4
+[2023.08.12-21.39.03:735][162]LogMaterialEditor: Saving and Compiling material MM_Pictures
+[2023.08.12-21.39.03:841][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.08.12-21.39.04:914][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.12-21.39.04:927][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.39.06:070][162]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures
+[2023.08.12-21.39.06:070][162]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/MM_PicturesC17F32274A4A0DEC27FB0294037D1CAC.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.uasset'
+[2023.08.12-21.39.06:081][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 7.10 sec)
+[2023.08.12-21.39.06:086][162]AssetCheck: New page: Asset Save: MM_Pictures
+[2023.08.12-21.39.06:086][162]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/PictureRailStuff/MM_Pictures.MM_Pictures
+[2023.08.12-21.39.06:130][163]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.39.07:113][210]LogSlate: Window 'MM_Pictures' being destroyed
+[2023.08.12-21.39.07:157][210]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.39.07:157][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.39.10:974][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.39.11:031][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.08.12-21.39.11:101][489]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.39.11:102][489]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room36EED44D4C20963123A43A96EBCDCE68.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.39.11:112][489]LogFileHelpers: No new changes to save!
+[2023.08.12-21.39.11:112][489]LogFileHelpers: Saving map 'Living_Room' took 0.092
+[2023.08.12-21.39.11:121][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 7.25 sec)
+[2023.08.12-21.39.11:127][489]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.39.11:127][489]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.39.13:129][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.08.12-21.39.13:940][642]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-21.39.13:954][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.39.14:480][642]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER
+[2023.08.12-21.39.14:480][642]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/BEST_PHOTO_EVER4499BEE04734D9F016D988A0278FBFCB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.uasset'
+[2023.08.12-21.39.14:512][642]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1
+[2023.08.12-21.39.14:512][642]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1630DEDB041214420242BC799EE8F90B5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.uasset'
+[2023.08.12-21.39.14:522][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 568 ms (total: 7.82 sec)
+[2023.08.12-21.39.14:527][642]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-21.39.14:527][642]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.BEST_PHOTO_EVER
+[2023.08.12-21.39.14:527][642]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.39.41:742][818]LogViewport: Scene viewport resized to 1359x894, mode Windowed.
+[2023.08.12-21.39.41:791][820]LogViewport: Scene viewport resized to 1393x894, mode Windowed.
+[2023.08.12-21.39.41:834][822]LogViewport: Scene viewport resized to 1441x894, mode Windowed.
+[2023.08.12-21.39.41:884][824]LogViewport: Scene viewport resized to 1559x894, mode Windowed.
+[2023.08.12-21.39.41:932][826]LogViewport: Scene viewport resized to 1663x894, mode Windowed.
+[2023.08.12-21.39.41:994][828]LogViewport: Scene viewport resized to 1737x894, mode Windowed.
+[2023.08.12-21.39.42:058][830]LogViewport: Scene viewport resized to 1781x894, mode Windowed.
+[2023.08.12-21.39.42:124][832]LogViewport: Scene viewport resized to 1827x894, mode Windowed.
+[2023.08.12-21.39.42:194][834]LogViewport: Scene viewport resized to 1866x894, mode Windowed.
+[2023.08.12-21.39.54:989][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.39.55:003][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.39.55:003][798]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:39:55)
+[2023.08.12-21.39.55:003][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.39.55:032][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028028s)
+[2023.08.12-21.39.55:032][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.028066s)
+[2023.08.12-21.39.55:032][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.39.55:032][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.39.55:032][798]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.39.55:053][798]LogPlayLevel: PIE: World Init took: (0.022230s)
+[2023.08.12-21.39.55:064][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.08.12-21.39.55:065][798]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.39.55:065][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.39.55:065][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.39.55:067][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.39.55:067][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.39.55:067][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.39.55:068][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.39.55:098][798]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.39.55:098][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.39.55:098][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.39.55:098][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.39.55:098][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.12-21.39.55:098][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.12-21.39.55:100][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.12-21.39.55:100][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.12-21.39.55:100][798]LogInit: FAudioDevice initialized with ID 6.
+[2023.08.12-21.39.55:100][798]LogAudio: Display: Audio Device (ID: 6) registered with world 'Living_Room'.
+[2023.08.12-21.39.55:100][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.12-21.39.55:109][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.39.55:118][798]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.39.55
+[2023.08.12-21.39.55:119][798]LogWorld: Bringing up level for play took: 0.011002
+[2023.08.12-21.39.55:121][798]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.08.12-21.39.55:126][798]PIE: Server logged in
+[2023.08.12-21.39.55:126][798]PIE: Play in editor total start time 0.124 seconds.
+[2023.08.12-21.39.55:337][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.39.55:337][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.39.55:342][799]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.052013 > MaxSimulationTimeStep (0.050) for 'BP_ThirdPersonCharacter_C_0', movement 'Walking'
+[2023.08.12-21.41.27:621][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.41.27:621][335]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.41.27:621][335]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.41.27:622][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.41.27:634][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.41.27:638][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.41.27:646][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.41.27:648][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.12-21.41.27:648][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.12-21.41.27:650][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.12-21.41.27:661][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.12-21.41.27:714][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.41.27:714][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.41.27:736][336]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.08.12-21.41.52:371][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.41.52:382][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.41.52:383][142]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:41:52)
+[2023.08.12-21.41.52:383][142]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.41.52:408][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026027s)
+[2023.08.12-21.41.52:408][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.026069s)
+[2023.08.12-21.41.52:408][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.41.52:408][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.41.52:409][142]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.41.52:432][142]LogPlayLevel: PIE: World Init took: (0.023768s)
+[2023.08.12-21.41.52:443][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.08.12-21.41.52:445][142]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.41.52:445][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.41.52:445][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.41.52:445][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.41.52:445][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.41.52:445][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.41.52:447][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.41.52:475][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.41.52:476][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.41.52:476][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.41.52:476][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.41.52:476][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.08.12-21.41.52:476][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.08.12-21.41.52:478][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.08.12-21.41.52:478][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.08.12-21.41.52:478][142]LogInit: FAudioDevice initialized with ID 7.
+[2023.08.12-21.41.52:478][142]LogAudio: Display: Audio Device (ID: 7) registered with world 'Living_Room'.
+[2023.08.12-21.41.52:478][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.12-21.41.52:491][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.41.52:503][142]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.41.52
+[2023.08.12-21.41.52:503][142]LogWorld: Bringing up level for play took: 0.011937
+[2023.08.12-21.41.52:505][142]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.08.12-21.41.52:510][142]PIE: Server logged in
+[2023.08.12-21.41.52:511][142]PIE: Play in editor total start time 0.128 seconds.
+[2023.08.12-21.41.52:676][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.41.52:676][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.42.22:300][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.42.22:300][331]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.42.22:300][331]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.42.22:303][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.42.22:307][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.42.22:311][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.42.22:318][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.42.22:319][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.12-21.42.22:320][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.12-21.42.22:321][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.12-21.42.22:331][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.08.12-21.42.22:378][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.42.22:378][331]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.42.22:400][332]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.08.12-21.43.07:819][794]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.43.07:833][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.43.07:833][794]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:43:07)
+[2023.08.12-21.43.07:869][794]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.43.07:895][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025853s)
+[2023.08.12-21.43.07:896][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025909s)
+[2023.08.12-21.43.07:896][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.43.07:896][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.43.07:896][794]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.43.07:922][794]LogPlayLevel: PIE: World Init took: (0.026139s)
+[2023.08.12-21.43.07:933][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.08.12-21.43.07:935][794]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.43.07:935][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.43.07:935][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.43.07:936][794]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.43.07:936][794]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.43.07:936][794]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.43.07:939][794]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.43.07:968][794]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.43.07:968][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.43.07:968][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.43.07:968][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.43.07:969][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.08.12-21.43.07:969][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.08.12-21.43.07:971][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.08.12-21.43.07:971][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.08.12-21.43.07:971][794]LogInit: FAudioDevice initialized with ID 8.
+[2023.08.12-21.43.07:971][794]LogAudio: Display: Audio Device (ID: 8) registered with world 'Living_Room'.
+[2023.08.12-21.43.07:971][794]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.08.12-21.43.07:978][794]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.43.07:989][794]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.43.07
+[2023.08.12-21.43.07:990][794]LogWorld: Bringing up level for play took: 0.011407
+[2023.08.12-21.43.07:993][794]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.08.12-21.43.07:998][794]PIE: Server logged in
+[2023.08.12-21.43.07:999][794]PIE: Play in editor total start time 0.166 seconds.
+[2023.08.12-21.43.08:133][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.43.08:133][794]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.29:911][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.44.29:911][612]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.44.29:911][612]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.44.29:912][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.44.29:916][612]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.44.29:920][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.44.29:931][612]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.12-21.44.29:931][612]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.08.12-21.44.29:931][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.08.12-21.44.29:933][612]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.08.12-21.44.29:938][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.44.29:942][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.08.12-21.44.29:999][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.30:000][612]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.30:021][613]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.08.12-21.44.45:462][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.44.45:474][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.44.45:474][828]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:44:45)
+[2023.08.12-21.44.45:475][828]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.44.45:500][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024856s)
+[2023.08.12-21.44.45:500][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.024892s)
+[2023.08.12-21.44.45:500][828]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.44.45:500][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.44.45:500][828]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.44.45:521][828]LogPlayLevel: PIE: World Init took: (0.021329s)
+[2023.08.12-21.44.45:531][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.08.12-21.44.45:533][828]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.44.45:533][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.44.45:533][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.44.45:533][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.44.45:533][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.44.45:533][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.44.45:535][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.44.45:564][828]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.44.45:564][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.44.45:564][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.44.45:564][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.44.45:564][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.08.12-21.44.45:564][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.08.12-21.44.45:566][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.08.12-21.44.45:566][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.08.12-21.44.45:566][828]LogInit: FAudioDevice initialized with ID 9.
+[2023.08.12-21.44.45:566][828]LogAudio: Display: Audio Device (ID: 9) registered with world 'Living_Room'.
+[2023.08.12-21.44.45:566][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.08.12-21.44.45:580][828]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.44.45:591][828]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.44.45
+[2023.08.12-21.44.45:591][828]LogWorld: Bringing up level for play took: 0.011484
+[2023.08.12-21.44.45:593][828]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.08.12-21.44.45:633][828]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=276.505 Y=599.176 Z=355.202] for [BP_ThirdPersonCharacter_C]
+[2023.08.12-21.44.45:633][828]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -88.550094 Roll 0.000000
+Translation: 276.504524 599.176260 355.201662
+Scale3D: 1.000000 1.000000 1.000000
+
+[2023.08.12-21.44.45:643][828]PIE: Server logged in
+[2023.08.12-21.44.45:643][828]PIE: Play in editor total start time 0.168 seconds.
+[2023.08.12-21.44.45:808][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.45:808][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.47:291][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.44.47:291][958]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.44.47:291][958]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.44.47:292][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.44.47:296][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.44.47:299][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.44.47:309][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.12-21.44.47:309][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.08.12-21.44.47:309][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.08.12-21.44.47:311][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.08.12-21.44.47:317][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.44.47:320][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.08.12-21.44.47:362][958]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.47:362][958]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.47:388][959]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.08.12-21.44.56:591][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.44.56:603][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.44.56:603][675]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:44:56)
+[2023.08.12-21.44.56:629][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.44.56:655][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025353s)
+[2023.08.12-21.44.56:655][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025399s)
+[2023.08.12-21.44.56:655][675]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.44.56:655][675]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.44.56:655][675]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.44.56:677][675]LogPlayLevel: PIE: World Init took: (0.022013s)
+[2023.08.12-21.44.56:688][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.12-21.44.56:690][675]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.44.56:690][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.44.56:690][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.44.56:690][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.44.56:690][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.44.56:690][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.44.56:692][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.44.56:722][675]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.44.56:722][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.44.56:722][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.44.56:722][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.44.56:722][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.08.12-21.44.56:722][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.08.12-21.44.56:726][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.08.12-21.44.56:726][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.08.12-21.44.56:726][675]LogInit: FAudioDevice initialized with ID 10.
+[2023.08.12-21.44.56:726][675]LogAudio: Display: Audio Device (ID: 10) registered with world 'Living_Room'.
+[2023.08.12-21.44.56:726][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.12-21.44.56:732][675]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.44.56:743][675]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.44.56
+[2023.08.12-21.44.56:743][675]LogWorld: Bringing up level for play took: 0.010759
+[2023.08.12-21.44.56:745][675]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.08.12-21.44.56:749][675]PIE: Server logged in
+[2023.08.12-21.44.56:750][675]PIE: Play in editor total start time 0.146 seconds.
+[2023.08.12-21.44.56:906][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.44.56:906][675]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.36:750][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.45.36:750][498]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.45.36:750][498]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.45.36:752][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.45.36:756][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.45.36:760][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.45.36:770][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.45.36:770][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.08.12-21.45.36:770][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.12-21.45.36:771][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.08.12-21.45.36:780][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.12-21.45.36:826][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.36:826][498]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.36:849][499]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.08.12-21.45.49:179][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.45.49:192][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.45.49:192][390]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:45:49)
+[2023.08.12-21.45.49:239][390]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.45.49:265][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025537s)
+[2023.08.12-21.45.49:265][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025579s)
+[2023.08.12-21.45.49:265][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.45.49:265][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.45.49:265][390]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.45.49:292][390]LogPlayLevel: PIE: World Init took: (0.027060s)
+[2023.08.12-21.45.49:303][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.12-21.45.49:304][390]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.45.49:304][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.45.49:304][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.45.49:305][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.45.49:305][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.45.49:305][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.45.49:306][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.45.49:336][390]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.45.49:336][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.45.49:336][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.45.49:336][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.45.49:338][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.08.12-21.45.49:338][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.08.12-21.45.49:340][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.08.12-21.45.49:340][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.08.12-21.45.49:340][390]LogInit: FAudioDevice initialized with ID 11.
+[2023.08.12-21.45.49:340][390]LogAudio: Display: Audio Device (ID: 11) registered with world 'Living_Room'.
+[2023.08.12-21.45.49:340][390]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.12-21.45.49:346][390]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.45.49:360][390]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.45.49
+[2023.08.12-21.45.49:361][390]LogWorld: Bringing up level for play took: 0.014488
+[2023.08.12-21.45.49:363][390]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.08.12-21.45.49:368][390]PIE: Server logged in
+[2023.08.12-21.45.49:369][390]PIE: Play in editor total start time 0.176 seconds.
+[2023.08.12-21.45.49:513][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.49:514][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.51:450][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.45.51:450][516]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.45.51:450][516]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.45.51:452][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.45.51:464][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.45.51:466][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.45.51:477][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.45.51:477][516]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.08.12-21.45.51:478][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.12-21.45.51:479][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.08.12-21.45.51:492][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.12-21.45.51:540][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.51:540][516]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.45.51:561][517]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.08.12-21.46.51:998][214]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.46.52:013][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.46.52:013][214]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:46:52)
+[2023.08.12-21.46.52:013][214]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.46.52:043][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028348s)
+[2023.08.12-21.46.52:043][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.028386s)
+[2023.08.12-21.46.52:043][214]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.46.52:043][214]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.46.52:043][214]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.46.52:069][214]LogPlayLevel: PIE: World Init took: (0.026757s)
+[2023.08.12-21.46.52:079][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.12-21.46.52:081][214]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.46.52:081][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.46.52:081][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.46.52:082][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.46.52:082][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.46.52:082][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.46.52:084][214]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.46.52:113][214]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.46.52:114][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.46.52:114][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.46.52:114][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.46.52:114][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.08.12-21.46.52:114][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.08.12-21.46.52:117][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.08.12-21.46.52:117][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.08.12-21.46.52:117][214]LogInit: FAudioDevice initialized with ID 12.
+[2023.08.12-21.46.52:117][214]LogAudio: Display: Audio Device (ID: 12) registered with world 'Living_Room'.
+[2023.08.12-21.46.52:117][214]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.08.12-21.46.52:121][214]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.46.52:134][214]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.46.52
+[2023.08.12-21.46.52:134][214]LogWorld: Bringing up level for play took: 0.012108
+[2023.08.12-21.46.52:136][214]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.08.12-21.46.52:141][214]PIE: Server logged in
+[2023.08.12-21.46.52:142][214]PIE: Play in editor total start time 0.129 seconds.
+[2023.08.12-21.46.52:276][214]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.46.52:276][214]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.48.48:590][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.48.48:590][587]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.48.48:590][587]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.48.48:591][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.48.48:595][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.48.48:599][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.48.48:607][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.48.48:608][587]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.08.12-21.48.48:608][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.08.12-21.48.48:610][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.08.12-21.48.48:623][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.08.12-21.48.48:673][587]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.48.48:673][587]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.48.48:694][588]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.08.12-21.48.54:974][ 27]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.48.54:985][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.48.54:985][ 27]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:48:54)
+[2023.08.12-21.48.54:985][ 27]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.48.55:011][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025379s)
+[2023.08.12-21.48.55:011][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025415s)
+[2023.08.12-21.48.55:012][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.48.55:012][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.48.55:012][ 27]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.48.55:034][ 27]LogPlayLevel: PIE: World Init took: (0.022457s)
+[2023.08.12-21.48.55:044][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.08.12-21.48.55:046][ 27]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.48.55:046][ 27]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.48.55:046][ 27]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.48.55:046][ 27]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.48.55:046][ 27]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.48.55:046][ 27]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.48.55:049][ 27]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.08.12-21.48.55:077][ 27]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.08.12-21.48.55:079][ 27]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.08.12-21.48.55:079][ 27]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.08.12-21.48.55:079][ 27]LogInit: FAudioDevice initialized with ID 13.
+[2023.08.12-21.48.55:079][ 27]LogAudio: Display: Audio Device (ID: 13) registered with world 'Living_Room'.
+[2023.08.12-21.48.55:079][ 27]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.08.12-21.48.55:092][ 27]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.48.55:103][ 27]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.48.55
+[2023.08.12-21.48.55:103][ 27]LogWorld: Bringing up level for play took: 0.011289
+[2023.08.12-21.48.55:106][ 27]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.08.12-21.48.55:110][ 27]PIE: Server logged in
+[2023.08.12-21.48.55:111][ 27]PIE: Play in editor total start time 0.125 seconds.
+[2023.08.12-21.48.55:312][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.48.55:312][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.49.19:419][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.49.19:419][926]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.49.19:420][926]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.49.19:421][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.49.19:426][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.49.19:431][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.49.19:442][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.49.19:444][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.08.12-21.49.19:444][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.08.12-21.49.19:446][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.08.12-21.49.19:456][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.12-21.49.19:506][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.49.19:506][926]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.49.19:534][927]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.08.12-21.49.56:598][568]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.49.56:608][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.49.56:608][568]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:49:56)
+[2023.08.12-21.49.56:639][568]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.49.56:663][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023079s)
+[2023.08.12-21.49.56:663][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.023117s)
+[2023.08.12-21.49.56:663][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.49.56:663][568]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.49.56:663][568]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.49.56:685][568]LogPlayLevel: PIE: World Init took: (0.021667s)
+[2023.08.12-21.49.56:695][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.08.12-21.49.56:697][568]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.49.56:697][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.49.56:697][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.49.56:698][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.49.56:698][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.49.56:698][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.49.56:700][568]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.49.56:728][568]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.49.56:728][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.49.56:728][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.49.56:728][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.49.56:729][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.08.12-21.49.56:729][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.08.12-21.49.56:731][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.08.12-21.49.56:731][568]LogInit: FAudioDevice initialized with ID 14.
+[2023.08.12-21.49.56:731][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.08.12-21.49.56:731][568]LogAudio: Display: Audio Device (ID: 14) registered with world 'Living_Room'.
+[2023.08.12-21.49.56:731][568]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.08.12-21.49.56:736][568]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.49.56:748][568]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.49.56
+[2023.08.12-21.49.56:748][568]LogWorld: Bringing up level for play took: 0.011036
+[2023.08.12-21.49.56:750][568]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.08.12-21.49.56:754][568]PIE: Server logged in
+[2023.08.12-21.49.56:755][568]PIE: Play in editor total start time 0.147 seconds.
+[2023.08.12-21.49.56:928][568]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.49.56:928][568]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.07:110][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.50.07:110][362]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.50.07:110][362]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.50.07:112][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.50.07:116][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.50.07:119][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.50.07:127][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.50.07:129][362]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.08.12-21.50.07:129][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.08.12-21.50.07:130][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.08.12-21.50.07:139][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.08.12-21.50.07:237][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.07:238][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.07:257][363]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.08.12-21.50.17:516][123]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.50.17:528][123]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.50.17:528][123]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:50:17)
+[2023.08.12-21.50.17:529][123]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.50.17:556][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027235s)
+[2023.08.12-21.50.17:556][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.027275s)
+[2023.08.12-21.50.17:556][123]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.50.17:556][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.50.17:556][123]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.50.17:576][123]LogPlayLevel: PIE: World Init took: (0.020763s)
+[2023.08.12-21.50.17:586][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.08.12-21.50.17:588][123]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.50.17:588][123]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.50.17:588][123]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.50.17:588][123]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.50.17:588][123]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.50.17:588][123]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.50.17:590][123]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.50.17:618][123]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.50.17:618][123]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.50.17:618][123]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.50.17:618][123]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.50.17:619][123]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.08.12-21.50.17:619][123]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.08.12-21.50.17:621][123]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.08.12-21.50.17:621][123]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.08.12-21.50.17:621][123]LogInit: FAudioDevice initialized with ID 15.
+[2023.08.12-21.50.17:621][123]LogAudio: Display: Audio Device (ID: 15) registered with world 'Living_Room'.
+[2023.08.12-21.50.17:621][123]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.08.12-21.50.17:626][123]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.50.17:640][123]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.50.17
+[2023.08.12-21.50.17:641][123]LogWorld: Bringing up level for play took: 0.013644
+[2023.08.12-21.50.17:643][123]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.08.12-21.50.17:648][123]PIE: Server logged in
+[2023.08.12-21.50.17:648][123]PIE: Play in editor total start time 0.12 seconds.
+[2023.08.12-21.50.17:839][123]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.17:839][123]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.31:810][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.50.31:810][223]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.50.31:810][223]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.50.31:812][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.50.31:820][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.50.31:823][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.50.31:831][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.50.31:833][223]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.08.12-21.50.31:833][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.08.12-21.50.31:835][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.08.12-21.50.31:843][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.12-21.50.31:950][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.31:950][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.31:970][224]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.08.12-21.50.42:175][935]Cmd: TRANSACTION UNDO
+[2023.08.12-21.50.42:175][935]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-21.50.42:235][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.42:235][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.43:481][  5]Cmd: TRANSACTION UNDO
+[2023.08.12-21.50.43:481][  5]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-21.50.43:508][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.43:508][  5]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.48:455][340]Cmd: TRANSACTION UNDO
+[2023.08.12-21.50.48:455][340]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.12-21.50.48:536][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.50.48:536][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.10:106][857]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.51.10:120][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.51.10:120][857]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:51:10)
+[2023.08.12-21.51.10:120][857]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.51.10:145][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023689s)
+[2023.08.12-21.51.10:145][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.023723s)
+[2023.08.12-21.51.10:145][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.51.10:145][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.51.10:145][857]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.51.10:168][857]LogPlayLevel: PIE: World Init took: (0.023677s)
+[2023.08.12-21.51.10:178][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.12-21.51.10:179][857]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.51.10:179][857]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.51.10:179][857]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.51.10:180][857]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.51.10:180][857]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.51.10:180][857]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.51.10:182][857]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.51.10:210][857]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.51.10:210][857]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.51.10:210][857]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.51.10:210][857]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.51.10:211][857]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.08.12-21.51.10:211][857]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.08.12-21.51.10:213][857]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.08.12-21.51.10:213][857]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.08.12-21.51.10:213][857]LogInit: FAudioDevice initialized with ID 16.
+[2023.08.12-21.51.10:213][857]LogAudio: Display: Audio Device (ID: 16) registered with world 'Living_Room'.
+[2023.08.12-21.51.10:213][857]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.08.12-21.51.10:218][857]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.51.10:231][857]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.51.10
+[2023.08.12-21.51.10:232][857]LogWorld: Bringing up level for play took: 0.013888
+[2023.08.12-21.51.10:233][857]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.08.12-21.51.10:239][857]PIE: Server logged in
+[2023.08.12-21.51.10:239][857]PIE: Play in editor total start time 0.119 seconds.
+[2023.08.12-21.51.10:368][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.10:368][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.19:070][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.51.19:070][512]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.51.19:070][512]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.51.19:072][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.51.19:076][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.51.19:082][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.51.19:095][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.12-21.51.19:095][512]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.08.12-21.51.19:095][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.12-21.51.19:097][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.12-21.51.19:104][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.51.19:108][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.08.12-21.51.19:162][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.19:162][512]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.19:183][513]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.08.12-21.51.19:564][540]Cmd: TRANSACTION UNDO
+[2023.08.12-21.51.19:564][540]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-21.51.19:625][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.19:625][540]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.20:219][571]Cmd: TRANSACTION UNDO
+[2023.08.12-21.51.20:219][571]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-21.51.20:280][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.20:281][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.22:620][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.51.22:631][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.51.22:631][739]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:51:22)
+[2023.08.12-21.51.22:679][739]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.51.22:703][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023520s)
+[2023.08.12-21.51.22:703][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.023560s)
+[2023.08.12-21.51.22:703][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.51.22:703][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.51.22:703][739]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.51.22:724][739]LogPlayLevel: PIE: World Init took: (0.021446s)
+[2023.08.12-21.51.22:733][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.12-21.51.22:735][739]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.51.22:735][739]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.51.22:735][739]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.51.22:735][739]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.51.22:735][739]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.51.22:735][739]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.51.22:737][739]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.51.22:765][739]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.51.22:765][739]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.51.22:765][739]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.51.22:765][739]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.51.22:765][739]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.08.12-21.51.22:765][739]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.08.12-21.51.22:768][739]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.08.12-21.51.22:768][739]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.08.12-21.51.22:768][739]LogInit: FAudioDevice initialized with ID 17.
+[2023.08.12-21.51.22:768][739]LogAudio: Display: Audio Device (ID: 17) registered with world 'Living_Room'.
+[2023.08.12-21.51.22:768][739]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.08.12-21.51.22:773][739]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.51.22:784][739]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.51.22
+[2023.08.12-21.51.22:784][739]LogWorld: Bringing up level for play took: 0.010652
+[2023.08.12-21.51.22:786][739]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.08.12-21.51.22:791][739]PIE: Server logged in
+[2023.08.12-21.51.22:792][739]PIE: Play in editor total start time 0.161 seconds.
+[2023.08.12-21.51.22:914][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.51.22:914][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.52.03:719][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.52.03:719][903]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.52.03:720][903]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.52.03:721][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.52.03:725][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.52.03:728][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.52.03:738][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.52.03:738][903]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.08.12-21.52.03:738][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.12-21.52.03:741][903]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.08.12-21.52.03:751][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.12-21.52.03:851][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.52.03:851][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.52.03:874][904]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.08.12-21.52.08:053][202]LogViewport: Scene viewport resized to 1857x894, mode Windowed.
+[2023.08.12-21.52.08:109][204]LogViewport: Scene viewport resized to 1704x894, mode Windowed.
+[2023.08.12-21.52.08:171][206]LogViewport: Scene viewport resized to 1501x894, mode Windowed.
+[2023.08.12-21.52.08:231][208]LogViewport: Scene viewport resized to 1496x894, mode Windowed.
+[2023.08.12-21.52.08:444][223]LogViewport: Scene viewport resized to 1498x894, mode Windowed.
+[2023.08.12-21.52.12:851][546]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.52.12:851][546]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...ll/Assets/VasesVase_low_DefaultMaterial_BaseColor.png]
+[2023.08.12-21.52.12:902][547]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.52.13:663][582]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/Vases/Vase_low_DefaultMaterial_BaseColor.Vase_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.12-21.52.13:667][582]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.52.13:699][583]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.52.20:042][ 49]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Group_Assets/Aziz/Assets/Vases/Vase_low.Vase_low
+[2023.08.12-21.52.20:192][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.52.20:192][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.52.22:044][ 49]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.08.12-21.52.22:862][ 49]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049847s
+[2023.08.12-21.52.44:137][ 49]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002862s (21.323297s overbudget)
+[2023.08.12-21.52.44:681][ 49]LogViewport: Scene viewport resized to 1037x894, mode Windowed.
+[2023.08.12-21.52.44:777][ 50]LogAutomationController: Ignoring very large delta of 24.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.52.53:074][498]LogSlate: Window 'Vase_low' being destroyed
+[2023.08.12-21.52.53:098][498]LogSlate: Window 'Vase_low' being destroyed
+[2023.08.12-21.52.54:788][498]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.52.54:788][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.55.05:178][904]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.55.05:178][904]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...gan Hall/AssetsBestPhotoEver.png]
+[2023.08.12-21.55.05:201][905]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.55.05:218][905]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-21.55.05:907][936]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.55.05:916][936]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.BEST_PHOTO_EVER (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.12-21.55.05:961][937]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-21.55.11:706][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.12-21.55.11:716][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.08.12-21.55.13:008][337]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-21.55.13:020][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.55.13:066][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.12-21.55.13:119][337]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.55.13:119][337]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room9EA2C310400E4C4A03A83DA10210C278.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.55.13:132][337]LogFileHelpers: No new changes to save!
+[2023.08.12-21.55.13:132][337]LogFileHelpers: Saving map 'Living_Room' took 0.073
+[2023.08.12-21.55.13:600][337]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER
+[2023.08.12-21.55.13:601][337]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/BEST_PHOTO_EVERBEE1ACB143EF11F2842988856B377F49.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.uasset'
+[2023.08.12-21.55.13:997][337]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/Vases/Vase_low_DefaultMaterial_BaseColor
+[2023.08.12-21.55.13:997][337]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Vase_low_DefaultMaterial_BaseColA879D75840D662E63939EBAB38EFAA8A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/Vases/Vase_low_DefaultMaterial_BaseColor.uasset'
+[2023.08.12-21.55.14:030][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.01 sec (total: 8.83 sec)
+[2023.08.12-21.55.14:036][337]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-21.55.14:036][337]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/Vases/Vase_low_DefaultMaterial_BaseColor.Vase_low_DefaultMaterial_BaseColor
+[2023.08.12-21.55.14:036][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.55.14:036][337]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/BEST_PHOTO_EVER.BEST_PHOTO_EVER
+[2023.08.12-21.55.14:048][338]LogAutomationController: Ignoring very large delta of 2.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.55.20:815][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.55.20:881][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.12-21.55.20:931][846]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.55.20:931][846]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room60D6FA114B56EAD6184B7AB1A2959027.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.55.20:942][846]LogFileHelpers: No new changes to save!
+[2023.08.12-21.55.20:942][846]LogFileHelpers: Saving map 'Living_Room' took 0.068
+[2023.08.12-21.55.20:952][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 8.97 sec)
+[2023.08.12-21.55.20:956][846]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.55.20:956][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
