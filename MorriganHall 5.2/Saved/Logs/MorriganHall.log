@@ -3060,3 +3060,712 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.12-18.02.48:921][829]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowTileGrates.SM_WindowTileGrates
 [2023.08.12-18.02.50:088][919]LogSlate: Window 'Content Browser' being destroyed
 [2023.08.12-18.02.50:097][919]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.12-18.04.00:279][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:279][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:280][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:280][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:280][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:282][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:283][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:283][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:283][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:284][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:285][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:285][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:286][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:286][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:287][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:287][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:288][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:288][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:289][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:289][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:290][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:290][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:292][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:292][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:293][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:293][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:294][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:295][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:295][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:296][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:296][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:297][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:297][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:298][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:298][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:300][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:300][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:300][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.00:304][574]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:855][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:856][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:856][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:857][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:857][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:857][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:858][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:858][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:859][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:859][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:860][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:860][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:861][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:861][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:861][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:861][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:862][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:862][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:862][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:863][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:863][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:863][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:865][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:865][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:865][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:866][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:867][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:867][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:868][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:869][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:870][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:871][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:872][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:873][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:873][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:874][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:874][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:874][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.06:878][ 87]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:038][101]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:039][101]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:195][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:196][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:373][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.07:373][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.04.21:676][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-18.04.21:724][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.12-18.04.21:782][324]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-18.04.21:783][324]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room574F044B457814C8B8F12296954013B1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-18.04.21:793][324]LogFileHelpers: No new changes to save!
+[2023.08.12-18.04.21:793][324]LogFileHelpers: Saving map 'Living_Room' took 0.078
+[2023.08.12-18.04.21:802][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 4.18 sec)
+[2023.08.12-18.04.21:806][324]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-18.04.21:806][324]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-18.04.23:543][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-18.04.31:225][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-18.04.31:270][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.12-18.04.31:322][ 90]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-18.04.31:323][ 90]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room76686ADA46FA9CF70B4EE889A2E1F05E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-18.04.31:332][ 90]LogFileHelpers: No new changes to save!
+[2023.08.12-18.04.31:332][ 90]LogFileHelpers: Saving map 'Living_Room' took 0.071
+[2023.08.12-18.04.31:343][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 4.29 sec)
+[2023.08.12-18.04.31:348][ 90]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-18.04.31:348][ 90]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-18.04.33:678][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.12-18.06.22:813][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: ================================================
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Total job queries 778, among them cache hits 244 (31.36%)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Tracking 530 distinct input hashes that result in 319 distinct outputs (60.19%)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: RAM used: 11.51 MiB of 1.60 GiB budget. Usage: 0.70%
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Shaders Compiled: 74
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Jobs assigned 78, completed 74 (94.87%)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Average time worker was idle: 105.68 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.18 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 3.04 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.05
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.55 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Average processing rate: 3.99 jobs/sec
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Total thread time: 57.451 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Total thread preprocess time: 1.941 s
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Percentage time preprocessing: 3.38%
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Effective parallelization: 3.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.18 sec, max 1.30 sec, min 1.11 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.15 sec, max 1.19 sec, min 1.11 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.11 sec, max 1.19 sec, min 1.03 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.67% of total time (compiled   12 times, average 0.70 sec, max 0.91 sec, min 0.47 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.27% of total time (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 12.18% of total time (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.89% of total time (compiled    8 times, average 0.85 sec, max 1.17 sec, min 0.67 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.14% of total time (compiled    3 times, average 1.18 sec, max 1.30 sec, min 1.11 sec)
+[2023.08.12-18.06.23:719][260]LogShaderCompilers: Display: ================================================
+[2023.08.12-18.06.36:230][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.36:230][362]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.36:230][362]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_137
+[2023.08.12-18.06.37:971][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.37:971][518]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.37:972][518]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_138
+[2023.08.12-18.06.38:800][582]Cmd: TRANSACTION UNDO
+[2023.08.12-18.06.38:800][582]LogEditorTransaction: Undo Move Elements
+[2023.08.12-18.06.38:876][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.06.38:877][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.06.40:736][710]Cmd: TRANSACTION UNDO
+[2023.08.12-18.06.40:736][710]LogEditorTransaction: Undo Create Actors
+[2023.08.12-18.06.40:775][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.06.40:775][710]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.06.42:525][844]Cmd: DELETE
+[2023.08.12-18.06.42:525][844]Cmd: ACTOR DELETE
+[2023.08.12-18.06.42:532][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-18.06.42:542][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-18.06.42:545][844]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.12-18.06.43:344][916]Cmd: DELETE
+[2023.08.12-18.06.43:344][916]Cmd: ACTOR DELETE
+[2023.08.12-18.06.43:350][916]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-18.06.43:360][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.12-18.06.43:363][916]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.12-18.06.43:781][947]Cmd: DELETE
+[2023.08.12-18.06.43:781][947]Cmd: ACTOR DELETE
+[2023.08.12-18.06.43:787][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-18.06.43:797][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-18.06.43:799][947]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.12-18.06.44:866][ 40]Cmd: DELETE
+[2023.08.12-18.06.44:866][ 40]Cmd: ACTOR DELETE
+[2023.08.12-18.06.44:870][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-18.06.44:879][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.12-18.06.44:881][ 40]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.08.12-18.06.48:093][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.48:093][304]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.48:094][304]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_139
+[2023.08.12-18.06.48:861][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.48:861][370]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable
+[2023.08.12-18.06.48:863][370]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Tashan/consoletable/consoletable.consoletable as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_140
+[2023.08.12-18.06.59:182][213]Cmd: TRANSACTION UNDO
+[2023.08.12-18.06.59:182][213]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-18.06.59:257][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.06.59:257][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.40:080][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-18.07.40:120][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-18.07.40:129][604]PIE: New page: PIE session: Living_Room (12 Aug 2023, 20:07:40)
+[2023.08.12-18.07.40:148][604]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.08.12-18.07.40:148][604]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.08.12-18.07.40:177][604]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-18.07.40:202][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025098s)
+[2023.08.12-18.07.40:202][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025155s)
+[2023.08.12-18.07.40:202][604]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-18.07.40:202][604]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-18.07.40:203][604]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-18.07.40:229][604]LogPlayLevel: PIE: World Init took: (0.026315s)
+[2023.08.12-18.07.40:254][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.12-18.07.40:257][604]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-18.07.40:257][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-18.07.40:257][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-18.07.40:258][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-18.07.40:258][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-18.07.40:258][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-18.07.40:260][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-18.07.40:292][604]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-18.07.40:292][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-18.07.40:292][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-18.07.40:292][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-18.07.40:293][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.08.12-18.07.40:293][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.08.12-18.07.40:295][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.08.12-18.07.40:295][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.08.12-18.07.40:295][604]LogInit: FAudioDevice initialized with ID 2.
+[2023.08.12-18.07.40:295][604]LogAudio: Display: Audio Device (ID: 2) registered with world 'Living_Room'.
+[2023.08.12-18.07.40:295][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.12-18.07.40:316][604]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-18.07.40:337][604]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-19.07.40
+[2023.08.12-18.07.40:337][604]LogWorld: Bringing up level for play took: 0.011059
+[2023.08.12-18.07.40:339][604]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.08.12-18.07.40:695][604]PIE: Server logged in
+[2023.08.12-18.07.40:696][604]PIE: Play in editor total start time 0.592 seconds.
+[2023.08.12-18.07.40:798][604]LogConsoleVariablesEditor: Display: FConsoleVariablesEditorModule::SendMultiUserConsoleVariableChange: Play In Editor is about to start or has started; Multi-User Cvar sync is suspended during PIE.
+[2023.08.12-18.07.40:933][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.40:934][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.45:085][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-18.07.45:085][885]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-18.07.45:095][885]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-18.07.45:097][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-18.07.45:113][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-18.07.45:115][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-18.07.45:123][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.12-18.07.45:124][885]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.08.12-18.07.45:124][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.12-18.07.45:126][885]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.08.12-18.07.45:130][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-18.07.45:136][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.12-18.07.45:208][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.45:208][885]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.45:229][886]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.08.12-18.07.50:860][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-18.07.50:873][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-18.07.50:873][325]PIE: New page: PIE session: Living_Room (12 Aug 2023, 20:07:50)
+[2023.08.12-18.07.50:896][325]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-18.07.50:921][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024871s)
+[2023.08.12-18.07.50:921][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.024927s)
+[2023.08.12-18.07.50:921][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-18.07.50:921][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-18.07.50:921][325]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-18.07.50:943][325]LogPlayLevel: PIE: World Init took: (0.022344s)
+[2023.08.12-18.07.50:953][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.08.12-18.07.50:955][325]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-18.07.50:955][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-18.07.50:955][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-18.07.50:956][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-18.07.50:956][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-18.07.50:956][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-18.07.50:957][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-18.07.50:985][325]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-18.07.50:985][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-18.07.50:985][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-18.07.50:985][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-18.07.50:985][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.08.12-18.07.50:985][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.08.12-18.07.50:988][325]LogInit: FAudioDevice initialized with ID 3.
+[2023.08.12-18.07.50:988][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.08.12-18.07.50:988][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.08.12-18.07.50:988][325]LogAudio: Display: Audio Device (ID: 3) registered with world 'Living_Room'.
+[2023.08.12-18.07.50:988][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.12-18.07.50:993][325]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-18.07.51:003][325]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-19.07.51
+[2023.08.12-18.07.51:003][325]LogWorld: Bringing up level for play took: 0.010300
+[2023.08.12-18.07.51:006][325]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.08.12-18.07.51:010][325]PIE: Server logged in
+[2023.08.12-18.07.51:010][325]PIE: Play in editor total start time 0.138 seconds.
+[2023.08.12-18.07.51:276][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.51:276][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.59:856][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-18.07.59:856][ 27]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-18.07.59:857][ 27]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-18.07.59:859][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-18.07.59:863][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-18.07.59:868][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-18.07.59:878][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-18.07.59:879][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.08.12-18.07.59:879][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.12-18.07.59:881][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.12-18.07.59:890][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.12-18.07.59:924][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.59:924][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-18.07.59:944][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.08.12-18.08.38:839][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-18.08.38:900][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.12-18.08.38:957][363]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-18.08.38:957][363]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomC3283A6C4B41EB7C375BE58713C1E0C9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-18.08.38:969][363]LogFileHelpers: No new changes to save!
+[2023.08.12-18.08.38:969][363]LogFileHelpers: Saving map 'Living_Room' took 0.078
+[2023.08.12-18.08.38:979][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 4.43 sec)
+[2023.08.12-18.08.38:983][363]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-18.08.38:983][363]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-18.08.40:699][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-18.33.09:863][484]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.08.12-18.33.09:863][484]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.08.12-18.38.28:331][439]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:13.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 37971 files in 38902 folders with total size 11757 MiB.
+[2023.08.12-18.57.58:437][949]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.08.12-19.38.28:329][237]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:13.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 37971 files in 38902 folders with total size 11757 MiB.
+[2023.08.12-19.42.04:537][539]Cmd: DELETE
+[2023.08.12-19.42.04:537][539]Cmd: ACTOR DELETE
+[2023.08.12-19.42.04:543][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-19.42.04:553][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.08.12-19.42.04:556][539]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.08.12-19.42.09:653][974]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx]
+[2023.08.12-19.42.09:663][974]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx
+[2023.08.12-19.42.09:671][974]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-19.42.09:710][974]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.001
+[2023.08.12-19.42.09:732][974]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.003
+[2023.08.12-19.42.09:753][974]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-19.42.09:772][974]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.005
+[2023.08.12-19.42.09:793][974]LogFbx: Display: Triangulating static mesh Cube
+[2023.08.12-19.42.09:807][974]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.08.12-19.42.09:877][974]LogStaticMesh: Built static mesh [0.07s] /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-19.42.09:912][974]LogEditorFactories: -- imported successfully
+[2023.08.12-19.42.09:913][974]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-19.42.40:338][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-19.42.40:402][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto3
+[2023.08.12-19.42.40:402][678]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto3BEE8810E44E753286809B49B525D200E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto3.umap'
+[2023.08.12-19.42.40:410][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.080
+[2023.08.12-19.42.40:410][678]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2023.08.12-19.42.40:410][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame] ([1] browsable assets)...
+[2023.08.12-19.42.40:429][678]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame]
+[2023.08.12-19.42.40:429][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame]
+[2023.08.12-19.42.40:439][678]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto3
+[2023.08.12-19.42.40:439][678]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame_Auto3CC6AE8684F67C885D84F19BB05156AF0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto3.uasset'
+[2023.08.12-19.42.40:441][678]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.08.12-19.42.42:626][828]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx]
+[2023.08.12-19.42.42:636][828]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowTile.fbx
+[2023.08.12-19.42.42:643][828]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-19.42.42:689][828]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.001
+[2023.08.12-19.42.42:711][828]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.003
+[2023.08.12-19.42.42:732][828]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-19.42.42:750][828]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.005
+[2023.08.12-19.42.42:771][828]LogFbx: Display: Triangulating static mesh Cube
+[2023.08.12-19.42.42:785][828]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.08.12-19.42.42:860][828]LogStaticMesh: Built static mesh [0.07s] /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-19.42.42:890][828]LogEditorFactories: -- imported successfully
+[2023.08.12-19.42.42:892][828]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-19.52.40:592][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.08.12-19.52.40:645][791]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto4
+[2023.08.12-19.52.40:645][791]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto4F32341B8425552764C3B09AD593E4638.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto4.umap'
+[2023.08.12-19.52.40:654][791]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.071
+[2023.08.12-19.52.40:654][791]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2023.08.12-19.52.40:655][791]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame] ([1] browsable assets)...
+[2023.08.12-19.52.40:692][791]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame]
+[2023.08.12-19.52.40:692][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame]
+[2023.08.12-19.52.40:716][791]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto4
+[2023.08.12-19.52.40:716][791]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame_Auto444D679114EC772C48DA029A74423C876.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto4.uasset'
+[2023.08.12-19.52.40:717][791]LogFileHelpers: Auto-saving content packages took 0.062
+[2023.08.12-20.38.28:343][ 34]LogDerivedDataCache: C:/Users/demaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:13.171 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 37981 files in 38912 folders with total size 11757 MiB.
+[2023.08.12-20.49.46:476][ 40]Cmd: TRANSACTION UNDO
+[2023.08.12-20.49.46:476][ 40]LogEditorTransaction: Undo Move Elements
+[2023.08.12-20.49.46:525][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.49.46:526][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.50.22:481][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.08.12-20.50.22:558][ 78]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto5
+[2023.08.12-20.50.22:558][ 78]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto57F8B16FC4353E774C43F678F6DC181A5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto5.umap'
+[2023.08.12-20.50.22:567][ 78]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.098
+[2023.08.12-20.50.22:567][ 78]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2023.08.12-20.50.22:568][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame] ([1] browsable assets)...
+[2023.08.12-20.50.22:568][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame]
+[2023.08.12-20.50.22:580][ 78]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto5
+[2023.08.12-20.50.22:580][ 78]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame_Auto5637B6ABD4C9FC7AF53449D9A3046D84E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto5.uasset'
+[2023.08.12-20.50.22:580][ 78]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: ================================================
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Total job queries 779, among them cache hits 244 (31.32%)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Tracking 535 distinct input hashes that result in 321 distinct outputs (60.00%)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: RAM used: 11.63 MiB of 1.60 GiB budget. Usage: 0.71%
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Shaders Compiled: 78
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Average time worker was idle: 105.68 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.18 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 3.04 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.05
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.26 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Average processing rate: 4.05 jobs/sec
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Total thread time: 60.979 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Total thread preprocess time: 2.093 s
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Percentage time preprocessing: 3.43%
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.21 sec, max 1.32 sec, min 1.11 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.15 sec, max 1.19 sec, min 1.11 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.11 sec, max 1.19 sec, min 1.03 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.04% of total time (compiled   13 times, average 0.71 sec, max 0.91 sec, min 0.47 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.53% of total time (compiled    9 times, average 0.85 sec, max 1.17 sec, min 0.67 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.50% of total time (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.48% of total time (compiled    6 times, average 1.17 sec, max 1.44 sec, min 1.04 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.94% of total time (compiled    4 times, average 1.21 sec, max 1.32 sec, min 1.11 sec)
+[2023.08.12-20.51.50:446][163]LogShaderCompilers: Display: ================================================
+[2023.08.12-20.51.51:934][317]Cmd: DELETE
+[2023.08.12-20.51.51:934][317]Cmd: ACTOR DELETE
+[2023.08.12-20.51.51:942][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-20.51.51:951][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.12-20.51.51:953][317]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.12-20.51.53:858][528]Cmd: DELETE
+[2023.08.12-20.51.53:858][528]Cmd: ACTOR DELETE
+[2023.08.12-20.51.53:866][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-20.51.53:875][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.12-20.51.53:877][528]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.12-20.52.31:086][ 79]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-20.52.31:099][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-20.52.31:099][ 79]PIE: New page: PIE session: Living_Room (12 Aug 2023, 22:52:31)
+[2023.08.12-20.52.31:100][ 79]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-20.52.31:123][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023961s)
+[2023.08.12-20.52.31:123][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.024006s)
+[2023.08.12-20.52.31:123][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-20.52.31:123][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-20.52.31:123][ 79]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-20.52.31:146][ 79]LogPlayLevel: PIE: World Init took: (0.022845s)
+[2023.08.12-20.52.31:156][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.08.12-20.52.31:158][ 79]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-20.52.31:158][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-20.52.31:158][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-20.52.31:158][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-20.52.31:158][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-20.52.31:158][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-20.52.31:160][ 79]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-20.52.31:187][ 79]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-20.52.31:187][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-20.52.31:187][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-20.52.31:187][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-20.52.31:188][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.12-20.52.31:188][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.12-20.52.31:190][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.12-20.52.31:191][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.12-20.52.31:191][ 79]LogInit: FAudioDevice initialized with ID 4.
+[2023.08.12-20.52.31:191][ 79]LogAudio: Display: Audio Device (ID: 4) registered with world 'Living_Room'.
+[2023.08.12-20.52.31:191][ 79]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.12-20.52.31:197][ 79]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-20.52.31:210][ 79]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-21.52.31
+[2023.08.12-20.52.31:210][ 79]LogWorld: Bringing up level for play took: 0.013447
+[2023.08.12-20.52.31:213][ 79]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.08.12-20.52.31:218][ 79]PIE: Server logged in
+[2023.08.12-20.52.31:218][ 79]PIE: Play in editor total start time 0.119 seconds.
+[2023.08.12-20.52.31:576][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.52.31:576][ 79]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.52.34:324][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-20.52.34:324][322]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-20.52.34:324][322]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-20.52.34:326][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-20.52.34:330][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-20.52.34:333][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-20.52.34:340][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-20.52.34:342][322]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.08.12-20.52.34:342][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.12-20.52.34:345][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.12-20.52.34:353][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.08.12-20.52.34:403][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.52.34:403][322]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-20.52.34:422][323]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.08.12-21.00.25:882][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.12-21.00.25:933][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto6
+[2023.08.12-21.00.25:933][439]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto64DB123BE42B3FA8C2F6A269DDA99E657.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto6.umap'
+[2023.08.12-21.00.25:942][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.069
+[2023.08.12-21.00.25:942][439]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2023.08.12-21.04.39:192][953]Cmd: DELETE
+[2023.08.12-21.04.39:192][953]Cmd: ACTOR DELETE
+[2023.08.12-21.04.39:198][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-21.04.39:208][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.08.12-21.04.39:210][953]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.08.12-21.05.25:676][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.12-21.05.25:689][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.12-21.05.25:689][697]PIE: New page: PIE session: Living_Room (12 Aug 2023, 23:05:25)
+[2023.08.12-21.05.25:689][697]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.05.25:715][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025786s)
+[2023.08.12-21.05.25:716][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Living_Room.Living_Room to /Game/UEDPIE_0_Living_Room.Living_Room (0.025826s)
+[2023.08.12-21.05.25:716][697]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-21.05.25:716][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-21.05.25:716][697]LogAIModule: Creating AISystem for world Living_Room
+[2023.08.12-21.05.25:737][697]LogPlayLevel: PIE: World Init took: (0.021616s)
+[2023.08.12-21.05.25:747][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.08.12-21.05.25:749][697]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.12-21.05.25:749][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.12-21.05.25:749][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.12-21.05.25:749][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.12-21.05.25:749][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.12-21.05.25:749][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.12-21.05.25:751][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.12-21.05.25:781][697]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Audio Controller - Game)
+[2023.08.12-21.05.25:782][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.12-21.05.25:782][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.12-21.05.25:782][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.12-21.05.25:782][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.12-21.05.25:782][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.12-21.05.25:784][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.12-21.05.25:784][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.12-21.05.25:784][697]LogInit: FAudioDevice initialized with ID 5.
+[2023.08.12-21.05.25:784][697]LogAudio: Display: Audio Device (ID: 5) registered with world 'Living_Room'.
+[2023.08.12-21.05.25:784][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.12-21.05.25:790][697]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.12-21.05.25:800][697]LogWorld: Bringing World /Game/UEDPIE_0_Living_Room.Living_Room up for play (max tick rate 0) at 2023.08.12-22.05.25
+[2023.08.12-21.05.25:800][697]LogWorld: Bringing up level for play took: 0.010808
+[2023.08.12-21.05.25:803][697]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.08.12-21.05.25:807][697]PIE: Server logged in
+[2023.08.12-21.05.25:808][697]PIE: Play in editor total start time 0.119 seconds.
+[2023.08.12-21.05.25:939][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.05.25:939][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.05.46:703][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.05.46:703][268]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Living_Room
+[2023.08.12-21.05.46:703][268]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-21.05.46:705][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.05.46:709][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.12-21.05.46:715][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-21.05.46:724][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.12-21.05.46:724][268]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.12-21.05.46:725][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.12-21.05.46:727][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.12-21.05.46:732][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.12-21.05.46:739][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.12-21.05.46:839][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.05.46:839][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.05.46:842][269]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.08.12-21.10.47:138][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.08.12-21.10.47:202][884]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto7
+[2023.08.12-21.10.47:202][884]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto7FFC37B9E4E93733A2522FCA5E11A68C0.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto7.umap'
+[2023.08.12-21.10.47:212][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.083
+[2023.08.12-21.10.47:212][884]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.083
+[2023.08.12-21.16.01:947][ 17]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx)
+[2023.08.12-21.16.01:953][ 17]LogFbx: Loading FBX Scene from ../../../../../../Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.16.02:002][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.16.03:572][ 17]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.12-21.16.03:641][ 17]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.16.03:652][ 17]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.16.03:655][ 17]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.16.03:656][ 17]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.16.03:658][ 17]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.16.03:660][ 17]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.16.03:665][ 17]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.16.03:675][ 17]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.16.03:724][ 17]LogStaticMesh: Built static mesh [0.05s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.03:743][ 17]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.16.03:873][ 18]LogAutomationController: Ignoring very large delta of 8.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.16.05:270][115]LogSlate: Window 'Message Log' being destroyed
+[2023.08.12-21.16.05:292][115]LogSlate: Window 'Message Log' being destroyed
+[2023.08.12-21.16.06:344][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.06:344][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.06:345][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_141
+[2023.08.12-21.16.06:669][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.06:669][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.06:669][179]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_142
+[2023.08.12-21.16.07:735][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.07:735][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.07:736][236]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_143
+[2023.08.12-21.16.08:023][255]Cmd: TRANSACTION UNDO
+[2023.08.12-21.16.08:023][255]LogEditorTransaction: Undo Create Actors
+[2023.08.12-21.16.08:130][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.16.08:130][255]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.16.10:110][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.10:110][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.10:110][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_144
+[2023.08.12-21.16.11:294][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.11:294][430]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.16.11:296][430]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1 as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_145
+[2023.08.12-21.17.19:538][824]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.17.19:550][824]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.17.19:557][824]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.17.19:603][824]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.17.19:615][824]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.17.19:619][824]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.17.19:620][824]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.17.19:624][824]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.17.19:626][824]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.17.19:629][824]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.17.19:640][824]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.17.19:695][824]LogStaticMesh: Built static mesh [0.05s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.17.19:724][824]LogEditorFactories: -- imported successfully
+[2023.08.12-21.17.19:725][824]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.18.35:295][203]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.18.35:300][203]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.18.35:306][203]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.18.35:343][203]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.18.35:354][203]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.18.35:358][203]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.18.35:358][203]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.18.35:361][203]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.18.35:363][203]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.18.35:366][203]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.18.35:384][203]LogEditorFactories: -- imported successfully
+[2023.08.12-21.18.35:385][203]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.18.48:490][425]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.18.48:500][425]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.18.48:506][425]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.18.48:542][425]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.18.48:553][425]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.18.48:556][425]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.18.48:558][425]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.18.48:561][425]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.18.48:562][425]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.18.48:566][425]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.18.48:574][425]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.18.48:628][425]LogStaticMesh: Built static mesh [0.05s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.18.48:648][425]LogEditorFactories: -- imported successfully
+[2023.08.12-21.18.48:648][425]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.19.32:587][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.08.12-21.19.32:611][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.12-21.19.57:913][680]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-21.19.57:922][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.19.57:969][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.12-21.19.58:016][680]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.19.58:016][680]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomEF081C314CE383C27BF241922BE8A4B8.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.19.58:027][680]LogFileHelpers: No new changes to save!
+[2023.08.12-21.19.58:027][680]LogFileHelpers: Saving map 'Living_Room' took 0.067
+[2023.08.12-21.19.58:092][680]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1
+[2023.08.12-21.19.58:092][680]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1D14A53D341F940987BB709A565E36054.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.uasset'
+[2023.08.12-21.19.58:099][680]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/SM_WindowFrame
+[2023.08.12-21.19.58:100][680]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame2F3EE32846ABCF9019A215A271A80B96.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/SM_WindowFrame.uasset'
+[2023.08.12-21.19.58:108][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 4.62 sec)
+[2023.08.12-21.19.58:113][680]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-21.19.58:113][680]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-21.19.58:113][680]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.19.58:113][680]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.19.58:120][681]LogAutomationController: Ignoring very large delta of 25.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-21.24.08:530][798]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx]
+[2023.08.12-21.24.08:539][798]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/SM_PhotoFrames1.fbx
+[2023.08.12-21.24.08:552][798]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-21.24.08:600][798]LogFbx: Display: Triangulating static mesh Plane
+[2023.08.12-21.24.08:611][798]LogFbx: Display: Triangulating static mesh Cube.002
+[2023.08.12-21.24.08:616][798]LogFbx: Display: Triangulating static mesh Cube.004
+[2023.08.12-21.24.08:617][798]LogFbx: Display: Triangulating static mesh Cube.001
+[2023.08.12-21.24.08:620][798]LogFbx: Display: Triangulating static mesh Cube.003
+[2023.08.12-21.24.08:621][798]LogFbx: Display: Triangulating static mesh Cube.005
+[2023.08.12-21.24.08:624][798]LogFbx: Display: Triangulating static mesh Cube.006
+[2023.08.12-21.24.08:625][798]LogFbx: Display: Triangulating static mesh Plane.001
+[2023.08.12-21.24.08:635][798]LogFbx: Display: Triangulating static mesh Cube.007
+[2023.08.12-21.24.08:640][798]LogFbx: Display: Triangulating static mesh Cube.008
+[2023.08.12-21.24.08:641][798]LogFbx: Display: Triangulating static mesh Cube.009
+[2023.08.12-21.24.08:645][798]LogFbx: Display: Triangulating static mesh Cube.010
+[2023.08.12-21.24.08:646][798]LogFbx: Display: Triangulating static mesh Cube.011
+[2023.08.12-21.24.08:648][798]LogFbx: Display: Triangulating static mesh Cube.012
+[2023.08.12-21.24.08:650][798]LogFbx: Display: Triangulating static mesh Plane.002
+[2023.08.12-21.24.08:661][798]LogFbx: Display: Triangulating static mesh Cube.013
+[2023.08.12-21.24.08:664][798]LogFbx: Display: Triangulating static mesh Cube.014
+[2023.08.12-21.24.08:665][798]LogFbx: Display: Triangulating static mesh Cube.015
+[2023.08.12-21.24.08:668][798]LogFbx: Display: Triangulating static mesh Cube.016
+[2023.08.12-21.24.08:668][798]LogFbx: Display: Triangulating static mesh Cube.017
+[2023.08.12-21.24.08:672][798]LogFbx: Display: Triangulating static mesh Cube.018
+[2023.08.12-21.24.08:685][798]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.12-21.24.08:754][798]LogStaticMesh: Built static mesh [0.07s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.24.08:782][798]LogEditorFactories: -- imported successfully
+[2023.08.12-21.24.08:783][798]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-21.24.25:373][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.12-21.24.25:383][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.12-21.24.26:269][974]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-21.24.26:277][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.24.26:317][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.08.12-21.24.26:365][974]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.24.26:366][974]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room0D21916F4D1605451F25AEBFFEF21970.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.24.26:377][974]LogFileHelpers: No new changes to save!
+[2023.08.12-21.24.26:377][974]LogFileHelpers: Saving map 'Living_Room' took 0.067
+[2023.08.12-21.24.26:407][974]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1
+[2023.08.12-21.24.26:407][974]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1D35F49FE4FF665591997F1859F94788A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.uasset'
+[2023.08.12-21.24.26:415][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 4.76 sec)
+[2023.08.12-21.24.26:420][974]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.12-21.24.26:420][974]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.24.26:420][974]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.12-21.24.29:797][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.24.29:848][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.12-21.24.29:900][209]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.24.29:900][209]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomFEF78EB740606CFA0D935784AB1C4157.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.24.29:911][209]LogFileHelpers: No new changes to save!
+[2023.08.12-21.24.29:911][209]LogFileHelpers: Saving map 'Living_Room' took 0.071
+[2023.08.12-21.24.29:921][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.88 sec)
+[2023.08.12-21.24.29:927][209]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.24.29:927][209]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.25.22:810][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.25.22:861][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.12-21.25.22:910][241]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.25.22:910][241]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomD4A8081E424793D10A88E59DD608C9B1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.25.22:919][241]LogFileHelpers: No new changes to save!
+[2023.08.12-21.25.22:919][241]LogFileHelpers: Saving map 'Living_Room' took 0.066
+[2023.08.12-21.25.22:928][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 5.00 sec)
+[2023.08.12-21.25.22:933][241]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.25.22:933][241]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.25.25:250][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
