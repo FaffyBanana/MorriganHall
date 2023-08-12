@@ -1758,3 +1758,181 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.12-15.15.33:050][ 38]AssetCheck: New page: Asset Save: Living_Room
 [2023.08.12-15.15.33:050][ 38]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
 [2023.08.12-15.15.35:182][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.12-15.18.30:520][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:521][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:521][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:521][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:522][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:522][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:523][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:523][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:523][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.18.30:524][756]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.19.22:417][ 63]LogSlate: Window 'FBX Export Options' being destroyed
+[2023.08.12-15.19.22:484][ 63]LogFbx: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2023.08.12-15.19.22:641][ 64]LogAutomationController: Ignoring very large delta of 16.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-15.37.18:093][477]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.08.12-15.37.18:093][477]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.08.12-15.45.32:172][ 77]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.08.12-15.45.33:131][174]Cmd: DELETE
+[2023.08.12-15.45.33:131][174]Cmd: ACTOR DELETE
+[2023.08.12-15.45.33:136][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.33:164][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.12-15.45.33:166][174]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.08.12-15.45.33:195][174]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.33:747][228]Cmd: DELETE
+[2023.08.12-15.45.33:747][228]Cmd: ACTOR DELETE
+[2023.08.12-15.45.33:752][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.33:759][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.12-15.45.33:762][228]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.08.12-15.45.33:769][228]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.34:959][350]Cmd: DELETE
+[2023.08.12-15.45.34:960][350]Cmd: ACTOR DELETE
+[2023.08.12-15.45.34:964][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.34:973][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.12-15.45.34:975][350]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.08.12-15.45.35:002][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.36:318][487]Cmd: DELETE
+[2023.08.12-15.45.36:318][487]Cmd: ACTOR DELETE
+[2023.08.12-15.45.36:323][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.36:330][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.12-15.45.36:332][487]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.08.12-15.45.36:339][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.37:069][559]Cmd: DELETE
+[2023.08.12-15.45.37:069][559]Cmd: ACTOR DELETE
+[2023.08.12-15.45.37:074][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.37:081][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.12-15.45.37:082][559]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.08.12-15.45.37:090][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.38:000][651]Cmd: DELETE
+[2023.08.12-15.45.38:000][651]Cmd: ACTOR DELETE
+[2023.08.12-15.45.38:006][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-15.45.38:014][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.12-15.45.38:016][651]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.08.12-15.45.38:022][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.45.57:981][562]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx]
+[2023.08.12-15.45.57:991][562]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx
+[2023.08.12-15.45.57:996][562]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-15.45.58:081][562]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.001
+[2023.08.12-15.45.58:102][562]LogFbx: Display: Triangulating static mesh Cube
+[2023.08.12-15.45.58:120][562]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.08.12-15.45.58:165][562]LogStaticMesh: Built static mesh [0.04s] /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.45.58:276][562]LogEditorFactories: -- imported successfully
+[2023.08.12-15.45.58:277][562]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-15.45.59:205][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.45.59:206][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.45.59:206][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_128
+[2023.08.12-15.45.59:219][611]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.02:744][947]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.46.02:744][947]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.46.02:745][947]LogActorFactory: Actor Factory spawned StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_130
+[2023.08.12-15.46.02:770][947]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:714][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:714][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:714][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:715][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:715][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:715][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:716][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:716][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:716][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:717][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:717][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:717][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:718][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:718][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:719][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:719][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:719][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:720][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:720][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:720][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.25:722][292]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:517][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:518][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:518][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:518][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:519][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:519][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:519][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:519][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:520][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:520][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:521][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:521][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:522][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:522][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:522][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:522][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:524][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:524][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:524][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:525][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.46.43:527][ 99]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-15.48.06:960][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.08.12-15.48.07:016][342]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto1
+[2023.08.12-15.48.07:016][342]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto17D99829A4F5311B72081FF80E2264F2C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto1.umap'
+[2023.08.12-15.48.07:025][342]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.094
+[2023.08.12-15.48.07:025][342]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2023.08.12-15.48.07:033][342]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame] ([1] browsable assets)...
+[2023.08.12-15.48.07:068][342]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame]
+[2023.08.12-15.48.07:068][342]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/SM_WindowFrame]
+[2023.08.12-15.48.07:085][342]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto1
+[2023.08.12-15.48.07:085][342]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame_Auto1091AD0D54AA3D9785B26EB922D7DF08C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/SM_WindowFrame_Auto1.uasset'
+[2023.08.12-15.48.07:085][342]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.08.12-15.48.27:696][295]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx]
+[2023.08.12-15.48.27:705][295]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/SM_WindowFrame.fbx
+[2023.08.12-15.48.27:711][295]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.12-15.48.27:747][295]LogFbx: Display: Triangulating static mesh SM_WindowFrame5.001
+[2023.08.12-15.48.27:769][295]LogFbx: Display: Triangulating static mesh Cube
+[2023.08.12-15.48.27:787][295]LogStaticMesh: Display: Building static mesh SM_WindowFrame...
+[2023.08.12-15.48.27:838][295]LogStaticMesh: Built static mesh [0.05s] /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.48.27:858][295]LogEditorFactories: -- imported successfully
+[2023.08.12-15.48.27:859][295]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.12-15.49.38:202][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-15.49.38:252][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-15.49.38:302][892]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-15.49.38:302][892]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room07FB1A6B4B05A4AD15EC57A98C67F2D1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-15.49.38:314][892]LogFileHelpers: No new changes to save!
+[2023.08.12-15.49.38:314][892]LogFileHelpers: Saving map 'Living_Room' took 0.068
+[2023.08.12-15.49.38:322][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 1.99 sec)
+[2023.08.12-15.49.38:326][892]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-15.49.38:326][892]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-15.49.40:408][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.12-15.49.41:584][120]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-15.49.41:600][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-15.49.41:661][120]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/SM_WindowFrame
+[2023.08.12-15.49.41:662][120]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_WindowFrame7C953C83414CCCAD76F5B1B668254547.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/SM_WindowFrame.uasset'
+[2023.08.12-15.49.41:671][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.06 sec)
+[2023.08.12-15.49.41:675][120]AssetCheck: New page: Asset Save: SM_WindowFrame
+[2023.08.12-15.49.41:675][120]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/SM_WindowFrame.SM_WindowFrame
+[2023.08.12-15.49.54:007][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.12-15.49.54:007][513]LogStall: Shutdown...
+[2023.08.12-15.49.54:026][513]LogStall: Shutdown complete.
+[2023.08.12-15.49.54:116][513]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.08.12-15.49.54:401][514]Cmd: QUIT_EDITOR
+[2023.08.12-15.49.54:411][514]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.12-15.49.54:442][514]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.12-15.49.54:442][514]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.12-15.49.54:442][514]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.12-15.49.54:526][514]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-15.49.54:526][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-15.49.54:748][514]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.12-15.49.54:865][514]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.12-15.49.55:800][514]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.12-15.49.55:800][514]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.12-15.49.55:800][514]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.08.12-15.49.55:810][514]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.12-15.49.55:811][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-15.49.55:812][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-15.49.55:821][514]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.12-15.49.55:855][514]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.12-15.49.55:856][514]LogExit: Preparing to exit.
+[2023.08.12-15.49.56:378][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.08.12-15.49.57:195][514]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-15.49.57:195][514]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-15.49.58:200][514]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.08.12-15.49.58:271][514]LogExit: Transaction tracking system shut down
+[2023.08.12-15.49.58:298][514]LogExit: Editor shut down
