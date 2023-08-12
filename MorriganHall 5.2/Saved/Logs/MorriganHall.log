@@ -4793,3 +4793,412 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.08.12-21.55.20:952][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 8.97 sec)
 [2023.08.12-21.55.20:956][846]AssetCheck: New page: Asset Save: Living_Room
 [2023.08.12-21.55.20:956][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.57.29:828][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.12-21.57.31:814][851]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.31:814][851]LogEditorTransaction: Undo Move Elements
+[2023.08.12-21.57.31:866][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.31:866][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.32:108][861]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.32:108][861]LogEditorTransaction: Undo Move Elements
+[2023.08.12-21.57.32:139][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.32:140][861]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.32:526][886]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.32:526][886]LogEditorTransaction: Undo Rotate Elements
+[2023.08.12-21.57.32:545][886]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.32:545][886]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.36:836][222]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.36:836][222]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.12-21.57.36:886][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.36:886][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:073][227]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.37:073][227]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.12-21.57.37:121][227]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:122][227]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:289][232]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.37:289][232]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.12-21.57.37:351][232]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:351][232]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:598][247]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.37:598][247]LogEditorTransaction: Undo Rotate Elements
+[2023.08.12-21.57.37:617][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.37:617][247]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.38:299][303]Cmd: TRANSACTION UNDO
+[2023.08.12-21.57.38:299][303]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.12-21.57.38:325][303]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.57.38:327][303]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-21.58.23:661][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.58.23:715][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.12-21.58.23:766][ 63]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.58.23:767][ 63]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room1185DEB34027CADF796E9793CBB103B1.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.58.23:777][ 63]LogFileHelpers: No new changes to save!
+[2023.08.12-21.58.23:777][ 63]LogFileHelpers: Saving map 'Living_Room' took 0.070
+[2023.08.12-21.58.23:787][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 9.09 sec)
+[2023.08.12-21.58.23:791][ 63]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.58.23:791][ 63]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.58.25:832][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.08.12-21.58.30:610][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.58.30:667][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.12-21.58.30:718][681]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.58.30:719][681]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room6DCEF4D541808EE53E078C8D46D1040A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.58.30:728][681]LogFileHelpers: No new changes to save!
+[2023.08.12-21.58.30:728][681]LogFileHelpers: Saving map 'Living_Room' took 0.069
+[2023.08.12-21.58.30:738][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 9.22 sec)
+[2023.08.12-21.58.30:743][681]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.58.30:743][681]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-21.58.37:732][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-21.58.37:732][266]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-21.58.37:732][266]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_146
+[2023.08.12-21.58.37:733][266]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_146
+[2023.08.12-21.58.38:861][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-21.58.38:862][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-21.58.38:863][360]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_147
+[2023.08.12-21.58.38:863][360]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_147
+[2023.08.12-21.58.55:924][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-21.58.55:980][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.08.12-21.58.56:033][828]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-21.58.56:033][828]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomF330DB7A40DC77D2D666B59B0846D10D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-21.58.56:044][828]LogFileHelpers: No new changes to save!
+[2023.08.12-21.58.56:044][828]LogFileHelpers: Saving map 'Living_Room' took 0.073
+[2023.08.12-21.58.56:054][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 9.35 sec)
+[2023.08.12-21.58.56:059][828]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-21.58.56:059][828]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-22.00.03:664][951]LogInterchangeEngine: [Pending] Importing
+[2023.08.12-22.00.03:664][951]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/demaz/DesktopHighresScreenshot00068.png]
+[2023.08.12-22.00.03:695][952]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068.HighresScreenshot00068 (BGRA8, 1203x549 x1x1x1) (Required Memory Estimate: 19.377941 MB), EncodeSpeed: Fast
+[2023.08.12-22.00.03:702][952]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-22.00.03:707][952]LogInterchangeEngine: [Success] Import Done
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: ================================================
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: Total job queries 900, among them cache hits 296 (32.89%)
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: Tracking 584 distinct input hashes that result in 334 distinct outputs (57.19%)
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: RAM used: 12.67 MiB of 1.60 GiB budget. Usage: 0.77%
+[2023.08.12-22.00.09:504][ 89]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Shaders Compiled: 127
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Jobs assigned 135, completed 127 (94.07%)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Average time worker was idle: 969.93 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.18 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 3.04 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Job life time (pending + execution): average 1.06 s, max 3.05
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 30.94 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Jobs were issued in 135 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Average processing rate: 4.10 jobs/sec
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Total thread time: 95.133 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Total thread preprocess time: 3.315 s
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Percentage time preprocessing: 3.48%
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Effective parallelization: 3.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.19 sec, max 1.33 sec, min 0.97 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.15 sec, max 1.19 sec, min 1.11 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    8 times, average 1.02 sec, max 1.44 sec, min 0.49 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 1.01 sec, max 1.02 sec, min 1.01 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.52% of total time (compiled   21 times, average 0.70 sec, max 0.91 sec, min 0.47 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.38% of total time (compiled   17 times, average 0.80 sec, max 1.17 sec, min 0.57 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.79% of total time (compiled   11 times, average 1.19 sec, max 1.33 sec, min 0.97 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.55% of total time (compiled    8 times, average 1.02 sec, max 1.44 sec, min 0.49 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.01% of total time (compiled    6 times, average 1.27 sec, max 1.51 sec, min 1.11 sec)
+[2023.08.12-22.00.09:505][ 89]LogShaderCompilers: Display: ================================================
+[2023.08.12-22.00.35:856][ 17]Cmd: TRANSACTION UNDO
+[2023.08.12-22.00.35:856][ 17]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-22.00.35:927][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.00.35:928][ 17]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.19:098][508]Cmd: TRANSACTION UNDO
+[2023.08.12-22.01.19:098][508]LogEditorTransaction: Undo Move Elements
+[2023.08.12-22.01.19:150][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.19:150][508]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.19:744][532]Cmd: TRANSACTION UNDO
+[2023.08.12-22.01.19:744][532]LogEditorTransaction: Undo Move Elements
+[2023.08.12-22.01.19:762][532]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.19:762][532]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.31:262][419]Cmd: TRANSACTION UNDO
+[2023.08.12-22.01.31:262][419]LogEditorTransaction: Undo Scale Elements
+[2023.08.12-22.01.31:337][419]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.31:337][419]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.01.52:972][109]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.12-22.01.52:972][109]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.12-22.01.54:768][243]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.12-22.01.54:768][243]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.12-22.03.05:765][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-22.03.05:765][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-22.03.05:765][819]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_148
+[2023.08.12-22.03.05:765][819]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_148
+[2023.08.12-22.03.06:578][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-22.03.06:578][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.08.12-22.03.06:580][872]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_149
+[2023.08.12-22.03.06:580][872]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Living_Room.Living_Room:PersistentLevel.StaticMeshActor_149
+[2023.08.12-22.03.24:957][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.03.24:958][282]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.12-22.03.45:004][884]Cmd: DELETE
+[2023.08.12-22.03.45:004][884]Cmd: ACTOR DELETE
+[2023.08.12-22.03.45:010][884]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-22.03.45:021][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.12-22.03.45:025][884]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.08.12-22.03.47:544][ 82]Cmd: DELETE
+[2023.08.12-22.03.47:544][ 82]Cmd: ACTOR DELETE
+[2023.08.12-22.03.47:550][ 82]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.12-22.03.47:559][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-22.03.47:561][ 82]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.08.12-22.03.51:218][389]Cmd: DELETE
+[2023.08.12-22.03.51:218][389]Cmd: ACTOR DELETE
+[2023.08.12-22.03.51:224][389]LogEditorActor: Deleted Actor: PointLight
+[2023.08.12-22.03.51:232][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.12-22.03.51:234][389]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.08.12-22.03.59:625][ 83]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.HighresScreenshot00068_Mat
+[2023.08.12-22.03.59:629][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.12-22.03.59:630][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.12-22.03.59:762][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.03.59:762][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.03.59:762][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.03.59:762][ 83]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.03.59:770][ 83]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: ================================================
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Total job queries 915, among them cache hits 298 (32.57%)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Tracking 606 distinct input hashes that result in 344 distinct outputs (56.77%)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: RAM used: 13.13 MiB of 1.60 GiB budget. Usage: 0.80%
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Shaders Compiled: 149
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Jobs assigned 157, completed 149 (94.90%)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Average time worker was idle: 838.99 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 2.21 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Job execution time: average 0.94 s, max 3.04 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 3.05
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.98 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Jobs were issued in 157 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Average processing rate: 4.38 jobs/sec
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Total thread time: 110.303 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Total thread preprocess time: 3.878 s
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Percentage time preprocessing: 3.52%
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Effective parallelization: 3.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.45 sec, max 1.45 sec, min 1.45 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    7 times, average 1.35 sec, max 1.81 sec, min 1.11 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.19 sec, max 1.33 sec, min 0.97 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 1.15 sec, max 1.19 sec, min 1.11 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 1.01 sec, max 1.02 sec, min 1.01 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.10% of total time (compiled   22 times, average 0.71 sec, max 0.91 sec, min 0.47 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.17% of total time (compiled   18 times, average 0.81 sec, max 1.17 sec, min 0.57 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.89% of total time (compiled   11 times, average 1.19 sec, max 1.33 sec, min 0.97 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.56% of total time (compiled    7 times, average 1.35 sec, max 1.81 sec, min 1.11 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.14% of total time (compiled    9 times, average 1.00 sec, max 1.44 sec, min 0.49 sec)
+[2023.08.12-22.04.00:879][127]LogShaderCompilers: Display: ================================================
+[2023.08.12-22.04.00:898][128]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.00:898][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.00:898][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.00:898][128]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.01:217][142]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.01:217][142]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.01:217][142]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.01:217][142]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.01:217][142]MaterialEditorStats: Shader Count: 5
+[2023.08.12-22.04.01:325][147]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.01:325][147]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.01:326][147]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.01:326][147]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.01:326][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.01:326][147]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.01:441][151]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.01:441][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.01:441][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.01:441][151]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.01:497][153]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.06:500][431]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.06:501][431]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.06:501][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.06:501][431]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.07:273][468]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.07:273][468]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.07:273][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.07:273][468]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.07:476][477]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.07:476][477]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.07:476][477]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.07:476][477]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.07:476][477]MaterialEditorStats: Shader Count: 5
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.07:588][482]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.17:182][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.17:182][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.17:182][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.17:182][ 25]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.17:229][ 27]MaterialEditorStats: Shader Count: 10
+[2023.08.12-22.04.19:428][147]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.19:428][147]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.19:428][147]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.19:428][147]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.19:468][149]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.19:468][149]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.19:468][149]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.19:468][149]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.19:486][150]MaterialEditorStats: Shader Count: 13
+[2023.08.12-22.04.21:626][264]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.21:627][264]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.21:627][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.21:627][264]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.22:342][298]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.22:342][298]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.22:342][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.22:342][298]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: Base pass shader: 193 instructions
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.22:630][311]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.23:907][377]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.23:907][377]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.23:907][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.23:907][377]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.24:607][410]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.24:607][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.24:609][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.24:609][410]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.24:798][416]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.24:798][416]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.24:798][416]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.24:798][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.24:798][416]MaterialEditorStats: Shader Count: 5
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: Base pass shader: 195 instructions
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.24:912][422]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.25:746][466]LogMaterialEditor: Saving and Compiling material HighresScreenshot00068_Mat
+[2023.08.12-22.04.25:921][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.12-22.04.27:064][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.12-22.04.27:095][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.04.28:310][466]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat
+[2023.08.12-22.04.28:310][466]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/HighresScreenshot00068_Mat8F1425A04219A8151C0BE0ABF4FB5E6F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.uasset'
+[2023.08.12-22.04.28:332][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.23 sec (total: 10.5 sec)
+[2023.08.12-22.04.28:337][466]AssetCheck: New page: Asset Save: HighresScreenshot00068_Mat
+[2023.08.12-22.04.28:337][466]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.HighresScreenshot00068_Mat
+[2023.08.12-22.04.28:388][467]LogAutomationController: Ignoring very large delta of 2.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-22.04.34:550][828]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.34:550][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.34:550][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.34:550][828]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.35:274][863]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.35:274][863]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.35:274][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.35:274][863]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.35:489][871]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.35:489][871]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.35:489][871]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.35:489][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.35:489][871]MaterialEditorStats: Shader Count: 5
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: Base pass shader: 196 instructions
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.35:598][876]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.36:298][912]LogMaterialEditor: Saving and Compiling material HighresScreenshot00068_Mat
+[2023.08.12-22.04.36:406][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.12-22.04.37:694][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.08.12-22.04.37:739][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.04.38:992][912]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat
+[2023.08.12-22.04.38:992][912]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/HighresScreenshot00068_Mat0252601B499FFE755EAB6BA1292D26EE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.uasset'
+[2023.08.12-22.04.39:006][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.26 sec (total: 11.8 sec)
+[2023.08.12-22.04.39:010][912]AssetCheck: New page: Asset Save: HighresScreenshot00068_Mat
+[2023.08.12-22.04.39:010][912]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.HighresScreenshot00068_Mat
+[2023.08.12-22.04.39:055][913]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-22.04.54:428][847]MaterialEditorStats: Texture samplers: 0/16
+[2023.08.12-22.04.54:428][847]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.54:428][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.54:428][847]MaterialEditorStats: Shader Count: 0
+[2023.08.12-22.04.55:182][883]MaterialEditorStats: Texture samplers: 1/16
+[2023.08.12-22.04.55:182][883]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.55:182][883]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.55:182][883]MaterialEditorStats: Shader Count: 2
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: Base pass shader: 196 instructions
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: Base pass vertex shader: 262 instructions
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: Texture samplers: 4/16
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.08.12-22.04.55:402][892]MaterialEditorStats: Shader Count: 6
+[2023.08.12-22.04.55:943][921]LogMaterialEditor: Saving and Compiling material HighresScreenshot00068_Mat
+[2023.08.12-22.04.56:057][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.12-22.04.57:426][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.08.12-22.04.57:448][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.04.58:689][921]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat
+[2023.08.12-22.04.58:689][921]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/HighresScreenshot00068_MatA28C53D8437BE28BD7FEDD8DAC2EAA7A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.uasset'
+[2023.08.12-22.04.58:701][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 13.1 sec)
+[2023.08.12-22.04.58:705][921]AssetCheck: New page: Asset Save: HighresScreenshot00068_Mat
+[2023.08.12-22.04.58:705][921]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.HighresScreenshot00068_Mat
+[2023.08.12-22.04.58:747][922]LogAutomationController: Ignoring very large delta of 2.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.08.12-22.05.35:924][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.05.35:982][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.12-22.05.36:032][102]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.12-22.05.36:032][102]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room91B42A67447BE53DB04ADF9D268B8F61.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.12-22.05.36:042][102]LogFileHelpers: No new changes to save!
+[2023.08.12-22.05.36:042][102]LogFileHelpers: Saving map 'Living_Room' took 0.068
+[2023.08.12-22.05.36:049][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 13.2 sec)
+[2023.08.12-22.05.36:052][102]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.12-22.05.36:054][102]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.12-22.05.37:999][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.12-22.05.39:046][217]LogSlate: Window 'Save Content' being destroyed
+[2023.08.12-22.05.39:062][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.05.39:117][217]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068
+[2023.08.12-22.05.39:117][217]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/HighresScreenshot000689CBB38A343F169867099E08700C5F5BB.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/HighresScreenshot00068.uasset'
+[2023.08.12-22.05.39:128][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 13.3 sec)
+[2023.08.12-22.05.39:132][217]AssetCheck: New page: Asset Save: HighresScreenshot00068
+[2023.08.12-22.05.39:132][217]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068.HighresScreenshot00068
+[2023.08.12-22.05.57:391][  7]LogMaterialEditor: Saving and Compiling material HighresScreenshot00068_Mat
+[2023.08.12-22.05.57:393][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.12-22.05.57:471][  7]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat
+[2023.08.12-22.05.57:471][  7]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/HighresScreenshot00068_Mat9E81269446DAF55314AD73B9B53E1601.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.uasset'
+[2023.08.12-22.05.57:481][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 13.3 sec)
+[2023.08.12-22.05.57:487][  7]AssetCheck: New page: Asset Save: HighresScreenshot00068_Mat
+[2023.08.12-22.05.57:487][  7]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Group_Assets/Aziz/Assets/HighresScreenshot00068_Mat.HighresScreenshot00068_Mat
+[2023.08.12-22.05.58:228][ 48]LogSlate: Window 'HighresScreenshot00068_Mat' being destroyed
+[2023.08.12-22.05.58:249][ 48]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-22.05.58:249][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-22.06.02:382][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.12-22.06.04:038][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.08.12-22.06.04:040][413]LogStall: Shutdown...
+[2023.08.12-22.06.04:060][413]LogStall: Shutdown complete.
+[2023.08.12-22.06.04:136][413]LogSlate: Window 'Content Browser' being destroyed
+[2023.08.12-22.06.04:154][413]LogSlate: Window 'MorriganHall - Unreal Editor' being destroyed
+[2023.08.12-22.06.04:456][414]Cmd: QUIT_EDITOR
+[2023.08.12-22.06.04:469][414]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.08.12-22.06.04:490][414]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.08.12-22.06.04:490][414]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.08.12-22.06.04:490][414]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.08.12-22.06.04:570][414]LogWorld: UWorld::CleanupWorld for Living_Room, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-22.06.04:571][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-22.06.04:583][414]LogWorld: UWorld::CleanupWorld for stairwellblock3, bSessionEnded=true, bCleanupResources=true
+[2023.08.12-22.06.04:583][414]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.12-22.06.04:806][414]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.08.12-22.06.04:938][414]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.08.12-22.06.05:384][414]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.08.12-22.06.05:384][414]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.08.12-22.06.05:384][414]LogAudio: Display: Audio Device unregistered from world 'Living_Room'.
+[2023.08.12-22.06.05:392][414]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.08.12-22.06.05:392][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-22.06.05:395][414]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.08.12-22.06.05:406][414]LogAudio: Display: Audio Device Manager Shutdown
+[2023.08.12-22.06.05:447][414]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.08.12-22.06.05:447][414]LogExit: Preparing to exit.
+[2023.08.12-22.06.06:042][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
