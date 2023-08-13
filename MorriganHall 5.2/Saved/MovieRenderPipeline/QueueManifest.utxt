@@ -4,7 +4,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -14,
+			"OuterIndex": -15,
 			"ObjectName": "MetaData",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -12,7 +12,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelineAntiAliasingSetting",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -20,7 +20,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelineExecutorJob",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -28,7 +28,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelineExecutorShot",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -36,7 +36,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelineOutputSetting",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -44,7 +44,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelinePrimaryConfig",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -52,7 +52,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "MoviePipelineQueue",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -60,7 +60,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -16,
+			"OuterIndex": -17,
 			"ObjectName": "MoviePipelineDeferredPassBase",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -68,7 +68,7 @@
 		{
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
-			"OuterIndex": -16,
+			"OuterIndex": -17,
 			"ObjectName": "MoviePipelineImageSequenceOutput_JPG",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -77,6 +77,14 @@
 			"ClassPackage": "/Script/CoreUObject",
 			"ClassName": "Class",
 			"OuterIndex": -17,
+			"ObjectName": "MoviePipelineImageSequenceOutput_PNG",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -18,
 			"ObjectName": "MoviePipelineConsoleVariableSetting",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -84,7 +92,7 @@
 		{
 			"ClassPackage": "/Script/MovieRenderPipelineCore",
 			"ClassName": "MoviePipelineExecutorJob",
-			"OuterIndex": -15,
+			"OuterIndex": -16,
 			"ObjectName": "Default__MoviePipelineExecutorJob",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -92,7 +100,7 @@
 		{
 			"ClassPackage": "/Script/MovieRenderPipelineCore",
 			"ClassName": "MoviePipelineOutputSetting",
-			"OuterIndex": -13,
+			"OuterIndex": -14,
 			"ObjectName": "DefaultOutputSetting",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -100,7 +108,7 @@
 		{
 			"ClassPackage": "/Script/MovieRenderPipelineCore",
 			"ClassName": "MoviePipelinePrimaryConfig",
-			"OuterIndex": -11,
+			"OuterIndex": -12,
 			"ObjectName": "DefaultConfig",
 			"PackageName": "None",
 			"bImportOptional": false
@@ -166,7 +174,7 @@
 			"ClassIndex": -2,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 17,
+			"OuterIndex": 13,
 			"ObjectName": "MoviePipelineAntiAliasingSetting_2",
 			"ObjectFlags": 0,
 			"SerialSize": 0,
@@ -186,10 +194,10 @@
 			"CreateBeforeCreateDependencies": 0
 		},
 		{
-			"ClassIndex": -10,
+			"ClassIndex": -11,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 17,
+			"OuterIndex": 13,
 			"ObjectName": "MoviePipelineConsoleVariableSetting_0",
 			"ObjectFlags": 0,
 			"SerialSize": 0,
@@ -212,7 +220,7 @@
 			"ClassIndex": -8,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 17,
+			"OuterIndex": 13,
 			"ObjectName": "MoviePipelineDeferredPassBase_0",
 			"ObjectFlags": 0,
 			"SerialSize": 0,
@@ -235,7 +243,7 @@
 			"ClassIndex": -3,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 18,
+			"OuterIndex": 14,
 			"ObjectName": "MoviePipelineExecutorJob_0",
 			"ObjectFlags": 8,
 			"SerialSize": 0,
@@ -347,126 +355,34 @@
 			"CreateBeforeCreateDependencies": 0
 		},
 		{
-			"ClassIndex": -4,
-			"SuperIndex": 0,
-			"TemplateIndex": 0,
-			"OuterIndex": 5,
-			"ObjectName": "MoviePipelineExecutorShot_4",
-			"ObjectFlags": 0,
-			"SerialSize": 0,
-			"SerialOffset": 0,
-			"bForcedExport": false,
-			"bNotForClient": false,
-			"bNotForServer": false,
-			"bIsInheritedInstance": false,
-			"PackageFlags": 0,
-			"bNotAlwaysLoadedForEditorGame": true,
-			"bIsAsset": false,
-			"bGeneratePublicHash": false,
-			"FirstExportDependency": -1,
-			"SerializationBeforeSerializationDependencies": 0,
-			"CreateBeforeSerializationDependencies": 0,
-			"SerializationBeforeCreateDependencies": 0,
-			"CreateBeforeCreateDependencies": 0
-		},
-		{
-			"ClassIndex": -4,
-			"SuperIndex": 0,
-			"TemplateIndex": 0,
-			"OuterIndex": 5,
-			"ObjectName": "MoviePipelineExecutorShot_5",
-			"ObjectFlags": 0,
-			"SerialSize": 0,
-			"SerialOffset": 0,
-			"bForcedExport": false,
-			"bNotForClient": false,
-			"bNotForServer": false,
-			"bIsInheritedInstance": false,
-			"PackageFlags": 0,
-			"bNotAlwaysLoadedForEditorGame": true,
-			"bIsAsset": false,
-			"bGeneratePublicHash": false,
-			"FirstExportDependency": -1,
-			"SerializationBeforeSerializationDependencies": 0,
-			"CreateBeforeSerializationDependencies": 0,
-			"SerializationBeforeCreateDependencies": 0,
-			"CreateBeforeCreateDependencies": 0
-		},
-		{
-			"ClassIndex": -4,
-			"SuperIndex": 0,
-			"TemplateIndex": 0,
-			"OuterIndex": 5,
-			"ObjectName": "MoviePipelineExecutorShot_6",
-			"ObjectFlags": 0,
-			"SerialSize": 0,
-			"SerialOffset": 0,
-			"bForcedExport": false,
-			"bNotForClient": false,
-			"bNotForServer": false,
-			"bIsInheritedInstance": false,
-			"PackageFlags": 0,
-			"bNotAlwaysLoadedForEditorGame": true,
-			"bIsAsset": false,
-			"bGeneratePublicHash": false,
-			"FirstExportDependency": -1,
-			"SerializationBeforeSerializationDependencies": 0,
-			"CreateBeforeSerializationDependencies": 0,
-			"SerializationBeforeCreateDependencies": 0,
-			"CreateBeforeCreateDependencies": 0
-		},
-		{
-			"ClassIndex": -4,
-			"SuperIndex": 0,
-			"TemplateIndex": 0,
-			"OuterIndex": 5,
-			"ObjectName": "MoviePipelineExecutorShot_7",
-			"ObjectFlags": 0,
-			"SerialSize": 0,
-			"SerialOffset": 0,
-			"bForcedExport": false,
-			"bNotForClient": false,
-			"bNotForServer": false,
-			"bIsInheritedInstance": false,
-			"PackageFlags": 0,
-			"bNotAlwaysLoadedForEditorGame": true,
-			"bIsAsset": false,
-			"bGeneratePublicHash": false,
-			"FirstExportDependency": -1,
-			"SerializationBeforeSerializationDependencies": 0,
-			"CreateBeforeSerializationDependencies": 0,
-			"SerializationBeforeCreateDependencies": 0,
-			"CreateBeforeCreateDependencies": 0
-		},
-		{
-			"ClassIndex": -4,
-			"SuperIndex": 0,
-			"TemplateIndex": 0,
-			"OuterIndex": 5,
-			"ObjectName": "MoviePipelineExecutorShot_8",
-			"ObjectFlags": 0,
-			"SerialSize": 0,
-			"SerialOffset": 0,
-			"bForcedExport": false,
-			"bNotForClient": false,
-			"bNotForServer": false,
-			"bIsInheritedInstance": false,
-			"PackageFlags": 0,
-			"bNotAlwaysLoadedForEditorGame": true,
-			"bIsAsset": false,
-			"bGeneratePublicHash": false,
-			"FirstExportDependency": -1,
-			"SerializationBeforeSerializationDependencies": 0,
-			"CreateBeforeSerializationDependencies": 0,
-			"SerializationBeforeCreateDependencies": 0,
-			"CreateBeforeCreateDependencies": 0
-		},
-		{
 			"ClassIndex": -9,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 17,
+			"OuterIndex": 13,
 			"ObjectName": "MoviePipelineImageSequenceOutput_JPG_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 13,
+			"ObjectName": "MoviePipelineImageSequenceOutput_PNG_0",
 			"ObjectFlags": 0,
 			"SerialSize": 0,
 			"SerialOffset": 0,
@@ -488,9 +404,9 @@
 			"ClassIndex": -5,
 			"SuperIndex": 0,
 			"TemplateIndex": 0,
-			"OuterIndex": 17,
+			"OuterIndex": 13,
 			"ObjectName": "DefaultOutputSetting",
-			"ObjectFlags": 262152,
+			"ObjectFlags": 262153,
 			"SerialSize": 0,
 			"SerialOffset": 0,
 			"bForcedExport": false,
@@ -562,7 +478,7 @@
 			"RootMetaDataMap": [
 				[
 					"PackageLocalizationNamespace",
-					"163C026E302899AE10835E1C107E2ED6"
+					"E0EB2118C03A12BC98F0FD62C33DE67A"
 				]
 			]
 		},
@@ -675,17 +591,17 @@
 			"Properties": {
 				"JobName": {
 					"__Type": "StrProperty",
-					"__Value": "SewingRoomSequence"
+					"__Value": "AzizTimeline"
 				},
 				"Sequence": {
 					"__Type": "StructProperty",
 					"__StructName": "SoftObjectPath",
-					"__Value": "Object:/Game/Cinematics/Sequences/SewingRoom/SewingRoomSequence.SewingRoomSequence"
+					"__Value": "Object:/Game/Group_Assets/Aziz/TimelineStuff/AzizTimeline.AzizTimeline"
 				},
 				"Map": {
 					"__Type": "StructProperty",
 					"__StructName": "SoftObjectPath",
-					"__Value": "Object:/Game/abandonedroom_V2.abandonedroom_V2"
+					"__Value": "Object:/Game/Living_Room.Living_Room"
 				},
 				"ShotInfo": {
 					"__Type": "ArrayProperty",
@@ -694,21 +610,12 @@
 						"6",
 						"7",
 						"8",
-						"9",
-						"10",
-						"11",
-						"12",
-						"13",
-						"14"
+						"9"
 					]
 				},
 				"Configuration": {
 					"__Type": "ObjectProperty",
-					"__Value": "17"
-				},
-				"PresetOrigin": {
-					"__Type": "SoftObjectProperty",
-					"__Value": "Object:/Game/Cinematics/TA_MoviePipelinePrimaryConfig.TA_MoviePipelinePrimaryConfig"
+					"__Value": "13"
 				}
 			}
 		},
@@ -716,11 +623,11 @@
 			"Properties": {
 				"OuterName": {
 					"__Type": "StrProperty",
-					"__Value": "SewingRoomSequence_01"
+					"__Value": "no shot(1)"
 				},
 				"InnerName": {
 					"__Type": "StrProperty",
-					"__Value": "EntanceCam"
+					"__Value": "CineCameraActor0"
 				},
 				"SidecarCameras": {
 					"__Type": "ArrayProperty",
@@ -731,11 +638,44 @@
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "D4EA7FF0468BD696D67B51A9E4D16AC2"
+								"__Value": "5401D7894669E342AA95B784C6B9A151"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "EntanceCam"
+								"__Value": "CineCameraActor0"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "ED1F9603459706A3B4DE9F8C9952A471"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor1"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "64BB25FB40B43767CBC72F9F820E92FA"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor2"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "FDD395114EF1A143F42319B0524C36F7"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor3"
 							}
 						}
 					]
@@ -746,11 +686,11 @@
 			"Properties": {
 				"OuterName": {
 					"__Type": "StrProperty",
-					"__Value": "shot0010_02"
+					"__Value": "no shot(2)"
 				},
 				"InnerName": {
 					"__Type": "StrProperty",
-					"__Value": "CineCameraActor3"
+					"__Value": "CineCameraActor1"
 				},
 				"SidecarCameras": {
 					"__Type": "ArrayProperty",
@@ -761,7 +701,40 @@
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "8DFF4ADE4FE9AE63731EB6BE1D2600C7"
+								"__Value": "ED1F9603459706A3B4DE9F8C9952A471"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor1"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "5401D7894669E342AA95B784C6B9A151"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor0"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "64BB25FB40B43767CBC72F9F820E92FA"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor2"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "FDD395114EF1A143F42319B0524C36F7"
 							},
 							"Name": {
 								"__Type": "StrProperty",
@@ -776,11 +749,11 @@
 			"Properties": {
 				"OuterName": {
 					"__Type": "StrProperty",
-					"__Value": "shot0010_3"
+					"__Value": "no shot(3)"
 				},
 				"InnerName": {
 					"__Type": "StrProperty",
-					"__Value": "CineCameraActor4"
+					"__Value": "CineCameraActor2"
 				},
 				"SidecarCameras": {
 					"__Type": "ArrayProperty",
@@ -791,11 +764,44 @@
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "1CC04A774852E594A73E94B052C1F54C"
+								"__Value": "64BB25FB40B43767CBC72F9F820E92FA"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "CineCameraActor4"
+								"__Value": "CineCameraActor2"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "ED1F9603459706A3B4DE9F8C9952A471"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor1"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "5401D7894669E342AA95B784C6B9A151"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor0"
+							}
+						},
+						{
+							"BindingId": {
+								"__Type": "StructProperty",
+								"__StructName": "Guid",
+								"__Value": "FDD395114EF1A143F42319B0524C36F7"
+							},
+							"Name": {
+								"__Type": "StrProperty",
+								"__Value": "CineCameraActor3"
 							}
 						}
 					]
@@ -806,11 +812,11 @@
 			"Properties": {
 				"OuterName": {
 					"__Type": "StrProperty",
-					"__Value": "shot0010_8"
+					"__Value": "no shot(4)"
 				},
 				"InnerName": {
 					"__Type": "StrProperty",
-					"__Value": "CineCameraActor9"
+					"__Value": "CineCameraActor3"
 				},
 				"SidecarCameras": {
 					"__Type": "ArrayProperty",
@@ -821,161 +827,44 @@
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "AF2D3AA7476574FAA24323A054BBED80"
+								"__Value": "FDD395114EF1A143F42319B0524C36F7"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "CineCameraActor9"
+								"__Value": "CineCameraActor3"
 							}
-						}
-					]
-				}
-			}
-		},
-		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_4": {
-			"Properties": {
-				"OuterName": {
-					"__Type": "StrProperty",
-					"__Value": "shot0010_7"
-				},
-				"InnerName": {
-					"__Type": "StrProperty",
-					"__Value": "CineCameraActor8"
-				},
-				"SidecarCameras": {
-					"__Type": "ArrayProperty",
-					"__InnerType": "StructProperty",
-					"__InnerStructName": "MoviePipelineSidecarCamera",
-					"__Value": [
+						},
 						{
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "5B1B9F6A4293FF1430AE42B05A3F23B2"
+								"__Value": "ED1F9603459706A3B4DE9F8C9952A471"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "CineCameraActor8"
+								"__Value": "CineCameraActor1"
 							}
-						}
-					]
-				}
-			}
-		},
-		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_5": {
-			"Properties": {
-				"OuterName": {
-					"__Type": "StrProperty",
-					"__Value": "shot0010_6(1)"
-				},
-				"InnerName": {
-					"__Type": "StrProperty",
-					"__Value": "CineCameraActor7"
-				},
-				"SidecarCameras": {
-					"__Type": "ArrayProperty",
-					"__InnerType": "StructProperty",
-					"__InnerStructName": "MoviePipelineSidecarCamera",
-					"__Value": [
+						},
 						{
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "8097C1AE46C2039A3185D9AB8431D4BC"
+								"__Value": "64BB25FB40B43767CBC72F9F820E92FA"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "CineCameraActor7"
+								"__Value": "CineCameraActor2"
 							}
-						}
-					]
-				}
-			}
-		},
-		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_6": {
-			"Properties": {
-				"OuterName": {
-					"__Type": "StrProperty",
-					"__Value": "shot0010_6(2)"
-				},
-				"InnerName": {
-					"__Type": "StrProperty",
-					"__Value": "CineCameraActor7"
-				},
-				"SidecarCameras": {
-					"__Type": "ArrayProperty",
-					"__InnerType": "StructProperty",
-					"__InnerStructName": "MoviePipelineSidecarCamera",
-					"__Value": [
+						},
 						{
 							"BindingId": {
 								"__Type": "StructProperty",
 								"__StructName": "Guid",
-								"__Value": "8097C1AE46C2039A3185D9AB8431D4BC"
+								"__Value": "5401D7894669E342AA95B784C6B9A151"
 							},
 							"Name": {
 								"__Type": "StrProperty",
-								"__Value": "CineCameraActor7"
-							}
-						}
-					]
-				}
-			}
-		},
-		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_7": {
-			"Properties": {
-				"OuterName": {
-					"__Type": "StrProperty",
-					"__Value": "shot0010_5"
-				},
-				"InnerName": {
-					"__Type": "StrProperty",
-					"__Value": "CineCameraActor6"
-				},
-				"SidecarCameras": {
-					"__Type": "ArrayProperty",
-					"__InnerType": "StructProperty",
-					"__InnerStructName": "MoviePipelineSidecarCamera",
-					"__Value": [
-						{
-							"BindingId": {
-								"__Type": "StructProperty",
-								"__StructName": "Guid",
-								"__Value": "B52AD48148EB9E106D8788943616B042"
-							},
-							"Name": {
-								"__Type": "StrProperty",
-								"__Value": "CineCameraActor6"
-							}
-						}
-					]
-				}
-			}
-		},
-		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_8": {
-			"Properties": {
-				"OuterName": {
-					"__Type": "StrProperty",
-					"__Value": "shot0010_4"
-				},
-				"InnerName": {
-					"__Type": "StrProperty",
-					"__Value": "CineCameraActor5"
-				},
-				"SidecarCameras": {
-					"__Type": "ArrayProperty",
-					"__InnerType": "StructProperty",
-					"__InnerStructName": "MoviePipelineSidecarCamera",
-					"__Value": [
-						{
-							"BindingId": {
-								"__Type": "StructProperty",
-								"__StructName": "Guid",
-								"__Value": "AA4D78CE4298F2AF95FEDBB3D76D8A79"
-							},
-							"Name": {
-								"__Type": "StrProperty",
-								"__Value": "CineCameraActor5"
+								"__Value": "CineCameraActor0"
 							}
 						}
 					]
@@ -983,6 +872,14 @@
 			}
 		},
 		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_JPG_0": {
+			"Properties": {
+				"bEnabled": {
+					"__Type": "BoolProperty",
+					"__Value": 0
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_PNG_0": {
 			"Properties": {}
 		},
 		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.DefaultOutputSetting": {
@@ -992,7 +889,7 @@
 			"Properties": {
 				"OutputSetting": {
 					"__Type": "ObjectProperty",
-					"__Value": "16"
+					"__Value": "12"
 				},
 				"DisplayName": {
 					"__Type": "StrProperty",
@@ -1002,11 +899,16 @@
 					"__Type": "ArrayProperty",
 					"__InnerType": "ObjectProperty",
 					"__Value": [
-						"15",
+						"10",
 						"4",
 						"3",
-						"2"
+						"2",
+						"11"
 					]
+				},
+				"ConfigOrigin": {
+					"__Type": "SoftObjectProperty",
+					"__Value": "Object:/Game/Cinematics/TA_MoviePipelinePrimaryConfig.TA_MoviePipelinePrimaryConfig"
 				}
 			}
 		},
@@ -1038,29 +940,29 @@
 		"TotalHeaderSize": 0,
 		"PackageName": "/Engine/MovieRenderPipeline/Editor/QueueManifest",
 		"PackageFlags": 0,
-		"NameCount": 67,
+		"NameCount": 69,
 		"NameOffset": 0,
 		"SoftObjectPathsCount": 0,
 		"SoftObjectPathsOffset": 0,
-		"LocalizationId": "163C026E302899AE10835E1C107E2ED6",
+		"LocalizationId": "E0EB2118C03A12BC98F0FD62C33DE67A",
 		"GatherableTextDataCount": 0,
 		"GatherableTextDataOffset": 0,
-		"ExportCount": 18,
+		"ExportCount": 14,
 		"ExportOffset": 0,
-		"ImportCount": 17,
+		"ImportCount": 18,
 		"ImportOffset": 0,
 		"DependsOffset": 0,
 		"SoftPackageReferencesCount": 0,
 		"SoftPackageReferencesOffset": 0,
 		"SearchableNamesOffset": 0,
 		"ThumbnailTableOffset": 0,
-		"Guid": "B734687640DB47FCAF20D2B174F47FA0",
-		"PersistentGuid": "BC27EB7B438EDB79C4EBC3A6A88F2B15",
+		"Guid": "0F59A86E4ED974F2856881AA4B77D879",
+		"PersistentGuid": "40948AFA45A88E4F4F1F1795F21B02BE",
 		"GenerationCount": 1,
 		"Generations": [
 			{
-				"ExportCount": 18,
-				"NameCount": 67
+				"ExportCount": 14,
+				"NameCount": 69
 			}
 		],
 		"SavedByEngineVersion": "5.2.1-26001984+++UE5+Release-5.2",
@@ -1075,7 +977,7 @@
 		"ChunkIDs": [],
 		"PreloadDependencyCount": 0,
 		"PreloadDependencyOffset": 0,
-		"NamesReferencedFromExportDataCount": 45,
+		"NamesReferencedFromExportDataCount": 46,
 		"PayloadTocOffset": -1,
 		"DataResourceOffset": 0
 	}
