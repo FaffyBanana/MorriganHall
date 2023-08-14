@@ -1329,3 +1329,228 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.14-19.58.51:716][508]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor
 [2023.08.14-19.58.51:716][508]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal
 [2023.08.14-19.58.51:716][508]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.08.14-19.59.50:639][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.14-19.59.50:683][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.14-19.59.50:738][448]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.14-19.59.50:739][448]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room96736E054488B0F97A42D1ACD2CFE246.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.14-19.59.50:749][448]LogFileHelpers: No new changes to save!
+[2023.08.14-19.59.50:749][448]LogFileHelpers: Saving map 'Living_Room' took 0.073
+[2023.08.14-19.59.50:758][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.93 sec)
+[2023.08.14-19.59.50:763][448]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.14-19.59.50:763][448]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.14-20.09.55:433][867]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.09.55:433][867]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_BaseColor.png]
+[2023.08.14-20.09.55:434][867]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.09.55:434][867]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.14-20.09.55:435][867]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx]
+[2023.08.14-20.09.55:447][867]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx
+[2023.08.14-20.09.55:473][867]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.14-20.09.55:573][867]LogFbx: Display: Triangulating static mesh Chains_low
+[2023.08.14-20.09.56:474][867]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.09.56:673][867]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.09.56:673][867]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.09.56:673][867]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_Normal.png]
+[2023.08.14-20.09.56:673][867]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.09.56:707][867]LogFbx: Display: Triangulating static mesh HusbandFrame_low
+[2023.08.14-20.09.56:745][867]LogFbx: Display: Triangulating static mesh Hooks_low
+[2023.08.14-20.09.56:787][867]LogFbx: Display: Triangulating static mesh DoorWallImages_low
+[2023.08.14-20.09.56:788][867]LogFbx: Display: Triangulating static mesh WifeFrame_low
+[2023.08.14-20.09.56:826][867]LogFbx: Display: Triangulating static mesh TreeFrame_low
+[2023.08.14-20.09.56:960][867]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.09.57:372][867]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.09.57:538][867]LogStaticMesh: Built static mesh [0.58s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.09.57:539][867]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.09.57:539][867]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.09.57:539][867]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.08.14-20.09.57:750][867]LogEditorFactories: -- imported successfully
+[2023.08.14-20.09.57:753][867]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.14-20.09.57:760][867]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.09.57:818][867]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1) ...
+[2023.08.14-20.09.58:342][867]LogStaticMesh: Built static mesh [0.58s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.09.58:452][868]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.09.58:457][868]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.09.58:474][868]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.09.58:486][868]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.09.58:500][868]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.19.51:271][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.08.14-20.19.51:366][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto1
+[2023.08.14-20.19.51:366][141]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto1486480F540278734FB69FFB8E2A3735F.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto1.umap'
+[2023.08.14-20.19.51:374][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.112
+[2023.08.14-20.19.51:374][141]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2023.08.14-20.19.51:382][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1] ([1] browsable assets)...
+[2023.08.14-20.19.51:832][141]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1]
+[2023.08.14-20.19.51:832][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1]
+[2023.08.14-20.19.51:855][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto1
+[2023.08.14-20.19.51:855][141]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1_Auto18E34619C44C20B6FFC4D0BACBD2BC140.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto1.uasset'
+[2023.08.14-20.19.51:856][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2023.08.14-20.19.51:857][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.19.51:857][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.19.52:220][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto1
+[2023.08.14-20.19.52:220][141]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_B530B2BF42F9B44C2CF447BFE17B48A3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto1.uasset'
+[2023.08.14-20.19.52:221][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2023.08.14-20.19.52:222][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.19.52:222][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.19.52:623][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto1
+[2023.08.14-20.19.52:623][141]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_0787E65E4A7453342A6F8FACB1E9679D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto1.uasset'
+[2023.08.14-20.19.52:623][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.08.14-20.19.52:626][141]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.19.52:626][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.19.52:988][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto1
+[2023.08.14-20.19.52:988][141]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_8C51DCF543B1D81ADEB665BAE62723B5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.08.14-20.19.52:988][141]LogFileHelpers: Auto-saving content packages took 1.606
+[2023.08.14-20.23.57:618][166]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx]
+[2023.08.14-20.23.57:632][166]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx
+[2023.08.14-20.23.57:660][166]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.14-20.23.57:749][166]LogFbx: Display: Triangulating static mesh Chains_low
+[2023.08.14-20.23.58:818][166]LogFbx: Display: Triangulating static mesh HusbandFrame_low
+[2023.08.14-20.23.58:844][166]LogFbx: Display: Triangulating static mesh Hooks_low
+[2023.08.14-20.23.58:872][166]LogFbx: Display: Triangulating static mesh DoorWallImages_low
+[2023.08.14-20.23.58:873][166]LogFbx: Display: Triangulating static mesh WifeFrame_low
+[2023.08.14-20.23.58:898][166]LogFbx: Display: Triangulating static mesh TreeFrame_low
+[2023.08.14-20.23.58:919][166]LogFbx: Display: Triangulating static mesh WideFrame_low
+[2023.08.14-20.23.59:011][166]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.23.59:550][166]LogStaticMesh: Built static mesh [0.54s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.23.59:729][166]LogEditorFactories: -- imported successfully
+[2023.08.14-20.23.59:733][166]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.14-20.23.59:735][166]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.23.59:788][166]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1) ...
+[2023.08.14-20.24.00:247][166]LogStaticMesh: Built static mesh [0.51s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.24.02:501][358]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.24.02:501][358]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_BaseColor.png]
+[2023.08.14-20.24.02:502][358]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.24.02:503][358]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.14-20.24.02:587][359]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.14-20.24.03:222][388]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.24.03:222][388]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.24.03:222][388]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_Normal.png]
+[2023.08.14-20.24.03:222][388]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.24.03:243][389]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.24.03:259][389]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.24.03:286][389]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.24.03:976][409]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.24.03:976][409]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.24.03:976][409]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.08.14-20.24.03:985][410]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.24.04:034][410]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.24.04:055][410]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.24.04:767][431]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.24.04:772][431]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.24.04:830][432]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.26.20:721][964]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.14-20.29.53:445][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.08.14-20.29.53:514][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto2
+[2023.08.14-20.29.53:514][348]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto24CCAD1974CD7A586344A8681F32F41B9.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto2.umap'
+[2023.08.14-20.29.53:522][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.101
+[2023.08.14-20.29.53:522][348]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2023.08.14-20.29.53:522][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1] ([1] browsable assets)...
+[2023.08.14-20.29.53:657][348]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1]
+[2023.08.14-20.29.53:657][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1]
+[2023.08.14-20.29.53:689][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto2
+[2023.08.14-20.29.53:690][348]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1_Auto257554B184775D3995D38A7937AC45D95.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto2.uasset'
+[2023.08.14-20.29.53:691][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2023.08.14-20.29.53:693][348]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.29.53:694][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.29.54:024][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto2
+[2023.08.14-20.29.54:025][348]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_E2FF53384FF07BD55E915F9970B8DA97.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto2.uasset'
+[2023.08.14-20.29.54:025][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2023.08.14-20.29.54:027][348]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.29.54:028][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.29.54:402][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto2
+[2023.08.14-20.29.54:402][348]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_8DE0DD204C8C46DF622BD3A88616518D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto2.uasset'
+[2023.08.14-20.29.54:403][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.08.14-20.29.54:405][348]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.29.54:405][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.29.54:719][348]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto2
+[2023.08.14-20.29.54:719][348]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_C6D2DD474FDCC636C19EF3A31BBEB840.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto2.uasset'
+[2023.08.14-20.29.54:720][348]LogFileHelpers: Auto-saving content packages took 1.198
+[2023.08.14-20.47.20:102][664]LogEditorFactories: Performing atomic reimport of [E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx]
+[2023.08.14-20.47.20:116][664]LogFbx: Loading FBX Scene from E:/Game Projects/Morrigan Hall/Assets/MoreWallPatterns/PhotoFrames/PhotoFrameEngineVersion.fbx
+[2023.08.14-20.47.20:144][664]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.14-20.47.20:233][664]LogFbx: Display: Triangulating static mesh Chains_low
+[2023.08.14-20.47.21:345][664]LogFbx: Display: Triangulating static mesh HusbandFrame_low
+[2023.08.14-20.47.21:370][664]LogFbx: Display: Triangulating static mesh Hooks_low
+[2023.08.14-20.47.21:399][664]LogFbx: Display: Triangulating static mesh DoorWallImages_low
+[2023.08.14-20.47.21:399][664]LogFbx: Display: Triangulating static mesh WifeFrame_low
+[2023.08.14-20.47.21:425][664]LogFbx: Display: Triangulating static mesh TreeFrame_low
+[2023.08.14-20.47.21:449][664]LogFbx: Display: Triangulating static mesh WideFrame_low
+[2023.08.14-20.47.21:462][664]LogFbx: Display: Triangulating static mesh FairyFrame_low
+[2023.08.14-20.47.21:557][664]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.47.22:132][664]LogStaticMesh: Built static mesh [0.57s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.47.22:317][664]LogEditorFactories: -- imported successfully
+[2023.08.14-20.47.22:322][664]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.14-20.47.22:324][664]LogStaticMesh: Display: Building static mesh SM_PhotoFrames1...
+[2023.08.14-20.47.22:392][664]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1) ...
+[2023.08.14-20.47.22:843][664]LogStaticMesh: Built static mesh [0.52s] /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.47.26:309][844]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.47.26:310][844]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_BaseColor.png]
+[2023.08.14-20.47.26:310][844]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.47.26:312][844]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.14-20.47.26:411][845]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.14-20.47.26:673][852]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.47.26:673][852]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.47.26:673][852]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_Normal.png]
+[2023.08.14-20.47.26:673][852]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.47.26:684][852]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.47.26:767][853]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.47.26:792][853]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.14-20.47.27:299][870]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.47.27:299][870]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.47.27:299][870]LogInterchangeEngine: Display: Interchange start importing source [E:/Game Project...htFrameTexturesPhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.png]
+[2023.08.14-20.47.27:301][870]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.47.27:334][870]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.47.27:363][870]LogInterchangeEngine: [Pending] Importing
+[2023.08.14-20.47.27:791][873]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.47.27:801][873]LogTexture: Display: Building textures: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096x4096 x1x1x1) (Required Memory Estimate: 490.729165 MB), EncodeSpeed: Fast
+[2023.08.14-20.47.27:808][873]LogInterchangeEngine: [Success] Import Done
+[2023.08.14-20.48.38:810][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.08.14-20.48.38:867][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Living_Room_Auto3
+[2023.08.14-20.48.38:867][158]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room_Auto345BD5437407BED8863E83995D365D753.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Living_Room_Auto3.umap'
+[2023.08.14-20.48.38:875][158]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Living_Room' took 0.074
+[2023.08.14-20.48.38:875][158]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2023.08.14-20.48.38:875][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1] ([1] browsable assets)...
+[2023.08.14-20.48.38:911][158]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1]
+[2023.08.14-20.48.38:911][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1]
+[2023.08.14-20.48.38:987][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto3
+[2023.08.14-20.48.38:987][158]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames1_Auto365FE711E4C46FEFB51690C8978DD9CBE.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1_Auto3.uasset'
+[2023.08.14-20.48.38:988][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor] ([1] browsable assets)...
+[2023.08.14-20.48.38:990][158]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.48.38:990][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor]
+[2023.08.14-20.48.39:542][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto3
+[2023.08.14-20.48.39:542][158]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_C0B207734565EE164E85DF9846C5A4C5.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor_Auto3.uasset'
+[2023.08.14-20.48.39:543][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal] ([1] browsable assets)...
+[2023.08.14-20.48.39:544][158]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.48.39:544][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal]
+[2023.08.14-20.48.40:491][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto3
+[2023.08.14-20.48.40:491][158]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_15803C5D42D8BCDC1E411B8D33084DDF.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal_Auto3.uasset'
+[2023.08.14-20.48.40:491][158]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.08.14-20.48.40:493][158]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.48.40:493][158]OBJ SavePackage: Finished generating thumbnails for package [/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic]
+[2023.08.14-20.48.41:639][158]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto3
+[2023.08.14-20.48.41:639][158]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_FC3B40854D1EBC1F15D3378978D5DDD3.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Autosaves/Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic_Auto3.uasset'
+[2023.08.14-20.48.41:640][158]LogFileHelpers: Auto-saving content packages took 2.764
+[2023.08.14-20.50.06:154][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.14-20.50.06:210][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.14-20.50.06:274][508]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.14-20.50.06:328][508]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room2DE762A540CD20C6D9976EBB85A16CAA.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.14-20.50.06:341][508]LogFileHelpers: No new changes to save!
+[2023.08.14-20.50.06:341][508]LogFileHelpers: Saving map 'Living_Room' took 0.139
+[2023.08.14-20.50.06:351][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 2.13 sec)
+[2023.08.14-20.50.06:355][508]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.14-20.50.06:355][508]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.14-20.50.08:213][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.14-20.50.09:063][687]LogSlate: Window 'Save Content' being destroyed
+[2023.08.14-20.50.09:084][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.14-20.50.09:557][687]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor
+[2023.08.14-20.50.09:557][687]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_2CC570F44F59154C3552ADB23310A715.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.uasset'
+[2023.08.14-20.50.09:933][687]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal
+[2023.08.14-20.50.09:933][687]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_4B82108E443A79DED90D25A3D7CCA52D.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.uasset'
+[2023.08.14-20.50.10:298][687]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic
+[2023.08.14-20.50.10:300][687]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/PhotoFrame1_low_DefaultMaterial_E6C37C8447467BF39D2F10AB58BB2B4A.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2023.08.14-20.50.10:320][687]LogSavePackage: Moving output files for package: /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1
+[2023.08.14-20.50.10:320][687]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/SM_PhotoFrames132ECB3B7409CD38CBB0D019405C7521C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.uasset'
+[2023.08.14-20.50.10:331][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.24 sec (total: 3.37 sec)
+[2023.08.14-20.50.10:336][687]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.14-20.50.10:336][687]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Group_Assets/Aziz/Assets/PictureRailStuff/SM_PhotoFrames1.SM_PhotoFrames1
+[2023.08.14-20.50.10:336][687]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_BaseColor.PhotoFrame1_low_DefaultMaterial_BaseColor
+[2023.08.14-20.50.10:336][687]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_Normal.PhotoFrame1_low_DefaultMaterial_Normal
+[2023.08.14-20.50.10:336][687]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Group_Assets/Aziz/Assets/PictureRailStuff/PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic.PhotoFrame1_low_DefaultMaterial_OcclusionRoughnessMetallic
