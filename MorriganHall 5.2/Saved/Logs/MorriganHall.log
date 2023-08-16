@@ -2644,3 +2644,35 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.16-02.11.49:752][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
 [2023.08.16-02.11.50:044][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.08.16-02.11.50:303][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.08.16-02.13.39:581][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:582][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:582][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:583][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:583][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:583][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:583][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:583][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:584][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:584][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:584][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:585][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.39:586][667]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.16-02.13.43:811][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.16-02.13.43:855][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.08.16-02.13.43:929][941]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.16-02.13.43:929][941]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_Room5181F90349A3FB42C8CDBE945CEF6A9C.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.16-02.13.43:940][941]LogFileHelpers: No new changes to save!
+[2023.08.16-02.13.43:940][941]LogFileHelpers: Saving map 'Living_Room' took 0.092
+[2023.08.16-02.13.43:948][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1.49 sec)
+[2023.08.16-02.13.43:952][941]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.16-02.13.43:952][941]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
+[2023.08.16-02.13.45:918][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.08.16-02.13.50:239][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.16-02.13.50:291][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.16-02.13.50:382][359]LogSavePackage: Moving output files for package: /Game/Living_Room
+[2023.08.16-02.13.50:382][359]LogSavePackage: Moving '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Saved/Living_RoomD286D49149E5F5D4F21F7FA96BAFCD5E.tmp' to '../../../../../../Game Projects/Morrigan Hall Github/MorriganHall/MorriganHall 5.2/Content/Living_Room.umap'
+[2023.08.16-02.13.50:394][359]LogFileHelpers: No new changes to save!
+[2023.08.16-02.13.50:395][359]LogFileHelpers: Saving map 'Living_Room' took 0.114
+[2023.08.16-02.13.50:405][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.66 sec)
+[2023.08.16-02.13.50:412][359]AssetCheck: New page: Asset Save: Living_Room
+[2023.08.16-02.13.50:412][359]LogContentValidation: Display: Validating /Script/Engine.World /Game/Living_Room.Living_Room
